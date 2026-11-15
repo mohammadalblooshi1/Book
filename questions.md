@@ -28,15 +28,15 @@ You can write your answers under each question here, or reply in chat by number 
 20. What are his last spoken words?
 
 ## B. Kiri: The Narrator Fox (21–32)
-21. How does Kiri first appear to Zayn: does she save him, steal from him, or follow him?
+21. How does Kiri first appear to Zayn: does he save him, steal from him, or follow him?
 22. Can everyone hear Kiri talk, or only the bearer?
 23. What is Kiri's personality flaw (proud, sarcastic, secretive, afraid of water)?
 24. What did Kiri feel for the bearers who failed?
 25. Which past bearer does Kiri miss the most, and why?
 26. What is one secret Kiri keeps from Zayn until the very end?
 27. Does Kiri ever lie, even once, in the whole story? Why?
-28. What does Kiri eat, if she eats at all?
-29. Does Kiri have any power besides her truth-glowing tail?
+28. What does Kiri eat, if he eats at all?
+29. Does Kiri have any power besides his truth-glowing tail?
 30. Does Kiri ever disagree with the Weaver's plan?
 31. How does Kiri's narration sound: formal, poetic, funny, sad, or a mix?
 32. What is Kiri's very last line in the book?
@@ -49,7 +49,7 @@ You can write your answers under each question here, or reply in chat by number 
 37. What do Zayn and Soren argue about?
 38. What is one funny moment between them?
 39. What does Soren teach Zayn, and what does Zayn teach Soren?
-40. Does Soren have a mother, siblings, or someone he loves back in Taharyn?
+40. Does Soren have brothers, friends, or someone he loves back in Taharyn?
 41. What is the story behind Soren's broken sword?
 42. Did Soren know he was going to die? Did he leave Zayn a message?
 43. Who finds Soren's body: Zayn, Kiri, or someone else?
@@ -57,11 +57,11 @@ You can write your answers under each question here, or reply in chat by number 
 45. What is the one promise Zayn makes to Soren?
 46. Does Soren appear in any vision after his death?
 
-## D. Mother Hesset (47–54)
+## D. Old Hesset (47–54)
 47. How old is Hesset really?
-48. What did she see before she went blind?
-49. What healing tools does she use (herbs, bells, songs, sand)?
-50. What is the hardest question she asks Zayn?
+48. What did he see before he went blind?
+49. What healing tools does he use (herbs, bells, songs, sand)?
+50. What is the hardest question he asks Zayn?
 51. Does Hesset ever betray Zayn, even by keeping silent?
 52. What happened between Hesset and Malek centuries ago?
 53. Does Hesset leave the village and join the journey at any point?
@@ -74,16 +74,16 @@ You can write your answers under each question here, or reply in chat by number 
 58. What does Daruun say to explain why he abandoned his son?
 59. Does Zayn forgive him quickly, slowly, or only at the very end?
 60. Does Daruun try to stop Zayn's sacrifice?
-61. How did Daruun and Nahra fall in love?
+61. Why did Daruun hide under another name, and where did he live?
 62. What does Daruun do with his life after Zayn's death?
 
-## F. Nahra / Sister Seven, the Mother (63–68)
-63. What weapon or fighting style does Sister Seven use?
-64. How many times does she fight Zayn before the truth comes out?
-65. Does Kiri recognise her before Zayn does?
-66. What are the words of the lullaby she hums?
-67. When her mask first cracks, what exactly does she see?
-68. Does she ever choose to help Zayn while still in the cult?
+## F. Tamir / Brother Seven, the Older Brother (63–68)
+63. What weapon or fighting style does Brother Seven use?
+64. How many times does he fight Zayn before the truth comes out?
+65. Does Kiri recognise him before Zayn does?
+66. What are the words of the song he hums?
+67. When his mask first cracks, what exactly does he see?
+68. Does he ever choose to help Zayn while still in the cult?
 
 ## G. Vizier Orrin & the Unnamed (69–80)
 69. What does Orrin look like up close? Any detail that feels "wrong"?
@@ -94,7 +94,7 @@ You can write your answers under each question here, or reply in chat by number 
 74. Where is the Unnamed's hidden temple or base?
 75. What ritual do new members go through to give up their names?
 76. Are there any children in the cult? How does Zayn feel about that?
-77. Who is the cult's strongest fighter besides Sister Seven?
+77. Who is the cult's strongest fighter besides Brother Seven?
 78. Does any cult member secretly want to escape?
 79. What happens to Orrin in the very end: does he live, die, or wander?
 80. Is there a second traitor besides Orrin?
@@ -104,7 +104,7 @@ You can write your answers under each question here, or reply in chat by number 
 82. What is the most convincing argument Malek makes?
 83. Is there a moment the reader feels sorry for Malek?
 84. What did Malek look like when he was human?
-85. Did Malek love someone before he fell?
+85. Did Malek have a family or a best friend before he fell?
 86. What are Malek's last words when he is healed?
 
 ## I. The World & Magic (87–100)
@@ -144,7 +144,7 @@ You can write your answers under each question here, or reply in chat by number 
 116. Do you want a map at the front of the book?
 117. Do you want illustrations? Of what?
 118. Should there be a sequel hook about the newborn bearer?
-119. What is the newborn bearer's name, and is it a girl or a boy?
+119. What is the newborn bearer's name?
 120. Should the final book title stay *The Ember of the Destiny Desert*, or do you want a new one?
 
 ---

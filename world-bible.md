@@ -13,8 +13,9 @@
 | **Genre** | Young adult fantasy / mythic adventure |
 | **Readers** | Teens, 12–17 |
 | **Length** | Novel, about 20 chapters (60,000–80,000 words) |
-| **Narrator** | Kiri, an ageless fox who has guided every Light-bearer. She tells the story *after* the boy's death |
-| **Core themes** | Faith, destiny and purpose: everything happens for a reason. Betrayal and loneliness |
+| **Narrator** | Kiri, an ageless fox who has guided every Light-bearer. He tells the story *after* the boy's death |
+| **Cast** | All-male cast. There are no female characters in the story |
+| **Core themes** | Faith, destiny and purpose: everything happens for a reason. Betrayal and loneliness. Fathers, sons and brothers |
 | **Tone** | Dark and intense: real danger, real loss, but a light at the end |
 | **Action** | High: shadow creatures, a hunting cult, chases, sandstorms and battles throughout |
 | **Ending** | The boy dies in sacrifice. His light is reborn in a newborn child, and the cycle (∞) continues |
@@ -26,16 +27,16 @@ A nameless outcast boy crosses a living desert to uncover the secret of his birt
 
 ## 2. The Narrator: Kiri, the Ember Fox
 
-**What she is:** A small desert fox with sand-gold fur, black-tipped ears, and a tail that glows like a coal. Her eyes are two different colours, one amber and one silver.
+**What he is:** A small desert fox with sand-gold fur, black-tipped ears, and a tail that glows like a coal. His eyes are two different colours, one amber and one silver.
 
-**Her secret:** Kiri is as old as the Light itself. The Weaver created her to walk beside every bearer, guiding and protecting them but never choosing for them. She has seen eleven bearers before Zayn. Some succeeded and some failed.
+**His secret:** Kiri is as old as the Light itself. The Weaver created him to walk beside every bearer, guiding and protecting them but never choosing for them. He has seen eleven bearers before Zayn. Some succeeded and some failed.
 
-**Her special power:** Her tail **glows brighter whenever someone speaks the truth** and **dims when someone lies**. In the story this becomes a living "truth detector", and it causes both tension and humour.
+**His special power:** His tail **glows brighter whenever someone speaks the truth** and **dims when someone lies**. In the story this becomes a living "truth detector", and it causes both tension and humour.
 
-**Her voice as narrator:**
+**His voice as narrator:**
 - Wise, warm, a little sad, sometimes dry and funny
-- She knows how the story ends from page one but holds back the details. Her hints build the mystery ("If I had known then what the dunes were spelling…")
-- She speaks directly to a listener, and in the last chapter we learn that the listener is **the newborn child who carries the Light again**
+- He knows how the story ends from page one but holds back the details. His hints build the mystery ("If I had known then what the dunes were spelling…")
+- He speaks directly to a listener, and in the last chapter we learn that the listener is **the newborn child who carries the Light again**
 
 **Why this works:** The reader knows from the start that the boy will die, so the question becomes *why* and *how*, not *whether*. That gives the book a feeling of fate and destiny.
 
@@ -56,17 +57,17 @@ A nameless outcast boy crosses a living desert to uncover the secret of his birt
 - **His arc:** *Nameless → Searching → Befriended → Betrayed → Alone → Knowing → Choosing → Giving.*
 - **His true name** (revealed in the final chapters, spelled out by the dunes): **Aeron**, which means *"the one who rises"* in the old tongue.
 
-### Mother Hesset, the Blind Healer (mentor)
-- An old woman who lives alone in a patched tent at the village edge.
-- She heals sickness, but her real gift is healing the *heart*. She listens, asks hard questions, and helps people face their own pain. *(This is the therapist figure from the original idea, placed inside the fantasy.)*
-- She is the only person kind to Zayn, and she seems to recognise Kiri.
-- **Secret:** She was once a **Light-bearer** herself, centuries ago. She was afraid and refused the sacrifice. The Weaver let her live, but she slowly lost her sight and became bound to the desert's edge, waiting for the next bearer so she could help them do what she couldn't.
-- **Key line:** *"I cannot tell you who you are, child. The truth only heals when you find it yourself."*
+### Old Hesset, the Blind Healer (mentor)
+- An old man who lives alone in a patched tent at the village edge.
+- He heals sickness, but his real gift is healing the *heart*. He listens, asks hard questions, and helps people face their own pain. *(This is the therapist figure from the original idea, placed inside the fantasy.)*
+- He is the only person kind to Zayn, and he seems to recognise Kiri.
+- **Secret:** He was once a **Light-bearer** himself, centuries ago. He was afraid and refused the sacrifice. The Weaver let him live, but he slowly lost his sight and became bound to the desert's edge, waiting for the next bearer so he could help them do what he couldn't.
+- **Key line:** *"I cannot tell you who you are, boy. The truth only heals when you find it yourself."*
 
 ### The Veiled Rider (mystery figure → Zayn's father)
 - A silent figure in grey wrappings who rides a pale camel and keeps appearing at a distance, always watching.
 - Through the first half of the book the reader is unsure whether he is a hunter or a protector.
-- **Truth:** He is **Daruun**, Zayn's father and the bearer before him. When the time came to sacrifice himself, he chose love instead: he ran away to marry Zayn's mother. Because the Light was not released, **the Hollow began to grow**. Zayn was born carrying the Light his father refused. On the night of his birth the Unnamed attacked, hoping to take the newborn bearer. Daruun escaped with the baby, but his wife was dragged into the Hollow. Believing she was dead and ashamed of his failure, Daruun left the baby where the desert would protect him.
+- **Truth:** He is **Daruun**, Zayn's father and the bearer before him. When the time came to sacrifice himself, he was afraid. He fled into the far south and lived a hidden life under another name. Because the Light was not released, **the Hollow began to grow**. Years later, his second son Zayn was born carrying the Light his father refused. On the night of Zayn's birth the Unnamed attacked, hoping to take the newborn bearer. Daruun escaped with the baby, but his elder son was dragged into the Hollow. Believing that son was dead and ashamed of his failure, Daruun left the baby where the desert would protect him.
 - **Arc:** From guilt and hiding to confession and forgiveness. He doesn't die. He lives on to carry the shame *and* the redemption.
 
 ### The Keeper of the Hollow (antagonist)
@@ -76,13 +77,13 @@ A nameless outcast boy crosses a living desert to uncover the secret of his birt
 - **Role:** He is what Zayn could become, the dark mirror of the hero. He doesn't want to kill Zayn. He wants to *convince* him to stop.
 - **Ending:** Zayn's sacrifice doesn't destroy Malek. It *heals* him. In his last moment Malek remembers his true name and is finally at peace.
 
-### Nahra, "Sister Seven" (Zayn's mother, alive)
-- Everyone, including Daruun, believes she died on the night Zayn was born. **She didn't.**
-- The Unnamed took her into the Hollow and **emptied her of her name and her memories**. Now she is one of the masked cult members, known only as **"Sister Seven"**. She is one of Orrin's most skilled hunters, sent to capture the Light-bearer. She has no idea he is her son.
-- **Clue:** In battle she hums a soft lullaby without knowing why. Zayn has heard the same lullaby in his healing visions of his own past, sung by a woman whose face he can never see.
-- **The shock (Part Four):** In a fight, Zayn's light touches her and her mask cracks. They both see the same memory: her holding him as a newborn. She remembers for one moment, then the Hollow pulls her back, and she flees.
-- **At the end:** On the Crown Dune she watches him burn. When the Hollow lifts, her mask falls away and she remembers **everything**. Her first word in fifteen years is his true name, *Aeron*, too late for him to hear it. *(Or did he? Kiri leaves it uncertain.)*
-- **Afterward:** She and Daruun meet again as broken people and share their grief. In the epilogue she helps Lira raise the newborn bearer.
+### Tamir, "Brother Seven" (Zayn's older brother, alive)
+- Everyone, including Daruun, believes Zayn's elder brother died on the night Zayn was born. He was five years old. **He didn't die.**
+- The Unnamed took him into the Hollow and **emptied him of his name and his memories**. He grew up inside the cult. Now 20, he is known only as **"Brother Seven"**, one of Orrin's most skilled hunters, sent to capture the Light-bearer. He has no idea Zayn is his brother.
+- **Clue:** In battle he hums a low desert song without knowing why. Zayn has heard the same song in his healing visions of his own past, sung by a man whose face he can never see. It is Daruun's song.
+- **The shock (Part Four):** In a fight, Zayn's light touches him and his mask cracks. They both see the same memory: a five-year-old boy holding his newborn brother. Tamir remembers for one moment, then the Hollow pulls him back, and he flees.
+- **At the end:** On the Crown Dune he watches Zayn burn. When the Hollow lifts, his mask falls away and he remembers **everything**. His first word in fifteen years is his brother's true name, *Aeron*, too late for him to hear it. *(Or did he? Kiri leaves it uncertain.)*
+- **Afterward:** Tamir and Daruun meet again as broken men and share their grief. In the epilogue Tamir helps Bram raise the newborn bearer.
 
 ### Prince Soren of Taharyn, the Exiled Prince (Zayn's only friend)
 - **Age:** 17
@@ -101,12 +102,12 @@ A nameless outcast boy crosses a living desert to uncover the secret of his birt
 - **Secret identity:** He is **"The Voice"**, the hidden leader of the cult called the **Unnamed**.
 - **The betrayal:** In Part Three, after Soren's death, Orrin finds Zayn. He pretends to be the prince's grieving friend and offers Zayn shelter, protection and the truth about his father. Zayn finally lets himself trust someone again. Then Orrin hands him over to the cult. This is the deepest wound in the book.
 - **What he wants:** To capture Zayn alive and give the Light to Malek, so that the Hollow covers the whole world and all pain is forgotten, along with every name.
-- **His own wound:** Long ago Orrin lost his wife and child to plague. He gave his name to the Hollow so that he could stop remembering them. He believes forgetting is mercy.
+- **His own wound:** Long ago Orrin lost his only son and his brother to plague. He gave his name to the Hollow so that he could stop remembering them. He believes forgetting is mercy.
 
-### Lira (village girl, minor role)
-- A sharp-tongued girl Zayn's age who mocks him in the early chapters out of fear.
-- When the Hollow takes her little brother's memory, she begs Zayn for help. He heals the boy, and then Lira **screams "monster"** and the village drives him out. This is one of the first shocks that push Zayn into loneliness.
-- She carries the guilt for years. In the final chapter she is an adult who keeps his story alive, and she is the **mother of the newborn bearer**.
+### Bram (village boy, minor role)
+- A sharp-tongued boy Zayn's age who mocks him in the early chapters out of fear.
+- When the Hollow takes his little brother's memory, Bram begs Zayn for help. Zayn heals the child, and then Bram **screams "monster"** and the village drives Zayn out. This is one of the first shocks that push Zayn into loneliness.
+- He carries the guilt for years. In the final chapter he is a grown man who keeps Zayn's story alive, and he is the **father of the newborn bearer**.
 
 ### The Weaver of Dunes (the divine presence)
 - The creator of the world. It is never seen directly, only felt through the wind, the moving dunes, dreams and moments of perfect timing.
@@ -137,6 +138,7 @@ A nameless outcast boy crosses a living desert to uncover the secret of his birt
 - The Hollow doesn't kill. It **empties**. People touched by it slowly lose their memories, their hope and their connections to others. They become grey, quiet and alone.
 - It feeds on **lies people believe about themselves**: *"I am worthless." "No one cares." "My pain means nothing."*
 - It has grown stronger every year since Daruun refused his sacrifice.
+- *(Symbolic layer: the Hollow stands for despair, fear and the loss of meaning, which ties back to the original themes of anxiety, trauma and loneliness.)*
 
 ### Taharyn, the Walled City
 - A great city of red stone in the north, built around the largest oasis in the world. It is ruled by King Absalon, a proud and grieving man who is easily manipulated by Vizier Orrin.
@@ -158,15 +160,14 @@ A nameless outcast boy crosses a living desert to uncover the secret of his birt
 *The more Zayn uses his light, the more clearly the creatures can sense him. Every time he heals someone, he gives away where he is.*
 
 ### The Unnamed (the dark cult)
-- **Who they are:** Men and women who gave their **names** to the Hollow in exchange for forgetting their pain. They no longer remember who they were.
-- **Look:** Grey robes, and **smooth white masks with no face**. They speak in whispers and call one another only "Brother" or "Sister".
+- **Who they are:** Men who gave their **names** to the Hollow in exchange for forgetting their pain. They no longer remember who they were.
+- **Look:** Grey robes, and **smooth white masks with no face**. They speak in whispers and call one another only "Brother" followed by a number.
 - **Leader:** *"The Voice"*, secretly Vizier Orrin.
 - **What they believe:** *"Names are chains. Memory is pain. Forget, and be free."*
 - **What they want:** To capture the Light-bearer alive and feed his light to Malek, so that the Hollow spreads over the whole world and **everyone forgets everything**.
 - **Their power:** They can walk inside the Hollow without being emptied, and they can command Husks. Some carry **"grey blades"** that cut away memories instead of flesh.
 - **Their sign:** A circle with nothing inside it. It is the opposite of the infinity knot.
-- **Why they're frightening:** Some of the people Zayn grew up with in Harrow's End turn up among them, behind the masks.
-- *(Symbolic layer: the Hollow stands for despair, fear and the loss of meaning, which ties back to the original themes of anxiety, trauma and loneliness.)*
+- **Why they're frightening:** Some of the men Zayn grew up with in Harrow's End turn up among them, behind the masks.
 
 ---
 
@@ -176,12 +177,12 @@ A nameless outcast boy crosses a living desert to uncover the secret of his birt
 
 **The rules:**
 1. **It heals with golden light and memory.** Warm golden light flows from Zayn's hands. As it touches someone, the person (and Zayn) sees **memories from their past and glimpses of their future**: who they were, and who they could still become. The Light doesn't erase pain. It reveals the truth behind it, and the person remembers who they really are.
-1b. **The death vision.** Every healing also shows Zayn a vision of **his own death**. At first it is only flashes of fire and moonlight. By the end of the book it is the full scene, exactly as it will happen. He is the only bearer in history who has seen his death this clearly. Kiri believes it is because the Hollow has grown so strong.
-2. **The bearer cannot lie.** Lying causes burning pain in the feather-mark.
-3. **It grows with honesty.** Each time Zayn faces a painful truth about himself, the Light grows stronger.
-4. **It burns the bearer.** Each use leaves golden cracks in his skin, like a cracked lantern.
-5. **It can only be fully released through sacrifice.** The bearer must *freely choose* to give his life. A forced death releases nothing.
-6. **It never dies.** After the sacrifice, the Light waits in the golden ash until it is reborn in a new child. That is the **∞ cycle**.
+2. **The death vision.** Every healing also shows Zayn a vision of **his own death**. At first it is only flashes of fire and moonlight. By the end of the book it is the full scene, exactly as it will happen. He is the only bearer in history who has seen his death this clearly. Kiri believes it is because the Hollow has grown so strong.
+3. **The bearer cannot lie.** Lying causes burning pain in the feather-mark.
+4. **It grows with honesty.** Each time Zayn faces a painful truth about himself, the Light grows stronger.
+5. **It burns the bearer.** Each use leaves golden cracks in his skin, like a cracked lantern.
+6. **It can only be fully released through sacrifice.** The bearer must *freely choose* to give his life. A forced death releases nothing.
+7. **It never dies.** After the sacrifice, the Light waits in the golden ash until it is reborn in a new child. That is the **∞ cycle**.
 
 **Symbols:**
 - 🪶 **The Feather:** the bearer's mark and the sign of rising
@@ -239,16 +240,16 @@ The children of the desert sing this song without understanding it:
 | Clue planted early | Revealed later |
 |---|---|
 | Zayn can't lie without pain | It's the first sign of the Light of Truth |
-| Kiri seems to know too much | She has guided every bearer for a thousand years |
+| Kiri seems to know too much | He has guided every bearer for a thousand years |
 | The Veiled Rider never attacks | He is Zayn's father, trying to protect him |
-| Hesset's bells ring around the Rider | Hesset knew Daruun. She once guided him too |
+| Hesset's bells ring around the Rider | Hesset knew Daruun. He once guided him too |
 | The dunes form strange letters | They spell Zayn's true name: **Aeron** |
-| Malek knows Hesset's name | He offered her the same temptation centuries ago, and she half-accepted |
-| Kiri says, "the one I loved *most*" | We learn at the end she's telling the story to the reborn bearer |
+| Malek knows Hesset's name | He offered Hesset the same temptation centuries ago, and Hesset half-accepted |
+| Kiri says, "the one I loved *most*" | We learn at the end he's telling the story to the reborn bearer |
 | Soren never repairs his broken sword | The hollow hilt hides proof of Orrin's treason |
 | Soren's body has golden cracks like Zayn's burns | It was "false light" stolen from an old bearer's grave, not Zayn's power |
 | Orrin knows things about Zayn's father he shouldn't | Orrin once tried to recruit Daruun into the Unnamed |
-| A masked hunter, "Sister Seven", hums the lullaby from Zayn's visions | She is his mother, Nahra, alive with her memory stolen |
+| A masked hunter, "Brother Seven", hums the song from Zayn's visions | He is Zayn's older brother, Tamir, alive with his memory stolen |
 | Some masked cult members know Harrow's End too well | Villagers who drove Zayn out later gave their names to the Unnamed |
 | In every vision, someone watches Zayn burn from a distance | It is his father, the Veiled Rider, who arrives too late to stop him, and then chooses not to |
 
@@ -256,15 +257,15 @@ The children of the desert sing this song without understanding it:
 
 ## 10. The Ending (summary)
 
-0. Before the end: Zayn finds the proof in Soren's sword and exposes Orrin before King Absalon. The cult attacks Taharyn, and the city falls into a night battle against the Unnamed and a flood of Husks. Orrin escapes into the Hollow with the king's last heir as a hostage, and Zayn follows him to the Crown Dune. The moment is exactly the one from his visions.
-1. On the Crown Dune under a full moon, Malek makes his final offer: *"Live. Be loved. Let the world take care of itself."* Orrin offers something worse: *"Give me your name, and you'll forget the prince, forget the pain, forget the fire."*
-2. Zayn sees the truth: his father made that same choice, and love that runs from purpose turns to grief.
-3. He chooses freely. He forgives his father, thanks Hesset, and says goodbye to Kiri.
-4. The Light bursts out. Zayn burns like a phoenix, and his ash spreads across the desert as golden sand.
-5. The Hollow lifts. People remember their names. The Unnamed's masks crack, and every cult member, Orrin included, remembers everything they tried to forget. For Orrin this is both punishment and healing. Malek is healed and fades into peace. Hesset's sight returns at the moment she dies, peacefully, her debt paid.
-5b. In the golden light, Zayn's last vision is not of his death. It is a memory: Soren laughing at the Singing Wells. He goes into the fire not alone.
-5c. Kiri does not die. She never does. She sits alone on the Crown Dune all night, guarding the golden ash, as she has eleven times before.
-6. **Epilogue, years later:** Lira, now grown, gives birth to a baby with a **feather-shaped mark** on her chest. Kiri curls up beside the cradle and begins:
+1. **Before the end:** Zayn finds the proof in Soren's sword and exposes Orrin before King Absalon. The cult attacks Taharyn, and the city falls into a night battle against the Unnamed and a flood of Husks. Orrin escapes into the Hollow with the king's last heir, Soren's young brother, as a hostage. Zayn follows him to the Crown Dune. The moment is exactly the one from his visions.
+2. On the Crown Dune under a full moon, Malek makes his final offer: *"Live. Be loved. Let the world take care of itself."* Orrin offers something worse: *"Give me your name, and you'll forget the prince, forget the pain, forget the fire."*
+3. Zayn sees the truth: his father made that same choice, and running from purpose only turns to grief.
+4. He chooses freely. He forgives his father, thanks Hesset, and says goodbye to Kiri.
+5. The Light bursts out. Zayn burns like a phoenix, and his ash spreads across the desert as golden sand.
+6. The Hollow lifts. People remember their names. The Unnamed's masks crack, and every cult member, Orrin included, remembers everything they tried to forget. For Orrin this is both punishment and healing. Malek is healed and fades into peace. Hesset's sight returns at the moment he dies, peacefully, his debt paid.
+7. In the golden light, Zayn's last vision is not of his death. It is a memory: Soren laughing at the Singing Wells. He goes into the fire not alone.
+8. Kiri does not die. He never does. He sits alone on the Crown Dune all night, guarding the golden ash, as he has eleven times before.
+9. **Epilogue, years later:** Bram, now grown, holds his newborn son, who has a **feather-shaped mark** on his chest. Kiri curls up beside the cradle and begins:
 
 > *"Let me tell you about a boy who had no name…"*
 
@@ -272,8 +273,9 @@ The children of the desert sing this song without understanding it:
 
 ## 11. Decisions Locked In
 - **Language:** English
+- **Cast:** all male. There are no female characters
 - **Kiri:** lives on forever, waiting for every bearer (the ∞ cycle)
-- **Mother:** alive among the Unnamed with her memory stolen
+- **Family twist:** Zayn's older brother Tamir is alive among the Unnamed with his memory stolen
 - **Chapter One opening:** begins with **Zayn's death vision**, him burning on the Crown Dune under a full moon. Kiri's voice then pulls the reader back: *"But that is the end. Let me begin where the boy had no name."* Then the story jumps back to Harrow's End.
 
 ## 12. Next Steps
