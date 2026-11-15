@@ -66,7 +66,7 @@ A nameless outcast boy crosses a living desert to uncover the secret of his birt
 ### The Veiled Rider (mystery figure → Zayn's father)
 - A silent figure in grey wrappings who rides a pale camel and keeps appearing at a distance, always watching.
 - Through the first half of the book the reader is unsure whether he is a hunter or a protector.
-- **Truth:** He is **Daruun**, Zayn's father and the bearer before him. When the time came to sacrifice himself, he chose love instead: he ran away to marry Zayn's mother. Because the Light was not released, **the Hollow began to grow**. His wife died giving birth to Zayn, who was born carrying the Light his father refused. Ashamed, Daruun left the baby where the desert would protect him.
+- **Truth:** He is **Daruun**, Zayn's father and the bearer before him. When the time came to sacrifice himself, he chose love instead: he ran away to marry Zayn's mother. Because the Light was not released, **the Hollow began to grow**. Zayn was born carrying the Light his father refused. On the night of his birth the Unnamed attacked, hoping to take the newborn bearer. Daruun escaped with the baby, but his wife was dragged into the Hollow. Believing she was dead and ashamed of his failure, Daruun left the baby where the desert would protect him.
 - **Arc:** From guilt and hiding to confession and forgiveness. He doesn't die. He lives on to carry the shame *and* the redemption.
 
 ### The Keeper of the Hollow (antagonist)
@@ -75,6 +75,14 @@ A nameless outcast boy crosses a living desert to uncover the secret of his birt
 - **His philosophy:** *"Nothing happens for a reason. Suffering is random. Purpose is a lie told to make children die quietly."*
 - **Role:** He is what Zayn could become, the dark mirror of the hero. He doesn't want to kill Zayn. He wants to *convince* him to stop.
 - **Ending:** Zayn's sacrifice doesn't destroy Malek. It *heals* him. In his last moment Malek remembers his true name and is finally at peace.
+
+### Nahra, "Sister Seven" (Zayn's mother, alive)
+- Everyone, including Daruun, believes she died on the night Zayn was born. **She didn't.**
+- The Unnamed took her into the Hollow and **emptied her of her name and her memories**. Now she is one of the masked cult members, known only as **"Sister Seven"**. She is one of Orrin's most skilled hunters, sent to capture the Light-bearer. She has no idea he is her son.
+- **Clue:** In battle she hums a soft lullaby without knowing why. Zayn has heard the same lullaby in his healing visions of his own past, sung by a woman whose face he can never see.
+- **The shock (Part Four):** In a fight, Zayn's light touches her and her mask cracks. They both see the same memory: her holding him as a newborn. She remembers for one moment, then the Hollow pulls her back, and she flees.
+- **At the end:** On the Crown Dune she watches him burn. When the Hollow lifts, her mask falls away and she remembers **everything**. Her first word in fifteen years is his true name, *Aeron*, too late for him to hear it. *(Or did he? Kiri leaves it uncertain.)*
+- **Afterward:** She and Daruun meet again as broken people and share their grief. In the epilogue she helps Lira raise the newborn bearer.
 
 ### Prince Soren of Taharyn, the Exiled Prince (Zayn's only friend)
 - **Age:** 17
@@ -240,7 +248,8 @@ The children of the desert sing this song without understanding it:
 | Soren never repairs his broken sword | The hollow hilt hides proof of Orrin's treason |
 | Soren's body has golden cracks like Zayn's burns | It was "false light" stolen from an old bearer's grave, not Zayn's power |
 | Orrin knows things about Zayn's father he shouldn't | Orrin once tried to recruit Daruun into the Unnamed |
-| A masked cult member hums a Harrow's End lullaby | Someone from Zayn's village has joined the Unnamed |
+| A masked hunter, "Sister Seven", hums the lullaby from Zayn's visions | She is his mother, Nahra, alive with her memory stolen |
+| Some masked cult members know Harrow's End too well | Villagers who drove Zayn out later gave their names to the Unnamed |
 | In every vision, someone watches Zayn burn from a distance | It is his father, the Veiled Rider, who arrives too late to stop him, and then chooses not to |
 
 ---
@@ -254,13 +263,20 @@ The children of the desert sing this song without understanding it:
 4. The Light bursts out. Zayn burns like a phoenix, and his ash spreads across the desert as golden sand.
 5. The Hollow lifts. People remember their names. The Unnamed's masks crack, and every cult member, Orrin included, remembers everything they tried to forget. For Orrin this is both punishment and healing. Malek is healed and fades into peace. Hesset's sight returns at the moment she dies, peacefully, her debt paid.
 5b. In the golden light, Zayn's last vision is not of his death. It is a memory: Soren laughing at the Singing Wells. He goes into the fire not alone.
+5c. Kiri does not die. She never does. She sits alone on the Crown Dune all night, guarding the golden ash, as she has eleven times before.
 6. **Epilogue, years later:** Lira, now grown, gives birth to a baby with a **feather-shaped mark** on her chest. Kiri curls up beside the cradle and begins:
 
 > *"Let me tell you about a boy who had no name…"*
 
 ---
 
-## 11. Next Steps
+## 11. Decisions Locked In
+- **Language:** English
+- **Kiri:** lives on forever, waiting for every bearer (the ∞ cycle)
+- **Mother:** alive among the Unnamed with her memory stolen
+- **Chapter One opening:** begins with **Zayn's death vision**, him burning on the Crown Dune under a full moon. Kiri's voice then pulls the reader back: *"But that is the end. Let me begin where the boy had no name."* Then the story jumps back to Harrow's End.
+
+## 12. Next Steps
 - [ ] Full 20-chapter outline
 - [ ] Chapter One draft (Kiri's opening + Zayn in Harrow's End)
 - [ ] Names and words in the "old tongue"
