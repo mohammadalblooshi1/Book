@@ -78,3 +78,27 @@ They **defend people**, using their powers for good, and they often can't be see
 - **Kindness returns:** as a boy, Theyab saved a pale snake in the ruins that Ghanim wanted to kill, warning it three times to leave, as the old people do. **It was her.**
 - **She defends him:** she pulls him from the Lantern Man's path, turns a Whirler aside, holds the Halfman back on the salt, and fights the Perfumed Bride for Nadim's soul. She can't come near when he wears the hirz, so he is torn.
 - **Her end (Part IX, the Night of Lamps):** she fights at the sinkhole to hold back the evil ones while Theyab and the children escape, and she is **unmade**. Her last act is to give Zaid's whistle its sound. It breaks readers' hearts. On Tal Moreeb, at the very end, Theyab smells milk once more.
+
+---
+
+## Confirmed by the author (in Arabic): change the names of these, keep the ideas
+القرين، الغول، الشياطين، الزهوي، أم الدويس، بو دريا: the ideas stay, the names change.
+
+| Arabic (never written in the book) | Book name |
+|---|---|
+| القرين (qareen) | **the Twin** |
+| الغول (ghoul) | **the Hoofed** |
+| الشياطين (shayateen, the wicked ones) | **the Turned** |
+| الزهوي (zahwi) | **the Marked** |
+| أم الدويس (Umm al-Duwais) | **the Perfumed Bride** |
+| بو دريا (Bu Darya) | **the Deep Caller** |
+
+### The named Turned: the Sealed King's lieutenants (new, original names)
+No traditional devil names are ever used. These five evil ones from below serve the Sealed King, and each leads part of the evil:
+| Name | What it does |
+|---|---|
+| **Ash-Mouth** | **Eats names.** Where it has fed, people forget each other. It is the source of the Grey's forgetting |
+| **the Smiling Hunger** | **Puts people on.** It makes the Worn and rides the sheikh's guards on the Night of Lamps. It smiles with stolen faces |
+| **the Thousand-Voiced** | **Speaks in the voices of the dead and the emptied.** It lures, lies, and imitates loved ones. It is the Twin's teacher |
+| **the Heavy One** | **The master of the Sitters.** It crushes the sleeping and steals breath, and it comes for the newborn at the end |
+| **Old Thorn** | **Guards stolen treasure and sealed places.** It demands the blood of the Marked. The Nameless bargain with it |
