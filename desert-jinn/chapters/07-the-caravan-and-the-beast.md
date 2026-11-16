@@ -42,7 +42,7 @@ Theyab worked.
 
 He'd spent his life doing the jobs no one else wanted, and a caravan is nothing but those. He loaded bales and gathered dung for the fires and never complained. He kept his ghutra wound high around his face and his shirt tied close at the throat, so nobody would see the faint glow of the feather mark after dark.
 
-He was happy. I don't think he knew it. But I knew what his face looked like when nobody was throwing anything at it, and I tried very hard to remember it, the way you'd press a flower in a book you knew was going to burn.
+He was happy. I don't think he knew it. I tried hard to remember his face like that, the way you'd press a flower in a book you knew was going to burn.
 
 On the second night a boy came and sat beside him at the fire. Jasir, the youngest of the camel men, sixteen or so, with a gap in his front teeth and far too much laugh. He rode a milk-pale she-camel called Shaha and talked about her the way some men talk about their mothers. He held out a cloth of dates without being asked, and after a moment Theyab took one.
 
@@ -98,7 +98,7 @@ And inside it, something moved.
 
 I have seen most of the jinn's children. I'd seen nothing like this. No one who has seen it all at once has kept their name.
 
-It was the whirlwind, and it was something *in* the whirlwind, and you couldn't tell where one stopped and the other began. Its body was the black wind itself, spinning and folding over on itself like a great gut, and in the folds were shapes. Arms, perhaps. The suggestion of arms, huge and slow and jointed in too many places, trailing out of the spin and feeling across the ground the way a blind man feels for a dropped coin. One passed over us. It was *heavy*, the way grief is heavy, and where it brushed the top of a fallen bale the dates inside went grey and soft and slumped like wet bread.
+It was the whirlwind, and it was something *in* the whirlwind. Its body was the black wind itself, spinning and folding on itself like a great gut, and in the folds were the suggestion of arms, huge and slow and jointed in too many places, trailing out of the spin and feeling across the ground the way a blind man feels for a dropped coin. One passed over us. It was *heavy*, the way grief is heavy, and where it brushed the top of a fallen bale the dates inside went grey and soft and slumped like wet bread.
 
 High up in the spin there were lights. Red ones. Dozens, scattered across the black, blinking slowly and not together. Some were large as a well-mouth. Some were small and set in pairs, at about the height of a man's head, and there were a great many of them, and they went round and round with the wind, round and round, and every time they came past they were looking.
 
@@ -112,9 +112,9 @@ It *breathed in*.
 
 ---
 
-The front of the caravan went first. Abu Kharbash's own riding camel, kneeling with its eyes shut. The dark closed over it, and when it lifted there was smooth gravel, raked as neat as the floor of a mosque.
+The front of the caravan went first. The dark closed over Abu Kharbash's kneeling camel, and when it lifted there was smooth gravel, raked as neat as the floor of a mosque.
 
-Then the camels behind, roped nose to tail. The zawba'a took the end of the rope and *pulled*, and they went up one after another like beads off a string, seven at a time, lifted off the ground still kneeling, still with their eyes closed, turning slowly in the air as they rose into the black. Not a sound out of any of them.
+Then the camels behind. The zawba'a took the end of the rope and *pulled*, and they went up one after another like beads off a string, still kneeling, eyes still closed, turning slowly in the air as they rose into the black. Not a sound out of any of them.
 
 The men screamed. And then the screams changed.
 
@@ -146,9 +146,7 @@ And a child's: the merchant's little daughter, going home to her mother on the c
 
 Last words. That's all that's left of you, inside it. Your last words, going round and round in the black like a bell that won't stop swinging.
 
-Then, through the flying sand, I saw Jasir.
-
-Shaha was down, kicking, and Jasir was pinned beneath her by one leg, screaming the only name he had for Theyab. *Ibn al-Raml! Ibn al-Raml!* And the foot of the whirlwind was sliding toward him across the gravel like a tide that knows exactly where you've buried your feet.
+Through the flying sand I saw Shaha down, kicking, and Jasir was pinned beneath her by one leg, screaming the only name he had for Theyab. *Ibn al-Raml! Ibn al-Raml!* And the foot of the whirlwind was sliding toward him across the gravel like a tide that knows exactly where you've buried your feet.
 
 Theyab ran.
 
@@ -164,7 +162,7 @@ He told me much later, as if a dog could tell anyone, that from inside the dome 
 
 They were trying to get in. Not to hurt him. They were cold, he said. They wanted the warm.
 
-He held the dome. He held it with the gold cracking open across his skin like the glaze on a dropped jar. He could feel each face as it pressed. He said it was like being leaned on by every lonely person who had ever lived.
+He held the dome with the gold cracking open across his skin like the glaze on a dropped jar. He said it was like being leaned on by every lonely person who had ever lived.
 
 And then, slowly, like a tide going out, the darkness lifted.
 
@@ -232,7 +230,7 @@ I watched him put it together. I watched him do the sum, the way frightened peop
 
 Theyab didn't answer.
 
-"It came for you." Jasir was scrambling backward across the sand, away from him, his newly healed leg kicking, the empty waterskin clutched to his chest. "Didn't it? You brought it. You're what it was looking for. Everyone's gone, Abu Kharbash is gone, Shaha's gone, they're all *gone*, and you—"
+"It came for you." Jasir was scrambling backward, the empty waterskin clutched to his chest. "Didn't it? You brought it. You're what it was looking for. Everyone's gone, Abu Kharbash is gone, Shaha's gone, they're all *gone*, and you—"
 
 His face twisted.
 
@@ -248,7 +246,7 @@ When Jasir said *it came for you*, I didn't growl.
 
 My hackles stayed down. Flat. Not a single hair along my spine moved.
 
-Jasir got to his feet, swaying on the leg Theyab had mended, and turned, and ran. Stumbling, out across the empty gravel, with Theyab's waterskin bouncing on its cord against his back, and he didn't look back. Not once.
+Jasir got to his feet and ran, stumbling, out across the empty gravel with Theyab's waterskin bouncing against his back, and he didn't look back. Not once.
 
 I hope some old man by some fire tells it differently now. I hope he tells it wrong.
 
@@ -284,11 +282,7 @@ The Seventh was standing in our path.
 
 He drew one of his two grey blades as the camel thundered down on him, and swung it at the boy slung across the saddle. A clean, fast, perfect stroke. It went past Theyab's throat a finger's width away and cut nothing but air.
 
-The Seventh doesn't miss by accident. He stood on the ridge and watched us go, with the blade hanging at his side, and the whirlwind came down over the place where he stood and he didn't move. He stood with his white mask tipped up toward all those turning eyes, as if they were old friends.
-
-Just before the dark took him, I heard it, very faint, under the roar. Four notes, low and slow, climbing.
-
-Then I lost him in the sand.
+The Seventh doesn't miss by accident. He stood on the ridge and watched us go, and the whirlwind came down over him and he didn't move, his white mask tipped up toward all those turning eyes as if they were old friends. Just before the dark took him, I heard it under the roar. Four notes, low and slow, climbing.
 
 ---
 
@@ -316,7 +310,7 @@ The moon came up late that night, the thinnest I'd seen it since Hilat al-Sarab,
 
 And somewhere ahead of us, so faint only a dog could feel it, something was humming.
 
-I felt it first in my teeth. Then in the pads of my feet. A deep, low, steady note rising up out of the sand to the north and west, exactly where the spear had pointed, like a mother humming a child to sleep. Or like a well, waiting.
+I felt it in my teeth, then in the pads of my feet. A deep, low note rising out of the sand exactly where the spear had pointed, like a mother humming a child to sleep. Or like a well, waiting.
 
 I knew that sound, and the water that lies beside it, and what that water does to those who drink. The rider had not pointed us at it by accident. He was walking with his head down and his hand pressed to the feather mark, and he hadn't heard it yet. In a little while he would.
 

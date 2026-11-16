@@ -40,9 +40,9 @@ Bir al-Ghina', the Well of Singing, lies at the foot of the biggest singing dune
 
 What I know is this. The water remembers. Drink it, and it will hand you back something you had forgotten so completely you didn't know there was a hole where it used to be.
 
-People don't think about the holes they dug on purpose. I once watched a man drink from Bir al-Ghina' and remember, in one swallow, what he had done to his brother when they were boys. He walked into the sands that night and took no water with him. The well doesn't give you your past. It gives your past *you*.
+I once watched a man drink there and remember, in one swallow, what he had done to his brother when they were boys. He walked into the sands that night and took no water with him. The well doesn't give you your past. It gives your past *you*.
 
-I was getting up, meaning to stand in front of him, meaning to do something, when he stopped again, and this time it wasn't the hum.
+Then Theyab stopped again, and this time it wasn't the hum.
 
 From ahead, past the black shapes of the palms, came a snarl like tearing cloth. Then a clang of steel. Then a sound I had not expected to hear within three days' walk of any jinn.
 
@@ -90,7 +90,7 @@ By then Theyab didn't trust the Light. Worse, he had begun to be afraid of it.
 
 Every time it saved someone, the person it saved had looked at him afterwards with the same face, and that face had a word in it. And every time, it had shown him the dune, and the dune was getting closer, and now it came with the smell.
 
-So when he ran down that slope, the first thing he felt wasn't courage. It was a cold sick little voice in his head, with a goatherd's patience in it, saying: *He'll see. He'll see what you are, and then he'll look at you like they all do. And then he'll be gone too. Everyone near you goes.*
+So when he ran down that slope, what he felt first was a cold little voice with a goatherd's patience in it, saying: *He'll see. He'll see what you are, and then he'll look at you like they all do. And then he'll be gone too. Everyone near you goes.*
 
 The light came, and it came grey.
 
@@ -200,7 +200,7 @@ I kept that to myself. You'll have noticed I keep a great deal to myself. I'm no
 
 He said it aloud. Right into the open night, with the wind moving in the palm fronds over his head and the great dune humming above him.
 
-Theyab flinched as if he'd dropped a lamp. He looked round at the dark between the palms as if something would come out of it. "You shouldn't— The wind— It *learns* them. There's a wadi in the mountains, it—"
+Theyab flinched and looked round at the dark between the palms. "You shouldn't— The wind *learns* them. There's a wadi, it—"
 
 "The wind and I have an understanding," said Hazza'. "It's never done me a single favour, and I've never asked for one." He raised his eyebrows. "You've got one too, I assume. A name. Or do I keep calling you glowing stranger?"
 
@@ -256,7 +256,7 @@ He took the leather bucket from its hook on the palm, let it down on the rope, d
 
 ---
 
-It was cold enough to ache, and sweeter than any water he'd ever paid for. He swallowed, and the humming came inside him, filling his chest and his skull until it wasn't humming any more.
+It was cold enough to ache. He swallowed, and the humming came inside him, filling his chest and skull until it wasn't humming any more.
 
 It was singing.
 
@@ -314,7 +314,7 @@ That's the trouble with silence. You can hide a whole child in it, and no one wi
 
 Hazza' shared his bread, hard rounds of it baked in the ashes days ago, and boiled, strained water from his little brass pot. It only hummed a little. Theyab drank it with his eyes shut, braced, and nothing came.
 
-"You can stay, if you like," Hazza' said, poking the fire with the end of his broken sword. He said it lightly. It mattered a great deal. "Three days at least. The guest's right. My father would have my hide if I didn't offer it, wherever I am." He glanced at me. "Your stranger too. I don't suppose he eats bread."
+"You can stay, if you like," Hazza' said, poking the fire with his broken sword. He said it lightly. It mattered a great deal. "Three days at least. The guest's right." He glanced at me. "Your stranger too."
 
 He tossed me a piece anyway. I ate it. Dignity has limits.
 

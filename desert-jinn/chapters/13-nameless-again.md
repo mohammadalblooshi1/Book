@@ -8,8 +8,6 @@
 
 For four days, he didn't say a word.
 
-You'd think I'd be relieved. I'd have traded every hare between here and the sea to hear him tell me to get my nose out of the dates.
-
 He walked. That was all. In the cold before dawn, in the hammering noon sun that kills goats where they stand, at night under a moon already beginning to thin, as if something had taken a bite out of it. He let the dunes choose the direction. If the sand was writing that week, it was writing for a boy who had stopped reading.
 
 Hazza's sword was tied across his back, wrapped in his ghutra. It knocked against his spine with every step, and every time it did he flinched, and every time he flinched he kept walking. It had a rhythm to it after a while. Like a knock on a door. Like someone behind him, tapping his shoulder, wanting to be let back in.
@@ -38,15 +36,7 @@ So I limped. And he walked. And neither of us looked at my shadow.
 
 ---
 
-He still did the things that kept him alive. Fifteen years of scraping by don't leave you just because your heart has.
-
 On the second day he found water: a wet finger to the wind, a hollow where a desert gourd trailed its green ropes and its bitter yellow fruit, digging until the sand went dark. I dug beside him. I wasn't going to stop being useful just because I'd stopped being forgiven.
-
-He'd taught Hazza' how to do that. I watched him remember it. He sat back on his heels with wet sand on his fingers and his face went completely still, the way a well goes still after something has dropped to the bottom of it and you're waiting to hear it land.
-
-You never do hear it land, in a deep enough well.
-
-He got up and kept walking.
 
 At night he hardly slept. He sat at the top of whatever dune he'd stopped on, and with one finger he wrote in the sand.
 
@@ -56,17 +46,11 @@ Hazza'.
 
 And every morning the dunes had moved in the night, and the word was gone.
 
-That's the trouble with being buried in the desert. There's no stone. The people who loved you have to carry the grave around inside them. After a while, the grave starts to carry you.
-
 ---
 
 On the third morning, the word was still there.
 
 Not where he'd written it. He'd written it on the crest, where he sat. This one was at the bottom of the slope, fifty paces down, in a smooth bowl of sand where the wind hadn't reached. Four letters. The dot on the *zay*. Pressed in deep with one finger, the way he pressed.
-
-His handwriting. I'd know it anywhere. So would he.
-
-He stood over it a long time.
 
 "Did you write this?" he said. Not to me, really. To the air.
 
@@ -88,8 +72,6 @@ My hackles came up before I'd decided anything. A growl started in my chest, low
 
 His face twisted. His hand flew to his chest. The feather mark flared under his shirt, hot and sharp, and he doubled over and pressed his palm against it until the light went out and there was a smell in the air of scorched cotton.
 
-He couldn't even lie to himself. Not for comfort. Not once. And the one creature in the world who was supposed to be on his side had growled at him for trying.
-
 Most people get to tell themselves small kind lies in the dark. *There was nothing I could have done.* Lies like that are how people get up in the morning. Theyab never got any. The truth was all he had: he had walked away, and watched the fire go out, and called it nothing.
 
 "The sand remembers," he whispered afterwards. The old words.
@@ -106,8 +88,6 @@ He didn't look at me.
 
 "Don't," he said.
 
-It was the first word he'd spoken in three days. Hoarse, as if his voice had rusted shut.
-
 I kept my head under his hand. *Feel my back,* I thought at him. *I'm not lying to you.*
 
 "You were like that at Ghidd al-Zujaj too," he said. "Right up until you weren't."
@@ -115,8 +95,6 @@ I kept my head under his hand. *Feel my back,* I thought at him. *I'm not lying 
 I had nothing for that. One small, merciful lie in fifteen years, told with my whole body and not a single word, and it had cost me every true thing I'd tell him afterwards. Remember that, if you ever think a lie is cheap.
 
 He was quiet a while. Then, without looking at me: "Where were you?"
-
-The wind moved over the dune.
 
 "That night," he said. "After I walked away. You weren't with him. You weren't with me. Where were you?"
 
@@ -180,21 +158,13 @@ And it was cold. That's what nobody puts in the songs. The sand around it froste
 
 I didn't see anyone in it. I only saw the light on Theyab's face, and his lips move.
 
-He told me later what he saw. I'll tell it the way he did.
-
 Hazza' was sitting on the slope beside him, cross-legged, the way he sat by the fire when he was about to say something annoying. Light came through the edges of him, like a cloth hung in front of the sun.
 
 He was grey. Theyab told me that, and then he wouldn't tell me any more about it for a long time. Grey, like the hollow that morning. And the golden cracks were still in him, running across his face and down his throat, and they were glowing again. Brighter than they'd been. As if the thing that had been trying to get out of them had nearly made it.
 
-The sand didn't shift under him. Not a grain. He had no weight at all.
-
 His hand was bare. No ring. Theyab noticed that. He couldn't stop noticing it.
 
 "You look terrible," said Hazza'. "That's weird."
-
-His mouth moved a moment before the words came. Just a moment. Like someone calling to you from the far side of a wide wadi.
-
-Theyab made a sound. It wasn't a word.
 
 "You're lying in a hole," said Hazza'. "Letting a dune sit on you. Do you know how stupid that looks from where I am? Very. It looks very stupid. Even the dog thinks so. Look at him."
 
@@ -204,8 +174,6 @@ Hazza' stopped smiling.
 
 "Yes," he said. "You did."
 
-There was no anger in it. That was the worst part, Theyab told me. He said it the way you say *the sand is hot*. A plain fact laid down between them, like a stone on a grave.
-
 "I left you," Theyab said again, "and you died."
 
 "I know. I was there." Hazza' leaned forward. He laid his hand on Theyab's shoulder, and it was *warm*. Theyab swore to me it was warm, warm as a living hand, warm as the sun on a cold winter morning, though the frost was spreading out from him across the sand the whole time. "Get up anyway."
@@ -213,8 +181,6 @@ There was no anger in it. That was the worst part, Theyab told me. He said it th
 "Who did it?" Theyab said. "Hazza'. Who—"
 
 Hazza's face went still. He opened his mouth, and for a moment nothing came out of it but the smell of cold ash, and his eyes went somewhere past Theyab's shoulder, into the dark, and stayed there. As if someone were standing there. As if he'd seen them before.
-
-Then he looked back.
 
 "I can't," he said, and for the first time he sounded young, and frightened, and seventeen. "I don't think I'm allowed. I think there's a lot I'm not allowed." His grip tightened. "Get up, Theyab."
 
@@ -260,8 +226,6 @@ I didn't know. I couldn't have told him if I had. I put my head down and closed 
 
 He looked away over the dunes, but he didn't turn his back on me. That night he slept with me curled against his side, one hand on the sword and one on my ribs, and twice I felt him wake and look at the slope where the frost had been.
 
-It's not nothing. In the desert, you learn to count the things that are not nothing. You learn to count them very carefully, because there aren't many.
-
 ---
 
 This next part is where I went wrong.
@@ -276,8 +240,6 @@ You don't see lamps lit in daylight. That's what made me lift my head. A string 
 
 They came straight to him. Not near him. *To* him, as if they'd known exactly which dune a tired boy would be standing on.
 
-My one good eye was fine that morning. My legs were not. I dragged myself to the crest of the ridge and lay flat with my ears forward and listened.
-
 The lead camel knelt. A man climbed down.
 
 He was old, his beard silver and combed long over a bisht the deep blue of the sky just after sunset. His face was soft and kind and lined, someone's grandfather. His voice was low and gentle, the kind that makes you lean in.
@@ -287,8 +249,6 @@ And his eyes were grey.
 Faded grey, flat and pale, like cloth left in the sun for a hundred years. Like the eyes of the emptied, before the white sets in.
 
 The hair along my spine stood straight up, and the burned place in my side stopped whispering. All at once. Just went silent, the way the crickets go silent when something walks past in the dark.
-
-I couldn't have told you why. That's not true. I could have. I'm not going to. Let's leave it there.
 
 Behind the old man, another figure climbed down: the biggest man I had ever seen. Shaved head under a plain cloth. Arms like the trunks of date palms. A face that didn't look as though it had ever made an expression it meant.
 
@@ -305,8 +265,6 @@ Remember that. I didn't. I was watching faces. I should have been watching the b
 Theyab didn't answer. His hand had gone to the hilt of the broken sword on his back.
 
 "My name is Muhaisen," said the old man. "I am the wazir of Ubar. I serve Sheikh Mutlaq." A pause. "You'll have heard my name. From him."
-
-Theyab's knuckles went white.
 
 He had. Hazza' had told him the whole story by the fire: the stable boy Suhail he'd hidden and tried to cure, the broken sword, and the soft old voice of the wazir calling it treason, calling it jinn-work and sorcery, until his father believed it.
 
@@ -331,8 +289,6 @@ I *think* they lifted. I'm nearly sure. But my fur had been standing since I'd s
 There was no bell. Old Bakhit's bell was in a patched bag tied to a camel twenty paces away, among the water skins, and it made no sound. I've wondered since whether a bell can be smothered the way a voice can.
 
 Theyab reached out, slowly, the way you reach for something that might vanish. Muhaisen let him take the ring. It was warm from the old man's robe. Theyab closed his fingers over it, and his face crumpled.
-
-He'd last felt that gold on a living hand.
 
 "Did you kill him?" Muhaisen asked quietly. Almost kindly. "They're saying you did. They're saying it in every majlis from here to the coast."
 

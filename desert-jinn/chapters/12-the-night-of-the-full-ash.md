@@ -8,8 +8,6 @@
 
 I made no sound at all before the full moon. Not a whine, not a growl, not a sigh through the nose.
 
-I'll tell you about those days anyway. You can be silent all the way through a story and still have to describe every minute of it.
-
 I limped behind the two of them with my coat scorched brown down one side and my silver eye swollen shut. The burn wept a thin black fluid that smoked when it touched the sand. I didn't eat much. At night I slept away from the fire, and every night Theyab looked over at me before he lay down, and every night I turned my face away.
 
 He tried to say sorry. Once he left me the best part of a roasted sandgrouse and sat with his back to me so I could eat unwatched. I ate it after he'd fallen asleep. I want that on the record.
@@ -43,8 +41,6 @@ My hackles stayed flat. That was true. Every word.
 But Theyab had learned to watch the spaces between words, too. He looked at Hazza' a long moment. He knew there was something more. And because Theyab had never in his life asked anyone for something they didn't want to give, he didn't ask.
 
 I knew what it was. I'd watched it go into the hilt. I couldn't have told him if I'd wanted to, and I didn't try.
-
-Three of us walking west together, and every one of us carrying something we didn't say. You could have heard the silence from a dune away.
 
 ---
 
@@ -95,8 +91,6 @@ He'd been quiet a long time, sitting across the fire turning his signet ring rou
 "You can't unwrite the *sand*!"
 
 The words went out across the silver dunes and the desert swallowed them whole and gave nothing back.
-
-They sat there breathing hard on either side of the fire.
 
 Hazza' looked away first. He looked down at his hands. When he spoke again, his voice had gone quiet.
 
@@ -152,8 +146,6 @@ He didn't plan it. I know that, because I know him. He was frightened, so fright
 
 The fire cracked.
 
-That was the only sound in the whole desert.
-
 Hazza' didn't move. He didn't shout. His face didn't even change, at first. He stood there with the full moon behind him, looking down at Theyab, and something went out of his eyes. It was like watching a lamp go out on a high wall in Ubar, one of the ones that must never all go out, and then the next one along, and the next.
 
 My hackles didn't stir. I wish they had. But it was true, every word, and nothing in the world cuts like the truth said at the wrong moment for the wrong reason.
@@ -177,8 +169,6 @@ Nobody ever told Hazza' what happens when you say someone else's.
 Theyab meant to come back. You should know that. He meant to walk until he'd stopped shaking, then come back and make it right. There'd be time in the morning. That's the oldest lie there is, and the feather never burns for it, because nobody knows it's a lie until afterwards.
 
 He walked away and left Hazza' alone.
-
-It was the worst mistake he ever made. He'd tell you so himself.
 
 ---
 
@@ -205,8 +195,6 @@ Theyab didn't go far. He climbed a high dune a long way off and sat at the top, 
 He said sorry to it. Out loud, over and over, practising.
 
 *I'm sorry. I didn't mean it. You were right to try. You were right to try to save him. You were right to try to save me.*
-
-He went through it again and again, getting the words right, the way he'd copied his name in the sand until the letters were perfect.
 
 Some time after the middle of the night, he looked down, and the little orange point had gone out.
 
@@ -238,8 +226,6 @@ He was grey.
 
 Not the grey of the emptied. Something worse. His skin had gone the colour of old ash, every part of it, his lips, his eyelids, the beds of his nails. And running all through the grey, across his face and down his throat and along both arms, were fine bright lines of *gold*. Thin glowing cracks, like the glaze on a broken coffee cup. They were still glowing. Faintly. Fading even as Theyab watched, one by one, the way the last sparks go in a fire nobody is feeding.
 
-Like the cracks the Light left on Theyab's own skin.
-
 His eyes were open, looking up at the morning sky. They had gone pale. Not white. Pale, like a window someone has breathed on.
 
 His mouth was a little open too, as though he'd been about to say something. As though someone had come up to the fire in the dark, and he'd looked up, and started to say a name.
@@ -260,19 +246,13 @@ An older man with a beard gone yellow at the edges. He backed away a step, then 
 
 They looked at Theyab. They looked at his arms, at the golden cracks still glowing faintly from wrist to shoulder.
 
-They looked at Hazza', cracked with the same gold.
-
 "That's him," said the young man with the falcon. His voice was high and thin. "The sheikh's son. The exiled one. The son of Mutlaq of Ubar. Look at the jaw, the scar. They said at Buraimi he was out here selling himself for a sword—"
 
 "And *that*," said the old man, staring at Theyab, "is the glowing boy."
 
-Theyab didn't move.
-
 "From the caravan," the old man said. "They were talking about him at the last well. The one the sand-devil didn't eat. A man walked out of the sand alive and he's telling everyone from here to the coast." He was backing toward his camel. "*Monster*, he said. And here he is."
 
 "I didn't," said Theyab.
-
-It came out of him like something broken. He looked at Hazza', and back at them.
 
 "I didn't do this."
 
@@ -298,8 +278,6 @@ They had the camels up and away in moments, salt slabs swinging, the falcon stil
 
 *Prince-Killer. Prince-Killer. The glowing boy killed the sheikh's son.*
 
-By the next full moon there wouldn't be a tent in the desert that hadn't heard it. They'd scratch it on the doors of mud houses, I heard later. Not his name. Nobody knew his name. Just that.
-
 ---
 
 Theyab knelt in the sand beside Hazza'.
@@ -321,8 +299,6 @@ And then, because it always did now, the vision came. Not of Hazza'. There was n
 Then it was gone, and he was kneeling in the morning with his hands on a cold chest.
 
 He took Hazza's hand. It was cold. The fingers were grey and cracked with gold, and on the right hand, on the finger where the heavy signet ring had always been, there was nothing. Only a band of paler skin where it had sat for years. The ring he never took off.
-
-Theyab looked at that bare finger for a long time.
 
 He looked at his own arms, at the cracks. Then at the cracks on Hazza's face. The same gold. He'd been asleep. He'd been far away. He'd felt nothing. But the Light had burst out of him once already when he didn't mean it to, and nearly burned a dog out of the world.
 

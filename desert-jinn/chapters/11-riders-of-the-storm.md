@@ -76,8 +76,6 @@ The man he'd thrown didn't get up straight away. He lay on his back in the sand 
 
 Then he got up, like a puppet lifted by the back of its robe, and walked toward Theyab.
 
-That one stayed with me. It was the voice of somebody who had said those words once, on an ordinary evening, with the coffee pot on the coals, and had never been allowed to say anything else.
-
 "Theyab!" Hazza' wrenched the camel's head round by its halter rope. "*Come on!*"
 
 A second camel had come down the slope. Its rider was turning to slash at Hazza's back. Theyab ran at it, ducked the long yellow teeth, grabbed the rider's ankle with both hands, and hauled. The masked man fell without a sound. Theyab scrambled up into the saddle in his place.
@@ -136,8 +134,6 @@ One rider was still with us, close behind, running in the lee of our camels. The
 
 He twisted. It missed his leg and caught his forearm, a shallow cut along the old golden cracks.
 
-It barely bled. That's the horror of those blades. They barely bleed.
-
 But for one long heartbeat, Theyab couldn't remember what honey tasted like.
 
 He knew he'd eaten it. But the sweetness itself was gone, cut out clean, and where it had been was a cold blank with smooth edges, like the place a tooth used to be.
@@ -154,8 +150,6 @@ We came out of the worst of it into a place of stone.
 
 Ruins, older than anything Theyab had ever dug in. A long road ran between rows of carved pillars, half sunk in sand, half fallen, like the ribs of something that had died on its back. There were faces cut into the pillars, and every one had had its eyes chiselled out. Carefully, all the way down the road.
 
-The storm still howled overhead, but between the pillars the wind broke and swirled, and for a moment we could see.
-
 The camels didn't like it.
 
 Hazza's stopped so suddenly he went over its neck. Theyab's dropped to its knees and threw us both, and by the time Theyab had rolled to his feet both camels were gone into the brown, halter ropes flying. They'd rather the storm. Animals are wise about places.
@@ -171,8 +165,6 @@ One of the great pillars beside him had been leaning for a thousand years. The s
 He threw himself sideways. He almost made it.
 
 The pillar came down across his legs with a sound like the end of the world. Hazza' didn't scream. He made a short, punched-out noise, as if every bit of air had been knocked out of him, and then he lay very still, face-down from the knees under a column of carved stone.
-
-A blind stone face lay a hand's width from his cheek, staring at him with no eyes.
 
 "I'm all right," he said into the sand. His voice was thin. "Nothing's broken. I think nothing's broken. It's just *very heavy*."
 
@@ -197,8 +189,6 @@ The riders stopped in a line. They tilted their blank white faces, all four of t
 The fourth said nothing. The fourth had a child's voice, I learned later, and had nothing left to say at all.
 
 Theyab reached for the Light. It came grey and thin and sputtering, the way it had with the jackals at the well, because he wasn't thinking about anyone else now. Terror filled him to the brim and left no room for anything gold.
-
-The jackals grinned their shadow grins. They have too many teeth when they grin. More than they have when their mouths are shut.
 
 "Theyab," said Hazza' from the sand. "Go. *Go.* Ride the storm out. You know how. Leave me—"
 
@@ -237,8 +227,6 @@ And then, because I was angry, and because the jinn part of me is always angry, 
 It went end over end through the swirling sand and came down on the four masked men with a sound I won't describe to you. I'll only tell you that the humming stopped. All four voices at once, mid-note, the way a door cuts off a room.
 
 The other jackals turned to run. I caught two. I didn't need my teeth. My shadow's mouth closed over them where they ran, and they went into the dark inside me like water into sand, and the dark was glad. That's the part I've never told anyone. *It was glad.*
-
-The rest melted back into the storm.
 
 Then it was quiet, except for the wind and my own breath, which was not a dog's breath. It frosted the sand at my feet.
 
@@ -310,8 +298,6 @@ One of them was. Barely.
 
 He lay apart from the others, half under the stone. His mask had cracked down the middle, and Hazza' had to pull at it. It had grown to his face at the edges, the way bark grows over a nail driven into a ghaf tree. Under it was a face thin and grey and frightened. Not much older than Hazza'.
 
-The young man's eyes found Hazza's. For a moment, they were his own eyes.
-
 His lips moved. Even I couldn't hear. Hazza' bent down close. Whatever he said, it took all he had, and then his lips stopped, and his eyes stayed open on the moon.
 
 Hazza' knelt there a long while. Then he reached into the dead man's robe and drew something out.
@@ -329,6 +315,7 @@ Hazza' read it twice. His hand was shaking.
 Then he folded it very small. He twisted the brass pommel off the hilt of his broken sword and slid the letter into the hollow where, in the old swords of Ubar, a smith would roll up a written blessing for the man who carried it. He screwed the pommel back on, tight.
 
 He came back to the fire and sat beside us with the sword across his knees. He looked at Theyab asleep, the gold still glowing faintly up both arms. He looked at me, and I didn't pretend to be asleep, and he didn't pretend he hadn't seen what had stood over him that afternoon.
+
 He didn't wake Theyab. He didn't tell him.
 
 I think he meant to. I think he wanted Theyab, for one more night, to carry only one terrible thing instead of two.
