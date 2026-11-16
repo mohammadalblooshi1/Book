@@ -86,7 +86,7 @@ Hilal did not stop. He did not open his eyes. He did not speed up and he did not
 
 And Saqi laughed.
 
-The mouth hung open upside down over the post and laughed, Saqi's big rough laugh that nobody had heard in three years. Then a child's, giggling. Then an old woman's, wheezing. Then a whole majlis of men laughing at a joke, out of one upside-down mouth, on and on.
+The mouth hung open upside down over the post and laughed, Saqi's big rough laugh that nobody had heard in years. Then a child's, giggling. Then an old woman's, wheezing. Then a whole majlis of men laughing at a joke, out of one upside-down mouth, on and on.
 
 Then it stopped, and the voice that came out next was Saqi's own, perfectly ordinary.
 

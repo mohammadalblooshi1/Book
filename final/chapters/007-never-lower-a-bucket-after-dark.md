@@ -114,7 +114,7 @@ His father was sitting on the bench by the well in the early sun, with Shibl in 
 
 Three notes, and a little turn.
 
-Nadim stood in the doorway and watched it. His face did a thing I had never seen it do. It went young. All the hardness went out of it at once, like a fist unclenching, and underneath it was a boy of about Shibl's age, standing in a doorway, watching his mother comb his brother's hair.
+Nadim stood in the doorway and watched it. His face did a thing I had never seen it do. It went young. All the hardness went out of it at once, like a fist unclenching, and underneath it was a boy of about Shibl's age, standing in a doorway, watching his mother comb his own hair, long ago, before there was a Shibl.
 
 Saqi looked up. He smiled at his elder son.
 
@@ -172,7 +172,7 @@ On the third day, Shibl came to the wall.
 
 There was a low mud wall at the back of Saqi's yard, crumbling at the top, where the yard gave onto the lane that led out past the last houses to Theyab's hollow. Shibl knew he was not allowed to talk to Laqeet. Every child in the village knew that. But Shibl had been in love with me since he could walk. He thought my silver eye was a coin I kept in my head. He used to save me date-stones with a little flesh left on them, and hold them out on his flat palm the way he had been taught to feed a camel, and giggle when my whiskers touched his hand.
 
-He came to the wall in the afternoon, when the qayla was over and the shadows were beginning to stretch, and he hung over the top of it on his stomach and held a date down toward me.
+He came to the wall in the afternoon, when the noon rest was over and the shadows were beginning to stretch, and he hung over the top of it on his stomach and held a date down toward me.
 
 I took it. I am not made of stone.
 
@@ -196,7 +196,7 @@ Theyab's needle stopped.
 
 Shibl shrugged, one-shouldered. "I can't hear. But it talks back." He looked down at me, and then at Theyab, and his face was not frightened at all. It was pleased. It was the face of a child telling a secret he thinks is a good one. "It talks back with Mama's voice."
 
-Their mother had been dead for three years. She had died of a fever in the cold season, and Shibl had been four, and I had watched Saqi bury her before the next sunset with his own hands and come home and take the belt to Nadim for crying.
+Their mother was dead. She had died when Shibl was too small to remember anything of her, not her face and not her voice. He had never heard her voice in his life, little one. Except, now, down the well.
 
 "Shibl," Theyab said carefully. "What does your mama say?"
 

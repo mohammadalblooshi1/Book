@@ -56,7 +56,7 @@ And it was learning. I could hear it learning. Every time a voice called and nob
 
 ---
 
-Umm Hanan's house was the third from the end of the western lane, and her lamp was the only light in Hilat al-Sarab.
+Umm Hanan's house was the last on the lane behind the well, and her lamp was the only light in Hilat al-Sarab.
 
 She had never put it out, not in all the years I had known her, not on the night the boats came home without her men. It stood in the niche inside her door, a little clay lamp with a wick of twisted cotton, and it burned the way it always burned: steady, upright, unbothered, a small yellow tongue of flame that the draught under the door never seemed to find.
 
@@ -82,13 +82,13 @@ That was the first thing. They were young men's voices, a little rough, the voic
 
 Then the other one, the younger one, laughing the way he must have laughed: "*Yumma, we're starving, what did you bake? Yumma. Yumma, it's us.*"
 
-They had drowned off the pearl banks four summers before, the two sons and their father, on the same morning. The other divers said a voice had called them over the side, using their names. A thing the divers talk about only when they are very drunk or very old, a thing in no book, that they call the Deep Caller.
+They had drowned off the pearl banks years before, before ever the boy came up out of the noon, the two sons and their father on the same morning. The other divers said a voice had called them over the side, using their names. A thing the divers talk about only when they are very drunk or very old, a thing in no book, that they call the Deep Caller.
 
 I think the things from below talk to each other, little one, the way traders talk at a well. I think the Deep Caller kept those voices in the cold under the sea, the last bubbles of three drowning men, and that night it lent them inland. As a favour. As a joke. I do not know what passes for a joke down there.
 
 The door opened.
 
-Umm Hanan stood in it, her grey hair uncovered and loose, barefoot, the lamp behind her making her a black shape with a yellow edge. Her face was perfectly calm, the way faces go when the thing you have prayed for every night for four years finally happens and there is no room left in you for any feeling at all.
+Umm Hanan stood in it, her grey hair uncovered and loose, barefoot, the lamp behind her making her a black shape with a yellow edge. Her face was perfectly calm, the way faces go when the thing you have prayed for every night for years finally happens and there is no room left in you for any feeling at all.
 
 "I'm here," she said. "I'm here, my eyes. I'm coming."
 
@@ -134,7 +134,7 @@ She shut her eyes.
 
 I tried to tell her.
 
-I knew both her sons. The younger, the one with the laugh, carried me once across a flooded wadi on his shoulders when I was being stubborn about the water. I had his name. It was right there.
+I never knew her sons. They were under the water before we came up out of the noon. But I had heard her say that name every morning for eight years, through her wall, slapped into the bread like salt. I had it. It was right there.
 
 I opened my mouth in the dark, and what I had was this:
 
@@ -178,7 +178,7 @@ Theyab shouted at him. He shouted the man's name, and told him to come back, and
 
 I ran.
 
-I ran as fast as I have ever run, low and long, the way a saluki runs a hare down across a gravel plain, and I would have had him. I would have had his robe in my teeth and pulled him over backwards into the starlight. I was ten strides off.
+I ran as fast as I have ever run, low and long, the way a saluki runs down a hare, and I would have had his robe in my teeth. I was ten strides off.
 
 He said, "I'm here."
 
@@ -188,7 +188,7 @@ I stopped at the edge. I am ashamed of that. I tell myself I stopped because The
 
 The goat-herd walked away from us into the Grey with his hands held out in front of him, saying, "Is that you? Is that you?" and the shape went ahead of him, a little out of reach, the way a mother walks backwards in front of a child learning to walk.
 
-We waited at the edge for an hour. Theyab would not leave. He crouched with his hands between his knees and stared into the flat grey nothing, and every so often he called the man's name again, and every so often it died in the air.
+We waited at the edge for an hour. Theyab crouched and stared into the flat grey nothing, and called the man's name, and it died in the air.
 
 Then the goat-herd came back.
 
@@ -282,7 +282,7 @@ It is not, it turns out, impossible.
 
 Nobody answered him.
 
-"It called them," said Ghanim. "It called them, and they came to it. They know it. It's one of them. I've said so. Haven't I said so? Since the Laqeet came, that dog's been—"
+"It called them," said Ghanim. "They know it. It's one of them. Haven't I said so? Since the Laqeet came, that dog's been—"
 
 "Be quiet," said Sheikh Mazyad from his own roof. But he said it without force. He was looking at me.
 
