@@ -28,9 +28,9 @@ A vast old hull, longer than all of Hilat al-Sarab, sunk on its side like a drow
 
 And inside it, through every crack and gap, lamps burned.
 
-I knew what she'd been the moment I saw her lines. Not a trader. A pearler, a big one, built for the banks, with the long rows of oar-ports down her sides where the pullers had sat, and the stubby posts along the rail where the diving ropes had run. Half out of the sand by her stern lay a heap of the stones divers tie to their feet to go down fast, still on their rotten cords, bleached white as knucklebones. The blind man in the market had been telling the truth. They usually are, the ones the children laugh at.
+I knew what she'd been the moment I saw her lines. Not a trader. A pearler, a big one, built for the banks, with the long rows of oar-ports down her sides where the pullers had sat, and the stubby posts along the rail where the diving ropes had run. Half out of the sand by her stern lay a heap of the stones divers tie to their feet to go down fast, still on their rotten cords, bleached white as knucklebones. The blind man in the market had told the truth.
 
-The sea had been here once. Not in my time, but near it. The sabkha was what the sea left behind when it went: a crust of salt over grey mud, and the mud over something soft and deep and never quite dry. In summer the crust cracks into plates the size of camel saddles, and between them it breathes out a smell of rot and old tide.
+The sea had been here once. Not in my time, but near it. The sabkha was what the sea left behind when it went: a crust of salt over grey mud, and the mud over something soft and deep and never quite dry.
 
 No herder grazes near that flat. No caravan camps within a night of it. Every Bedouin between Liwa and the coast knows why, though they'll only say it after the coffee has gone round twice and the children are asleep. The thing that took that boat didn't leave when the water did. It went down. Bu Darya, the Father of the Sea, who calls the divers by their names.
 
@@ -426,7 +426,7 @@ Behind us the Nameless came over the ridge on their racing camels, lamps swingin
 
 It was shorter. Any herder could have told them not to. They didn't ask any herders.
 
-I was hanging over Theyab's shoulders with my head jolting against his ribs, so I saw it all upside down. The camels hit the crust at a run, and the plates boomed under their feet like the skin of a drum, and the jackals raced ahead of them, low and fast, coal eyes in a line, bearing down on the place where the edge of the flat curved in to meet us.
+Hanging over Theyab's shoulders, I saw it all upside down. The camels hit the crust at a run, and the plates boomed under their feet like the skin of a drum, and the jackals raced ahead of them, low and fast, coal eyes in a line, bearing down on the place where the edge of the flat curved in to meet us.
 
 And the voices on the salt stopped.
 
@@ -444,7 +444,7 @@ I didn't see what happened. I'm glad. I saw the lamps go down, one, two, five, i
 
 Then the crust closed. The plates settled. Out in the middle of the sabkha the white lay flat and still under the stars, as though nothing had ever crossed it.
 
-Theyab didn't stop running. Neither did the children. Not one of them looked back. I've always been proud of them for that.
+Theyab didn't stop running. Not one of the children looked back.
 
 We were three dunes away before I heard the voices start up again behind us, out on the salt. Thin with distance. Calling to the boat.
 

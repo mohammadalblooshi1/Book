@@ -283,6 +283,16 @@ Nadim looked at it a long time. Then he went down on his knees beside the bed an
 
 I was lying in the doorway. I'd been lying in that doorway since the moon had turned nine times. Hessa had stopped trying to chase me off. She looked at me now, over her son's head, and I saw her understand, and I saw her hate me for it. She was right to.
 
+She did everything the old women told her.
+
+There was a silver amulet case on a cord at the baby's neck before he was a day old, with a folded paper inside that she never opened. There was a blue glass bead pinned to his swaddling, an eye with a white ring and a black heart, to catch envious looks and turn them back. She kept the lamp burning all night, every night, for the forty nights a mother and her newborn don't leave the house. And under her pillow, where her hand could find it in the dark without waking anyone, she kept a blade.
+
+Not Nadim's khanjar. A narrow knife of black iron, wrapped in rag, that had lain under the pillow of every mother in her family through their forty nights. Iron, the grandmothers say. They can't abide iron.
+
+Who *they* were, she didn't say. Every girl in Hilat al-Sarab grew up on the name. Umm al-Sibyan. The Mother of Children. She comes for the newborn and the newly delivered in the first forty nights, when the mother is weakest and the child has hardly been named. She comes as someone you'd let in.
+
+Hessa slept with her hand on that iron. And when she couldn't sleep, she lay and looked at me across the cradle: a dog who had buried eleven children, lying in her doorway. I don't think she could decide whether I was what the iron was for.
+
 ---
 
 Nadim doesn't sleep much. He sold one bearer, once, to the Nameless, for his brother's life. He has never said so aloud. He sleeps across the inside of the door with a khanjar under his hand. He carries the boy everywhere on his shoulders, and if a stranger so much as asks the child's name in the souq, Nadim puts himself between them. He's been wrong once about who to protect. He means to spend the rest of his life on the other side of it.
@@ -306,6 +316,50 @@ It's a voice I know. I heard it under Ubar. I heard it in Ghadban's mouth, a bea
 My hackles go up so hard they ache, every time. I growl until my ribs shake.
 
 And I don't move. Not once. Not a paw's width from that cradle. It's tried every night since you were born, and I'm still here. I'll still be here when it stops trying. I've been frightened off from a great many things in my life, little one. Not from you.
+
+It tried something else, once. I'll tell you, and then I won't speak of it again.
+
+It was the thirty-ninth night. One short of the forty. The house was asleep, even your mother, and that was the first wrong thing, because Hessa never slept. Your father was asleep across the door with his knife, and I was lying across his feet, and the lamp had burned low.
+
+Someone scratched at the door. Softly. The way a neighbour scratches when she doesn't want to wake the baby.
+
+Then a woman's voice, through the wood. Warm. Tired. A mother's voice.
+
+"*Hessa,*" it said. "*Hessa, let me in. I've come to help with the boy. You haven't slept in a month. Let me hold him. Only till morning.*"
+
+Nadim didn't wake. Out at the edge of the house Sharood had put his face in his hands. Under the window, Saqr had stopped humming.
+
+The door was barred. It opened anyway, a hand's width.
+
+She was tall. Taller than the doorway, so that she had to stoop to look in, and her hair hung down over her face in long grey ropes, dripping, as if she'd come up out of the falaj. Her arms were bare and very long, and she held them out in front of her in the shape of a cradle. Empty. She smelled of sour milk. And behind the hair, where her face should have been, there was a face. I won't tell you whose. It was one Hessa would have known; I'll swear to that. Hessa's eyes had come open across the room, and couldn't close.
+
+"*He's going to burn,*" said the woman at the door, so gently. "*You know he is. You've heard the story. Give him to me now, while he's small, and he'll never feel it. I'll keep him. I keep all of them.*"
+
+My hackles came up so hard the old burn split open.
+
+That wasn't the worst. The worst was Hessa's hand, moving under the pillow. Not toward the iron. *Away* from it.
+
+So I got up.
+
+I stepped off Nadim's feet and stood in that hand's-width gap with my nose a finger from those empty arms. I didn't let the shadow out. I was an old dog in a doorway, that was all, and I put my teeth where she would have to come through them.
+
+She bent down to me. Under the sour milk I smelled the grey, and under the grey, holding its breath, the thing from the well.
+
+"*Go, old dog,*" she said. "*Lie down somewhere else.*"
+
+I growled until the bead on your swaddling rattled.
+
+And behind me I heard the scrape of iron on the floor, as Hessa, sobbing, dragged her grandmother's blade out from under the pillow and held it up in the lamplight in both hands.
+
+When I looked back at the door it was shut. Barred. The bar had never moved.
+
+In the morning there were no tracks outside.
+
+But the blue bead on your swaddling had split clean in two, straight down the middle of its eye. The old women say that's what a bead does when it has caught something meant for the child.
+
+Hessa buried both halves at the foot of Umm Hanan's lamp. She didn't look at me for three days. On the fourth she put a bowl of milk down beside the cradle, and I drank it.
+
+I want that recorded.
 
 The dunes out at the far edge of the sands have started writing again. Out where no caravan has ever come back from. Out where Bakhit was looking.
 
@@ -355,7 +409,13 @@ Wake up, little one.
 
 *At his feet, the old saluki lifted his head. One eye amber, one eye silver. He got up, stiffly, the way the very old get up, and shook the sand from his coat, and walked away from the fire without looking back, across the camp to a small tent where a lamp was burning and a newborn had been sleeping for three nights.*
 
+*Inside, by the lamp, a young mother slept with one hand under her pillow, closed on something long and dark that was no knife a man would carry. A blue bead winked on the baby's swaddling. A small silver case lay at his throat.*
+
 *He lay down across its door.*
+
+*At the edge of the firelight the smallest of the children saw a woman standing. Tall. Her hair hanging down over her face. Her long arms held out in front of her, empty, in the shape of a cradle. The child blinked, and there was only a dune.*
+
+*The old saluki didn't lift his head. But a growl came out of him, very low, and went on for a long time.*
 
 *Out on the dunes, very faintly, the sand was writing.*
 

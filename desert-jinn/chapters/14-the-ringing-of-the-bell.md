@@ -188,7 +188,7 @@ The children ran off shrieking, happy. The old man turned his white eyes to the 
 
 "Stay off the dead salt, saluki," he said. "It remembers what it ate."
 
-I didn't know then that I'd be lying under that ship in two days' time. I'm not sure I'd have done anything differently if I had. That's the trouble with warnings. They only work on the people who were going to stay home anyway.
+I didn't know then that I'd be lying under that ship in two days' time. That's the trouble with warnings. They only work on people who were staying home anyway.
 
 ---
 
@@ -205,8 +205,6 @@ Then the wind turned, and brought him to me.
 Sweat. Fear. The black rot of feet bound too long in the same rags. And under all of it, worked into his hair and the threads of his shirt the way smoke works into the walls of a tent, a scent that had no business on a starving boy. Oud. Musk. And beneath them, faint and sweet, meat turning in the sun.
 
 He'd been close to her. Not for one night on the road. Close for days. Close enough that she'd touched him, and kept touching him, the way you keep a hand on a camel you don't want to wander.
-
-The children at the well wrinkled their noses at him and moved off without knowing why. A married man coming out of the coffee-seller's stopped, sniffed, and looked at the ragged boy with an expression I've seen on men's faces before, a kind of sick recognition, and walked quickly the other way.
 
 He didn't see me. He was watching the house with the teak door the way a starving dog watches a butcher's stall. When the market got busy around noon he slipped off down a narrow lane between the dyer's yard and the garden wall.
 

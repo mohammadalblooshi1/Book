@@ -152,7 +152,7 @@ He took us by ways no one living had used in a hundred years. Through a gap behi
 
 That ledge is the part I still dream about.
 
-The tunnel opened without warning into a cavern so wide Theyab's light couldn't find the far side of it. Pale rock, limestone, all holes and folds, like the inside of a bone. High overhead, in the middle of the roof, hung a disc of dim orange light the width of a threshing floor: the bottom of Ubar's great well, where the city let down its buckets, with lamps burning round its rim far above and their smoke leaning in. Ropes hung down through that light, swaying. Some had buckets on them. Some had only frayed ends.
+The tunnel opened without warning into a cavern so wide Theyab's light couldn't find the far side of it. Pale rock, limestone, all holes and folds, like the inside of a bone. High overhead, in the middle of the roof, hung a disc of dim orange light the width of a threshing floor: the bottom of Ubar's great well, where the city let down its buckets, with lamps burning round its rim far above and their smoke leaning in. Ropes hung down through that light, swaying.
 
 Under it the water lay black and still, and so deep the light gave up on it.
 

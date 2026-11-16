@@ -101,7 +101,41 @@ And every hair on my body lay down flat. I couldn't stop it. I have never been a
 
 I saw it go into him.
 
-"And after," said Ghadban, "they'll light a lamp. One more in a row of eleven. In a hundred years no one will remember what it was for. Bearers' names come off the walls like the names in Ubar. You'll be forgotten." A whisper. "You'll be forgotten, Theyab. Just like you always were."
+Then the voice under Ghadban's voice spoke on its own.
+
+The boy's mouth didn't move. His lips stayed in that too-wide smile. But the deep thing that had been a beat behind every word came up to the front, and the sand on the crest shivered under it, and the masks along the crest bowed without being told.
+
+"*Or,*" it said.
+
+It was the voice from the well. Warm. Grandfatherly. Pleased with you.
+
+"*Or you could live.*"
+
+Below us, the emptied stopped humming.
+
+"*Let the shepherd go, and the dog, and the little lamps, and take the other road. I made a vow once, under the city, in the first hundred years of my prison. I will keep it for you. Whoever frees me, I will make rich. Pearls by the basket, little light. Camels to the edge of the sky. A house of your own in Al Ain, with a falaj through the courtyard and a lime tree, and no one ever again to throw a stone. And long life. Longer than Bakhit's. Long enough to see every man who called you monster laid in the sand, and to stand at their graves and remember their names when no one else does.*"
+
+It was beautiful. It was the most generous thing anyone had ever offered him. I watched him hear it. I watched the boy who'd lived off the rubbish heap of Hilat al-Sarab see a lime tree and a courtyard and a door that was his.
+
+And the growl came up out of me like a rockslide.
+
+Not a warning. Not low. It came from the very bottom of me, where the jinn half lives, and it shook the sand off my coat, and my lips came back from my teeth so far my gums split. Every hair on my body stood. I have growled at a great many lies in my life. I had never growled at one that big.
+
+I had heard the rest of it, the night before, from the bottom of a well. I knew what came after *rich*.
+
+So did Ghadban. For one breath the grey boy's face slipped. The smile went small and young and frightened, and his black eyes came to me, and I saw a shepherd boy kneeling on a ledge in a limestone cave a very long time ago, with a cracked seal in his two hands, waiting for the riches and the long life that were going to save him.
+
+Then the smile came back, too wide again, and the deep voice laughed, softly, as though I'd told a joke at a wedding.
+
+Theyab looked at me. He looked at my back. He'd learned to read it better than any bearer before him.
+
+"No," he said. His voice shook. "That one's a lie."
+
+"*It was true once,*" said the voice, almost wistful.
+
+My hackles stayed up. They know the difference between once and now.
+
+"Then burn," said Ghadban, in the boy's voice again. "And after, they'll light a lamp. One more in a row of eleven. In a hundred years no one will remember what it was for. Bearers' names come off the walls like the names in Ubar. You'll be forgotten." A whisper. "You'll be forgotten, Theyab. Just like you always were."
 
 My hackles went up so hard it hurt, from the base of my skull to my tail, and I growled from the bottom of my chest.
 
