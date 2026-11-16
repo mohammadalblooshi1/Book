@@ -14,7 +14,7 @@ In Veimore, which already had more lanterns than any city in the world, they did
 
 I sat on the sill of the tower window and watched them being lit, one after another, by a priest with a long taper.
 
-The Shepherd. The Weaver's Daughter. The Smith. The Twin Who Stayed.
+The Shepherd. The Weaver's Daughter. The Smith. The Twin Who Stayed. The Last King.
 
 I knew every one of them. I knew which ones had been afraid of the dark, and which ones had laughed too loud, and which ones had cried for their mothers on the last night. Nobody in that city knew a single one of their names. That's the joke, you see. A festival of lanterns for the remembered, and not one person down there could have told you who they were remembering.
 
@@ -72,7 +72,7 @@ It wasn't a guard. There had been two guards on the stair, and I'd heard nothing
 
 Brother Seven stood in the doorway.
 
-Up close the crack in his mask was wider than I'd thought. It ran from his brow down to his jaw, and through it I could see a thin line of his real face, the edge of one dark eye. He had Soren's sword in one hand and Hesset's bell in the other.
+Up close the crack in his mask was wider than I'd thought. It ran from his brow down to his jaw, and through it I could see a thin line of his real face, the edge of one pale eye. He had Soren's sword in one hand and Hesset's bell in the other.
 
 He held them out.
 

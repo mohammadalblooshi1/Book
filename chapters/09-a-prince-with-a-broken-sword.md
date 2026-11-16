@@ -22,7 +22,7 @@ Zayn sat and watched him for a long time. He'd learned to fight from bullies and
 
 "Don't be. I'm magnificent." He finished the pattern with the broken point an inch from a palm trunk, held it there a moment, then lowered it. "Taught by the finest swordmaster in the city, and then by every guard who wanted to knock a prince on his backside and call it a lesson. I've never lost a fight."
 
-From somewhere inside Zayn's pack, muffled by the cloth around it, came a small, clear *ting*.
+From somewhere inside Zayn's pack, muffled by the cloth around it, came a small, clear *ting*. He'd kept the bell wrapped up in there since the caravan, where nobody could see it glint and ask.
 
 Soren stopped. He looked at the pack. He looked at Zayn.
 

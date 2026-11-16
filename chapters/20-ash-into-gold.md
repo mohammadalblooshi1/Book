@@ -53,13 +53,13 @@ I've hated him for more years than I can count. I'll miss him for longer.
 
 Brother Seven was kneeling at the very end of the crest, where the boy had stood.
 
-The sand there had turned gold. Not gold-coloured. *Gold*. You know the old stories: sand that holds a bearer's ash turns gold and never moves again. It lay in a small, perfect circle on the top of the highest dune in the world, glittering in the last of the Ashlight. The wind went across it and didn't move a single grain.
+The sand there had turned gold. Not gold-coloured. *Gold*. You know the old stories: sand that holds a bearer's ash turns gold and never moves again. It lay in a small, perfect circle on the top of the highest dune in the world, glittering in the last of the Ashlight. The wind went across it and didn't move a single grain. In the middle of it lay Hesset's golden feather, the one that had been found with the baby in the sand. It was whole. Every barb.
 
 Tamir had put down his blades. As I watched, the white mask on his face split along its crack and fell away in two halves into the sand.
 
-Under it was a young man's face. Twenty years old, dark-eyed, thin. He had his father's jaw and his brother's light, watchful look, and tears were running down his face, and he didn't wipe them away.
+Under it was a young man's face. Twenty years old, pale-eyed, thin. He had his father's jaw and his brother's light, watchful look, and tears were running down his face, and he didn't wipe them away.
 
-He was remembering. All of it, all at once. I could see it. A house in the mountains. A man singing. A newborn baby put into his arms on a night of storm and screaming, and his father's voice saying the baby's name, very softly, so the wind couldn't hear it. And then the masks, and the grey, and fifteen years of nothing.
+He was remembering. All of it, all at once. I could see it. A tent with its walls bowing in the wind. A man singing. A newborn baby put into his arms on a night of storm and screaming, and his father's voice saying the baby's name, very softly, so the wind couldn't hear it. And then the masks, and the grey, and fifteen years of nothing.
 
 He opened his mouth. He hadn't spoken a word of his own in fifteen years.
 
@@ -169,7 +169,7 @@ Orrin saw me coming over the ridge, huge and black with my ember eyes, and he ra
 
 I reached Soren. He was already gone. His eyes were open. He'd fallen facing the way Zayn had walked.
 
-I closed them. I had to shrink back into a fox to do it. A monster's paws are too big for something like that.
+I tried to close them. I had to shrink back into a fox even to try. A monster's paws are too big for something like that, and a fox's aren't made for it either. They wouldn't stay shut. In the morning the boy did it for me.
 
 And then I said nothing.
 

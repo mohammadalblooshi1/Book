@@ -55,7 +55,7 @@ Not just the ones from Veimore. All of them. They had come from the whole desert
 
 They parted for us like water.
 
-We climbed. The camel couldn't, so we left it at the bottom. The sand slid under our feet with every step, and Zayn went first, and Daruun came behind with his spear, and I came last, limping. Halfway up, Zayn turned and picked me up without a word and carried me the rest of the way, the way he had carried me out of the City of Glass. I let him. I was too tired to be proud.
+We climbed. The camel couldn't, so we left it at the bottom. The sand slid under our feet with every step, and Zayn went first, and Daruun came behind with his spear, and I came last, limping. Halfway up, Zayn turned and picked me up without a word and carried me the rest of the way, the way he had carried me away from the buried ship. I let him. I was too tired to be proud.
 
 And then we were at the top, and I looked up, and it was the vision.
 
@@ -169,13 +169,13 @@ Malek took a step backward.
 
 Tamir raised his twin grey blades.
 
-They were the only things in the world that could cut the Light. He stood between Zayn and Orrin, and his blades were shaking, and through the great crack in his mask I could see one dark eye, wet and wide.
+They were the only things in the world that could cut the Light. He stood between Zayn and Orrin, and his blades were shaking, and through the great crack in his mask I could see one pale eye, wet and wide.
 
 He was humming. He didn't know he was doing it.
 
 Zayn walked toward him.
 
-He didn't raise his sword. He didn't hurry. He walked straight up to his brother until the grey blades were a finger's width from his chest, and he looked into that one dark eye through the crack.
+He didn't raise his sword. He didn't hurry. He walked straight up to his brother until the grey blades were a finger's width from his chest, and he looked into that one pale eye through the crack.
 
 "You held me," he said. "When I was born. I saw it. You were five, and you held me, and you were scared you'd drop me."
 
@@ -319,7 +319,7 @@ Gold rains down over the desert, and everywhere it lands, the grey goes away.
 
 Somewhere below, someone is shouting a name.
 
-It's his father. On his knees in the sand at the top of the Crown Dune, his arms around a crying prince, his face turned up into the falling gold. Shouting it over and over, the only name he was ever allowed to call his son.
+It's his father. On his knees in the sand a little way down the crest, below the place where his son stands, his arms around a crying prince, his face turned up into the falling gold. Shouting it over and over, the only name he was ever allowed to call his son.
 
 "*Zayn! Zayn!*"
 

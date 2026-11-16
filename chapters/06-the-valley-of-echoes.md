@@ -300,7 +300,7 @@ Behind me, I heard Zayn get up. I heard him fold the grey cloth and tuck it away
 
 After a while I climbed down.
 
-"North," I said. My voice was almost normal. "Come on. There's a caravan road out past those thorn trees, unless the dunes have eaten it. You need water, and you need food that isn't old bread and squashed dates, and you need to be somewhere with other people for a while, so you'll stop having conversations with things in your head."
+"North," I said. My voice was almost normal. "Come on. There's a caravan road out past those thorn trees, unless the dunes have eaten it. You need water, and you need food that isn't dew off rocks and squashed dates, and you need to be somewhere with other people for a while, so you'll stop having conversations with things in your head."
 
 He looked at me for a long moment.
 

@@ -122,7 +122,7 @@ The king did not eat. That was the first thing she said, as if it were the worst
 
 She spat into the fire. I liked her very much at that moment.
 
-"Grey eyes. Soft voice. You never hear him coming, that one. He's brought the king Soren's ring. Says he took it off the body to bring it home." She looked at Zayn sideways. "The king wears it on a chain round his neck now. Over his heart."
+"Grey eyes. Soft voice. You never hear him coming, that one. He's brought the king Soren's ring. Stood up in the throne hall and said he'd taken it back from the Prince-Killer's own hand, in some oasis town, before the boy slipped away from him. Proof, he called it. Proof the glowing boy robbed our Soren's body." She looked at Zayn sideways. "The king wears it on a chain round his neck now. Over his heart."
 
 Zayn's hand had gone to the hilt.
 
@@ -172,13 +172,13 @@ Then he sat down on the floor and cried, and Zayn sat down beside him. Zayn didn
 
 It was the right thing. It's almost always the right thing.
 
-Later, Zayn twisted the pommel of the sword and took out the letter. It was creased soft from handling, sealed with dark red wax pressed into a circle with nothing inside it.
+Later, Zayn twisted the pommel of the sword and took out the letter. It was creased soft from handling, and the broken grey wax still held the little curling mark of Orrin's seal.
 
 "You can read?" Idan asked.
 
 "Your brother taught me. In the sand. With a stick." Zayn touched the letters one by one, as if they were still warm. "He was a bad teacher. He kept laughing."
 
-Idan read the letter by the light of Zayn's mark. I watched his face change at the end. *On the Night of Embers, put out the lanterns. The king first. Then the city.*
+Idan read the letter by the light of Zayn's mark. I watched his face change halfway down. *On the Night of Embers, when every lantern in Veimore is lit, the king will die.* And again a line later. *When he falls, put out the lanterns. Then the city.*
 
 "The Night of Embers is tomorrow," Idan said. "And the Ash will be full."
 
@@ -218,7 +218,7 @@ The king took the letter and looked at the seal for a long time. Then he looked 
 
 And Orrin sighed, very gently, like a teacher whose favourite pupil has made a small mistake. When he spoke, his voice filled the shadows of that hall the way smoke fills a room.
 
-"Your Majesty will remember that I reported my seal stolen on the night of the prince's exile. It is written in the palace records." He spread his soft hands. "I did not wish to believe Soren had taken it. But here it is. A forgery in a broken sword, carried by the boy who killed him, on the very eve of the Night of Embers. It is clever. I'll grant them that."
+"Your Majesty will remember that I reported my seal stolen on the night of the prince's exile, and had a new one cut. It is written in the palace records." He spread his soft hands. "I did not wish to believe Soren had taken it. But here it is. A forgery in a broken sword, carried by the boy who killed him, on the very eve of the Night of Embers. It is clever. I'll grant them that."
 
 You see? Long before Soren ever found that letter, Orrin had made sure that if it was found, it would look like a lie.
 

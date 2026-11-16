@@ -164,7 +164,7 @@ The Crown Dune, so high its top was lost in the sky.
 
 Fire, rising up through him. His own arms, opening.
 
-And this time, something new. A sound, far below him, at the foot of the dune. Someone shouting. Someone shouting a *name*, over and over, in a voice cracked down the middle, and he couldn't hear what the name was. He leaned toward it with everything in him, and he couldn't hear it.
+And this time, something new. A sound, somewhere below him on the dune. Someone shouting. Someone shouting a *name*, over and over, in a voice cracked down the middle, and he couldn't hear what the name was. He leaned toward it with everything in him, and he couldn't hear it.
 
 "Hey. *Hey.*"
 

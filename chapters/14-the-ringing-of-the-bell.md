@@ -154,7 +154,7 @@ I didn't answer.
 
 There it was. The door, wide open, and all I had to do was walk through it.
 
-*He killed Soren.* Three words. That's all it would have taken. And he would have asked, *How do you know?* And I would have had to tell him where I'd been on the night of the full Ash, and what I'd been, and what I'd seen, and how far away I'd been when I saw it, and how fast I had run, and how it had not been fast enough. And I had no proof. I had nothing but my own word, and my own word had gone dark at the City of Glass.
+*Don't trust him.* Three words. That's all it would have taken. And he would have asked, *Why not?* And I would have had to tell him where I'd been on the night of the full Ash, and what I'd been, and everything that came after. I wasn't ready to say that out loud. Not to him. Not even to you, yet. And I had no proof. I had nothing but my own word, and my own word had gone dark at the City of Glass.
 
 I'm not going to make excuses. I've told you I won't. I'll only tell you what I did.
 
@@ -346,7 +346,7 @@ They looked at each other across the wrecked room. The boy who'd thrown the firs
 
 "They've got Tobin," Bram said. His voice was barely there at all. "I'm sorry. Zayn, I'm sorry."
 
-He had never once, in fifteen years, called him by his name.
+He had never once, in fifteen years, called him by his name. I don't think he'd even known it, until the masks told him.
 
 The bell on Zayn's belt hung silent. Not a whisper. Every word was true.
 

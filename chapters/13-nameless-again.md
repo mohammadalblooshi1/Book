@@ -14,7 +14,7 @@ He walked. That was all he did. He walked while the sand was still cold, and at 
 
 Soren's sword was tied across his back, wrapped in his scarf. Half a blade and a plain leather hilt. It knocked against his spine with every step, and every time it did, he flinched, and every time he flinched, he kept walking.
 
-He didn't know what the travellers had done with the body. He hadn't stayed to see. He'd heard them shouting behind him as he ran, the word chasing him over the dunes the way stones had once chased him out of Harrow's End.
+He hadn't given Soren to the dunes. He hadn't been able to make his hands do it. He'd sat beside him until the Fire was high and the wind had begun the work for him, and then he'd walked away and left the sand to finish it, with the word the travellers had shouted chasing him over the dunes the way stones had once chased him out of Harrow's End.
 
 *Prince-Killer.*
 
@@ -106,7 +106,7 @@ He nodded slowly, as though I'd answered. Then he lay down with his back to me a
 
 ---
 
-There was a twist of waxed paper at the bottom of his bag. You'll know what was in it. Four dates rolled in honey, gone sticky and dark, carried all the way from Harrow's End.
+There was a twist of waxed paper at the bottom of his bag. You'll know what was in it. Three dates rolled in honey, the last of the four, gone sticky and dark, carried all the way from Harrow's End.
 
 He had carried them through the beast and the wells and the glass city and the storm, saving them for the hardest day.
 
@@ -136,7 +136,7 @@ He didn't answer.
 
 The sand was over his ankles now. His knees. It was spilling into the folds of his shirt.
 
-The dead are given to the dunes. That's what desert people do. He hadn't stayed to give Soren to them. So he was giving them the next best thing.
+The dead are given to the dunes. That's what desert people do. He hadn't stayed to see the sand close over Soren. So he was giving them the next best thing.
 
 "*Get up.*" I was on my feet, if you can call it that. I got my teeth into his sleeve and pulled. I pulled with everything I had, which that night was less than a kitten has. My burned side split open and smoked and I yelped, and his arm didn't even move.
 

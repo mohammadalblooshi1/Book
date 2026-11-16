@@ -224,7 +224,7 @@ The light went out of Zayn all at once. He stood there swaying. His arms were cr
 
 The vision came as it always did, as soon as the Light went out. It was longer this time. It was clearer.
 
-The full Ash, so near he could see the grey shadows on its face. The Crown Dune beneath his feet. The fire climbing up his arms. Somebody below him, at the foot of the dune, shouting. And for the very first time, he could feel the sand under his bare feet, and how cold it was.
+The full Ash, so near he could see the grey shadows on its face. The Crown Dune beneath his feet. The fire climbing up his arms. Somebody below him on the dune, shouting. And for the very first time, he could feel the sand under his bare feet, and how cold it was.
 
 Then it let him go, and he was on his knees in the ruins with his scorched fox in front of him.
 

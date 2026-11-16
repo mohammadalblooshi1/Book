@@ -294,7 +294,7 @@ He sat with it across his knees for a long time.
 
 He'd carried that sword every step since the full Ash. He'd slept with it in his arms. He'd fought with it. And he had not once really looked at it, because looking at it meant looking at Soren, and he'd been running from that harder than he'd ever run from anything.
 
-He turned it over in the firelight. Half a blade, notched and dull. A plain leather grip. A round iron pommel at the end.
+He turned it over in the firelight. Half a blade, notched and dull. A plain leather grip. A round bronze pommel at the end.
 
 The pommel was loose.
 
@@ -314,7 +314,7 @@ Zayn read it.
 
 He read it himself. Slowly. Out loud, the way Soren had taught him, his finger moving under each word, his lips shaping the letters one at a time.
 
-"*To the Brothers,*" he read. "*On the Night of Embers, when every lantern in Veimore is lit, the king will die. Be ready on the palace stairs. The eldest son is gone. The youngest will come to me. Speak no names.*"
+"*To the Brothers,*" he read. "*On the Night of Embers, when every lantern in Veimore is lit, the king will die. Be ready on the palace stairs. When he falls, put out the lanterns. Then the city. The eldest son is gone. The youngest will come to me. Speak no names.*"
 
 His finger stopped at the bottom.
 
@@ -339,6 +339,8 @@ Zayn looked down at the paper in his hands. At the letters. At the words he coul
 It came out of him like something breaking open. Not grief, or not only grief. Something else. As if every evening by the fire at the Wells, every backwards S and every falling-over R, every time Soren had laughed at him and made him try again, had been leading to this moment, in this cave, with this paper in his hands.
 
 As if it had all been for something.
+
+Later, by the fire, I saw him take Hesset's broken golden feather out of his bag, out of its grey cloth. The break across its middle had nearly closed. Only a few bent barbs were left. I looked at it and hated it, the way I told you I would.
 
 He rolled the letter up again, carefully, and slid it back into the hollow hilt, and screwed the pommel tight. Then he stood up.
 
