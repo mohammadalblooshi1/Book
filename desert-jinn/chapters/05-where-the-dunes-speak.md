@@ -8,45 +8,29 @@
 
 The desert doesn't care about you. That's the first thing you learn out there, and the last thing most people forget.
 
-It isn't cruel. Cruelty takes attention. The desert simply goes on being what it is, and if you happen to die in it, it covers you with the same patience it covers everything else. Then, a few hundred years later, it uncovers you again, just to see. I've seen faces come up after a winter of shamal winds, dry and brown and perfectly kept, mouths open, as if they'd been calling for help the whole time.
+It isn't cruel. Cruelty takes attention. If you happen to die in it, it covers you with the same patience it covers everything else, and a few hundred years later uncovers you again, just to see. I've seen faces come up after a winter of shamal winds, dry and perfectly kept, mouths open, as if they'd been calling for help the whole time.
 
 Theyab knew the desert. It was the one advantage he had.
 
 He knew to walk in the cool hours and lie up through the white glare of noon in the shade of a dune's slip-face, his headcloth over his eyes. He knew the bright yellow *handhal* gourds that trail across the hollows, round as oranges and bitter enough to kill you, and never to touch them however thirsty he was. He knew that a little brown water would sometimes seep into a hole dug at the bottom of a dune hollow, if you dug, and waited, and were lucky. And he knew to lick the dew from the undersides of flat stones at dawn.
 
-I watched him do that the first morning and walked away in disgust to dig for a jerboa.
-
-"You eat lizards," he said to my back. "Raw. With the spines."
-
-A lizard is a *meal*. That is a *rock*.
-
-"It's water," he said, as if I'd spoken.
-
-I had no answer to that. Neither of us did. He wiped his mouth and went on.
-
 ---
 
 We walked for six days.
 
-The straight path lasted only the first morning. By noon the dunes had closed over the end of it like a hand over a coin. After that, every dawn the way ahead looked different. Theyab would climb the highest crest he could find and turn slowly in a circle until something told him which way to go. A tug in the feather mark. Some mornings he stood up there a long time, and I knew he was wondering whether the thing pulling him was the One who made the sands or something else, and whether there was a difference.
+The straight path lasted only the first morning. After that, every dawn the way ahead looked different. Theyab would climb the highest crest he could find and turn slowly in a circle until something told him which way to go. A tug in the feather mark. Some mornings he stood up there a long time, and I knew he was wondering whether the thing pulling him was the One who made the sands or something else, and whether there was a difference.
 
 At night he kept us straight by the stars, the way every herder's child in Liwa learns before he can count: al-Thurayya rising in the east before dawn, the Jadi that never moves, and low in the south, burning red through the dust, Suhail. The caravan men say a man who keeps Suhail in his eye will never be lost. They don't say what happens to a boy who's being pulled by something else.
 
-He talked to me. He'd always talked to me, but it was different now. Now he knew I was listening.
-
-On the second evening, sitting in the sand with the sky going violet, he looked at me for a long time. Then he said, "Bakhit says you understand. Everything."
+On the second evening, with the sky going violet, he looked at me for a long time. Then he said, "Bakhit says you understand. Everything."
 
 I looked back at him.
 
 "All right," he said. "Then we'll do it like this. If the answer is yes, you bark. Once. If it's no, you look away. Can you do that?"
 
-I barked. Once. It came out sharper than I meant it to, and echoed off the dune, and a sand-grouse went up out of a hollow nearby with a clatter of wings.
+I barked. Once. It echoed off the dune, and a sand-grouse went up out of a hollow with a clatter of wings.
 
 He stared at me with his mouth open. None of the others had thought of it. Eleven children had talked to me, and wept on me, and slept against me, and not one of them had thought to ask me anything that could be answered.
-
-"Are you older than Bakhit?"
-
-I barked. He did the sums on his face, and stopped doing them.
 
 "Are you a jinn?" he asked, much more quietly.
 
@@ -76,21 +60,21 @@ On the fourth night he finished it. The four squashed honey-dates from the wreck
 
 The dunes spoke on the fifth night.
 
-We'd stopped at the foot of a long curving ridge, one of the great crescents, the slip-face rising steep and smooth above us like a wall. Theyab had scooped a hollow in the sand to sleep in, out of the wind. The moon had risen late and lopsided. I lay with my nose on my paws and watched him not sleep.
+We'd stopped at the foot of a long crescent ridge, the slip-face rising steep and smooth above us like a wall. Theyab had scooped a hollow in the sand to sleep in. The moon had risen late and lopsided. I lay with my nose on my paws and watched him not sleep.
 
 Then the sand began to move.
 
-Not the dune. Not the wind. Something small. Close. On the long smooth face of the slope in front of us, the sand was rippling, the way the skin on a camel's flank ripples when a fly walks on it. Fine lines were drawing themselves across the slope. Curves and hooks and dots and long straight strokes, crossing and joining, and they weren't being drawn on the sand. They were being pushed up from beneath it, from inside the dune, as if by a single fingertip moving very slowly just under the surface. As they formed, they began to glow.
+Something small. Close. On the smooth face of the slope in front of us, the sand was rippling, the way a camel's flank ripples when a fly walks on it. Fine lines were drawing themselves across the slope. Curves and hooks and dots and long straight strokes, crossing and joining, and they weren't being drawn on the sand. They were being pushed up from beneath it, from inside the dune, as if by a single fingertip moving very slowly just under the surface. As they formed, they began to glow.
 
 Gold.
 
 Theyab sat up so fast he sprayed sand over me.
 
-The marks went on writing themselves. A line, then a second line beneath it, glowing across the dark face of the dune like stars fallen out of the sky. They had the shape of meaning, the way a voice in the next tent has the shape of words even when you can't make them out. They ran from right to left, the way real writing does.
+A line, then a second line beneath it, glowing across the dark face of the dune like fallen stars. They had the shape of meaning, the way a voice in the next tent has the shape of words even when you can't make them out. They ran from right to left, the way real writing does.
 
 I could hear it, too. A faint dry whisper as the strokes moved, like many reed pens on old paper, as if a great many hands were writing at once under the sand, all of them patient, all of them in the dark. And it smelled, not of a lie, but of honey, and hot metal.
 
-Theyab got up and walked toward it. He stood at the foot of the slip-face and looked for a long, long time.
+Theyab got up and stood at the foot of the slip-face for a long, long time.
 
 Then he said, very quietly, "I can't read."
 
@@ -101,8 +85,6 @@ It mattered now. I could see it go into him like the word *monster* did.
 "Ghareeb," he said, without turning round. "Can you read it?"
 
 I could have looked away. He'd have believed me. I barked.
-
-He turned. In the gold light from the dune his face was very young and very angry.
 
 "Then tell me what it says."
 
@@ -150,15 +132,13 @@ Theyab stopped. Out in the shimmer, at the edge of the false water, there was a 
 
 "Ya walad!" he called, clear and warm. "Boy! Come! You're thirsty, I can see it from here. I have water. Come and drink. Come and be my guest."
 
-Water. The guest-right. The two holiest words in the sands, side by side. I watched them go into Theyab like a hook. Nobody had ever called him guest. He took a step forward. Then another.
+Water, and the guest-right: the two holiest words in the sands, side by side. Nobody had ever called him guest. He took a step forward. Then another.
 
 Every hair on my body went up at once.
 
 All of me, and the growl that came out hurt my chest. The wind had turned and I could smell the man with the camel, and he smelled the way the inside of a lie smells. Not sour. Rotten. A lie so complete there was nothing else in it at all. No sweat. No camel. No man.
 
-The bell around Theyab's neck began to ring. Not once. Over and over, tiny and frantic, like a bird beating itself against a cage.
-
-Theyab stopped.
+The bell around Theyab's neck began to ring, over and over, tiny and frantic, like a bird beating itself against a cage. Theyab stopped.
 
 "Come," said the man, smiling. "Come, little one. Don't be shy. Your mother's here. She's been waiting for you so long."
 
@@ -186,11 +166,9 @@ It came up out of the basin like a fountain of black sand, rearing, impossibly l
 
 And through the pouring black of its body, as it rose, I saw what it had eaten.
 
-A camel's ribcage, turning slowly inside it, the bell still on its rotten halter. A man's hand, brown and dried, the fingers still curled around the neck of a waterskin. A child's anklet of silver bells. A face, pressed against the inside of the sand as it poured past, the mouth open in exactly the shape of the faces the desert sometimes gives back. They went round and round inside it like things in a slow flood, and none of them would ever come out.
+A camel's ribcage, turning slowly inside it, the bell still on its rotten halter. A child's anklet of silver bells. A face, pressed against the inside of the sand as it poured past, the mouth open in exactly the shape of the faces the desert sometimes gives back. They went round and round inside it like things in a slow flood, and none of them would ever come out.
 
 The *ghilan* lie under the dunes the way sand-skinks do, and when they feel something warm walking above, they put on a face it will trust and call it in. Then they swallow it, and keep it, and go back down.
-
-Theyab had something warm inside him. Something that, to every jinn in the sands, burned like a beacon fire.
 
 It came down at us like a falling tower.
 
@@ -216,7 +194,7 @@ I didn't think. I ran straight up the loose pouring sand at the base of its body
 
 It tasted of nothing. Dust and cold. And, very faintly, of the people inside.
 
-The ghoul twisted. A coil of black sand whipped round and caught me, pouring and squeezing at once. I couldn't breathe. I felt myself being pulled in and down, toward the darkness under the dunes where the thing lived, and something brushed against my side in the black, and it was a hand. It was dry and light and it closed, gently, in the feathering of my ear, the way you'd stroke a dog that had just come in out of the heat. Welcoming me home.
+A coil of black sand whipped round and caught me, pouring and squeezing at once. I felt myself being pulled in and down, toward the darkness under the dunes, and something brushed against my side in the black, and it was a hand. It was dry and light and it closed, gently, in the feathering of my ear, the way you'd stroke a dog that had just come in out of the heat. Welcoming me home.
 
 I heard Theyab shout my name.
 
@@ -224,7 +202,7 @@ Through a gap in the black sand, I saw him get to his feet.
 
 And I saw the light change.
 
-It's the same every time. One moment it was grey, the light of a boy afraid for himself. The next, it wasn't, because he wasn't afraid for himself any more. He was looking at a skinny old dog being dragged into the sand, and he forgot his own fear the way you forget a thorn in your foot when the tent is on fire.
+It's the same every time. One moment it was grey, the light of a boy afraid for himself. The next, he was looking at a skinny old dog being dragged into the sand, and he forgot his own fear the way you forget a thorn in your foot when the tent is on fire.
 
 The light went gold.
 
@@ -232,7 +210,7 @@ It roared up out of his chest and out of his hands, and he didn't throw it, exac
 
 It hit the ghoul square in the body.
 
-Where the gold touched the black sand, the sand stopped pouring. It turned glassy and dark and then, with a sound like a thousand tiny bells breaking, it shattered. The coil around me burst apart, and the dry hand let go of my ear last. I fell, landed hard, rolled. Above me, the light raced up the ghoul's body the way fire races up a dead palm. The whole vast shape shrieked, high and thin, and in that shriek, I swear to you, there were voices. Many. One of them, I'm almost sure, said *thank you*. Then it collapsed in a slithering rain of black glass and ash that pattered over the basin for a long time.
+Where the gold touched the black sand, it turned glassy and then, with a sound like a thousand tiny bells breaking, it shattered. The coil around me burst apart, and the dry hand let go of my ear last. Above me, the light raced up the ghoul's body the way fire races up a dead palm. The whole vast shape shrieked, high and thin, and in that shriek, I swear to you, there were voices. Many. One of them, I'm almost sure, said *thank you*. Then it collapsed in a slithering rain of black glass and ash that pattered over the basin for a long time.
 
 What it had been keeping fell with it. Bones. The bell, rolling to a stop at Theyab's feet. The child's anklet, its little silver bells full of sand.
 
@@ -258,9 +236,7 @@ And I had to keep looking away, at the black glass scattered across the basin, b
 
 ---
 
-We didn't hear the humming until it was very close. I didn't smell him until it was too late. I'll never forgive myself for that.
-
-Light and noise bring things. We should have moved. Instead we sat among the black glass, catching our breath, and the first I knew of it was a shadow falling across Theyab's shoulders, and a smell. Burned cloth. And under it something sharper and stranger, like hair singed in a lamp, like ink boiled off a page. I've smelled it in a great many places. It's the smell of a name being burned.
+I didn't smell him until it was too late. I'll never forgive myself for that. Light and noise bring things. We sat among the black glass, catching our breath, and the first I knew of it was a shadow falling across Theyab's shoulders, and a smell. Burned cloth. And under it something sharper and stranger, like hair singed in a lamp, like ink boiled off a page. I've smelled it in a great many places. It's the smell of a name being burned.
 
 He looked up.
 
@@ -278,9 +254,7 @@ He came down the slope.
 
 ---
 
-He moved like water running downhill. No wasted step, no sound. Theyab scrambled up with his rusty knife out before the first blade came.
-
-He blocked it. More luck than skill. Iron met grey with a dull sound, like a stone dropped on sand. The second blade was already coming low, at his ribs. He twisted. It missed his side by a breath and opened his sleeve from wrist to elbow.
+He moved like water running downhill. Theyab scrambled up with his rusty knife and blocked the first blade, more luck than skill. The second blade was already coming low, at his ribs. He twisted. It missed his side by a breath and opened his sleeve from wrist to elbow.
 
 It didn't touch his skin. It didn't need to.
 
@@ -292,7 +266,7 @@ He swung at the masked figure, wild and desperate. The Seventh stepped inside th
 
 Theyab froze.
 
-The feather mark was blazing under his shirt, and there was light in his hands, but it was grey again, flickering, useless. He'd spent everything on the ghoul. And blades quenched in the Ifrit's ash, I should tell you, are the only thing in the world that can cut the Light.
+There was light in his hands, but it was grey again, flickering, useless. He'd spent everything on the ghoul. And blades quenched in the Ifrit's ash, I should tell you, are the only thing in the world that can cut the Light.
 
 I went for the back of his knee at a full run. A knee caught me in the ribs and sent me tumbling. When I got up, nothing had changed. The white mask looking down. The blade against Theyab's throat, and a thin line of grey spreading on the skin beneath it, like frost.
 
@@ -300,7 +274,7 @@ The Seventh didn't move.
 
 ---
 
-He didn't press down. He didn't draw back. He stood there with one blade at the boy's throat and the other loose at his side, looking at Theyab through the slits of that blank white mask. I couldn't see his eyes. I don't know what was in them. I'm not sure there was anything left in them to see.
+He didn't press down. He didn't draw back. He stood looking at Theyab through the slits of that blank white mask. I'm not sure there was anything left behind them to see.
 
 Under the burned cloth and the burned names there was something else on him, faint and old and buried very deep, a smell I knew and couldn't place. It frightened me more than his blades.
 
@@ -314,7 +288,7 @@ Theyab's eyes went wide. I don't think he knew why. But something in his face ch
 
 I knew that song.
 
-I'm not going to tell you who used to sing it, or to whom. Not yet. I stood in the sand with my fur standing up along my spine, and I made no sound. Not then, and not for a long, long time.
+I'm not going to tell you who used to sing it, or to whom. Not yet. I stood in the sand with my fur up along my spine and made no sound.
 
 Add it to the list. It's getting long, I know. Everything I don't tell is a stone in my belly.
 
@@ -350,7 +324,7 @@ I got up and shook the sand out of my coat, very thoroughly, from my ears to the
 
 He looked at me a moment longer. I saw him decide not to push.
 
-He got up. His sleeve flapped open where the ash-blade had cut it. There was a pale mark on his throat where the other had rested, like a line of old frost. He picked up his knife, and started walking toward the far dunes, where at least there would be shade, and somewhere to sleep that wasn't the middle of a ghoul's larder.
+He got up, a pale mark on his throat like a line of old frost, and started walking toward the far dunes, and somewhere to sleep that wasn't the middle of a ghoul's larder.
 
 That night, by a fire of dry *'arfaj* twigs, he sat for a long time with his knees drawn up, frowning into the flames.
 
@@ -368,7 +342,7 @@ He didn't. He lay on his side with his back to the fire, and after a while, very
 
 He got it wrong. He didn't know the rest.
 
-I lay beside him and didn't correct him. I couldn't have. I could have howled it for him, the whole of it, in a voice that wasn't mine. I didn't. And out in the dark, beyond the edge of the firelight, the sand shifted very slightly, as if something under it had turned over to listen.
+I lay beside him and didn't correct him. I could have howled it for him, the whole of it, in a voice that wasn't mine. I didn't. And out in the dark, beyond the edge of the firelight, the sand shifted very slightly, as if something under it had turned over to listen.
 
 ---
 

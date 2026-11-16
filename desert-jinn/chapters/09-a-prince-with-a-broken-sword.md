@@ -14,7 +14,7 @@ He came up out of his cloak with his knife already in his fist, the way he'd wok
 
 Which, as it turned out, it was.
 
-Theyab sat and watched him a long time. He'd learned to fight from bullies and falling walls in the ruins. He had never seen fighting that was *beautiful*. He hadn't known it could be.
+Theyab had learned to fight from bullies and falling walls. He had never seen fighting that was *beautiful*.
 
 "You're staring," said Hazza', without stopping.
 
@@ -48,9 +48,9 @@ No bell. My hackles lay down smooth, and I put my chin back on my paws. The corn
 
 There was something wrong about that sword, and Theyab noticed it while Hazza' was picking sand out of the guard.
 
-The blade was snapped, of course. But the hilt was strange too. Wrapped in old dark leather gone black with hand-sweat, and the pommel at the end was a round cap of bronze that didn't quite match the rest, as though it had been made for a different sword. Or a different hand.
+The hilt was wrapped in leather gone black with hand-sweat, and the pommel was a round bronze cap that didn't quite match, as though made for a different sword.
 
-"Why don't you mend it?" Theyab asked. "The smiths in Nizwa—"
+"Why don't you mend it?" Theyab asked.
 
 "Some things you don't mend."
 
@@ -88,15 +88,13 @@ Every child in the sands knows that name. Mothers in Hilat al-Sarab used it on c
 
 "I was the sheikh's son. Nobody told me the truth about anything." He shrugged. "And on the walls of every lane, someone has painted the names of the dead. Back to the beginning. The painters go round touching them up every year, because the names fade." He paused. "They fade faster than they used to. That's what the old painters say. Some fade in a single night. You go to bed and your grandfather's on the wall, and you wake up and there's just a pale patch where he was. No one knows why."
 
-"It sounds…" Theyab hunted for a word.
+"A city that won't let anyone be forgotten," he said. "Mostly."
 
-"Grim. Yes. It's beautiful, though, in its way. A city that won't let anyone be forgotten." He was quiet. "Mostly."
-
-He turned the heavy gold ring on his finger. The tower and the lamp caught the firelight.
+He turned the heavy gold ring. The tower and the lamp caught the firelight.
 
 "My father is Sheikh Mutlaq," he said. "I'm his eldest son. Or I was. It's complicated."
 
-I lay perfectly still, hackles flat, ears soft. Theyab looked at me, the way he'd begun to look at me whenever anyone spoke. Then at the young man who'd spent last night scraping jinn-ash into a jar with a wooden spoon. His mouth fell slightly open.
+I lay perfectly still, hackles flat. Theyab looked at me, the way he'd begun to whenever anyone spoke. Then at the young man who scraped jinn-ash into a jar for a living. His mouth fell open.
 
 "You're the sheikh's *son*."
 
@@ -108,13 +106,11 @@ There was a boy called Suhail.
 
 He worked in the sheikh's stables, Hazza' said, looking after the riding camels and the sheikh's white racing she-camels and the three old mares that nobody rode any more. He was maybe twelve, with ears that stuck out like a jerboa's and a laugh like a donkey with hiccups, and he knew the name of every animal in the stables and told each one *good morning* every day.
 
-"His mother named him for the star," Hazza' said. "Because he was born at the end of summer, the week Suhail rises. She said he'd bring the cool."
-
-"I used to hide in the stables. When lessons got too much. When my father got too much. Suhail never told. He'd hand me a brush and point at a camel."
+"His mother named him for the star," Hazza' said. "Born the week Suhail rises. She said he'd bring the cool. I used to hide in the stables. When lessons got too much. When my father got too much. Suhail never told. He'd hand me a brush and point at a camel."
 
 One night Suhail was sent outside the walls on an errand, past the last lamp. No one would ever say who sent him. He came back grey.
 
-"Not all the way," Hazza' said. "Not one of the emptied. But half of him was gone. He didn't know the camels' names any more. He'd just stand there, turning his hands over as if they belonged to someone else." He was staring into the fire now, and his voice had gone flat and careful, like a man walking on a roof that might give. "And he'd smile, sometimes. That was the worst. Not his smile. A different one. As if someone had shown him what a smile was once and he'd copied it wrong. And he'd say *good morning*. Just that. *Good morning, good morning*, at midnight, to the wall."
+"Not all the way," Hazza' said. "But half of him was gone. He'd stand there turning his hands over as if they belonged to someone else." His voice had gone flat and careful, like a man walking on a roof that might give. "And he'd smile, sometimes. That was the worst. Not his smile. A different one. As if someone had shown him what a smile was once and he'd copied it wrong. And he'd say *good morning*. Just that. *Good morning, good morning*, at midnight, to the wall."
 
 Theyab's hand had gone to his chest. Behind my eyes I heard a man with an orange beard calling *couch the camels in a ring* across an empty plain.
 
@@ -126,7 +122,7 @@ Theyab's hand had gone to his chest. Behind my eyes I heard a man with an orange
 
 The fire cracked. No one said anything.
 
-"The Wazir found out," Hazza' said. "Muhaisen. My father's counsellor." He stopped. "He's very soft-spoken. He's never once raised his voice in my hearing. He has grey eyes, pale grey, like someone left them out in the sun too long. He sees everything. He just doesn't seem to *keep* any of it." He picked at the cloth bound round his shoulder. "And he stood in my father's majlis, in front of every elder in Ubar, and said very gently that the sheikh's own son had been hiding a jinn-ridden thing inside the palace walls. Doing sorcery on it. *Treason*, he called it. He said it so kindly, Theyab. As if it grieved him."
+"The Wazir found out," Hazza' said. "Muhaisen. My father's counsellor. He's never once raised his voice in my hearing. He has grey eyes, pale grey, like someone left them out in the sun too long." He picked at the cloth on his shoulder. "And he stood in my father's majlis, in front of every elder in Ubar, and said very gently that the sheikh's son had been hiding a jinn-ridden thing in the palace and doing sorcery on it. *Treason*. He said it so kindly, Theyab. As if it grieved him."
 
 Grey eyes. A soft voice. I've known a few men with eyes like that. None of them were ever grieved by anything.
 
@@ -142,7 +138,7 @@ I didn't growl. I didn't growl for either half, because he believed both, and so
 
 The dune hummed.
 
-"Muhaisen had him *taken away*," Hazza' said. "That's all anyone would tell me. *Taken away.* No one knows where. No one even remembers him properly. That's what frightens me, Theyab. I go back over it, and I asked the stable hands before they threw me out, and they said, *What boy?* As if he was never there." He looked at his hands. "I've been looking for most of a year. Sometimes I wake up and I can't remember his face either. Just the ears. And the *good morning*."
+"Muhaisen had him *taken away*," Hazza' said. "That's all anyone would tell me. I asked the stable hands, and they said, *What boy?* As if he was never there." He looked at his hands. "I've been looking for most of a year. Sometimes I wake up and I can't remember his face either. Just the ears. And the *good morning*."
 
 "And your father—"
 
@@ -156,7 +152,7 @@ Theyab looked at the smeared place in the sand a long time.
 
 Then, very quietly, because a story is owed for a story and Theyab always paid what he owed, he told Hazza' about Hilat al-Sarab.
 
-He told him about the stones. The scar under his shoulder blade. Nadim, and the lane full of the emptied, and the light, and Nadim's little brother Shibl going grey and coming back. The faces afterwards. Ghanim and his crooked scales. Umm Hanan and the bread in his hands at the last. The wadi. The caravan, and the faces on the gold, and Jasir drinking the last water and spitting out the word. Every time somebody had used it.
+The stones. The scar under his shoulder blade. Nadim, and the lane full of the emptied, and little Shibl going grey and coming back. The faces afterwards. The wadi. The caravan, and Jasir drinking the last water and spitting out the word. Every time somebody had used it.
 
 When he finished, Hazza' said nothing for a while.
 
@@ -166,7 +162,7 @@ I got up, and walked round the fire, and lay down between them, touching both.
 
 And out past the palms, beyond the firelight, I heard something move in the sand. Not a jackal. Something slower. Something that had been lying under the dune listening to two boys say their secrets out loud in the dark, and had liked it.
 
-I didn't sleep that night. I lay between them and the dark with my ears turned outward. Neither of them asked why. Neither of them could have.
+I lay between them and the dark all night with my ears turned outward. Neither of them asked why.
 
 ---
 
@@ -174,7 +170,7 @@ Night four. That was the night of the scorpions.
 
 I want to say first that it was not my fault.
 
-I had found a fine fat yellow one under a flat stone at the edge of the palms, as long as Hazza''s hand, and I'd flipped it over and pinned it and nipped the sting off the way I'd done for a thousand years, and crunched it by the fire, loudly and with my mouth open. Nothing ruins a bearer's appetite faster, and a bearer with no appetite is a bearer who isn't thinking about anything worse. Theyab turned away and made a small sick noise, which was what I'd been going for.
+I had found a fat yellow one under a flat stone, as long as Hazza''s hand, nipped the sting off the way I'd done for a thousand years, and crunched it by the fire with my mouth open. Nothing ruins a bearer's appetite faster, and a bearer with no appetite isn't thinking about anything worse. Theyab made a small sick noise, which was what I'd been going for.
 
 Hazza', however, leaned in.
 
@@ -182,7 +178,7 @@ Hazza', however, leaned in.
 
 "*No*," said Theyab.
 
-"Why not? He eats them. He looks fine. Look at him. He's older than my grandfather's grandfather, probably." He was already on his feet. "And I've eaten locusts. Fried in butter, in the souk at Nizwa, a whole cone of them. Everybody eats locusts."
+"Why not? He eats them. He looks fine." He was already on his feet. "And I've eaten locusts fried in butter in the souk at Nizwa. Everybody eats locusts."
 
 "Locusts aren't scorpions."
 
@@ -192,7 +188,7 @@ He came back a short while later with his own scorpion pinned under the flat of 
 
 "Hazza'," said Theyab.
 
-"Don't be a coward, Theyab. A sheikh's son eats whatever's put in front of him. I once ate a sheep's eye at a wedding feast in Ibri because the old sheikh offered it to me with his own fingers. It looked back at me the entire time."
+"Don't be a coward. I once ate a sheep's eye at a wedding feast in Ibri. It looked back at me the entire time."
 
 He put the scorpion in his mouth and crunched.
 
@@ -202,9 +198,7 @@ He was sick for a full day.
 
 ---
 
-I've watched a great many people be ill. Plague in the coast towns. The fever that comes up off the *sabkha* in the wet years and takes whole villages in a season. Hazza' being sick from a scorpion was not the worst. But it was by far the loudest.
-
-He lay in the shade of the palms with his arms flung out like a man dropped from a great height. He turned interesting shades of green. Every so often he rolled over and was sick into the sand, and then rolled back and announced, to the sky in general, that he was dying.
+I've watched a great many people be ill. Plague in the coast towns. The fever off the *sabkha* that takes whole villages in a season. Hazza' was not the worst. But he was the loudest. He lay in the shade with his arms flung out, turning interesting shades of green, rolling over now and then to be sick, and announcing to the sky that he was dying.
 
 "Tell Zaid," he croaked, "that I died bravely. In battle. Against a beast of terrible size."
 
@@ -240,7 +234,7 @@ Theyab offered to help. He held out his hands, with the gold already stirring un
 
 "Absolutely not," Hazza' moaned. "Every jackal for three days would come running, and I'd have to fight them lying down. And you'd go all strange in the eyes again. I'll be sick the honest way, thank you."
 
-So Theyab sat with him. He brought him water, boiled and strained, and wet a cloth for his forehead. And all through the long hot afternoon, every so often, he'd look over at Hazza' groaning on the sand and start laughing all over again.
+So Theyab sat with him all afternoon with water and a wet cloth, and every so often looked over at Hazza' groaning on the sand and started laughing all over again.
 
 I didn't eat a scorpion in front of either of them for three days after that. I'd like that noted. It was a sacrifice. I know about those.
 
@@ -254,7 +248,7 @@ Theyab's whole body went stiff. His hand went to his chest.
 
 "No."
 
-He said it to the fire. In Hilat al-Sarab almost no one could read. The sheikh could, a little, and the old man who taught the boys to recite under the ghaf tree, and Ghanim, who could read numbers and nothing else, which was all he needed to cheat people. Theyab had never once been allowed to sit with the boys under the ghaf tree. And somewhere under his ribs he had already begun to dread the moment Hazza' would realise how far below him he was, and look at him differently, and go.
+He said it to the fire. In Hilat al-Sarab almost no one could read, and Theyab had never once been allowed to sit with the boys at their lessons under the ghaf tree. And somewhere under his ribs he had already begun to dread the moment Hazza' would realise how far below him he was, and look at him differently, and go.
 
 But Hazza' only smoothed a patch of sand flat with his palm and picked up a stick.
 
@@ -286,7 +280,7 @@ Nearly all.
 
 I found it while the boys still slept. Round the lip of the oldest well, far from the fire, where the old stone was soft enough to scratch. ذياب. Cut deep, over and over, in a ring all the way round the well-mouth, in his crooked new hand. The scratches were fresh. There was blood in some of them, from a split fingernail.
 
-When he woke I looked at his hands. The nail of his right forefinger was torn to the quick. He looked at it, puzzled, and sucked it, and didn't remember. I watched him not remember. I scraped sand into the letters with my forefeet until they were filled, and told no one, because I can't, and then I sat a long time with my nose pointed down the black throat of the well, wondering which of us it had been talking to in the night.
+When he woke, the nail of his right forefinger was torn to the quick. He looked at it, puzzled, and sucked it, and didn't remember. I scraped sand into the letters until they were filled, and sat a long time with my nose pointed down the black throat of the well, wondering which of us it had been talking to in the night.
 
 He wrote it again that evening, by the fire. Awake.
 
@@ -294,7 +288,7 @@ He wrote it again that evening, by the fire. Awake.
 
 It went both ways. That's what I want you to understand about the two of them. Nobody was rescuing anybody. Every night Hazza' taught Theyab a few more letters, and every day Theyab taught Hazza' how not to die.
 
-He showed him how to spread a cloth over a scrape in the sand before dawn so the dew would gather and drip into a cup. Which plants held water in their roots, like the desert hyacinth after rain, and which held poison, like the milky sap of the *'ushar*, the calotropis, that blinds you if it gets in your eyes. How to smell a shamal coming a day off, like an old coin. How to read dune shapes: the long gentle back that faces the wind and the steep slip face that faces away, so that even on a starless night you can feel with your feet which way the wind has blown all year, and walk by it. And more quietly, the other thing: how to listen for the change in the sand's hiss that means the wind is turning, and the different change, when the hiss stops altogether, which means something under the sand is listening too.
+He showed him how to spread a cloth over a scrape in the sand before dawn so the dew would drip into a cup. Which roots held water, and which plants held poison, like the milky sap of the calotropis that blinds you. How to smell a shamal a day off, like an old coin. How to read a dune's long back and steep face, so even on a starless night your feet know which way the wind has blown all year. And more quietly: how to listen for the hiss of the sand to stop altogether, which means something under it is listening too.
 
 "And when the dunes shift at night," Theyab said, "you don't follow the sand. The sand lies. You follow the stars. Al-Jadi up there in the north, that doesn't move. Al-Thurayya, the little bunch, like grapes. And that one." He pointed low into the south, to the great white star just clearing the dunes. "That's Suhail. The old men say when Suhail rises the worst heat breaks. Keep him on your—"
 
@@ -316,13 +310,13 @@ They looked at each other over the fire. Then Hazza' began to laugh, and after a
 
 On the tenth night, Hazza' reached into his saddlebag and brought out a small clay pot with a wax seal, and two handfuls of dates he'd shaken down from the palms.
 
-"Honey," he said, breaking the wax. "Sidr honey. From the wild bees in the Hajar, off the jujube trees. A man in Nizwa sold it to me for two whole jackals' worth of ash. Don't tell anyone, it ruins my reputation as a dangerous exile."
+"Sidr honey," he said, breaking the wax. "Wild bees in the Hajar. Cost me two jackals' worth of ash. Don't tell anyone, it ruins my reputation as a dangerous exile."
 
 Theyab went very still.
 
 "There was a cook in my father's kitchen," Hazza' went on, not noticing. "Umm Shamma. Enormous woman. Arms like a pearl-diver. She used to leave honey cakes cooling on the windowsill, and Zaid and I stole them every day for ten years, and she pretended every single day not to know, and shouted at the kitchen boys for it. I think she baked extra." He smiled down at the pot. "I think she knew exactly."
 
-Theyab told him then about the cloth bundles left outside his patched tent. About Umm Hanan, who never once spoke to him in the street and never once missed a week. About the dates rolled in honey, and how he always saved them for the hardest days. As if sweetness were something you could store up like water against a drought. How, on the day the village stoned him out, she'd pushed bread into his hands in front of everyone, and how that bread had kept him alive across the sands to Old Bakhit's tent, and past it.
+Theyab told him then about the cloth bundles left outside his patched tent by Umm Hanan, who never once spoke to him in the street and never once missed a week. About the dates rolled in honey he always saved for the hardest days, as if sweetness could be stored like water against a drought. How, on the day the village stoned him out, she'd pushed bread into his hands in front of everyone, and that bread had kept him alive across the sands.
 
 Hazza' listened. Then he dipped a date in the pot and held it out.
 
@@ -330,7 +324,7 @@ Hazza' listened. Then he dipped a date in the pot and held it out.
 
 Theyab took it.
 
-They ate the whole pot. They licked their fingers and argued about which star was brightest, and I lay between them in the warm with my belly to the fire and my legs stuck out stiff in front of me the way a saluki lies when it is entirely, shamelessly content, and I didn't growl once all night. It was the best night. I've measured every night since against it.
+They ate the whole pot and argued about which star was brightest, and I lay between them with my legs stuck out stiff the way a saluki lies when it is shamelessly content, and I didn't growl once all night. It was the best night. I've measured every night since against it.
 
 I counted that one. I counted all of them. The thin moon had gone and left the sky dark for a few nights, and now it was coming back, a little fuller every evening, like a cup being filled. Like a pyre being built, one stick at a time.
 

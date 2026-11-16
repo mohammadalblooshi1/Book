@@ -10,7 +10,7 @@ Nobody in Hilat al-Sarab believed him.
 
 Nobody there had believed anything Theyab said in fifteen years. Never mind that he couldn't lie. They'd never bothered to notice.
 
-He ran into the village before dawn with sand in his hair and banged on the wooden door of the sheikh's house until a lamp was lit. Sheikh Mazyad's house was the only one in the village with two storeys and a wind-tower, and a carved door painted indigo, and a majlis where the men drank coffee in the evenings and decided things. Theyab had never been inside it. He stood on the step and told the sheikh what he had seen. A line of grey on the horizon, low and flat, and the stars going out above it one by one.
+He ran into the village before dawn with sand in his hair and banged on the wooden door of the sheikh's house until a lamp was lit. It was the only house in the village with a wind-tower and a majlis, and Theyab had never been inside it. He stood on the step and told the sheikh what he had seen. A line of grey on the horizon, low and flat, and the stars going out above it one by one.
 
 He didn't tell him about the voice in the wind. There was no way to say it that didn't sound like a jinn had got into him, and everyone already thought one had.
 
@@ -24,7 +24,7 @@ Sheikh Mazyad, a heavy man with a beard like a thornbush hennaed orange at the e
 
 Mazyad looked at him the way you'd look at a goat that had started reciting poetry. Then something crossed his face, quick and ugly, and he glanced past Theyab's shoulder toward the east. I smelled it come off him. Not a lie exactly. Fear, which is the lie's older brother. "Go back to your tent, Laqeet," he said, and shut the door. I heard the bar drop across it on the other side.
 
-I was lying in the shade of the wall across the lane. I could have done something. I could have howled the village awake. I could have run into the square and barked until every goat broke its tether and every child woke screaming. Dogs know when the earth is going to shake. Dogs know when a man is going to die. Everyone in Arabia knows to watch a dog's ears.
+I was lying in the shade of the wall across the lane. I could have howled the village awake. I could have barked in the square until every child woke screaming.
 
 But I have rules. The bearer has to see it first. He has to be the one who knows. The times I've broken that rule, things went worse. Or so I tell myself. I've had a great deal of time to practise.
 
@@ -50,11 +50,7 @@ The red cloth over Ghanim's stall was grey. The date palms in the grove were gre
 
 The child's mother carried him inside. The goat watched the door all day.
 
-And it was quiet. That was the part that frightened people most, though few of them could have told you why. In the grey part of the village there was no sound at all. No wind in the palm fronds. No doves. No grumbling camels. No creak of doors.
-
-I went to the edge of it with my nose down, as near as I dared, and breathed in.
-
-Nothing. Not dust, not goat, not the burnt-sugar smell of the dates. It was like pushing your nose into a hole in the world. I've smelled it before, in other villages, in other centuries, and every time the hair stands up along my spine and stays up, because it isn't a lie, exactly. It's what a lie would smell like if it had eaten everything true.
+And it was quiet. In the grey part of the village there was no sound at all. No wind in the palm fronds. No doves. No creak of doors.
 
 People began to gather in the square. They talked in low, nervous voices. An old woman said she'd heard stories from her grandmother's grandmother about a thing that came up out of the deep sands, an Ifrit's breath that made people forget, and that you knew it was close when you couldn't say the names of your dead. Sheikh Mazyad told her to stop talking nonsense, too loudly. I noticed that he did not try to say the names of his own.
 
@@ -90,7 +86,7 @@ And they talk. Not to you. They say the last thing they said before the grey too
 
 They are drawn to light, like moths that never, ever stop.
 
-They came out of the grey just after the last of the sunset went. First one, walking slowly up the eastern lane. Then three. Then a dozen, and more behind them, people from settlements to the east that I'd never smelled before, Bedouin from the deep sands in their tattered robes, a grey crowd moving between the houses with no sound but the murmur of their dozens of last sentences, all overlapping, like a market heard through a mud wall.
+They came out of the grey just after the last of the sunset went. First one, walking slowly up the eastern lane. Then three. Then a dozen, and more behind them, a grey crowd moving between the houses with no sound but the murmur of their dozens of last sentences, all overlapping, like a market heard through a mud wall.
 
 They had no smell. That was how I knew them before I saw them. Forty bodies walking up a lane and not one of them smelling of sweat or camel or smoke.
 
@@ -164,8 +160,6 @@ And Theyab moved.
 
 ---
 
-He didn't think about it. Later people would tell stories about this moment, around fires like this one. They'd say a lot of foolish, flattering things, the way people always do about children who are about to be sent up a hill.
-
 He didn't know anything. He was fifteen and terrified, and the boy who'd thrown stones at him since he was five was being erased in front of him one memory at a time. Theyab simply could not stand there and watch.
 
 So he ran into the middle of twenty of the emptied with a rusty knife.
@@ -200,9 +194,7 @@ It flickered out of his skin, out of the cracks of his clenched fists, and it wa
 
 That's what fear does to the Light. It makes it smell like home to them. I should have warned him. I couldn't have. I should have anyway.
 
-I went for the nearest of them, a tall man in a herder's rags, and got my teeth into his calf. It was like biting a waterskin full of cold sand. No blood. No taste. He didn't even look down. He dragged me two steps along the lane, my claws scoring the dirt, before I let go and backed off, gagging on nothing.
-
-The grey woman reached for Theyab's face. Her fingers were an inch from his eye. He could smell her. *He* could smell her, though I could not: dust, and cold stone, and very faintly, underneath, the rose-oil she must have worn once on feast days.
+The grey woman reached for Theyab's face. Her fingers were an inch from his eye. He could smell her: dust, and cold stone, and very faintly, underneath, the rose-oil she must have worn once on feast days.
 
 Theyab shut his eyes.
 
@@ -234,9 +226,7 @@ She looked at Theyab. Her mouth opened. For a moment I thought she would say som
 
 "*Where are my*—" she said.
 
-And for that one heartbeat, I smelled her. Woodsmoke and goat's milk and rose-oil and sweat. A woman.
-
-Then the grey closed back over her like water over a dropped stone, and the smell went out of the world, and the smile came back, slow and wrong, and she said, *"Mind the step, my eyes,"* and was gone with the others into the night.
+Then the grey closed back over her like water over a dropped stone, and the smile came back, slow and wrong, and she said, *"Mind the step, my eyes,"* and was gone with the others into the night.
 
 I have wondered for a long time what the end of that sentence was. Children, probably. It usually is.
 
@@ -284,7 +274,7 @@ But he never got the chance, because that was when I did the thing I had told my
 
 ---
 
-I don't know why. That's not true. I know exactly why. I looked at forty frightened faces staring at the boy against the wall, and I smelled what was rising off them, and it wasn't gratitude. It was the beginning of stones. And I wanted them looking at something else. Anything else.
+I looked at forty frightened faces staring at the boy against the wall, and I smelled what was rising off them, and it wasn't gratitude. It was the beginning of stones. I wanted them looking at something else.
 
 So I climbed onto the well-keeper's garden wall, where the lamp could reach me, and I sat back on my haunches, and I lifted my muzzle at the black sky where the stars were going out, and I howled.
 
@@ -292,7 +282,7 @@ A saluki does not howl like other dogs. We bay, high and broken. But that is not
 
 What came out of me was a man's voice.
 
-An old man's voice, cracked and deep, rising and falling in the long wordless keening the Bedouin women make over a grave, except it was a man making it, and it was coming out of a dog. It went up the lane and over the roofs and out into the grey, and the grey didn't swallow it. It was the only sound in the world the grey didn't swallow. It went on far longer than any animal has breath for. Somewhere in it there were almost words. Old ones. I couldn't tell you what they were. I don't always know what lives in the silver half of me, or what it remembers.
+An old man's voice, cracked and deep, rising and falling in the long wordless keening the Bedouin women make over a grave, except it was a man making it, and it was coming out of a dog. It went up the lane and over the roofs and out into the grey, and the grey didn't swallow it. It was the only sound in the world the grey didn't swallow. It went on far longer than any animal has breath for. Somewhere in it there were almost words, old ones. I don't always know what lives in the silver half of me.
 
 The camels in the pens behind the houses screamed. Every goat in the village went silent at once.
 
@@ -312,7 +302,7 @@ I think it was Ghanim. It was a very high scream for such a large man.
 
 "There's a jinn in both of them," said someone else, and I smelled it come off the whole crowd at once, the thing I'd been trying to stop, only worse now. I'd poured oil on it. Good work, Ghareeb. Fifteen years of silence, and the first time you open your mouth you hand them a reason.
 
-And then everyone was shouting at once, and mothers were dragging children back indoors, and somebody was reciting the old protective words over and over in a high fast voice, and Sheikh Mazyad came barrelling down the lane in his nightshirt bellowing for order. Through all of it, Theyab sat in the dirt against the wall and stared at me with his glowing hands in his lap.
+And then everyone was shouting at once, and mothers were dragging children back indoors, and Sheikh Mazyad came barrelling down the lane in his nightshirt bellowing for order. Through all of it, Theyab sat in the dirt against the wall and stared at me with his glowing hands in his lap.
 
 I came and lay down beside him again. Our shoulders touched.
 
@@ -322,11 +312,11 @@ I looked at him with both my eyes, the amber and the silver.
 
 "You knew," he said. "All this time. You always knew what was coming. Didn't you."
 
-I couldn't tell him. I couldn't tell him anything; I never have been able to tell any of them anything. But I could have howled sooner. I could have dragged him out into the sands by his sleeve a week ago and kept dragging. I could have done a dozen things.
+I couldn't tell him anything. I never have been able to tell any of them anything. But I could have howled sooner.
 
 I looked at the golden cracks in his palms, and at the mark on his chest, still faintly warm under his shirt. I looked at his face. It was very young, and very frightened.
 
-I have sat beside eleven children like this. I have watched the moment when they first understood that their life was not going to be the life they'd planned. One of them laughed. The Falconer asked me, very politely, whether he could go home now, as if I could open a door for him.
+I have sat beside eleven children like this, at the moment they understood their life was not going to be the life they'd planned. The Falconer asked me, very politely, whether he could go home now.
 
 It doesn't get easier. You'd think it would.
 

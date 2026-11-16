@@ -74,7 +74,7 @@ I hadn't. I have paws. And I'd been beside him all night, and I'd have sworn on 
 
 But there were his own footprints, going down to it from where we'd slept, and none coming back. I put my nose to them. They smelled of him. Only of him. And very faintly, under that, of cold ash.
 
-He didn't say anything. He rubbed it out with his foot, carefully, the whole word, until the sand was smooth. Then he looked at his finger for a while, turning it over, as if it belonged to somebody else.
+He rubbed it out with his foot, carefully, until the sand was smooth. Then he looked at his finger for a while, as if it belonged to somebody else.
 
 That night he didn't write anything at all.
 
@@ -96,11 +96,11 @@ Most people get to tell themselves small kind lies in the dark. *There was nothi
 
 The mark didn't burn. It wasn't a lie. My hackles lay down.
 
-But I don't think he meant it the way he used to. I think he'd started to hear it the other way round. Not *may the sand remember you*, like a blessing at a parting. *The sand remembers*, like a threat. The sand remembers what you did.
+But I think he'd started to hear it the other way round. Not *may the sand remember you*, like a blessing. *The sand remembers*, like a threat.
 
 I limped up the slope and lay down beside him, close, and pushed my long nose under his hand until his palm was over my skull.
 
-It's all a dog has. We can't say *it wasn't your fault.* We can only put ourselves against you and stay there, and let you feel that our hair is lying flat.
+It's all a dog has. We can't say *it wasn't your fault.* We can only stay there, and let you feel our hair lying flat.
 
 He didn't look at me.
 
@@ -108,7 +108,7 @@ He didn't look at me.
 
 It was the first word he'd spoken in three days. Hoarse, as if his voice had rusted shut.
 
-I didn't move. I kept my head under his hand. *Feel it,* I thought at him, the way I've thought at every bearer, the way some of them have nearly heard. *Feel my back. No hackles. I'm not lying to you.*
+I kept my head under his hand. *Feel my back,* I thought at him. *I'm not lying to you.*
 
 "You were like that at Ghidd al-Zujaj too," he said. "Right up until you weren't."
 
@@ -138,17 +138,13 @@ Then he did something I didn't understand until later. He put one to his lips, j
 
 He was trying to remember what honey tasted like. The ash-blade had taken it in the storm, and it had come back, mostly. *Mostly*. He was checking.
 
-I don't know what he found. He wrapped them up again without eating any. Eating them would have meant this was as bad as it got, and some stubborn part of him wasn't ready to promise that.
-
-Or else he was afraid to taste them and find nothing there at all.
-
-I'm not sure, even now, which. I'm not sure it was hope, either way.
+I don't know what he found. He wrapped them up again without eating any. Maybe he was saving them. Or else he was afraid to taste them and find nothing there at all.
 
 ---
 
 The fourth night was the one I'd been afraid of.
 
-He stopped at the bottom of a long slope instead of the top. In fifteen years he had always slept high, where he could see what was coming. Now he walked down into the cold trough between two dunes, where the wind poured sand down the slip-face in hissing curtains, like water, like something being poured over a body.
+He stopped at the bottom of a long slope instead of the top. In fifteen years he had always slept high. Now he walked down into the cold trough between two dunes, where the wind poured sand down the slip-face in hissing curtains, like something being poured over a body.
 
 And he lay down.
 
@@ -182,11 +178,11 @@ His light starts at the mark and pours outward. This came from the slope beside 
 
 And it was cold. That's what nobody puts in the songs. The sand around it frosted. I watched the frost spread out from it in fine white feathers, and my breath came out of me in a cloud, and every hair on my body stood up at once, and then, one by one, lay down again.
 
-I didn't see anyone in it. I want to be honest about that. I only saw the light on Theyab's face, and his eyes open wide, and his lips move.
+I didn't see anyone in it. I only saw the light on Theyab's face, and his lips move.
 
 He told me later what he saw. I'll tell it the way he did.
 
-Hazza' was sitting on the slope beside him. Cross-legged, elbows on his knees, the way he sat by the fire when he was about to say something annoying. The scar along his jaw. His hair coming loose from under his ghutra. Light came through the edges of him, like a cloth hung in front of the sun.
+Hazza' was sitting on the slope beside him, cross-legged, the way he sat by the fire when he was about to say something annoying. Light came through the edges of him, like a cloth hung in front of the sun.
 
 He was grey. Theyab told me that, and then he wouldn't tell me any more about it for a long time. Grey, like the hollow that morning. And the golden cracks were still in him, running across his face and down his throat, and they were glowing again. Brighter than they'd been. As if the thing that had been trying to get out of them had nearly made it.
 
@@ -236,7 +232,7 @@ When he opened his eyes, the slope was dark and empty, and there was only a dog 
 
 I hadn't seen anything. I'll swear to that.
 
-But I hadn't growled once. Not once, the whole time that light was on the slope. And I growl at dreams. I growl at mirages. I growl at anything that is pretending to be what it isn't.
+But I hadn't growled once, the whole time that light was on the slope. And I growl at mirages. I growl at anything pretending to be what it isn't.
 
 And the frost was still there on the slope, in the shape of someone sitting cross-legged. It stayed there until the sun came up and took it.
 
@@ -276,7 +272,7 @@ The dune had cost me more than I'd thought. By mid-morning I'd folded up in the 
 
 Which is why I was a long way off, lying on a ridge, when the lamps came.
 
-You don't see lamps lit in daylight. That's what made me lift my head. A string of camels coming over the eastern dunes, six or seven of them, with brass lamps hung from their saddles still burning in the full morning sun, the way the lamps burn on the walls of Ubar, because someone is afraid of what happens if they ever go out. Red tassels on the bridles. Water skins so fat they sloshed.
+You don't see lamps lit in daylight. That's what made me lift my head. A string of camels coming over the eastern dunes, with brass lamps hung from their saddles still burning in the full morning sun, the way the lamps burn on the walls of Ubar. Water skins so fat they sloshed.
 
 They came straight to him. Not near him. *To* him, as if they'd known exactly which dune a tired boy would be standing on.
 
@@ -284,7 +280,7 @@ My one good eye was fine that morning. My legs were not. I dragged myself to the
 
 The lead camel knelt. A man climbed down.
 
-He was old, his beard silver and combed long over a bisht the deep blue of the sky just after sunset, trimmed with gold thread at the edge. His face was soft and kind and lined, someone's grandfather. His voice was low and gentle, the kind that makes you lean in.
+He was old, his beard silver and combed long over a bisht the deep blue of the sky just after sunset. His face was soft and kind and lined, someone's grandfather. His voice was low and gentle, the kind that makes you lean in.
 
 And his eyes were grey.
 

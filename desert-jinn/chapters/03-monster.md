@@ -20,7 +20,7 @@ Theyab was on his feet before he knew it. His legs were shaking. His palms still
 
 I took his sleeve in my teeth.
 
-Gently. I have a mouth made for carrying a hare back to the tent without bruising it. I held his sleeve and set my weight back on my haunches, and I looked up at him, and if you have ever been looked at by a saluki you know we can say a great deal with our eyes when we bother.
+Gently. I set my weight back on my haunches and looked up at him.
 
 *No. You're half dead on your feet, and that is the curse itself. Not a story. You walk in there tonight and something else might walk out wearing you.*
 
@@ -34,7 +34,7 @@ He went in after Nadim, and I went in after him, because apparently that's what 
 
 The grey feels like nothing.
 
-It's the feeling of a tent after everyone you love has packed up and ridden away in the night without waking you, spread over the whole world. The colour goes first. Then the sound. Then the smells, and for me that is like going blind and deaf at once. Then, if you stay long enough, the reasons you came. It doesn't eat me. But every time I come out of it, I'm a little less sure which of my memories are mine.
+It's the feeling of a tent after everyone you love has ridden away in the night without waking you, spread over the whole world. The colour goes first. Then the sound. Then the smells. Then, if you stay long enough, the reasons you came. It doesn't eat me. But every time I come out of it, I'm a little less sure which of my memories are mine.
 
 Theyab walked with his hand flat against his chest, and the feather under his palm was the only warm thing for a hundred paces in any direction. Every few steps he whispered something, too low for the grey to steal.
 
@@ -66,7 +66,7 @@ Nadim made a sound I've heard many times and still have no word for. It's the so
 
 They got him out of the grey between them. Nadim carried him and Theyab walked behind, his glowing palms held up like lamps, and the grey drew back from them a little. The four emptied didn't follow. They stayed exactly where they were, standing around the empty square of sand, facing inward at nothing. I looked back once. They were still guarding it.
 
-Saqi the well-keeper was waiting at the edge with a lamp. He took one look at his younger son's face and sat down in the dirt as if his legs had been cut from under him. Behind him people were gathering: Sheikh Mazyad, Ghanim with a camel-stick, neighbours clutching their shawls around their faces, men with old matchlocks they hadn't fired since the last raid and didn't know how to load in the dark.
+Saqi the well-keeper was waiting at the edge with a lamp. He took one look at his younger son's face and sat down in the dirt as if his legs had been cut from under him. Behind him people were gathering: Sheikh Mazyad, Ghanim with a camel-stick, men with old matchlocks they didn't know how to load in the dark.
 
 Nadim laid his brother on the hard ground outside the house.
 
@@ -94,7 +94,7 @@ Theyab knelt.
 
 ---
 
-I want to tell you he laid his hands on that child like the heroes in Bakhit's stories. He didn't. His hands were shaking so badly that when he set them on either side of Shibl's face, the boy's head rocked. He was thinking of the emptied, and the grey, and forty people watching him from behind their lamps and their rifles. He was thinking about the word *jinn*, and what they'd do with it. He was thinking about himself.
+I want to tell you he laid his hands on that child like the heroes in Bakhit's stories. His hands were shaking so badly that when he set them on either side of Shibl's face, the boy's head rocked. He was thinking of the emptied, and the grey, and forty people watching him from behind their lamps and their rifles. He was thinking about the word *jinn*, and what they'd do with it. He was thinking about himself.
 
 So the light came grey.
 
@@ -148,7 +148,7 @@ He blinked up at the sky.
 
 Then he saw Theyab.
 
-I understand why he screamed. Imagine you're seven, and you've just come back from the place where there is nothing, not even yourself. The first thing you see is a face bent over yours, and the face is burning. Golden cracks running up its neck and across its cheeks like a clay jar about to shatter in the kiln. Light pouring out of its eyes like tears. Its mouth open in a scream with no sound in it. And beside it, a long pale dog that walked into the grey and came out again, staring at you with one amber eye and one silver.
+I understand why he screamed. Imagine you're seven, and you've just come back from the place where there is nothing. The first thing you see is a face bent over yours, and the face is burning. Golden cracks running up its neck and across its cheeks like a clay jar about to shatter in the kiln. Light pouring out of its eyes like tears. Its mouth open in a scream with no sound in it. And beside it, a long pale dog that walked into the grey and came out again, staring at you with one amber eye and one silver.
 
 Shibl screamed for both of us. He twisted out from under Theyab's hands and scrambled backward across the sand until he hit his brother's legs, and he clung to them and kept screaming.
 
@@ -236,8 +236,6 @@ He knew that cloth. He stared down at it, then up at her, and I watched him unde
 
 "Eat, child," said Umm Hanan. Her voice was dry and thin and fierce. "The sand remembers kindness too."
 
-I smelled no lie on her. I've never smelled a lie on her, in all the years. Only flour, and woodsmoke, and old grief, and under it something fierce and frightened that I'd call courage if I were a man and had words for things.
-
 Then she went back inside and shut the door. I imagine she sat on her mat and shook for a long time. I imagine she tried to say the names of her dead, too, and found only two of them, and said them twice.
 
 Theyab stood there holding the bread.
@@ -256,8 +254,6 @@ The jackals found us before midnight.
 
 I heard them first. Well, of course I did. A low sound under the wind, like breath drawn through teeth. Then a howl, close, from behind the dune to our left. Then another, ahead. Then one directly behind us, so near I felt it in the feathering of my tail.
 
-And no smell. That's how I knew. A pack of jackals smells like a dead camel that has been lying in the sun for three days. These smelled like the bottom of a cold well.
-
 "Ghareeb," Theyab whispered. He had never said my name like that before. He'd only heard Bakhit say it.
 
 I pressed against his leg. *Keep walking. Don't run. Running makes them happy, and you don't want to see them happy.*
@@ -266,7 +262,7 @@ They came over the dune like smoke poured from a jug.
 
 Jinn-jackals. Six of them, shaped like the golden jackals of the wadis, if a jackal were made of the darkness between the stars. Long and low, their bodies fraying into black mist at the legs and tail, too many ribs showing through the dark of their sides. Their eyes were coals, burning, the only colour in them. They spread out in a slow circle around us, and the sand didn't dent under their feet, and the air inside the circle went cold enough that Theyab's breath came out white, there in the hot months, on the edge of Liwa.
 
-They track the Light. Every time a bearer heals, it rings out across the desert like a bell on a lead camel, and the jinn-jackals lift their heads and follow. Theyab had healed a child three hours ago. He might as well have lit a signal fire on Tal Moreeb and sung.
+They track the Light. Every time a bearer heals, it rings out across the desert like a bell, and the jinn-jackals follow. Theyab had healed a child three hours ago. He might as well have lit a signal fire on Tal Moreeb.
 
 He pulled his rusty knife. His other hand went to his chest, and he tried, I watched him try, to call the light.
 
@@ -282,11 +278,11 @@ And at the bottom of that dark, very small and far away, I heard a voice. A chil
 
 I hit it from the side.
 
-I'm a saluki. My grandmothers' grandmothers ran down gazelle on the gravel plains for men who wore swords. I can take a jackal by the throat at a full run and break its neck with one shake. I took this one by the throat.
+I'm a saluki. I can take a jackal by the throat at a full run and break its neck with one shake. I took this one by the throat.
 
 My teeth closed on something cold and slippery that wasn't there, and the jinn-jackal twisted in my jaws like a snake, and shook me off with a flick of its head, and I went tumbling down the slope.
 
-Rolling through the sand, I felt something stir in the silver half of me. Something huge and hungry uncoiling, stretching, tasting the cold in the air the way you'd taste a meal you'd eaten many times. It liked the jackals. It recognised them, the way you'd recognise cousins. My shadow, thrown long across the sand by the starlight, was for one moment longer than it should have been, and the wrong shape.
+Rolling through the sand, I felt something stir in the silver half of me, huge and hungry, uncoiling. It liked the jackals. It recognised them, the way you'd recognise cousins. My shadow, thrown long across the sand by the starlight, was for one moment longer than it should have been, and the wrong shape.
 
 I didn't let it out. Not that night. That's a story for later, and you won't like it, and I like it even less.
 
@@ -300,9 +296,9 @@ One moment the jinn-jackal was crouched over Theyab's chest with its jaws spread
 
 It didn't bleed. Jinn things don't. It crumbled into a drift of black ash that fell over Theyab's face and chest like soot from a cooking pot, and it was cold, and it smelled, at last, of something: a lamp that has burned out and been left in a tomb.
 
-Then the hoofbeats.
+Then the footfalls, soft and enormous, felt through my paws before I heard them.
 
-Not hoofbeats. A camel at the gallop doesn't drum. It thuds, soft and enormous, the great padded feet striking the sand, a rhythm I felt through my paws before I heard it. A camel came over the crest of the dune at a full run. It was pale, almost white in the starlight, a racing camel from the Omani strains, long-legged and narrow, like something carved from bone. On its back rode a figure wrapped from head to foot in grey cloth. There was no face to see. Only the wrappings, and a headcloth wound into a veil, and a dark slit where the eyes should be.
+A camel came over the crest of the dune at a full run, pale, almost white in the starlight, a long-legged Omani racer like something carved from bone. On its back rode a figure wrapped from head to foot in grey cloth. There was no face to see. Only the wrappings, and a headcloth wound into a veil, and a dark slit where the eyes should be.
 
 The rider leaned from the saddle, pulled the spear from the sand in one smooth movement, and drove it through the second jackal without slowing. The third leapt at the camel's flank. The rider took it out of the air.
 
@@ -330,9 +326,7 @@ Then the rider turned the camel and rode away north into the dark, the long spea
 
 "Who was that?" said Theyab.
 
-I licked the ash off my foreleg and said nothing. That part was easy. I always say nothing.
-
-Who the rider was is a story for its proper time. If I tell it now you'll skip ahead, and then where will we be? Be patient. He was. Fifteen years, he was patient. Patience is just fear that has learned to sit still.
+I licked the ash off my foreleg. Who the rider was is a story for its proper time. If I tell it now you'll skip ahead, and then where will we be? Be patient. He was. Fifteen years, he was patient. Patience is just fear that has learned to sit still.
 
 ---
 
@@ -349,8 +343,6 @@ Theyab looked at that light for a long time.
 "I saw it," he said at last. He wasn't talking to me. He was saying it to the dark. "When I healed him. I saw myself. On a dune. I was burning, and I couldn't stop it, and I couldn't scream." His voice didn't shake. That was the worst of it. "All those stories. The Phoenix-Born. He *knew*."
 
 I couldn't answer that. But I came and lay down against him, along the length of his leg, with my head on his knee, and every hair on my body lay flat and still in the cold.
-
-He looked down at me. He'd been learning, these last few hours, what my hackles meant. He understood. I watched him understand.
 
 Theyab stood up. He tucked the bread inside his shirt, against the feather mark, where it was warm. He picked up his knife.
 

@@ -24,7 +24,7 @@ A ship.
 
 Below me lay a sabkha, a salt flat, dead and white and cracked into plates, stretching off toward a sea that hadn't been there in a thousand years. You find shells in the sand out there, a day's ride from any shore. And at the edge of that dead white flat, between two great dunes, half swallowed, lay a dhow.
 
-An old one, older than any the pearlers sail. A vast wooden hull, longer than all of Hilat al-Sarab, sunk on its side like a drowned animal, its tall stern rearing out of the sand with carved planks hanging off it like loose teeth, its ribs pale through the broken hull-boards. The planks were black with age and white with salt, and the whole thing leaned toward the sabkha, as if it were still trying to crawl back to the sea.
+A vast old hull, longer than all of Hilat al-Sarab, sunk on its side like a drowned animal, its tall stern rearing out of the sand, its ribs pale through the broken planks. The whole thing leaned toward the sabkha, as if it were still trying to crawl back to the sea.
 
 And inside it, through every crack and gap, lamps burned.
 
@@ -130,8 +130,6 @@ He rode off into the dark toward the west. I'd like to tell you that was the las
 
 They put him back on his chain in the hold, and the draining began.
 
-I won't tell you all of it. But somebody should know what he survived.
-
 They came in pairs, every few hours: one with a lamp, one with an ash-blade.
 
 An ash-blade doesn't cut. It lies flat against you, cold as the bottom of a well, and pulls, and the Light comes out of you in thin gold threads and runs into the steel and goes grey.
@@ -186,7 +184,7 @@ Theyab shut his eyes.
 
 "*Ask him who it is that's fed,*" the voice went on, gentle, almost sorry, "*every time one of you burns. Ask him what's on the other side of the Light. He's seen it. He's been inside it. He knows.*"
 
-Under the hull, I'll tell you something I've never told anyone. I didn't growl. I lay there with my lips off my teeth, waiting for the growl, and it didn't come. Not for *ask him why it's always children*. Not for *ask him who is fed*.
+Here is something I've never told anyone. Under the hull, I didn't growl. I lay there with my lips off my teeth, waiting for the growl, and it didn't come. Not for *ask him why it's always children*. Not for *ask him who is fed*.
 
 "*Let it go,*" said thirty voices. "*Let me hold it for you. It's so heavy, little light. I know. I carried it too.*"
 
@@ -260,7 +258,7 @@ Theyab stared up at him.
 
 Theyab's finger moved. A bend. A dot.
 
-"*Ya.* The little bowl, two dots underneath, like footprints." Hazza' was smiling now. "*Alif.* The tent pole. Straight up, like you should be, honestly, instead of hanging off that beam like a goatskin. And *ba*. The boat with one dot, sinking. Go on. Say it."
+"*Ya.* The little bowl, two dots underneath." Hazza' was smiling now. "*Alif.* The tent pole. And *ba*. The boat with one dot, sinking. Go on. Say it."
 
 "*Theyab,*" whispered Theyab.
 
@@ -326,7 +324,7 @@ And they both saw it.
 
 ---
 
-A goat-hair tent, at night. Lamplight. A shamal howling outside, the walls of the tent bowing in and out like something breathing, the tent-ropes singing.
+A goat-hair tent, at night. A shamal howling outside, the walls bowing in and out like something breathing.
 
 A small boy, five years old, sitting on a woven rug, very serious. In his arms, held carefully, the way he'd been shown, a newborn wrapped in grey cloth woven all over with strange symbols. The baby had one tiny fist round the boy's finger and wouldn't let go.
 
@@ -364,7 +362,7 @@ He went up the ladder to the children.
 
 They were in a narrow room in the bow, where the hull curved in toward the stem-post, awake. Eleven small faces turned toward the boy in the doorway.
 
-None of them moved. None of them made a sound. Two were wearing their masks already. He hadn't seen them put on.
+None of them moved. Two were wearing their masks already.
 
 "Up," he said. "All of you. Now. Hold hands. Don't let go."
 
@@ -378,7 +376,7 @@ Shibl moved first after that. He got up and took the smallest girl's hand. Then 
 
 That's when the shouting started.
 
-Running feet. Grey lamps swinging. Masks poured toward the bow from both ends of the ship, humming louder and louder. Theyab backed the children into the corner, where the hull boards met at the stem, with half a sword and no way out, and the light in his chest flickered grey.
+Running feet. Grey lamps swinging. Masks poured toward the bow, humming louder and louder. Theyab backed the children into the corner with half a sword and no way out, and the light in his chest flickered grey.
 
 And the floor under them sagged.
 
@@ -400,7 +398,7 @@ Not lifted. You can't lift a buried ship. I've heard it told that way since, aro
 
 And the floor of the children's room fell away into my tunnel, and my tunnel ran out under the hull to the open dune.
 
-I held the rest. The corner of the bow that hadn't fallen yet, the sagging stem-post, the planks over the children's heads, all of it leaning down onto my back, and all those scraped-out names, on a dog's back.
+I held the rest. The corner of the bow that hadn't fallen yet, the sagging stem-post, the planks over the children's heads, all of it leaning down onto me, every scraped-out name in that ship, on a dog's back.
 
 Through the hole in the broken floor, Theyab looked down at me.
 
@@ -437,8 +435,6 @@ I remember hands. His hands, picking me up. Holding me against his chest, right 
 I wriggled until he let me down, and dragged myself three steps to a hollow, and dug, and came back with it in my soft mouth, and put it in his palm.
 
 A small bronze bell, no bigger than a thumb.
-
-It didn't ring. I'd carried it too carefully for that. It just lay in his hand, still faintly warm from my mouth.
 
 He looked at it. He looked at me. And behind us, over the ridge, came the sound I'd been dreading: the howl of jinn-jackals, the roar and drum of racing camels, and under it all, the chant. No words. A hundred voices, none of them breathing.
 

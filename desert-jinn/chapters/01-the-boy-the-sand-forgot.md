@@ -27,7 +27,7 @@ He is burning.
 
 The moon hangs full and white above Tal Moreeb, the badr, so close and so swollen that it looks like something that has fed. The great dune of Liwa lies under it, the highest sand in the world, and on its crest a boy stands with his arms open, as if he is about to catch something falling out of the sky.
 
-The fire doesn't start at his hands. It starts in his chest, under the mark, the small golden feather that has glowed in the dark his whole life. It splits like a date-stone splits in the ground, from the inside, because the thing inside it has grown too big to stay. Light comes through the cracks in his skin. It runs down his arms and up his throat. It comes out of his eyes, and his eyes go with it.
+The fire doesn't start at his hands. It starts in his chest, under the mark, the small golden feather that has glowed in the dark his whole life. It splits from the inside, like a date-stone in wet ground, because the thing inside has grown too big to stay. Light comes through the cracks in his skin. It runs down his arms and up his throat. It comes out of his eyes, and his eyes go with it.
 
 You can smell it. Nobody ever tells you that part in the songs. The light smells of honey and hot metal, and under that, very faintly, of hair. My nose is better than yours. I smell it still.
 
@@ -35,7 +35,7 @@ And the boy doesn't scream.
 
 That's the part I always remember. I used to think it was courage. Lately I've wondered whether the fire takes the scream first, the way a thief cuts the bell from a camel's neck before he leads it away into the dark.
 
-The light keeps growing until it isn't a boy any more. It's a shape, two great wings of gold unfolding across the night, wide enough to cover the sands from the Hajar to the sea. Then it falls. Gold rains down over the desert, and everywhere it lands, the grey draws back.
+The light grows until it isn't a boy any more, only two great wings of gold unfolding across the night, wide enough to cover the sands from the Hajar to the sea. Then it falls. Gold rains down over the desert, and everywhere it lands, the grey draws back.
 
 Draws back. I want to be careful with my words, because you'll hold me to them later.
 
@@ -91,15 +91,13 @@ He told me, of course. Everyone tells the dog.
 
 On the morning this story begins, Theyab was underground.
 
-There were ruins an hour's walk into the dunes, half swallowed: the bones of some settlement so old that even the stones had forgotten who stacked them, with a dry channel where a *falaj* had once run. Every few weeks the wind opened a new room. Once, on one wall, very faint, he'd found a list of names scratched into the plaster, every one of them scratched out again afterwards, letter by letter, by someone with a great deal of time. He couldn't read them. He only knew they were names by the way they were set out, one under the other, like the dead.
+There were ruins an hour's walk into the dunes, half swallowed: the bones of some settlement so old that even the stones had forgotten who stacked them, with a dry channel where a *falaj* had once run. Every few weeks the wind opened a new room.
 
 The village said the jinn held their weddings in the ruins. Which was convenient, because it meant the only person willing to dig through them was the boy they already thought belonged to the jinn. Theyab was a scavenger. It was the only work anyone would give him.
 
 He crouched now in a chamber no taller than a goat, a blade between his teeth: an old khanjar whose silver hilt somebody had long since sold, bound now in rag, rusted along the spine. He was prying at a strip of copper along the foot of a wall. Every time he moved, sand hissed down from the ceiling in a long slow exhale, and then stopped, and then, a moment later, hissed again. As if the room were breathing with him. As if it were learning how.
 
 I lay in the doorway with my nose working. The room smelled of dust and bat and very old smoke, and of something much deeper that I didn't like. Cold. Like the air at the bottom of a well that has been dry a hundred years and has had something lying in it all that time.
-
-*Most boys your age are asleep at this hour*, I told him, in the only way I have, which is to say I didn't. *Not crawling around inside a dead building that very much wants to keep them.*
 
 "Don't look at me like that," Theyab said around the knife. He talked to me all the time. He was the loneliest boy between the Hajar and the sea, and I was the only creature in the village that didn't throw things. "If I don't get this, we don't eat."
 
@@ -125,7 +123,7 @@ Then he tucked the copper into his bag and crawled out into the sun, and he did 
 
 ---
 
-By the time we walked back into Hilat al-Sarab the sun was high and white and merciless, the hour when even the flies give up, and his bag held enough copper to buy rice and dates for three days.
+By the time we walked back into Hilat al-Sarab the sun was high and merciless, and his bag held enough copper to buy rice and dates for three days.
 
 He got enough for one.
 
@@ -197,7 +195,7 @@ It was Umm Hanan.
 
 She was the old widow who baked bread for half the village on an iron plate behind her house, whose husband and two sons had gone out to the pearl banks one summer and come home in nobody's boat. She never once spoke to Theyab in the square or defended him. She was old and alone and afraid, and in Hilat al-Sarab kindness out loud could cost you everything. So she was kind quietly, before the doves woke, every few days for fifteen years. She was never thanked. She did it the way you'd drop a date-stone in wet ground and walk away, not even thinking of a tree.
 
-The world is held together by people like Umm Hanan: too frightened to be brave, good anyway in small, secret ways. Theyab never learned her name in all his years in that village. But the sand remembers. That's what he used to tell himself on the worst nights, lying alone in his patched tent and listening to the wind try out its words.
+The world is held together by people like Umm Hanan: too frightened to be brave, good anyway in small, secret ways. But the sand remembers. That's what he used to tell himself on the worst nights, lying alone in his patched tent and listening to the wind try out its words.
 
 *The sand remembers.*
 
@@ -251,11 +249,11 @@ The bells didn't stir. My hackles lay flat as wet cloth. True. Horribly, precise
 
 Theyab's eyes were shining. They always shone at this part.
 
-You have to understand what that story meant to a boy who was nameless, thrown away and called a monster. It said that sometimes the forgotten ones are chosen. He had never told anyone his secret dream. He'd told me, though, under the stars, more times than I could count.
+You have to understand what that story meant to a boy who was nameless, thrown away and called a monster. It said that sometimes the forgotten ones are chosen. He had never told anyone his secret dream, except me.
 
 He wanted to be a hero.
 
-Not rich. Not even loved, though he wanted that too. He wanted to *matter*. He wanted the people who threw stones to look up one day and understand that they had been wrong about him.
+Not rich. Not even loved. He wanted to *matter*. He wanted the people who threw stones to look up one day and understand that they had been wrong about him.
 
 I have heard eleven children want that. The sky has never once failed to give it to them. That's the cruelty of it. It always keeps its word.
 
@@ -263,17 +261,17 @@ I have heard eleven children want that. The sky has never once failed to give it
 
 He had never asked that before.
 
-Bakhit went very still. On their threads, the brass bells waited. I watched one of them tremble, very slightly, the way a camel's skin trembles when a fly lands that it hasn't yet decided to shake off.
+Bakhit went very still. On their threads, the brass bells waited. I watched one of them tremble, very slightly.
 
 "They are remembered," Bakhit said at last.
 
 No bell rang. My hackles never moved. It was true, after all. Just not the whole truth.
 
-*The whole truth* and *true* are two very different animals, and the space between them is where most of the pain in the world lives. Children fall into that space. Bakhit knew exactly what happened to the Phoenix-Born, better than anyone alive. He chose not to say. I've been angry at him about that for a very long time. But that's later.
+*The whole truth* and *true* are two very different animals, and the space between them is where most of the pain in the world lives. Children fall into that space. Bakhit knew exactly what happened to the Phoenix-Born. He chose not to say. But that's later.
 
 "It's late," Bakhit said, and the moment passed. "Go home. And Theyab—"
 
-The boy paused at the tent flap. He was the only one in the village who knew that name. He'd told it to Bakhit when he was nine, and Bakhit had never once said it where anyone could hear.
+The boy paused at the tent flap. Bakhit was the only soul who knew that name, and he had never once said it where anyone could hear.
 
 "Remember the saying," said the old man. "Never say your name to the wind."
 
@@ -288,8 +286,6 @@ And because he was fifteen, and lonely, and because the only thing in the world 
 "Theyab."
 
 The wind took it, gently. Too gently. It carried it away south and east over the moving sand, toward the dark.
-
-He stood there a long while afterward, his hand pressed to his chest, feeling oddly lighter, as though he'd sent a letter with a passing caravan to someone who might one day write back.
 
 I stood at the foot of the dune and smelled the wind change.
 
@@ -311,9 +307,7 @@ Not dimming. Going out. One by one, low on the sky, the way lamps go out in a ho
 
 The feather on his chest began, very faintly, to burn.
 
-And for one instant, no longer than a blink, he wasn't on the dune at all. He was somewhere higher, much higher, with a white moon swollen above him, and there was heat in his mouth, and the smell of honey and hot metal and hair. Then it was gone, and he was on an ordinary dune with his heart going like a trapped bird.
-
-He thought he'd imagined it. He was very good, back then, at that.
+And for one instant, no longer than a blink, he wasn't on the dune at all. He was somewhere higher, much higher, with a white moon swollen above him, and there was heat in his mouth, and the smell of honey and hot metal and hair. Then it was gone, and he was on an ordinary dune with his heart going like a trapped bird. He thought he'd imagined it. He was very good, back then, at that.
 
 He did not see me at the foot of the dune behind him, standing with my legs braced and every hair on my body lying flat and still. Not one hackle. Everything about that moment was true, and I have never hated my own nose quite so much.
 

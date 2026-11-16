@@ -8,11 +8,11 @@
 
 Night fourteen. We saw Ghidd al-Zujaj at sunset, which is the only proper way to see it, and the worst.
 
-It lay in a wide flat basin between the dunes, where the sand gave out onto hard grey ground, and at first it looked like nothing. A low dark ridge of rock. A scatter of broken walls. Then the sun dropped behind it and the whole basin caught fire.
+It lay in a flat basin between the dunes, and at first it looked like nothing: a low dark ridge of rock, a scatter of broken walls. Then the sun dropped behind it and the whole basin caught fire.
 
-Glass. The ground was glass. Not everywhere: in long branching veins and great frozen puddles and twisted pipes standing up out of the sand like roots dug up and left. Green as a bottle, black as oil, yellow as old honey, and here and there a cloudy red like a bruise seen through skin. The Bedu find bits of it all over the deep sands, after a storm has blown the dunes off: green lumps and hollow tubes where lightning has struck and melted the sand where it stood. They call it *lightning's bones*. They pick it up and carry it as luck.
+The ground was glass. Long branching veins of it, great frozen puddles, twisted pipes standing up out of the sand like roots dug up and left. Green as a bottle, black as oil, yellow as old honey, here and there a cloudy red like a bruise seen through skin. The Bedu find bits of it all over the deep sands, where lightning has struck and melted the sand where it stood. They call it *lightning's bones* and carry it for luck.
 
-Here there was more than lightning could ever have made. Here the walls of the old town had melted where they stood, mud and stone run down like candle wax and set hard and shining. Doorways were glazed. Steps were glazed. And when the sun went down behind it, every wall and pipe and frozen puddle lit from inside, red and gold and green, like a great many lamps standing in rows.
+Here there was more than lightning could ever have made. The walls of the old town had melted where they stood, mud and stone run down like candle wax and set hard and shining. And when the sun went down behind it, every wall and pipe lit from inside, like a great many lamps standing in rows.
 
 Like a great many small pyres.
 
@@ -20,13 +20,13 @@ Hazza' stopped walking.
 
 "By my father's beard," he said softly.
 
-Theyab said nothing at all. His hand was on his chest. The mark under his shirt was hot, throbbing in time with his heart. He told me later, the way he told me everything, as if a dog could keep it, that it felt like something on the far side of the mark was pressing a palm against it from inside. The way you'd lay your hand flat on a door to feel whether the room beyond was burning.
+Theyab said nothing. His hand was on his chest. He told me later that the mark felt as if something on its far side were pressing a palm against it, the way you'd lay your hand on a door to feel whether the room beyond was burning.
 
 I lay down in the sand and put my chin on my paws and did not look at it.
 
 ---
 
-It had taken us four days from Bir al-Ghina'. Theyab led us by the stars and by the long backs of the dunes, and Hazza' found the old waymarks his grandfather's falconers had talked about: a cairn, a dead ghaf tree with a rag tied to it, a rock shaped like a kneeling camel. They were good days. I want you to know that. Every evening they sat by a little fire while Hazza' drew letters in the sand and Theyab copied them.
+It had taken us four days from Bir al-Ghina'. Theyab led by the stars, and Hazza' found the old waymarks: a cairn, a dead ghaf tree with a rag tied to it. They were good days. I want you to know that. Every evening they sat by a little fire while Hazza' drew letters in the sand and Theyab copied them.
 
 He had a good many by then. His own name, and Hazza''s, and mine. *Ma'*, water. *Nar*, fire. *Jamal*, camel, which Hazza' maintained was the most useful word in any language. And on the twelfth night, with the fire burning down, Theyab had asked for the fire-words. What you call each thing a fire leaves behind.
 
@@ -38,13 +38,9 @@ I did. I could have scuffed it out with my feet each time he wrote it. I didn't.
 
 ---
 
-Hazza' told the story, sitting on the last dune with the glass burning below us. The falconers had told it to him when he was small, and he told it badly, the way people tell stories they half believe.
+Hazza' told the story on the last dune, the way his grandfather's falconers had told it to him, badly, the way people tell stories they half believe.
 
-"There was a town here once," he said. "An ordinary town. Wells, palms, a market, dogs, people quarrelling over the price of ghee. And one day a boy came here, a goatherd from the mountains, and he was carrying something. The falconers called it *a light the One who made the sands had put in him*. And he was meant to give it away. To let it go out of him, up on the great dune, for everyone. And he wouldn't. He stood on that rock there—" He nodded toward the dark ridge at the heart of the glass. "—and he said *no*. And the light went the wrong way. It went *inward*. It burned so hot the sand round him melted. The whole town. Everyone in it." He watched a skein of glass-dust blow off a wall. "The sand wept glass. That's how the falconers said it."
-
-"Everyone?" said Theyab.
-
-"So they said. I always thought it was a story to keep boys out of the deep sands." Hazza' looked down at the burning walls, and didn't sound like a man who thought it was a story any more.
+"There was an ordinary town here once. Wells, palms, a market, people quarrelling over the price of ghee. And a goatherd boy came down from the mountains carrying a light the One who made the sands had put in him. He was meant to give it away, up on the great dune, for everyone. He wouldn't. He stood on that rock there—" He nodded toward the dark ridge. "—and said *no*. And the light went *inward*. It burned so hot the sand melted. The whole town. Everyone in it. The sand wept glass." He looked down at the burning walls, and didn't sound like a man who thought it was a story any more.
 
 I'll tell you what I couldn't tell either of them.
 
@@ -64,7 +60,7 @@ I tried not to look, so I'll tell you what Hazza' saw, because he looked. He cou
 
 The walls of Ghidd al-Zujaj don't have names painted on them, the way he said the walls of Ubar do. They have *people* in them.
 
-Shadows, mostly. Dark shapes inside the glazed mud, where the walls had run down over them and set before they could fall. A man with his arm thrown over his face. A woman curled over something small. Two shapes in a doorway, holding each other. A dog, lying across a threshold. Hundreds, all along every lane, like flies in honey. The last of the light threw their shadows out onto the ground, long and reaching, so that we had to walk on them.
+Dark shapes inside the glazed mud, where the walls had run down over them and set before they could fall. A man with his arm over his face. A woman curled over something small. Two shapes in a doorway, holding each other. A dog across a threshold. Hundreds, like flies in honey, their shadows thrown out long across the lane so that we had to walk on them.
 
 Hazza' stopped in front of one. A child, low down near the ground, small enough to have been four or five. Face pressed to the inside of the glass. Mouth open.
 
@@ -80,27 +76,25 @@ I didn't look at the dog.
 
 The carvings were on the rock at the heart of the town.
 
-It was a long low ridge of dark sandstone, no higher than three men, curving round a hollow like the inside of a cupped hand. The glass lapped right up to its foot and stopped. The rock itself wasn't melted. It was the only thing in that whole basin that wasn't. The sun and the wind had burned its face black and shiny over thousands of years, the dark skin the Bedu call the rock's varnish, and into that black skin, as on so many rocks in the mountains and the deep sands, someone had pecked pictures. The old pictures. You've seen them if you've been to the Hajar: stick camels, men on horses, an ibex, a hand.
-
-Those were there, low down, faded almost to nothing.
+It was a long low ridge of dark sandstone curving round a hollow like a cupped hand. The glass lapped up to its foot and stopped; it was the only thing in the basin that hadn't melted. Sun and wind had burned its face black and shiny over thousands of years, and into that black skin, low down, someone had pecked the old pictures you see all over the Hajar: stick camels, an ibex, a hand. Faded almost to nothing.
 
 Above them were the others.
 
 There were eleven.
 
-They ran in a long curve round the inside of the hollow, each one taller than a man. And they weren't stick figures. Nobody living can carve like that, and nobody dead could have. They were pecked into the black skin of the rock so finely that the pale stone beneath showed through in every line of a face, every fold of a robe, every hair. As if the rock had remembered them. As if each one had been pressed into it, like a seal into hot wax.
+They ran in a long curve round the hollow, each taller than a man. Nobody living can carve like that. They were pecked into the black skin so finely that the pale stone showed through in every line of a face, every hair, as if each child had been pressed into the rock like a seal into hot wax.
 
-Beneath each, in a different hand, newer by a thousand years and more, someone had cut a line of letters. Old letters. The square, angular hand the first scribes used, before the letters learned to curve.
+Beneath each, newer by a thousand years, someone had cut a line of letters in the square, angular hand the first scribes used, before the letters learned to curve.
 
-Hazza' had gone to look for the cistern the falconers had talked of. "Don't touch anything," he said as he went. His voice was too bright. "Especially you, Ghareeb." I lifted my lip at him, and he laughed, and went.
+Hazza' had gone to look for the cistern. "Don't touch anything," he said, too brightly. "Especially you, Ghareeb."
 
 So it was only Theyab and me in the hollow of the rock when he began to read.
 
 ---
 
-He went slowly. Fourteen days before, he hadn't known one letter from another. Now he stood in front of each carving with his lips moving, sounding out the square old shapes one by one, the way a child sounds them out. His finger traced each letter just above the stone without quite touching. The rock breathed cold onto his hand, though the day's heat was still coming up off the glass behind him.
+He went slowly, lips moving, sounding out the square old shapes the way a child does, his finger tracing each letter just above the stone. The rock breathed cold onto his hand.
 
-He couldn't read most of it. The old hand was strange to him; even Hazza' would have had to puzzle at it. But he could pick out letters he knew, and every so often a whole word came clear for him like a coin turning up in the sand.
+He couldn't read most of it. But he could pick out letters he knew, and every so often a whole word came clear for him like a coin turning up in the sand.
 
 "*Haddad*," he said, in front of the third. "Smith. The… Smith."
 
@@ -154,11 +148,9 @@ Every one of them looked like a child who has just found out that it hurts.
 
 Theyab had seen that picture before.
 
-He'd seen it every time he used the Light. With Shibl in his arms in the lane at Hilat al-Sarab. On the caravan track, when he'd smelled his own hair burn. At Bir al-Ghina', with his palms blistering. Every time a little longer, a little clearer, a little hotter.
+He'd seen it every time he used the Light. With Shibl in his arms. On the caravan track. At Bir al-Ghina'. Every time a little longer, a little hotter.
 
-He went back to the first of the eight, the girl with the braids. His finger ran along the old square letters beneath it, past all the words he didn't know, right to the very end, the far left, where there was one short word standing on its own.
-
-Four letters. A little tail dropping under the line. A knot. A standing stroke. A bent knee. The old shapes were squarer than Hazza''s, but he knew them.
+He went back to the girl with the braids. His finger ran along the letters beneath her, past all the words he didn't know, to the very end, the far left, where one short word stood on its own. Four letters, squarer than Hazza''s, but he knew them.
 
 *Ra. Mim. Alif. Dal.*
 
@@ -184,7 +176,7 @@ No bell had rung. It was true. The rock remembered them. Perfectly. Forever. The
 
 He didn't cry. I'd half expected him to.
 
-He sat down on the ground at the foot of the rock, slowly, the way a very old man sits, and pulled his knees up to his chest. His hand was pressed flat over the feather mark. He was quiet for a long time. Through the glass at the edge of the hollow, faintly, I could see more shadows, very deep down.
+He sat down at the foot of the rock, slowly, the way a very old man sits, and pulled his knees up to his chest, his hand flat over the feather mark.
 
 Then he said, without looking at me, "You knew."
 
@@ -196,11 +188,9 @@ I put my head down.
 
 "They're all children," he said. "Ghareeb. They're all *children*. Why are they all children?"
 
-I didn't answer. I couldn't, and I wouldn't have. I looked up out of the hollow at the sky, where the first stars were coming out, and I felt something rise in me that I'd been swallowing for a very long time. Eleven times I had walked a child toward that dune, and every time I'd told myself the Light just settled in the young, the way frost settles in low ground.
+I looked up out of the hollow at the first stars, and something rose in me I'd been swallowing for a very long time. Eleven times I had walked a child toward that dune, telling myself the Light just settled in the young, the way frost settles in low ground. I'll tell you what I think at the end. You won't like it.
 
-I've had a long time to think about that since. I'll tell you what I think at the end. You won't like it.
-
-The growl came up out of me before I could stop it. Not at him. At the sky. My hackles came up, from skull to tail, and I stood on stiff legs at the foot of the rock with my lips drawn back, snarling at the stars like a mad thing, the way I'd snarl at a man who lied to me.
+The growl came up out of me before I could stop it. Not at him. At the sky. I stood on stiff legs with my hackles up and my lips drawn back, snarling at the stars like a mad thing, the way I'd snarl at a man who lied to me.
 
 He flinched. Then he looked where I was looking.
 
@@ -214,9 +204,9 @@ He asked in a very small voice. It was the voice of a seven-year-old sitting on 
 
 ---
 
-I want to tell you about that moment properly. You know by now I can't abide liars. You've seen my hackles rise for them over and over, and every time, I think a little less of them.
+I want to tell you about that moment properly. You know I can't abide liars.
 
-I have walked beside eleven bearers. I have kept things from all of them, because I am a dog and I can't tell anyone anything. But I had never once told one of them a thing that wasn't so. Not with my ears. Not with my tail. Not with my eyes. Not even Ghadban, when he begged me to.
+I have walked beside eleven bearers. I have kept things from all of them, because I am a dog and can't tell anyone anything. But I had never once told one of them a thing that wasn't so. Not with my ears, my tail, my eyes. Not even Ghadban, when he begged me to.
 
 And I looked at that boy on the ground with *ramad* written eight times around him under eight small burning faces. I thought: *He's fifteen. He's only just learned to laugh. He has a friend for the first time in his life, and that friend is somewhere in this town right now saying sorry to the dead in the walls, and he'll come back soon, and they'll eat together and argue about the stars.*
 
@@ -224,7 +214,7 @@ I thought: *Let him have that. A little while. Let him have a little longer befo
 
 So I lied.
 
-I went to him. I wagged. Not a little. I swung my whole back end the way I do when he comes back to the fire after a long hunt, and I pushed my head under his arm, and I leaned my whole weight into his chest the way I do when everything is all right, and I looked up into his face with my ears soft and my eyes warm.
+I went to him and wagged, my whole back end swinging, and pushed my head under his arm and leaned my whole weight into his chest the way I do when everything is all right, and looked up at him with my ears soft and my eyes warm.
 
 *Yes*, all of me said. *Yes. There's a way. Don't be afraid.*
 
@@ -232,7 +222,7 @@ I went to him. I wagged. Not a little. I swung my whole back end the way I do wh
 
 And my body betrayed me.
 
-I have never once been able to lie, and I could not do it now. Even as I leaned into him, the hackles came up along my spine on their own. I felt them go, stiff, every hair from my skull to the root of my tail, a ridge like a jackal's back. And out of my own chest, while my tail was still wagging, came the growl. Low. Rough. The stone dragged over stone. The sound I keep for liars.
+Even as I leaned into him, the hackles came up along my spine on their own, stiff, from my skull to the root of my tail. And out of my own chest, while my tail was still wagging, came the growl. The stone dragged over stone. The sound I keep for liars.
 
 I was growling at myself.
 
@@ -242,13 +232,9 @@ And somewhere in Theyab's bag, muffled in its rag, Old Bakhit's little brass bel
 
 It went up into the dark of the hollow and came back off the rock, again and again, smaller each time. *Ting. Ting. Ting.* As if all eleven of them were ringing it.
 
-Theyab's hand was on my back. He could feel the hackles under his palm. He'd felt them rise before he'd even finished asking. Of course he had. He had learned to read me better than any of them.
+Theyab's hand was on my back. He felt the hackles rise under his palm. He'd been watching for them before I'd even moved. He had learned to read me better than any of them. He looked into my eyes, the amber one and the silver, and didn't say anything.
 
-He looked into my eyes. The amber one, and the silver.
-
-He didn't say anything.
-
-That was the worst. I'd been ready for anything else. For him to push me off, or shout. But he only looked at me a long moment, with his hand on my bristling back, and then he looked away, up at the eight burning children, and he nodded slightly, as if I'd confirmed something.
+That was the worst. I'd been ready for him to push me off, or shout. But he only looked at me a long moment, and then he looked away, up at the eight burning children, and he nodded slightly, as if I'd confirmed something.
 
 Which, of course, I had.
 
@@ -258,9 +244,9 @@ That was all.
 
 He didn't push me away. He left his hand there, on the hackles, until they went down.
 
-I've borne a great many hard truths in my life. I've lain on the graves of men whose mothers didn't know yet. None of it ever hurt as much as that one lie, and that one small word he gave me back.
+Nothing I've ever borne hurt as much as that one lie, and that one small word he gave me back.
 
-I'll be honest with you now, because I owe somebody the truth about it. I don't know whether I lied to protect him, or to protect myself from watching his face if I'd let him see *no*.
+I'll be honest with you now. I don't know whether I lied to protect him, or to protect myself from watching his face if I'd let him see *no*.
 
 Both, probably. People are rarely only one thing. Not even dogs. Especially not dogs who are only half of anything.
 
@@ -268,21 +254,17 @@ Both, probably. People are rarely only one thing. Not even dogs. Especially not 
 
 Hazza' came back with a full waterskin and glass-dust in his beard, talking before he was even into the hollow.
 
-"There's a cistern under the east wall, it's full, it's disgusting, there's something living in it, I *think* it's only a toad, it had the right number of legs. And there are more of them down there. In the walls. Theyab, there's a whole room of them, all sitting in rows on the floor, like they were waiting for someone to—"
+"There's a cistern under the east wall, it's full, it's disgusting, I *think* the thing in it is only a toad. And there are more of them down there. In the walls. A whole room of them, sitting in rows, like they were waiting for someone to—"
 
-He stopped.
-
-He looked at Theyab on the ground. He looked at me, pressed against Theyab's side with the last of my hackles still standing. He looked up, slowly, at the eight burning children in the rock.
+He stopped. He looked at Theyab on the ground, at me with the last of my hackles still standing, and up, slowly, at the eight burning children in the rock.
 
 "What happened?"
 
-Theyab told him.
-
-He couldn't have done anything else. Lying wasn't open to him. He told him all of it: the dune, the full moon, *ramad* eight times over, the children, and the vision he'd been having since Hilat al-Sarab. That it had a smell now, and heat. He told it in a flat quiet voice, staring at the ground.
+Lying wasn't open to Theyab. He told him all of it, the carvings and the vision and its smell, in a flat quiet voice.
 
 He didn't tell him what I'd done. He left that out. I've never forgotten that he left that out.
 
-When he'd finished, Hazza' set down the waterskin very carefully. Then he walked to the first of the eight carvings and read it. Properly, out loud, every word, slowly, sounding out the old square letters, frowning, going back. His voice came back off the rock, quieter, as if the hollow were reading along.
+Hazza' set down the waterskin very carefully. Then he walked to the first of the eight and read it out loud, slowly, frowning at the old letters. His voice came back off the rock, quieter, as if the hollow were reading along.
 
 "*The Weaver's Daughter*," he read. "*Who wove the black tents of her people, and in her fifteenth year climbed the great dune under the full moon, and opened her hands, and the grey went away. And of her there remained only*—" His voice caught. "*Ramad.*"
 
@@ -312,13 +294,11 @@ I'll tell you something. When he stood in that hollow and shouted *who decided*,
 
 It didn't help. It never does.
 
-Theyab looked at him a long time.
-
-And there, at the foot of the rock at Ghidd al-Zujaj, something happened that I'll remember until the stars go out. Theyab smiled. Small and tired and sad. But real.
+Theyab looked at him a long time. And then he smiled. Small and tired and sad. But real.
 
 "Okay," he said. "A third way."
 
-He didn't believe it. I could see that. But he'd seen how much Hazza' needed him to say it, and he'd found the one true thing in it he could say. He *would* look for one. That was true. I didn't growl. I went and pushed my nose into Hazza''s hand instead, and he looked down at me, startled, and then rubbed my ears without seeming to know he was doing it.
+He didn't believe it. But he'd seen how much Hazza' needed it, and he *would* look for one. That was true. I didn't growl. I pushed my nose into Hazza''s hand instead, and he rubbed my ears without seeming to know he was doing it.
 
 ---
 
@@ -328,7 +308,7 @@ Hazza' lay with his back to the rock and his broken sword across his chest, faci
 
 Theyab didn't sleep for a long time.
 
-He sat cross-legged with his bag open in front of him. He took out the broken golden feather Old Bakhit had given him and turned it over in his fingers. In the faint shine of the carvings it seemed to me that the break across its middle had closed. Only a little. Only the width of a hair. As if facing one hard truth had mended something in it. I've wondered since what it was mending itself *for*.
+He took out the broken golden feather Old Bakhit had given him and turned it over. It seemed to me that the break across its middle had closed. Only a little. Only the width of a hair. As if facing one hard truth had mended something in it. I've wondered since what it was mending itself *for*.
 
 He didn't notice. He was looking at the twelfth place on the rock.
 
@@ -350,7 +330,7 @@ He didn't wake. But his right hand came out from under his cloak, and the forefi
 
 Then again beside it. *Ramad.* And again. Moving in a slow ring around himself, the way he'd ringed the well at Bir al-Ghina', until he lay in the middle of a little circle of the word.
 
-And then, at the end, in a hand that wasn't quite his, one more word. Very small. Not in any letters Hazza' had taught him. The old letters, the ones cut into the rock above the town's gate that no Bedu living can read: tall and straight and made of lines and loops, like little ladders and little trees. The same shapes the dunes had written at him, that night on the ridge, when he'd stood in front of them and couldn't read one.
+And then, in a hand that wasn't quite his, one more word. Very small. Not in any letters Hazza' had taught him: the old letters no Bedu living can read, tall and straight, like little ladders and little trees. The same shapes the dunes had written at him that night on the ridge.
 
 He couldn't read it now either. He was asleep. But his finger knew it.
 
