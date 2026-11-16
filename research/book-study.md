@@ -9,6 +9,7 @@ Compiled November 2026. Method: web search only. Direct page fetches were blocke
 - Part 1: Ten books
 - Part 2: Gulf folklore: creatures, jinn beliefs, storytelling
 - Part 3: Recommendations for our book
+- Part 4: Sirat Sayf ibn Dhi Yazan and jinn in classical Arabic books
 - Sources
 
 ---
@@ -271,6 +272,92 @@ The UAE word for these tales is **khurrafa / khrareef** (خراريف, singular 
 
 ---
 
+# Part 4: Sirat Sayf ibn Dhi Yazan and Jinn in Classical Arabic Books
+
+Method note: web search only. Page fetches were blocked for every host tried in this session (Wikipedia, Mizan Project, SOAS, almadaniyamag, sav.sk), so facts come from search-result summaries of the pages listed in Sources [S70]–[S92]. Items marked **(from memory, unverified)** are things I'm fairly sure of from standard scholarship but could not confirm online here. Check them against Jayyusi's translation, Blatherwick's monograph, or an Arabic edition before the novel relies on them.
+
+## 4.1 Sirat Sayf ibn Dhi Yazan (سيرة الملك سيف بن ذي يزن)
+
+### Date, origin, form
+- **What it is:** a *sira sha'biyya* (Arabic popular epic), a mix of heroic epic and pure fantasy. It is loosely based on the historical Sayf ibn Dhi Yazan, a Himyarite (Yemeni) prince who drove the Abyssinians out of Yemen with Persian help around 570 CE and was later killed by his own Abyssinian guards (c. 575–578) [S70][S71]. Early Islamic historians (Ibn Hisham, al-Baladhuri, Ibn Kathir) record the historical man and the tradition that he foretold the coming Prophet [S77][S79].
+- **Date and place:** composed in **late-medieval Mamluk Egypt, 15th–16th century CE** [S70][S72]. Helen Blatherwick calls it a "late-medieval Egyptian popular epic" [S72]. It survives in many manuscripts (a review counts **34 manuscripts** in four major European libraries alone) and in Cairo printed editions of the 19th–20th centuries, usually in 4 volumes [S73][S78].
+- **English:** Lena Jayyusi, *The Adventures of Sayf Ben Dhi Yazan: An Arab Folk Epic* (Indiana UP, 1996), a condensed translation [S74]. Scholarship: Rudi Paret's German summary (1924); Helen Blatherwick, *Prophets, Gods and Kings in Sirat Sayf ibn Dhi Yazan* (Brill, 2016) [S72][S75]. In Arabic: Sa'id Yaqtin, *Dhakhirat al-'aja'ib al-'arabiyya: Sayf ibn Dhi Yazan* [S78].
+- **Big theme:** Sayf leads his people on an exodus to an empty Egypt, **diverts the Nile** to flow to it, and founds a (proto-)Islamic kingdom there, conquering "the worlds of humans and jinn" [S72][S76]. Egyptian commentators read it as an old fear of a southern (Abyssinian) power controlling Egypt's water [S77].
+
+### Structure
+- Episodic and very long, in cycles. Sources name an **Abyssinian cycle** (birth, exposure, youth at Afrah's court) [S70], a **Wedding Quest** section whose frame is the betrothal of Sayf's jinn milk-sister **'Aqisa** and his jinn servant **'Ayrud** [S72], and a final **Hunt for Saqardis and Saqardiyun** [S72]. Inside each cycle are endless nested quests, captures, rescues, and marriages, each opened by the next danger: the same "one more night" engine as the *Nights*.
+
+### Plot outline (core names verified; details from search summaries)
+1. **The enemy and the prophecy.** The Abyssinian king **Sayf Ar'ad** (سيف أرعد) is the main human enemy [S70][S71]. His two sage-sorcerers, **Saqardis** (سقرديس) and **Saqardiyun** (سقرديون), read in their books that a child of Dhu Yazan will destroy Abyssinia [S72][S80]. A mole (*shama*) prophecy: Sayf has a mole on his cheek and a princess, **Shama** (شامة), has another; if the two marks are joined, ruin falls on Abyssinia [S80].
+2. **The mother.** **Qamariyya** (قمرية) is a slave woman. In one telling she is a sorceress sent by Sayf Ar'ad to poison King Dhu Yazan; instead she marries him [S80][S81]. After Dhu Yazan dies she wants the throne, so she **tries to kill her own newborn son and has him thrown out in the desert** [S73][S81]. This hostile mother is the epic's most famous horror motif.
+3. **The wild child.** The baby is **suckled by a gazelle** and then by a **jinniyya**. This makes the jinn girl **'Aqisa** (عاقصة) his **milk-sister** [S80][S83]. He is found by the Abyssinian king **Afrah**, who raises him as **Wahsh al-Fala** ("Beast of the Wilderness") [S71][S82]. He falls in love with Afrah's daughter **Shama**. A hermit/sage reveals his real birth, and he takes back his name and the faith of Abraham [S71].
+4. **The mother keeps trying.** Qamariyya learns he lives. She gets hold of the magic **tablet (*lawh*)** that commands the jinni **'Ayrud** (عيروض) and **orders 'Ayrud again and again to carry her son off and drop him in deadly places** [S81][S84]. The sorcerer **Barnukh** (برنوخ) later gets 'Ayrud's tablet from Qamariyya and sends the jinni after Sayf [S84]. Whoever holds the object holds the jinni, so the jinni serves the hero and then hunts him. **(Mechanism verified only in outline, from summaries.)**
+5. **'Aqisa, the jinn princess.** She is the daughter of a jinn king, given in one Arabic summary as **al-Malik al-Azraq** ("the Blue King") **(uncertain)** [S81]. She rescues Sayf and his companions many times. In the end **'Aqisa kills Qamariyya** [S80][S81]. Her marriage to 'Ayrud frames the Wedding Quest. 'Ayrud has to bring **Bilqis's (the Queen of Sheba's) robe** from **Solomon's treasures** as her bride-price, and Sayf has to rescue him on that journey [S72][S83].
+6. **The Book of the Nile.** Sayf's great quest is for a book: **"Kitab al-Nil"** (Book of the Nile), which tells how to bring the Nile to Egypt [S76][S85]. The fuller title **"Book of the History of the Nile" (Kitab Tarikh al-Nil) could not be confirmed (uncertain).** Arabic sources usually say just "Kitab al-Nil". Blatherwick lists **seven magical items** the hero must gather, among them a sword and a book [S72].
+7. **Helpers.** **al-Khidr** (the Green Man, the mysterious immortal guide) sends help and gifts. In one episode he sends **Abu al-Nur al-Zaytuni** with a protective *dhakhira* (stored charm) [S83]. Wise women and sorceresses fight on both sides. A well-known MENA librarian thread calls the sorceress-heroine **'Aqila** a major figure [S86]. **'Aqila (sorceress) and 'Aqisa (jinniyya) seem to be different characters, and English summaries mix them up (check).**
+8. **Solomonic layer.** The epic draws heavily on Solomon legends: Solomon's power over jinn, his treasures, Bilqis being half-jinn, and a **marid ordered to lead Sayf to Solomon's treasure who deliberately disobeys** [S75].
+9. **End.** The hunt for Saqardis and Saqardiyun [S72]. Sayf founds his Egyptian kingdom. (Outside the epic, history says the real Sayf was killed by his own servants [S71].)
+
+### The jinn and magic system
+- **Jinn bound to objects.** Power over a jinni lives in an **object** (the tablet of 'Ayrud). Possession is everything, and the jinni obeys whoever holds it, good or wicked. That is how Qamariyya and Barnukh turn the hero's own servant against him [S81][S84].
+- **Solomonic seals and treasures.** Jinn fear the descendants of Solomon. Hidden *kunuz* (treasures) under guard, and jinn who obey but twist orders, like the disobedient marid [S75].
+- **Sorcerers versus sages.** Pagan sorcerers (Saqardis, Saqardiyun, Barnukh) work through books, astrology, and *abwab* (spell "chapters") [S84]. Believing helpers work through charms, God's names, and al-Khidr's gifts [S83].
+- **Milk-kinship with jinn.** A human suckled with a jinniyya becomes kin to the jinn, and kinship binds them more than any spell [S80][S83].
+- **Prophecy as a trap.** Read in books by enemies, prophecy drives the whole plot. Each villain's effort to stop it brings it closer [S80].
+- **Wonder-geography.** Valleys of sorcerers, jinn cities, enchanted islands, *al-fada' al-'ajib* ("the marvellous space") [S82][S84].
+
+### Style (oral storyteller)
+- It was performed by professional reciters in Cairo coffeehouses. E. W. Lane's *Manners and Customs of the Modern Egyptians* (1836) describes the public reciters of romances. **That Sayf still had specialist reciters in Lane's day is uncertain**: from memory, Lane says it was rarely recited by then [S87].
+- **Formulas (from memory, unverified for this sira specifically; standard for siras):** each section opens with *qala al-rawi* ("the narrator said"); the teller calls on the audience (*ya sada ya kiram*, "O masters, O noble ones") and asks them to *salli 'ala al-nabi* (bless the Prophet) before a big turn. Prose is often rhymed (*saj'*), broken by poems that characters speak at moments of feeling, with a cliffhanger at the end of the night's session.
+
+### Five techniques to borrow
+1. **The object holds the jinni.** Make "who holds the thing?" a live question in every scene.
+2. **The murderous mother as a recurring threat**, not a one-off. Qamariyya tries again and again.
+3. **The jinn milk-sibling.** A child nursed alongside a jinni is bound to them for life.
+4. **Prophecy read by enemies.** The villains' attempts to stop it are what make it come true.
+5. **Storyteller formulas** that let the narrator step in, delay, and bless before horror.
+6. **A servant jinni who obeys the letter and not the spirit** (the disobedient marid).
+
+## 4.2 Jinn in classical Arabic books
+
+| # | Name | Book and author | Description, powers, weaknesses, home |
+|---|---|---|---|
+| 1 | **Jinni** (جِنّي, *jinni*) | al-Jahiz (d. 868/9 CE, 9th c.), *Kitab al-Hayawan* [S88] | The plain word. The Arabs ranked jinn "in grades"; the bare *jinni* is the base rank. Made from smokeless fire (Qur'an 55:15), so they're invisible and change shape. |
+| 2 | **'Amir**, plural **'ummar** (عامر / عُمّار) | al-Jahiz, *Hayawan* [S88] | A **jinni who lives with people in their houses**. A house jinni: not evil, but a resident. Hadith tradition tells you to warn a house snake three times, because it may be one of the *'ummar* [S65]. |
+| 3 | **Arwah** (أرواح, "spirits") | al-Jahiz, *Hayawan* **(from memory, unverified)** | In al-Jahiz's ranks, the name for jinn **who trouble children** (*ya'rid li-l-sibyan*). Fits Umm al-Sibyan. |
+| 4 | **Shaytan** (شيطان) | al-Jahiz, *Hayawan* [S88][S89] | A jinni who becomes **wicked, insolent, faithless**. Rank by character, not a separate species. |
+| 5 | **Marid** (مارد) | al-Jahiz; Qur'an 37:7 (*shaytan marid*) [S88][S89] | Stronger than a shaytan: can **carry buildings and heavy loads and eavesdrop at the gates of heaven**. Shooting stars drive them off. In *Sayf*, the marid who disobeys [S75]. |
+| 6 | **'Ifrit** (عفريت) | al-Jahiz; Qur'an 27:39 (the 'ifrit who offers to carry Bilqis's throne to Solomon) [S88][S89] | Stronger than a marid: the top tier of brute power. |
+| 7 | **'Abqari** (عبقري) | al-Jahiz, *Hayawan* [S88] | Stronger still. From 'Abqar, a legendary jinn country; the root of the word "genius". (Order of ranks 4–7 as given in an Arabic summary of al-Jahiz [S88].) |
+| 8 | **Ghul** (غول) | Pre-Islamic poetry (Ta'abbata Sharran, 6th c.); al-Jahiz; al-Mas'udi (d. 956, 10th c.), *Muruj al-Dhahab*; al-Qazwini (d. 1283, 13th c.) [S55][S56][S90][S91] | A desert shape-shifter, usually female, who **lures travellers off the road** and eats them. Ta'abbata Sharran got his name ("he carried evil under his arm") by bringing home a ghul he took for a ram [S91]. Al-Mas'udi records Bedouin ghul beliefs, citing Ibn Ishaq and Wahb ibn Munabbih, and leans toward explaining them as the fears of lonely travellers [S90]. **Weakness (from memory, well known):** **kill it with one blow. If you strike a second time it comes back to life**, and the ghul begs "strike again!" **Its feet (from memory, uncertain source):** it can change every part of itself except its feet, which stay **donkey's hooves**. Lives in wastes and ruins. |
+| 9 | **Si'lat / si'la** (سعلاة) | al-Jahiz; al-Mas'udi; al-Qazwini [S92] | A female jinn-witch. "Demonical, of the jinn according to most authors." Different from the ghul: it stays in one form and lives in thickets/forests (Lane: "man-eating forest spirit") [S92][S93]. **(From memory, unverified):** the tale of 'Amr ibn Yarbu', who married a si'lat and had children by her. She ran off when she saw lightning over her homeland. Pairs with the "Humarat al-Qayla/Si'luwa" Gulf figure [S62]. |
+| 10 | **Shiqq** (شِقّ) | al-Qazwini, *'Aja'ib al-Makhluqat*, as cited in Hughes's *Dictionary of Islam* from Lane [S92] | **Half a human, split lengthwise**: one eye, one arm, one leg. Al-Qazwini reports a shiqq killed 'Alqama ibn Safwan [S92]. "Shiqq" is also the name of a pre-Islamic half-bodied soothsayer (paired with Satih) who foretold the Abyssinian invasion of Yemen, the same story-world as Sayf (from memory: Ibn Hisham's *Sira*, the dream of King Rabi'a ibn Nasr; the chapter preceding Ibn Kathir's Sayf account [S94]). |
+| 11 | **Nasnas** (نسناس) | al-Mas'udi; al-Qazwini; *Nights* [S57][S58][S92] | Said to be **the offspring of a shiqq and a human**. Half-bodied, hopping on one leg. Yemen and Hadramawt; hunted by people. |
+| 12 | **Ghaddar** (غدّار) (probably the "'udar" asked about) | Lane, from Arab sources, via later handbooks [S93] | A **Yemeni jinni who seizes and torments men**. Thinly sourced in English (uncertain). |
+| 13 | **Hatif** (هاتف), the unseen voice | Pre-Islamic belief; al-Jahiz; al-Mas'udi; Ibn Abi al-Dunya (d. 894), *Hawatif al-Jinn* [S95][S96] | **A voice heard with no body**. It warns, prophesies (soothsayers like Satih received *hawatif*), finds lost things, or avenges a murdered jinni by driving the killer mad. Al-Jahiz says the Bedouin were amazed anyone could doubt it. Al-Mas'udi explains it as a hallucination of loneliness [S95]. |
+| 14 | **Tabi'** (تابع), also **ra'i** (رَئِيّ), the poet's jinn companion | Ibn Shuhayd of Córdoba (d. 1035, 11th c.), *Risalat al-Tawabi' wa-l-Zawabi'* ("Epistle of Familiar Spirits and Demons") [S97][S98] | Each great poet has a jinni who **gives him his verses**. Ibn Shuhayd's own tabi', **Zuhayr** (full name **Zuhayr ibn Numayr**, uncertain), flies him to the **Valley of the Jinn**, where he meets the jinn of earlier poets and writers, and at last judges a poetry contest of donkeys and mules [S97][S98]. Chapters: jinn of poets, of prose writers, of critics, and animal jinn. **(From memory, uncertain):** Imru' al-Qays's jinni is called 'Utayba ibn Nawfal. Survives only in fragments, in Ibn Bassam's *al-Dhakhira* [S98]. *Zawabi'* (زوابع) = whirlwind-demons. |
+| 15 | **Zawba'a** (زوبعة), the whirlwind jinni | Ibn Shuhayd's title; Lane's "spirits of the whirlwind" [S93][S97] | The dust-devil is a jinni travelling. The novel already uses the *zawba'a*. |
+| 16 | **'Anqa'** (عنقاء) | al-Qazwini, *'Aja'ib* [S99] | **Not a jinni**: a giant bird that God hid away, a byword for "something that doesn't exist". Useful as a contrast. |
+| 17 | **"Dalhath" / Dalhan** (الدلهان) | **Uncertain.** From memory, "al-Dalhan" is in Lane's notes: an island sea-demon that rides an ostrich and eats men shipwrecked on its island. Search could not confirm it [S93]. | If confirmed, it would make a classical "ancestor" for Bu Darya. |
+
+**Umm al-Duwais and Bu Darya:** **no older written (classical) source found.** Both are oral Gulf folklore, first written down in modern collections (e.g., *Khrareef*, 2011). AbdulAziz al-Musallam suggests Umm al-Duwais may come from a real bride who went mad on her wedding night [S100]. "Darya" is Persian for "sea", but the figure isn't found in Persian literature [S100]. The novel should present them as **oral**, not "from the old books". The contrast is useful in itself (see idea 9).
+
+## 4.3 Ideas for our book (Sayf epic and classical jinn)
+
+1. **Nadim as *rawi*.** Open each fire scene with a fixed Sayf-style formula: "*Qala al-rawi*, the teller said…", "Bless the Prophet, little ones" before every horror, and end with the coffeehouse cliffhanger: "and what he found there, I'll tell tomorrow, if the wind lets me." When Nadim starts to falter (Parts V and VII), he **skips the blessing**. The children notice; the reader should too.
+2. **[TALE] "The Mother Who Sent the Jinni"**: a tale within the tale modelled on Qamariyya. A slave woman in an Omani fort has a tablet that commands a jinni, and orders it to drop her baby in the Empty Quarter. The jinni obeys, but a gazelle and a jinniyya nurse the child. Told by Old Bakhit early (Part II), it seeds Theyab's own lost-mother question and **T7**: a sacred story that hides a mother's crime.
+3. **The Ifrit bound to an object.** Like 'Ayrud's tablet: the Ifrit at Tal Moreeb was once **commanded through an object** (a carved tablet from Ghidd al-Zujaj, or Hazza''s ring). **Whoever holds it, the Ifrit must obey in letter.** The Nameless pass it down; Saqr steals it (the Barnukh move). In Part X, Ghareeb doesn't break the object. He **burns out his eye**, the Ifrit's other "object", which is why the scene works.
+4. **Al-Jahiz's ranks as the "four kinds" of Part IX.** Let Mutawwa' Hilal teach the ranks from a worn copy of *al-Hayawan*: *'amir* (house jinn, ones you live with), *shaytan*, *marid*, *'ifrit*. The **'ummar** are the eerie village jinn of Hilat al-Sarab, harmless until the names start burning. The Night of Lamps escalates rank by rank.
+5. **The ghul's second blow.** A ghul attack in Part II: Theyab strikes once; the ghul begs, "Again! Strike again!" Old Bakhit's rule, "**One blow. Never two.**" becomes a running line, and the **hooved boy at the fire (T9)** inherits the ghul's tell: it can change everything but its feet.
+6. **Hatif as the qareen's first voice.** In Wadi al-Sada, before the qareen is named, Theyab hears a *hatif*: a voice with no body. Hilal cites al-Mas'udi ("the loneliness of the desert makes voices") **and** al-Jahiz ("the Bedouin will not believe you if you doubt it"). That puts the book's unreliable-reality engine into the classical sources themselves: is it a jinni or a broken mind?
+7. **Jasir's mother as a si'lat.** Jasir (half jinn) is the son of a si'lat who married a man, like 'Amr ibn Yarbu''s wife, and **fled when she saw lightning over her homeland**. Make that his "Jasir's mother" [TALE]. On a storm night in Part VIII he watches the lightning the way she did, and the reader fears he will leave.
+8. **Shiqq and nasnas for the half-made.** The stolen children of Part VI (half malboos) are described in Hilal's words as "*nasanis*", half-people. The rider who comes for them is a **shiqq**: one eye, one arm, one leg, hopping across the moving salt. That echoes Ghareeb's one eye, and Hilal points this out with dread.
+9. **Ibn Shuhayd's tabi' for the narrator.** Ghareeb can be framed (by Nadim, late) as Theyab's ***tabi'***, the familiar spirit who "gave him his words", the way Zuhayr gave Ibn Shuhayd his. That lets the final chapters ask whether Ghareeb's whole telling was a *tabi'*'s gift or a *tabi'*'s deception (it sharpens T3/T4).
+10. **Written versus spoken jinn.** Hilal, the literate mutawwa', trusts only jinn in the books (ghul, marid, 'ifrit). Umm Shamma and the divers trust Umm al-Duwais and Bu Darya, "who are in no book". The horror: **the unwritten ones are the ones that are real here.** Hilal's death (Part IX) comes from a jinni his books never named.
+11. **A "Book of the Nile" for the Ifrit.** The Nameless keep a book that "tells where the water goes": the frankincense-route wells and the lost aflaj of Ubar. Like Sayf's *Kitab al-Nil*, everyone hunts it, and the prophecy in it is what the enemies use to make the burning happen.
+
+---
+
 # Sources
 Some fetches were blocked; facts were verified from search-result content from these pages.
 
@@ -343,3 +430,34 @@ Some fetches were blocked; facts were verified from search-result content from t
 - [S67] Bedouin Silver — Iron in folklore and jewellery: https://bedouinsilver.com/tag/folk-belief/
 - [S68] SeekersGuidance — Salt and jinn: https://seekersguidance.org/answers/islamic-belief/can-i-use-salt-for-protection-from-jinn/
 - [S69] PMC — Jinn in a Negev Bedouin community: https://pmc.ncbi.nlm.nih.gov/articles/PMC5039607/
+- [S70] Wikipedia — Sirat Sayf ibn Dhi-Yazan (via search summary): https://en.wikipedia.org/wiki/Sirat_Sayf_ibn_Dhi-Yazan
+- [S71] Wikipedia — Saif ibn Dhi Yazan (via search summary): https://en.wikipedia.org/wiki/Saif_ibn_Dhi_Yazan
+- [S72] Blatherwick, "Solomon Legends in Sirat Sayf ibn Dhi Yazan", Mizan Journal 2:1: https://mizanproject.org/journal-post/solomon-legends-in-sirat-sayf-ibn-dhi-yazan/ ; PDF: https://eprints.soas.ac.uk/25665/1/06-Mizan-Journal-Vol-2_Issue-1_Blatherwick.pdf ; SOAS/core abstract: https://core.ac.uk/download/211274054.pdf
+- [S73] Cambridge review (34 manuscripts); core.ac.uk PDF on Qamariyya: https://core.ac.uk/download/211274054.pdf ; SOAS repository: https://soas-repository.worktribe.com/OutputFile/453115
+- [S74] Jayyusi, The Adventures of Sayf Ben Dhi Yazan (Indiana UP, 1996): https://iupress.org/9780253213426/the-adventures-of-sayf-ben-dhi-yazan/ ; Kirkus: https://www.kirkusreviews.com/book-reviews/lena-ed-trans-jayyusi/the-adventures-of-sayf-ben-dhi-yazan-an-arab-fo/
+- [S75] Blatherwick, Prophets, Gods and Kings in Sirat Sayf ibn Dhi Yazan (Brill 2016): https://soas-repository.worktribe.com/output/393907/prophets-gods-and-kings-in-sirat-sayf-ibn-dhi-yazan-an-intertextual-reading-of-an-egyptian-popular-epic ; Osiris Reborn: https://soas-repository.worktribe.com/output/393800/osiris-reborn-the-arabic-epic-of-sirat-sayf-ibn-dhi-yazan-and-the-prophetic-konigsnovelle
+- [S76] Almadaniya — Book of the Nile: https://almadaniyamag.com/?p=7471 ; Aswat Online — "Sayf ibn Dhi Yazan, liberator of the Book of the Nile": https://aswatonline.com/2019/09/04/
+- [S77] Noon Post — Sirat Sayf and Egyptian fears of southern water threats: https://www.noonpost.com/37361/
+- [S78] Sa'id Yaqtin, Dhakhirat al-'aja'ib al-'arabiyya: Sayf ibn Dhi Yazan (Google Books): https://books.google.com/books/about/?id=pPAyAAAAMAAJ ; Arabic edition (1979): https://books.google.com/books/about/?id=IUFAxgEACAAJ
+- [S79] Islamweb — Ibn Kathir, al-Bidaya wa-l-Nihaya, story of Sayf ibn Dhi Yazan: https://www.islamweb.net/ar/library/content/59/177/
+- [S80] Al-Yaum — "Sayf ibn Dhi Yazan" Syrian heritage drama (Qamariyya, Saqardis, 'Aqisa, the moles): https://www.alyaum.com/articles/123320/ ; Raseef22 — "A gazelle and a jinniyya suckled him": https://raseef22.net/article/1102199
+- [S81] ASJP (Algeria) — "The pattern of desire for power in Sirat Sayf ibn Dhi Yazan": https://asjp.cerist.dz/en/downArticle/715/7/2/275174 ; Al-Jarida (Kuwait): https://www.aljarida.com/articles/1461717417986422100
+- [S82] Folk Culture (Bahrain), no. 33 — "The marvellous space in Sirat al-Malik Sayf": https://folkculturebh.org/ar/?id=621&issue=33&page=article
+- [S83] Folk Culture (Bahrain), no. 37 — "The role of the marvellous in building character": https://folkculturebh.org/ar/?id=700&issue=37&page=article
+- [S84] Maghress/al-Massae — "Sayf ibn Dhi Yazan in the Valley of Sorcerers" (Barnukh, 'Ayrud's tablet): https://www.maghress.com/almassae/187263
+- [S85] Arabic Wikipedia — Sirat Sayf ibn Dhi Yazan: https://ar.wikipedia.org/wiki/سيرة_سيف_بن_ذي_يزن
+- [S86] Thread by @MENALibAHS on the sorceress 'Aqila: https://threadreaderapp.com/thread/1238155215330668544.html
+- [S87] Aramco World — Lane's chapters on public reciters: https://www.aramcoworld.com/articles/2016/the-great-migration-of-the-bani-hilal ; Slyomovics, Oral Tradition 9:2: https://journal.oraltradition.org/wp-content/uploads/files/articles/9ii/11_slyomovics.pdf
+- [S88] Arabic Post — "Hidden secrets of the jinn world in Arab heritage" (quoting al-Jahiz's ranks): https://arabicpost.net/opinions/opinion/2022/08/18/ ; al-Jahiz, Kitab al-Hayawan (text): https://usul.ai/t/hayawan/3
+- [S89] Wikipedia — Jinn (archived; al-Jahiz's classification): https://webcf.waybackmachine.org/web/20220320192120/https://en.wikipedia.org/wiki/Jinn ; Medievalists — Demons, djinns, devils: https://www.medievalists.net/2020/10/demons-djinns-devils/
+- [S90] Cultural Analysis vol. 8 — ghouls (Mas'udi citing Ibn Ishaq and Wahb): https://www.ocf.berkeley.edu/~culturalanalysis/volume8/vol8_article3.html ; IIUM — al-Mas'udi on pre-Islamic Arab belief: https://cendekia.unisza.edu.my/neuaxis-e/Record/iium-62136
+- [S91] Wikipedia — Ta'abbata Sharran: https://www.wikipedia.org/wiki/Ta%27abatta_Sharran
+- [S92] Hughes, Dictionary of Islam — "Genii" (Shiqq, Nasnas, Si'la, Ghul, from Lane): https://www.juancole.com/library/dictionary-of-islam-hughes/genii
+- [S93] Lane, Arabian Society in the Middle Ages (Project Gutenberg): https://gutenberg.org/files/41110/41110-h/41110-h.htm ; Lane's Thousand and One Nights notes: https://gutenberg.org/files/34206/34206-h/34206-h.htm ; Indian Antiquary vol. 26 (Ghaddar, Saalah list): https://jainqq.org/pagetext/Indian_Antiquary_Vol_26/032518/302
+- [S94] Islamweb — Ibn Kathir chapter on annunciations (Satih and Shiqq context): https://www.islamweb.net/ar/library/content/59/177/
+- [S95] Wikipedia — Hatif: https://en.wikipedia.org/wiki/Hatif ; Oman Observer — Spirits of ancient Arabia: https://www.omanobserver.om/ampArticle/9860
+- [S96] E-Marefa — companions of the Prophet from the jinn in Ibn Abi al-Dunya's Hawatif al-Jinn: https://search.emarefa.net/en/detail/BIM-1492630
+- [S97] IJMES — "Poetic Genius and Poetic Jinni: The Case of Ibn Shuhayd": https://www.cambridge.org/core/journals/international-journal-of-middle-east-studies/article/abs/poetic-genius-and-poetic-jinni-the-case-of-ibn-shuhayd/B196C8D8885DAFBA265F81B44BAEC94E
+- [S98] Journal of Arabic and Islamic Studies vol. 1 — on Ibn Shuhayd's Risalat al-Tawabi': https://lancaster.ac.uk/jais/volume/docs/vol1/1_065-80_ANTTL07.PDF
+- [S99] Wikipedia — 'Aja'ib al-Makhluqat: https://en.wikipedia.org/wiki/Aja%27ib_al-Makhluqat ; Library of Congress — The Wonders of Creation: https://www.loc.gov/item/2021667228/
+- [S100] The National — Tales preserved for the future: https://www.thenationalnews.com/uae/tales-preserved-for-the-future-1.523725 ; Wikipedia — Qatari folklore (Bu Darya): https://www.wikipedia.org/wiki/Qatari_folklore
