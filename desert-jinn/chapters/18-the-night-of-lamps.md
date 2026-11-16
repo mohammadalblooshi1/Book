@@ -74,6 +74,42 @@ Some of them were right.
 
 ---
 
+And then the well spoke.
+
+Ubar's great well lies in the square below the fort, a round black mouth as wide as a threshing floor, ringed with lamps. Those lamps were going out one after another, and as the last of them died, a sound came up the shaft. It came up the way the cold comes up out of a cistern, and every face in the square turned to it.
+
+A voice. Not loud. It didn't need to be. The well was a throat a hundred fathoms deep, and it carried every word up to the moon.
+
+"*Whoever frees me,*" it said, warm as a grandfather, "*I will make rich. Pearls by the basket, and gold, and camels till the dunes are hidden. And long life. A hundred years. A thousand.*"
+
+I knew that voice from the ledge. I knew it from much further back.
+
+My hackles went up stiff as a brush.
+
+"*Whoever frees me,*" it said again, and the voice was different now, quicker, a merchant's voice, eager, leaning across the counter, "*I will grant three wishes. Any three. Only ask.*"
+
+My hackles stayed up. Higher.
+
+Then there was a pause, a long one, and the knocking under the streets stopped to listen.
+
+"*Whoever frees me,*" said the well, and now it was hardly a voice at all, only a deep, patient grinding, like millstones turning without grain for a thousand years, "*I will kill. And everything he loves I will take. And everyone who remembers him. Until no one in the sands can say his name.*"
+
+And every hair on my back lay down.
+
+Flat. Smooth. As if a hand had stroked it.
+
+That was the vow it meant. The other two it had meant once, perhaps, in the dark under the brass, in the first long years, while it was still counting the days and believing someone would come. Then the centuries went by, and nobody came, and whatever gratitude had been in it went the way of dates in a shut jar. It has said all three ever since. The sweet ones on top, where they'll be heard first. The true one underneath.
+
+A shepherd boy heard the first one, a long time ago, frightened half out of his mind on the eve of his burning, kneeling on a ledge above black water. He thought it was the only one.
+
+Behind me, Theyab had his hands over his ears. "It keeps saying it," he whispered. "Over and over. Who's it talking to?"
+
+Everyone. It always has. It's a promise that went bad in the dark, and like all bad things in the dark, it wants company.
+
+Down in the square the people of Ubar were backing away from the well. Some of them were nodding as they went. That was the worst of it. As though they'd heard the first promise, and nothing after.
+
+---
+
 There had been two guards on the stair. I'd heard nothing from them for some time. Not a step. Not a breath. The bolt slid back.
 
 The Seventh stood in the doorway.

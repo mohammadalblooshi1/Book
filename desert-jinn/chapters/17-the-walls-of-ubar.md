@@ -364,6 +364,30 @@ He was still smiling.
 
 ---
 
+They walked him to the east tower at noon.
+
+The majlis had let out into the qayla, and Ubar does the qayla the way it does everything, harder than anywhere else. The streets between the towers were empty from wall to wall. Every shutter closed, every door barred. The lamps burned on in their niches all the same, pale and useless in that white light, and the heat came up off the stones so hard the painted names on the walls seemed to crawl.
+
+Behind one shutter a woman was singing a child to sleep. She broke off the song to call, sharp and low, the way the mothers called in Hilat al-Sarab: "*In. Come in. She's out.*"
+
+The guards walked faster.
+
+Halfway down the street of the dyers, in the drift of red dust the wind brings in over the walls, I saw the prints.
+
+Small. Neat. Round as cups. Two by two, straight down the middle of the street, a long way apart, the way a woman walks when she's carrying something on her head. They came out of a side lane, crossed in front of us, and went to a door where a child's sandals had been left on the step. There they stood together a while, close, facing the wood. Then on, unhurried, into the shade of an arch where the dust gave out.
+
+I knew those prints. I'd seen them in the lanes of Hilat al-Sarab, on the day the grey came.
+
+Theyab saw them too. I felt him go still in the guards' grip. The guards didn't look down. Men of Ubar don't look down in the qayla. They've been told since they could walk what happens to the ones who do.
+
+"At home," Theyab said, to no one, "I was the only one out at noon."
+
+"You're not out now," said the guard on his left, very quietly, and pulled him on. "Walk."
+
+I walked at the back and kept turning my head. The sun stood straight overhead, and every shadow in that street had crawled under its owner's feet to hide. Except mine. Mine lay out on the stones a hand's width too long, the way it had since the storm, pointing down the street after the prints, like a hound that has seen something it would very much like to follow.
+
+---
+
 The tower room was small and round, with one window facing east. They took the sword and the bell. Nobody had worked out how you arrest a saluki. I lay down across the doorway, and the guard looked at me and decided to leave it at that.
 
 The sun went down. All over the city, bolts slid home one after another like a great slow clock. Then the whispering began from every rooftop: the people of Ubar reading the names of their dead off the walls before the paint could fade further. *Son of. Daughter of. Beloved.* And under it, all across the city, so faint you'd think it was your own heart, the knocking. Three. Pause. Three. From under every street at once.
