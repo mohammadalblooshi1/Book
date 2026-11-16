@@ -168,6 +168,34 @@ The wadi let us go a little before sunset.
 
 The walls opened slowly, the way a fist unclenches when its owner has finally died, and spilled us out onto a wide plain of gravel where a few *samr* acacias grew crooked and black against the sky, every one of them leaning away from the gorge. There was a pool under an overhang of rock. Real water, brown and cold and tasting of iron, like a split lip. Theyab drank until he was sick, then drank again, more carefully. I drank beside him with my ears turned backward the whole time, toward the crack in the mountain.
 
+So I was facing the wrong way when she came.
+
+It was the last of the light, the red hour, when the shadows of the acacias lie out across the gravel as long as caravans. Theyab had lifted his head from the water, and he went still, and I turned to see what he was looking at.
+
+On the far side of the pool, under the overhang, a woman was sitting on a flat stone with her feet in the water.
+
+She hadn't been there when we came. There was nowhere she could have come from. She was young, and her hair was down, black and long and wet, hanging over one shoulder, and she was combing it slowly with her fingers the way the girls do at the wells when no men are near. Her dress was the deep green of a palm frond in the rain, and there was gold at her wrists, and her face was the most beautiful face I have seen on a woman in a very long life of looking at them, and I have looked at a great many, because they are usually the ones carrying the meat.
+
+She smiled at Theyab across the water. She didn't speak. She didn't need to. She lifted one hand, wet and gleaming, and turned it over, palm up, and crooked one finger: *come round. Come and sit by me. You've been alone so long.*
+
+He was fifteen. He'd never once been smiled at like that, and he'd been walking for nine days, and his name had just been screamed at him from every wall of a mountain. He stood up.
+
+And then, because he had been listening in Bakhit's tent, and because he'd walked a whole morning in the middle of a path as if it were a beam over a well, he did the thing almost nobody does. He didn't look at her face.
+
+He looked down.
+
+Her feet were in the pool. The water was brown and shallow, and the last red light lay across it, and through it, quite clearly, he could see what was resting on the stones of the bottom where her feet should have been. Two small round hooves, dark and hard and polished by the water. A donkey's, set neatly side by side, the way a modest girl sets her feet.
+
+My hackles were already up. I hadn't smelled her at all. The water had taken the smell. Remember that: it's why they like wells and pools.
+
+Theyab didn't run. He didn't shout. The wadi had taught him that much about his voice. He only took a step back from the water, and another, and sat down again on the gravel, slowly, with his hand on my neck, and looked at her. Straight at her face, now that he knew. As if to say: *I've seen your feet.*
+
+The woman stopped combing her hair.
+
+For a moment nothing about her changed. Then the smile stayed exactly where it was, and the face around it went on being beautiful, and the eyes above it began, very slowly, to look like something that had been lying under sand for a hundred years and had just been disappointed. She stood. She walked into the pool. Not across it: into it, deeper and deeper, though it could not have been knee-deep anywhere, until the wet black hair floated out on the surface around her like weed, and then that sank too, and the water closed and went still.
+
+We moved our camp a long way from the pool that night. Theyab drank nothing more from it, though there was nothing else. In the morning, the edge of the water on the far side was printed all round with hooves, and the prints went in, and none of them came out.
+
 The sun went down. The stars came out. The moon rose late, a little thinner than the night before, a pale paring low over the gorge.
 
 Theyab sat with his back against a rock and the grey cloth from Hilat al-Sarab around his shoulders. Very quietly, he said his own name under his breath. Once. Testing. As if checking it was still there.
@@ -285,6 +313,12 @@ His name was Ghadban. *The angry one.* His mother named him for the way he came 
 Nobody except me. I was the dog that ran his flock. I slept across the door of his father's stone hut and walked behind him up every goat track in the Hajar.
 
 He was the first. The very first child who ever carried the Light. And I loved him the way you love the first of anything, before you've learned what loving things is going to cost you.
+
+He used to tell me a story, Ghadban, out on the high pastures at night, with the goats bedded down and his back against me for the warmth. It wasn't one of the grandmothers' stories. He'd had it from a very old man in the market at Bahla, who'd had it from a man who'd heard it, he swore, from under the ground. A story about a jar. A brass jar, sealed with a seal older than any king, buried deep in the dark under a city of towers out in the sands, with something inside it that had been waiting longer than the mountains. And the thing in the jar made promises. Whoever opens me, it said, I'll make rich. I'll give him long life. I'll give him anything he asks.
+
+Ghadban loved that story. He was a poor boy who talked to goats. Of course he loved it. He used to lie there and work out what he'd ask for. A flock of his own. A roof that didn't leak. A pair of sandals that fitted.
+
+I never liked it. I didn't know why, then. It was only a story, and the boy was warm against my side, and the stars were thick over the Hajar. I'll tell you the rest of it when we reach the glass. The rocks there tell it better than I can, and they have less to be ashamed of.
 
 At the end, he stood on a hill with the light pouring out of his chest and his eyes still brown and still his, and he looked at me and said, *You knew. You knew, and you walked me here anyway.*
 
