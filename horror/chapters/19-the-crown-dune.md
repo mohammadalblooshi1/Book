@@ -253,7 +253,7 @@ I was sitting in the sand, too tired to stand, my fur dark with my own blood, my
 
 "I don't know," I said.
 
-And my tail, for the first time in all my life, did nothing at all. Neither gold nor dark. Some truths are too big even for a fox's tail.
+And my tail did nothing at all. Neither gold nor dark. Some truths are too big even for a fox's tail.
 
 He looked at it a long moment. Then he smiled, the small, crooked, rusty smile he never wasted, and put his forehead against mine. It singed the fur between my ears. I'll carry the mark until the world ends.
 

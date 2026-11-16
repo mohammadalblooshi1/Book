@@ -126,7 +126,7 @@ They knelt in the ash, the boy sobbing into the grey wrappings and the man holdi
 
 His name was Daruun.
 
-I knew it already. I'd walked beside him once, when he was young and had a feather on his chest and was so afraid of the Crown Dune that he couldn't say its name aloud. He woke screaming most nights that year. He told me he could smell his own hair burning in his sleep. He was the eleventh. The one the murals call *the Runner*. In the City of Glass they painted him as a boy of sixteen, running. They always paint them as children. Have you noticed that yet? You will.
+I knew it already. I'd walked beside him once, when he was young and had a feather on his chest and was so afraid of the Crown Dune that he couldn't say its name aloud. He woke screaming most nights that year. He told me he could smell his own hair burning in his sleep. He was the eleventh. The one the murals call *the Runner*. In the City of Glass the glass keeps him as a boy of sixteen, running. It always keeps them as children. Have you noticed that yet? You will.
 
 When he finally looked up from his son, his eyes found me.
 

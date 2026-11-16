@@ -10,7 +10,7 @@ Night eighteen. The Ash was fat and white and getting fatter, and I'd stopped lo
 
 We'd left the City of Glass three days before, walking east toward the free towns. Soren had decided that if the walls didn't know a third way, somebody alive might. "Everyone in this desert has a different version of every story," he said. "One of them has to be the one where the child lives."
 
-Nobody answered. The walls had shown us eleven painted faces, and all of them were children. You don't argue with a wall like that. You just stop sleeping well.
+Nobody answered. The walls had shown us eleven bearers set in glass, and all of them were children. You don't argue with a wall like that. You just stop sleeping well.
 
 Zayn walked. He found water. He sat by the fire in the evenings and copied the letters Soren drew, and when Soren made jokes he laughed at them, a little too quickly, like someone paying a debt to a man who might come back with a knife.
 
@@ -126,7 +126,7 @@ He didn't. I felt him bite down on it.
 
 Behind us, the Unnamed tried to cut across.
 
-I heard it happen. A lizard screamed as its rider turned it sideways into the wind, and the storm caught it like a sail and flung it away into the dark. Then another. Then a Hound howled, the first I'd ever heard howl, as the wind tore the shadow off it in strips and there turned out to be nothing underneath.
+I heard it happen. A lizard screamed as its rider turned it sideways into the wind, and the storm caught it like a sail and flung it away into the dark. Then another. Then a Hound howled, a howl like nothing I'd heard from them before, as the wind tore the shadow off it in strips and there turned out to be nothing underneath.
 
 The riders didn't scream when they went. They just kept humming, right up until the storm took the sound away.
 
@@ -250,9 +250,7 @@ It was really to keep me from seeing their faces when they were.
 
 Zayn's face, looking up at me in that storm, was the worst thing I've ever seen. And I have seen eleven children burn.
 
-He didn't know it was me. All he saw was a monster of the Hollow standing over Soren with its mouth full of teeth, the biggest thing of the grey he'd seen since the Veilbeast. And somewhere in all the voices pouring out of me, one said his name. I didn't mean it to. I don't know whose voice it used. All he felt was fear, filling him the way water fills a well, to the top and over.
-
-All he felt was fear, pure and total, filling him like water filling a well, all the way to the top and over.
+He didn't know it was me. All he saw was a monster of the Hollow standing over Soren with its mouth full of teeth, the biggest thing of the grey he'd seen since the Veilbeast. And somewhere in all the voices pouring out of me, one said his name. I didn't mean it to. I don't know whose voice it used. All he felt was fear, pure and total, filling him like water filling a well, all the way to the top and over.
 
 "*Get away from him!*"
 

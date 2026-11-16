@@ -37,7 +37,7 @@ You'll want to know who I am, I suppose. Everyone always does, and they never li
 
 I am a fox. Small, sand-coloured, with ears tipped black as if they've been dipped in ink, or in something worse. My tail glows like a coal when someone tells the truth, which makes me the worst possible company at a funeral. I have one amber eye and one silver eye. We'll get to the silver one later. Don't look at it too long. Things look back.
 
-I'm older than every city in this desert. I'm older than the city that turned to glass. I have walked beside eleven children who carried the Light, and I have watched every one of them climb the same dune under the same full Ash. Children. Notice that word, because the songs don't. *The Phoenix-Born*, *the chosen*: very good words for not saying *child*. The Boy of Salt was nine. He asked me, at the top, whether it would be like putting his hand in the cooking fire, and I told him no, and my tail went out like a pinched wick.
+I'm older than every city in this desert. I'm older than the city that turned to glass. I have walked beside eleven children who carried the Light, and I have watched nearly every one of them climb the same dune under the same full Ash. Children. Notice that word, because the songs don't. *The Phoenix-Born*, *the chosen*: very good words for not saying *child*. The Boy of Salt was nine. He asked me, at the top, whether it would be like putting his hand in the cooking fire, and I told him no, and my tail went out like a pinched wick.
 
 Some of them were brave. Some of them ran. I'm still angry at the ones who ran. I'm angrier at the sky for asking. I'll tell you about all of them eventually, if you're good and stop wriggling.
 

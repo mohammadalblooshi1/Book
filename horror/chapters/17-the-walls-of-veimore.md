@@ -24,7 +24,7 @@ We lay at the top of the last dune and watched the grey press against the walls 
 
 "Everything out here is waiting," I said. "That's what the desert is for."
 
-I want you to see him properly, because there isn't much time left to look. He was thinner than in Harrow's End, his hair bleached nearly white. Golden cracks ran along both forearms and up his neck, fading so slowly now that the old ones hadn't gone before the new ones came,. The words on his arm, *DON'T FORGET HIS EYES*, had scabbed over. I'd caught him reading them with a puzzled frown, like a stranger's letter. Soren's broken sword was strapped across his back, the proof inside the hilt. He touched it every hundred breaths, the way he touched his mark.
+I want you to see him properly, because there isn't much time left to look. He was thinner than in Harrow's End, his hair bleached nearly white. Golden cracks ran along both forearms and up his neck, fading so slowly now that the old ones hadn't gone before the new ones came. The words on his arm, *DON'T FORGET HIS EYES*, had scabbed over. I'd caught him reading them with a puzzled frown, like a stranger's letter. Soren's broken sword was strapped across his back, the proof inside the hilt. He touched it every hundred breaths, the way he touched his mark.
 
 Behind us, Daruun stood by the pale camel, and I could feel him not saying things. It ran in the family.
 
@@ -234,7 +234,7 @@ The king looked at the seal for a long time. Then at Orrin.
 
 And Orrin sighed, gently, like a teacher whose favourite pupil has made a small mistake.
 
-"Your Majesty will remember that I reported my seal stolen on the night of the prince's exile, and had a new one cut. It is in the palace records." He spread his soft hands. "I did not wish to believe Soren had taken it. But here it is. A forgery in a broken sword, carried by the boy who killed him, on the very eve of the Night of Embers. It is clever. I'll grant them that."
+"Your Majesty will remember that I reported my seal stolen on the night of the prince's exile, and had a new one cut. It is in the palace records." He spread his soft hands. "I did not wish to believe Soren had taken it. But here it is. A forgery in a broken sword, carried by the boy who killed him, on the very eve of the Night of Embers. It is clever. I'll grant them that." His eyes went, gently, to the ring on its chain at the king's breast. "Your Majesty already wears the proof of what that boy took from Soren's body."
 
 Long before Soren found that letter, Orrin had made sure that if it was ever found, it would look like a lie. 
 

@@ -246,7 +246,7 @@ His mouth was a little open too, as though he'd been about to say something. As 
 
 The sand around him was smooth. Perfectly smooth, the way the wind leaves it, for ten paces in every direction. No struggle. No tracks. As if the desert had tidied up after itself.
 
-And beside the fire, untouched, not a grain out of place, the letters he'd written in the sand four nights before and somehow never rubbed out. Zayn hadn't noticed they were still there. He noticed now.
+And beside the fire, untouched, not a grain out of place, the letters he'd written in the sand that evening, before the argument, and never rubbed out. Zayn hadn't noticed they were still there. He noticed now.
 
 ZAYN AND SOREN, MONSTERS.
 

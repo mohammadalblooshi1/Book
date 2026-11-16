@@ -165,7 +165,7 @@ When the Ash came up that night, just past full, I stood on the top of the highe
 
 My voice went out across the whole desert. I didn't care who heard.
 
-"You hear me? Not this one! *Not again!* I have walked beside twelve of them. I have watched twelve of them stand on this sand. And they're children, every time, *children*, you only ever want the *children*— He never had anything. Nobody ever gave him a single thing he didn't have to scavenge for, and he gave you everything, and you *took* it, and it isn't even *finished*, is it? It's never finished. You'll want another—"
+"You hear me? Not this one! *Not again!* I have walked beside twelve of them. I have watched nine of them burn on this sand. And they're children, every time, *children*, you only ever want the *children*— He never had anything. Nobody ever gave him a single thing he didn't have to scavenge for, and he gave you everything, and you *took* it, and it isn't even *finished*, is it? It's never finished. You'll want another—"
 
 The Weaver didn't answer. It never does. It only waits.
 

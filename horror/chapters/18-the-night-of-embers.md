@@ -186,7 +186,7 @@ The palace stairs were black stone, wide enough for twenty men abreast, rising i
 
 Brother One was waiting at the top.
 
-He was the largest man I've ever seen, and I had recently met Mother Yusa. He stood before the doors with his feet planted wide and a grey blade as long as Zayn was tall. His mask was smooth and white and perfect. He had never once, in all his years at Orrin's side, been heard to speak.
+He was the largest man I've ever seen, and I had recently met Mother Yusa. He stood before the doors with his feet planted wide and a grey blade as long as Zayn was tall. Tonight, for the first time I'd seen, he wore a mask, smooth and white and perfect. He had never once, in all his years at Orrin's side, been heard to speak.
 
 He didn't speak now. He came down the stairs.
 

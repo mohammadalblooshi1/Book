@@ -92,7 +92,7 @@ So it was only Zayn and me in the great hall when he started to read.
 
 ---
 
-He went slowly. Two weeks before, he hadn't known a single letter. Now he stood in front of each mural with his lips moving, sounding out the gold shapes one by one, the way a child sounds them out. *Thuh. Eh.* A long pause. His finger traced the letters on the glass without quite touching them. The glass breathed cold onto his hand, like a cellar door.
+He went slowly. Eight days before, he hadn't known a single letter. Now he stood in front of each mural with his lips moving, sounding out the gold shapes one by one, the way a child sounds them out. *Thuh. Eh.* A long pause. His finger traced the letters on the glass without quite touching them. The glass breathed cold onto his hand, like a cellar door.
 
 He couldn't read most of it. But he could pick out letters he knew, and every so often a whole word came clear for him like a coin turning up in the sand.
 
@@ -106,7 +106,7 @@ Zayn moved to the next. *Twin*, he found, and a word he didn't know. Two figures
 
 In the fifth he found *king*. A boy again. A crown on his head too large for it, slipping down over one ear.
 
-In the seventh, *salt*. A boy with white crystals in his hair and on his eyelashes, like frost, smaller than any of them. Ten, maybe. He was smiling. The kind of smile children put on for grown-ups who are watching them be brave.
+In the seventh, *salt*. A boy with white crystals in his hair and on his eyelashes, like frost, smaller than any of them. Nine, maybe. He was smiling. The kind of smile children put on for grown-ups who are watching them be brave.
 
 In the eighth, a falcon lifting from a wrist so slim the bird's talons wrapped all the way round it.
 
@@ -270,11 +270,11 @@ When he'd finished, Soren set down the water skin very carefully. Then he walked
 
 "*The Weaver's Daughter*," he read, "*who in her fifteenth year climbed the Crown Dune under the full Ash and opened her hands, and the grey went away. And of her there remained only*—" His voice caught. "*Ash.*"
 
-He went to the next. *In his fourteenth year.* And the next. *In his twelfth year.* The boy of salt: *In his tenth year.* His voice got quieter and harder with each one. He read all eight. Then he read the first, the ninth and the eleventh. *Refused.* *Refused.* *Refused.*
+He went to the next. *In his fourteenth year.* And the next. *In his twelfth year.* The boy of salt: *In his ninth year.* His voice got quieter and harder with each one. He read all eight. Then he read the first, the ninth and the eleventh. *Refused.* *Refused.* *Refused.*
 
 Then he stood in the middle of the hall with his fists clenched at his sides.
 
-"*Tenth year*," he said. "That one was ten. Zayn. That one was Idan's age."
+"*Ninth year*," he said. "That one was nine. Zayn. That one was younger than Idan."
 
 "Soren—"
 
