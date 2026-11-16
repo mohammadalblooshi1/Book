@@ -29,3 +29,23 @@ Every item must be in the 150-chapter outline and the final book.
 | 23 | **Jinn from real old Arab books** | Kinds from **al-Jahiz** (house jinn, marid, ifrit, shaytan) and **al-Qazwini** (ghoul, si'lat, nasnas, shiqq); the **hatif** (unseen voice); **Ibn Shuhayd's** jinn companions of poets | 🔎 researching |
 | 24 | **Sirat Sayf ibn Dhi Yazan** (book #1) | A jinn bound inside an object; an old folk-epic storyteller style for the fire; one tale in the epic's manner; the mother who tries to kill her son | 🔎 researching |
 | 25 | **Make readers cry, shake, feel crazy** | Unreliable reality (vanishing names, repeated scenes, the qareen, the jathoom) and twists that force re-reading | 📝 planned |
+
+---
+
+## Round 3: chosen ideas from the Sayf epic and classical jinn (research Part 4.3)
+The author asked me to choose the ideas that best fit the book and make it unique. **Chosen:**
+| Idea | Use |
+|---|---|
+| 1 | **Nadim as epic storyteller.** Each fire scene opens with his fixed formula, *"The teller said…"* and *"Hold your breath, little ones"* (a neutral formula, since no religious phrases are quoted), and each night ends with *"…and what he found there, I'll tell tomorrow, if the wind lets me."* When he falters (Parts V and VII) he **skips the formula**, and the children notice. |
+| 2 | **[TALE] "The Mother Who Sent the Jinni"**, modelled on Qamariyya: a woman in an Omani fort uses a tablet-bound jinn to drop her baby in the Empty Quarter. A gazelle and a jinniyya nurse him. Old Bakhit tells it in Part II. It seeds T7: a sacred story that hides a crime. |
+| 3 | **The Ifrit is bound to an object** (a carved tablet from Ghidd al-Zujaj). Whoever holds it, the Ifrit must obey in letter, never in spirit. The Nameless pass it down; Saqr steals it. Ghareeb's eye is its *other* window. |
+| 4 | **Al-Jahiz's ranks.** Hilal teaches them from a worn copy of *al-Hayawan*: 'amir (house jinn), shaytan, marid, ifrit. The 'ummar are the eerie house jinn of Hilat al-Sarab. **The Night of Lamps escalates rank by rank.** (This works alongside the four elements: each rank comes in each element.) |
+| 5 | **"One blow. Never two."** The ghoul's rule. In a ghoul attack (Part II) the ghoul begs, "Again! Strike again!" It becomes a running line, and **the hooved boy at the fire** is a ghoul who can change everything except his feet. |
+| 6 | **The hatif.** A voice with no body, heard in Wadi al-Sada, is the qareen's first voice. Hilal gives both classical explanations (al-Jahiz: real; al-Mas'udi: loneliness), so the book's unreliable reality has roots in the old books themselves. |
+| 8 | **A shiqq** (half a man, split lengthwise, with one eye, one arm and one leg) hunts the stolen children across the moving salt. Hilal calls the half-possessed children *nasanis*, half-people. The shiqq's single eye echoes Ghareeb's, with dread. |
+| 10 | **Written versus unwritten jinn.** Hilal trusts only jinn in the books. Umm Shamma and the divers fear Umm al-Duwais and Bu Darya, "who are in no book". **The unwritten ones are the real ones here**, and Hilal dies to a jinn his books never named. |
+
+**Not chosen**, to keep the story tight:
+- 7: Jasir is already the son of a sea jinn.
+- 9: it would blur the Ghareeb-eye twist.
+- 11: an extra quest object.
