@@ -56,7 +56,7 @@ The blade was snapped, of course. But the hilt was strange too. Wrapped in old d
 
 It was true. My hackles didn't stir. It just wasn't an answer.
 
-"The old smiths of my city made their hilts hollow," Hazza' said after a moment, as if he'd decided to give a different answer instead. He twisted the bronze pommel, and it turned and came off in his hand. Inside the grip was a narrow empty space, about the length of a finger. "You're meant to keep a blessing in here. A holy man writes it out for you, very small, on a scrap of paper, and you fold it up tight and carry it into every fight. In my city we bury everything with everybody, and we carry everything everywhere. We're very thorough."
+"The old smiths of my city made their hilts hollow," Hazza' said after a moment. He twisted the bronze pommel off. Inside the grip was a narrow empty space, the length of a finger. "You're meant to keep a blessing in here. A holy man writes it very small on a scrap of paper, and you fold it tight and carry it into every fight."
 
 "What's in yours?"
 
@@ -78,11 +78,11 @@ Theyab didn't ask. That matters. If he asked, he'd be asked back. But somewhere 
 
 Theyab laughed. Then he saw Hazza''s face, and stopped.
 
-Every child in the sands knows that name. Mothers in Hilat al-Sarab used it to frighten children who wandered: *Come home before dark, or Ubar will come up out of the sand and take your name.* The city of the old tales. The city of a thousand pillars, swallowed by the desert for its pride. A story.
+Every child in the sands knows that name. Mothers in Hilat al-Sarab used it on children who wandered: *Come home before dark, or Ubar will come up out of the sand and take your name.* The city of a thousand pillars, swallowed by the desert for its pride.
 
-"It's a story," Theyab said.
+"Ubar's a story," Theyab said.
 
-"It's a story with very thick walls," said Hazza'. He smiled crookedly at the fire. "The City of the Dead and Darkness. That's what the Bedu call it, the few who know it's there. The sand never swallowed it. It's down in a great hollow in the deep sands where no caravan goes, and the dunes have grown up all round it so you can ride within a day of it and never see a tower. The walls are towers, all joined together, mud brick on old stone, and they're very high. And there are lamps on every wall. Thousands of them. Burning day and night, and they must never all go out. There are men whose whole lives are walking the walls with oil jars. You can always tell a lamp-man by his eyes." He poked the fire. "And under the city there are tombs. Deeper than wells. Every Bedu who dies within a month's ride is carried there to be buried, and has been since before anyone counted. On quiet nights, if you lie with your ear on the palace floor, you can hear them. Not voices. A sort of knocking. Very slow. The old men say it's the stone settling."
+"It's a story with very thick walls," said Hazza'. He smiled crookedly at the fire. "The City of the Dead and Darkness. The sand never swallowed it. It's down in a great hollow in the deep sands where no caravan goes, and you can ride within a day of it and never see a tower. The walls are towers, all joined together, very high. And there are lamps on every wall, thousands, burning day and night, and they must never all go out. There are men whose whole lives are walking the walls with oil jars." He poked the fire. "And under the city there are tombs, deeper than wells. On quiet nights, if you lie with your ear on the palace floor, you can hear a sort of knocking down there. Very slow. The old men say it's the stone settling."
 
 "Is it?"
 
