@@ -39,13 +39,13 @@
 
 ## C. Prince Soren
 33. **Why accused of treason:** He secretly hid and protected a Hollow victim inside the palace.
-34. **Greatest skill:** Sword fighting. He is the best blade in Kharesh, even with a broken sword.
+34. **Greatest skill:** Sword fighting. He is the best blade in Vel'Mourne, even with a broken sword.
 35. **Survival in exile:** He hunts shadow creatures and sells their ash.
 36. **First words to Zayn:** "You glow. That's weird."
 37. **What they argue about:** The sacrifice. Soren learns Zayn must die and refuses to accept it.
 38. **Funny moment:** Soren tries Kiri's scorpions and gets sick.
 39. **What they teach each other:** Soren teaches Zayn to laugh, and Zayn teaches Soren desert survival.
-40. **Who he loves in Kharesh:** His little brother, **Prince Idan** (age 10), who is later the hostage at the end.
+40. **Who he loves in Vel'Mourne:** His little brother, **Prince Idan** (age 10), who is later the hostage at the end.
 41. **The broken sword:** It broke while he was protecting the Hollow victim he hid.
 42. **Did he know he'd die:** No idea. It was a total surprise.
 43. **Who finds his body:** Desert travellers, who spread the story of "the Prince-Killer".
@@ -127,7 +127,7 @@
 105. **Big chase:** Riding sand lizards through a sandstorm.
 106. **Losing control:** Yes. Zayn's light burns Kiri's Hollow half.
 107. **Escape from the buried ship:** Kiri uses his monster strength to lift and break open the wreck.
-108. **Great battle of Kharesh:** Zayn duels Brother One, Orrin's giant bodyguard.
+108. **Great battle of Vel'Mourne:** Zayn duels Brother One, Orrin's giant bodyguard.
 109. **King Absalon:** He dies in the battle.
 110. **Hostage at the end:** Prince Idan, Soren's 10-year-old brother.
 

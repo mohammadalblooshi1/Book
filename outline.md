@@ -166,13 +166,13 @@ Each chapter opens with **a line from a desert legend** (in italics), has a **po
 
 ## PART FIVE: THE END IS THE BEGINNING
 
-### Chapter 17: The Walls of Kharesh
+### Chapter 17: The Walls of Vel'Mourne
 > *"Behind every wall burns a lantern; behind every lantern, a fear."*
 
-- Zayn sneaks into the red city of Kharesh.
+- Zayn sneaks into the red city of Vel'Mourne.
 - **Mother Yusa**, the palace cook, hides him in the storerooms. *"That boy stole honey cakes from my kitchen for ten years…"*
 - Zayn shows the proof before **King Absalon**. Orrin smiles. He was expecting this.
-- 🎨 Kharesh's lantern walls · Yusa hiding Zayn in the kitchens · Zayn before the king's throne
+- 🎨 Vel'Mourne's lantern walls · Yusa hiding Zayn in the kitchens · Zayn before the king's throne
 
 ### Chapter 18: The Night of Embers
 > *"On the Night of Embers, every lantern is a name."*
@@ -181,7 +181,7 @@ Each chapter opens with **a line from a desert legend** (in italics), has a **po
 - **The duel with Brother One** on the palace stairs, using Soren's broken sword.
 - **King Absalon dies.**
 - Orrin seizes **Prince Idan** and flees toward the Crown Dune.
-- 🎨 Kharesh's streets full of lanterns and Husks · the duel with Brother One · the king's death · Orrin taking Idan
+- 🎨 Vel'Mourne's streets full of lanterns and Husks · the duel with Brother One · the king's death · Orrin taking Idan
 
 ### Chapter 19: The Crown Dune
 > *"And the light will be born on the day he will die."*
