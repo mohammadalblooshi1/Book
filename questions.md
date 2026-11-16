@@ -49,7 +49,7 @@ You can write your answers under each question here, or reply in chat by number 
 37. What do Zayn and Soren argue about?
 38. What is one funny moment between them?
 39. What does Soren teach Zayn, and what does Zayn teach Soren?
-40. Does Soren have brothers, friends, or someone he loves back in Vel'Mourne?
+40. Does Soren have brothers, friends, or someone he loves back in Veimore?
 41. What is the story behind Soren's broken sword?
 42. Did Soren know he was going to die? Did he leave Zayn a message?
 43. Who finds Soren's body: Zayn, Kiri, or someone else?
@@ -116,7 +116,7 @@ You can write your answers under each question here, or reply in chat by number 
 92. What festivals or holidays do people celebrate?
 93. How do people bury their dead?
 94. Is there writing and reading, or are stories passed by voice only?
-95. Are there other kingdoms or cities beyond Vel'Mourne and Harrow's End?
+95. Are there other kingdoms or cities beyond Veimore and Harrow's End?
 96. What lies beyond the Destiny Desert? Ocean, mountains, nothing?
 97. What are the eleven earlier bearers' names, or at least a few of them?
 98. Can the Light be stolen? What happens if someone tries?
@@ -131,7 +131,7 @@ You can write your answers under each question here, or reply in chat by number 
 105. Is there a chase scene? Where: sandstorm, city rooftops, canyon?
 106. Does Zayn ever lose control of his power and hurt someone innocent?
 107. How does Zayn escape from the cult's prison?
-108. What happens in the great battle of Vel'Mourne?
+108. What happens in the great battle of Veimore?
 109. Does King Absalon survive the battle?
 110. Who is the "king's last heir" held hostage at the end: Soren's sibling?
 

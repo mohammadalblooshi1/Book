@@ -137,7 +137,7 @@ Each chapter has **3–4 key scenes**.
 
 ## PART FIVE: THE END IS THE BEGINNING
 
-### Chapter 17: The Walls of Vel'Mourne
+### Chapter 17: The Walls of Veimore
 1. A great red-stone walled city lined with thousands of burning lanterns, grey mist pressing against the walls.
 2. A large cheerful palace cook (Mother Yusa, apron, flour on her hands) hiding Zayn in a storeroom full of sacks and honey jars.
 3. Zayn standing before a king on a red-stone throne, Orrin smiling beside him.
