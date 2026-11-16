@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1800" width="1200" height="1800">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#030409"/><stop offset="0.55" stop-color="#14101e"/><stop offset="0.8" stop-color="#3a1810"/><stop offset="1" stop-color="#140806"/></linearGradient>
+<radialGradient id="moon" cx="0.45" cy="0.4" r="0.6"><stop offset="0" stop-color="#f4ead6"/><stop offset="0.8" stop-color="#b9a98e"/><stop offset="1" stop-color="#6e5e4c"/></radialGradient>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffd884"/><stop offset="0.35" stop-color="#ff8a1a" stop-opacity="0.75"/><stop offset="1" stop-color="#701000" stop-opacity="0"/></radialGradient>
+<linearGradient id="smoke" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1a1414" stop-opacity="0.9"/><stop offset="1" stop-color="#3a3030" stop-opacity="0"/></linearGradient>
+<linearGradient id="dune" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7a4422"/><stop offset="1" stop-color="#1a0c06"/></linearGradient>
+<filter id="b8"><feGaussianBlur stdDeviation="8"/></filter><filter id="b30"><feGaussianBlur stdDeviation="30"/></filter>
+<filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 0.16"/></feComponentTransfer></filter>
+</defs>
+<rect width="1200" height="1800" fill="url(#sky)"/>
+<g fill="#fff" opacity="0.7"><circle cx="120" cy="460" r="2"/><circle cx="1050" cy="420" r="2"/><circle cx="980" cy="560" r="1.5"/><circle cx="200" cy="600" r="1.4"/><circle cx="1100" cy="700" r="1.6"/><circle cx="90" cy="760" r="1.2"/></g>
+<circle cx="600" cy="640" r="250" fill="url(#moon)"/>
+<g fill="#7a6a58" opacity="0.4"><circle cx="540" cy="590" r="38"/><circle cx="670" cy="700" r="26"/></g>
+<path d="M430 1080 C380 950 520 900 470 780 C440 700 560 650 520 560 C600 650 540 720 600 800 C660 880 560 940 640 1050Z" fill="url(#smoke)" filter="url(#b8)"/>
+<g fill="#0a0606" opacity="0.92"><circle cx="540" cy="640" r="14"/><circle cx="600" cy="640" r="14"/></g>
+<g fill="#ff5a1a"><circle cx="540" cy="640" r="5"/><circle cx="600" cy="640" r="5"/></g>
+<g fill="#100806">
+<path d="M80 1180 L80 1000 L100 980 L120 1000 L120 1180Z"/><path d="M150 1180 L150 1040 L190 1040 L190 1180Z"/>
+<path d="M980 1180 L980 960 L1000 940 L1020 960 L1020 1180Z"/><path d="M1060 1180 L1060 1060 L1100 1060 L1100 1180Z"/>
+<rect x="60" y="1150" width="160" height="40"/><rect x="960" y="1150" width="170" height="40"/>
+</g>
+<path d="M0 1260 Q300 1150 600 1000 Q900 1150 1200 1240 V1800 H0Z" fill="url(#dune)"/>
+<path d="M600 1000 Q700 1100 860 1300" stroke="#e0a060" stroke-width="3" fill="none" opacity="0.5"/>
+<path d="M0 1440 Q300 1380 620 1430 T1200 1400 V1800 H0Z" fill="#100604"/>
+<g transform="translate(600 990)"><circle r="110" fill="url(#glow)" filter="url(#b8)"/>
+<g fill="#000"><circle cx="0" cy="-58" r="11"/><path d="M-10 -46 L10 -46 L14 10 L8 58 L3 58 L0 18 L-3 58 L-8 58 L-14 10Z"/><path d="M-10 -42 L-52 -78 L-55 -73 L-13 -28Z"/><path d="M10 -42 L52 -78 L55 -73 L13 -28Z"/></g>
+<circle cx="0" cy="-28" r="7" fill="#fff2c0"/></g>
+<g transform="translate(760 1110)" fill="#000">
+<path d="M0 0 C10 -18 30 -26 60 -26 C80 -26 92 -30 100 -42 L104 -60 C108 -66 116 -66 118 -58 L122 -52 C130 -50 134 -46 130 -42 L118 -40 C112 -30 106 -22 104 -10 L106 40 L100 40 L96 0 C80 4 60 4 40 2 L34 40 L28 40 L28 2 C18 6 10 10 4 40 L-2 40 L0 10 C-10 6 -20 -6 -30 -20 C-20 -14 -10 -10 0 -6Z"/>
+<path d="M104 -58 C96 -50 94 -40 98 -34 C104 -40 108 -48 104 -58Z" fill="#000"/>
+</g>
+<rect width="1200" height="1800" filter="url(#grain)"/>
+<text x="600" y="180" text-anchor="middle" font-family="Georgia,serif" font-size="88" fill="#e6d8c2" letter-spacing="6" style="font-variant:small-caps">The End Is</text>
+<text x="600" y="285" text-anchor="middle" font-family="Georgia,serif" font-size="88" fill="#e6d8c2" letter-spacing="6" style="font-variant:small-caps">the Beginning</text>
+<text x="600" y="345" text-anchor="middle" font-family="Georgia,serif" font-size="26" fill="#c0703a" letter-spacing="7">A TALE OF THE SANDS, THE JINN,</text><text x="600" y="385" text-anchor="middle" font-family="Georgia,serif" font-size="26" fill="#c0703a" letter-spacing="7">AND THE LOST CITY OF UBAR</text>
+<text x="600" y="1700" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#a89a88" letter-spacing="8">"THEY SAY IT TRULY HAPPENED"</text>
+</svg>
