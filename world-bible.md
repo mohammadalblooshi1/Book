@@ -237,9 +237,17 @@ Three women appear briefly. Each has a small, warm role and is mentioned only a 
 | **The Valley of Echoes** | A canyon where your voice replies with your secret fears. |
 | **The Mountain Caves** | Where Daruun hid for fifteen years. |
 | **The Buried Ship** | An ancient ship half-swallowed by the dunes, far from any sea. It is the **Unnamed's hidden base**. |
-| **Veimore** | A walled city of red stone around the greatest oasis, guarded by lanterns that burn day and night. |
+| **Veimore** | *The City of the Dead and Darkness.* A walled city of blood-red stone, guarded by lanterns that burn day and night. |
 | **The Hollow** | A spreading grey wasteland with no colour or sound. |
 | **The Crown Dune** | The highest dune in the world and the place of sacrifice. |
+
+### Veimore, the City of the Dead and Darkness
+- The last great city of the desert: blood-red stone walls around the greatest oasis, ruled by King Absalon.
+- **Why it is called the City of the Dead:** For generations the dead of the whole desert have been carried here. Beneath the city lie endless **catacombs**, and every street has a shrine where the names of the dead are painted on the walls. Some streets have more names on them than living people.
+- **Why it is called the City of Darkness:** The Hollow presses against its walls every night. Thousands of **lanterns burn day and night** along the walls and rooftops, because the people believe that the moment the last lantern goes out, the darkness will walk in. The air always smells of smoke and lamp oil, and the sky above the city is never fully clear.
+- **Its people** are pale from living behind high walls, quiet, superstitious and afraid. They whisper prayers to the dead and bar their doors at sunset.
+- **The palace** is a black-and-red fortress at the city's heart. The throne hall is lit only by lanterns, and Vizier Orrin's quiet voice fills its shadows.
+- It is the setting for Part Five: Mother Yusa's kitchens, the king's throne hall, and the Night of Embers battle, when the lanterns finally go out.
 
 ### The Hollow (the darkness)
 - It doesn't kill. It **empties** people of memories, hope and connection.

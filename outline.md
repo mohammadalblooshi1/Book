@@ -169,7 +169,7 @@ Each chapter opens with **a line from a desert legend** (in italics), has a **po
 ### Chapter 17: The Walls of Veimore
 > *"Behind every wall burns a lantern; behind every lantern, a fear."*
 
-- Zayn sneaks into the red city of Veimore.
+- Zayn sneaks into **Veimore, the City of the Dead and Darkness**: blood-red walls, endless lanterns, streets painted with the names of the dead.
 - **Mother Yusa**, the palace cook, hides him in the storerooms. *"That boy stole honey cakes from my kitchen for ten years…"*
 - Zayn shows the proof before **King Absalon**. Orrin smiles. He was expecting this.
 - 🎨 Veimore's lantern walls · Yusa hiding Zayn in the kitchens · Zayn before the king's throne
