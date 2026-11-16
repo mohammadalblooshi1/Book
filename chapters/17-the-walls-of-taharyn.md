@@ -226,9 +226,9 @@ The king took the letter in his hands and looked at the seal for a long time. Th
 
 And Orrin sighed, very gently, like a teacher whose favourite pupil has made a small mistake.
 
-"Your Majesty will remember," he said, "that I reported my seal stolen. The night of the prince's exile. I told the captain of the guard that very evening. It is written in the palace records." He spread his soft hands. "I did not wish to believe that Soren had taken it. I wished even less to believe what he might use it for. But here it is. A forgery in a broken sword, carried by the boy who killed him, on the very eve of the Night of Embers. Someone wished to set Your Majesty against his oldest servant on the one night the city is most open." He shook his head sorrowfully. "It is clever. I'll grant them that."
+"Your Majesty will remember," he said, "that I reported my seal stolen on the night of the prince's exile. It is written in the palace records." He spread his soft hands. "I did not wish to believe Soren had taken it. But here it is. A forgery in a broken sword, carried by the boy who killed him, on the very eve of the Night of Embers." He shook his head sorrowfully. "It is clever. I'll grant them that."
 
-He had planned for this. You see? Months ago, before Soren ever found that letter, Orrin had made sure that if it was ever found it would look like a lie.
+You see? Long before Soren ever found that letter, Orrin had made sure that if it was found, it would look like a lie.
 
 I hated him then more than I have hated anything in a long time.
 
