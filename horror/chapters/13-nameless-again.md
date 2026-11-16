@@ -8,13 +8,13 @@
 
 For four days, he didn't say a word.
 
-You'd think that would be a relief to me. I'd been begging for silence since the day I met him. Now I had all of it, and I'd have traded every scorpion between here and the edge of the world to hear him tell me to shut up.
+You'd think I'd be relieved. I'd have traded every scorpion in the desert to hear him tell me to shut up.
 
-He walked. That was all. He walked while the sand was still cold, and at noon when the Fire hammered down so hard the air shook like a struck bell, and at night under an Ash already beginning to thin, as if something had taken a bite out of it. He didn't choose a direction. He let the dunes choose. When a slope rose in front of him, he climbed it. When a valley opened, he went down. If the Weaver was writing the sand that week, it was writing for a boy who had stopped reading.
+He walked. That was all. In the cold, in the hammering noon Fire, at night under an Ash already beginning to thin, as if something had taken a bite out of it. He let the dunes choose the direction. If the Weaver was writing the sand that week, it was writing for a boy who had stopped reading.
 
 Soren's sword was tied across his back, wrapped in his scarf. It knocked against his spine with every step, and every time it did he flinched, and every time he flinched he kept walking. It had a rhythm to it after a while. Like a knock on a door. Like someone behind him, tapping his shoulder, wanting to be let back in.
 
-He hadn't given Soren to the dunes. He couldn't make his hands do it. He'd sat until the wind began the work for him, and then he'd walked away and left the sand to finish, with the word the travellers had shouted chasing him the way stones had once chased him out of Harrow's End.
+He hadn't given Soren to the dunes. He'd sat until the wind began the work, and then walked away and left the sand to finish, with the travellers' word chasing him the way stones had once chased him out of Harrow's End.
 
 *Prince-Killer.*
 
@@ -24,7 +24,7 @@ I followed a dune behind. I'd have walked closer, but I wasn't walking well.
 
 ---
 
-You remember the storm. The pillar, and what I became to lift it, and how his light caught me full in my Hollow half and went down into it looking for the bottom.
+You remember what his light did to my Hollow half in the storm.
 
 There was a patch on my left side, the silver side, where the fur had come away. What was underneath wasn't fox. It was dark and faintly smoking, like a coal dropped in water that hadn't decided whether to go out. Sometimes, at night, when it was very quiet, I could hear it whispering. Not to me. To itself. The same three words, over and over, in a voice I knew.
 
@@ -38,7 +38,7 @@ So I limped. And he walked. And neither of us talked about it.
 
 He still did the things that kept him alive. Fifteen years of scraping by don't leave you just because your heart has.
 
-On the second day he found water. He licked his finger and held it to the wind, walked straight down to a hollow where camel-thorn grew, and dug until the sand went dark and damp, and drank.
+On the second day he found water: a wet finger to the wind, a hollow where camel-thorn grew, digging until the sand went dark.
 
 He'd taught Soren how to do that. I watched him remember it. He sat back on his heels with wet sand on his fingers and his face went completely still, the way a well goes still after something has dropped to the bottom of it and you're waiting to hear it land.
 
@@ -54,7 +54,7 @@ S. O. R. E. N.
 
 And every morning the dunes had moved in the night, and the word was gone.
 
-That's the trouble with being given to the desert. There's no stone. There's no place. The sand takes you and keeps moving, and the people who loved you have to carry the grave around inside them, because there's nowhere else to put it. After a while the grave starts to feel like it's carrying you.
+That's the trouble with being given to the desert. There's no stone. The people who loved you have to carry the grave around inside them. After a while, the grave starts to carry you.
 
 ---
 
@@ -68,7 +68,7 @@ He stood over it a long time.
 
 "Did you write this?" he said. Not to me, really. To the air.
 
-I hadn't. I can't write; I have paws. He knew that. He'd had his back to that slope all night and I'd been beside him, and I'd have sworn he never moved.
+I hadn't. I have paws. And I'd been beside him all night, and I'd have sworn he never moved.
 
 But there were his own footprints, going down to it from where we'd slept, and none coming back.
 
@@ -86,7 +86,7 @@ His face twisted. His hand flew to his chest. The feather mark flared under his 
 
 He couldn't even lie to himself. Not for comfort. Not once.
 
-Most people get to tell themselves small kind lies in the dark. *There was nothing I could have done. He didn't suffer. It was quick.* Lies like that are how people get up in the morning. Zayn never got any. Every night he went down into the dark with nothing but the truth, and the truth was this: they had argued under the full Ash, and he had walked away, and he had watched the fire go out and called it nothing.
+Most people get to tell themselves small kind lies in the dark. *There was nothing I could have done.* Lies like that are how people get up in the morning. Zayn never got any. The truth was all he had: he had walked away, and watched the fire go out, and called it nothing.
 
 "The sand remembers," he whispered afterwards. The old words.
 
@@ -110,7 +110,7 @@ It was the first word he'd spoken in three days. Hoarse, as if his voice had rus
 
 "It glowed at the City of Glass too," he said. "Right up until it didn't."
 
-I had nothing for that. I'd told him one lie in fifteen years, one small, merciful lie, and it had cost me every true thing I'd ever say to him afterwards. Remember that, if you ever think a lie is cheap. It's the most expensive thing there is. It buys you nothing and it costs you everything after.
+I had nothing for that. One small, merciful lie in fifteen years, and it had cost me every true thing I'd say to him afterwards. Remember that, if you ever think a lie is cheap.
 
 He was quiet a while. Then, without looking at me: "Where were you?"
 
@@ -120,7 +120,7 @@ The wind moved over the dune.
 
 I opened my mouth.
 
-I'm not going to tell you what I nearly said. I'm not going to tell you where I was, either. Not yet. There's a night in this story I haven't told you about, and I'm not ready, and it's my story, so I get to choose. That's the only power a storyteller has. The power to make you wait in the dark.
+I'm not going to tell you what I nearly said, or where I was. Not yet. It's my story, so I get to choose. That's the only power a storyteller has: to make you wait in the dark.
 
 I closed my mouth.
 
@@ -136,7 +136,7 @@ Then he did something I didn't understand until later. He put one to his lips, j
 
 He was trying to remember what honey tasted like. The grey blade had taken it in the storm, and it had come back, mostly. *Mostly*. He was checking.
 
-I don't know what he found. He wrapped them up again and put them back without eating any. Eating them would have meant saying that this was as bad as it got, and some small stubborn part of him still wasn't ready to promise that.
+I don't know what he found. He wrapped them up again without eating any. Eating them would have meant this was as bad as it got, and some stubborn part of him wasn't ready to promise that.
 
 Or else he was afraid to taste them and find nothing there at all.
 
@@ -168,7 +168,7 @@ The dead are given to the dunes. That's what desert people do. He hadn't stayed 
 
 I could have changed. You're thinking it. I was thinking it. I could have let the dark half out and dug him free in three strokes.
 
-He'd seen that half once, and been so afraid of it that his light had nearly burned it out of the world. I didn't know what it would do to a boy in his state to wake with that thing's breath on his face and all its voices in his ears. I thought it might be the thing that finished him.
+He'd seen that half once, and his light had nearly burned it out of the world. To wake with that thing's breath on his face might be what finished him.
 
 So I stood there in the sliding sand, shaking, a small burned fox shouting at a boy who wouldn't listen, while the desert buried him an inch at a time.
 
@@ -266,7 +266,7 @@ I've walked with eleven bearers. I've seen a great many things come back to the 
 
 That was true too. I wish it hadn't been.
 
-He looked away, out over the moving dunes. But he didn't turn his back on me. That night, for the first time since the full Ash, he slept with me curled against his side. He slept with one hand on the sword and the other on my back, and twice in the night I felt him wake and look at the slope where the frost had been.
+He looked away over the dunes, but he didn't turn his back on me. That night he slept with me curled against his side, one hand on the sword and one on my back, and twice I felt him wake and look at the slope where the frost had been.
 
 It's not nothing. In the desert, you learn to count the things that are not nothing. You learn to count them very carefully, because there aren't many.
 
@@ -276,11 +276,11 @@ This next part is where I went wrong.
 
 In the morning he walked on, and I couldn't keep up.
 
-The dune had cost me more than I'd thought. By the time the Fire was two hands above the horizon I'd folded up in the shade of a rock with my legs not listening. He was three dunes ahead. Then four. I told myself I'd catch up when the heat broke.
+The dune had cost me more than I'd thought. By mid-morning I'd folded up in the shade of a rock with my legs not listening, and he was four dunes ahead. I told myself I'd catch up when the heat broke.
 
 Which is why I was a long way off, lying on a ridge, when the lanterns came.
 
-You don't see lanterns in daylight. That's what made me lift my head. A little string of them, swaying over the eastern dunes: camels, six or seven, with lanterns hung from their saddles still burning in the full morning Fire, pale little flames you could hardly see, the way they burn on the walls of Veimore day and night because someone is afraid of what happens if they ever go out. Rich camels. Red tassels. Water skins so fat they sloshed.
+You don't see lanterns in daylight. That's what made me lift my head. A string of camels coming over the eastern dunes, six or seven, with lanterns on their saddles still burning in the full morning Fire, the way they burn on the walls of Veimore because someone is afraid of what happens if they ever go out. Red tassels. Water skins so fat they sloshed.
 
 They came straight to him. Not near him. *To* him, as if they'd known exactly which dune a tired boy would be standing on.
 
@@ -336,7 +336,7 @@ I *think* it dimmed. I'm nearly sure. But the Fire was bright across the sand, a
 
 "On the night of the full Ash," said Orrin. "I found him at last. By his little fire. We spoke. He forgave me, I think, or began to. And he gave me his ring and said, *If anything happens to me, find the boy who glows. Look after him.*" The old man's voice shook, very slightly, in exactly the right place. "I didn't understand what he meant. Not until morning."
 
-There was no bell. Hesset's bell was tied to a camel twenty paces away, in a patched bag, among the water skins, and it didn't make a sound. I've thought about that silence a great deal. Whether it rang inside the bag and the water skins swallowed it. Whether a bell can be smothered the way a voice can.
+There was no bell. Hesset's bell was in a patched bag tied to a camel twenty paces away, among the water skins, and it made no sound. I've wondered since whether a bell can be smothered the way a voice can.
 
 Zayn reached out, slowly, the way you reach for something that might vanish. Orrin let him take the ring. It was warm from the old man's robe. Zayn closed his fingers over it, and his face crumpled.
 
@@ -370,7 +370,7 @@ I came down the slope in a sort of controlled fall, my side smoking. Orrin's sof
 
 There was no surprise in it at all. He looked at the burned place on my side, the dark showing through, and he looked at it the way you'd look at a door you already had the key to.
 
-I stood at the camel's feet with my legs shaking and my fur on end and looked up at the boy. He was holding the reins in one hand. His other hand was pressed flat to his chest, over the mark.
+I stood at the camel's feet with my fur on end and looked up at the boy: one hand on the reins, the other pressed flat over his mark.
 
 I could have said a great many things. I've had a long time to make a list.
 

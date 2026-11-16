@@ -8,11 +8,11 @@
 
 I didn't speak again before the full Ash.
 
-I'll tell you about those days anyway. That's the strange thing about being the one who tells a story: you can be silent all the way through it and still have to describe every minute, the way a witness has to describe a room he only stood in.
+I'll tell you about those days anyway. You can be silent all the way through a story and still have to describe every minute of it.
 
-I walked. That's mostly what I did. I limped along behind the two of them with my fur scorched brown down one side and my silver eye swollen shut. Something in the burn kept weeping a thin black fluid that smoked when it touched the sand. I didn't catch scorpions. I didn't eat much at all. At night I slept a little way off from the fire instead of against Zayn's side, and every night he looked over at me before he lay down, and every night I turned my face away.
+I limped behind the two of them with my fur scorched brown down one side and my silver eye swollen shut. The burn wept a thin black fluid that smoked when it touched the sand. I didn't eat much. At night I slept away from the fire, and every night Zayn looked over at me before he lay down, and every night I turned my face away.
 
-He tried to say sorry. Sometimes out loud, sometimes just by bringing me water in his cupped hands and setting it beside me without a word. Once he left me the best piece of a roasted sand-hen and sat with his back to me so I could eat without being watched. I ate it after he'd fallen asleep. I want that on the record.
+He tried to say sorry. Sometimes out loud, sometimes by setting water beside me in his cupped hands. Once he left me the best piece of a roasted sand-hen and sat with his back to me so I could eat unwatched. I ate it after he'd fallen asleep. I want that on the record.
 
 I wasn't angry with him. You need to understand that, because he didn't. I wasn't angry at all.
 
@@ -22,11 +22,11 @@ I was ashamed. He had seen what I was. He had heard the voices that live in me. 
 
 Soren was different too, after the storm.
 
-He still joked. He still complained about his feet, his bruised legs, and the general unfairness of sand. He still drew letters every evening, and Zayn learned fast now. He could read whole short lines. One night Soren wrote ZAYN AND SOREN, MONSTERS in big letters beside the fire and made him read it aloud, and Zayn did, and they both laughed, and for a moment the dark beyond the firelight felt a long way off.
+He still joked, still complained about his feet and the general unfairness of sand. He still drew letters every evening, and Zayn could read whole short lines now. One night Soren wrote ZAYN AND SOREN, MONSTERS in big letters beside the fire and made him read it aloud, and they both laughed, and for a moment the dark beyond the firelight felt a long way off.
 
 Remember those letters. I'm sorry. I have to ask you to remember them.
 
-But Soren had started touching the hilt of his sword. Not the grip, the way a fighter does. The pommel. He'd rest his thumb on the bronze cap without seeming to know it, the way Zayn touched his feather mark. And when he thought no one was looking, he'd stand on top of a dune and stare west, toward Veimore, the way you stare at a house where you know someone is waiting for you in the dark.
+But Soren had started touching the pommel of his sword, resting his thumb on the bronze cap the way Zayn touched his feather mark. And when he thought no one was looking, he'd stand on a dune and stare west toward Veimore, the way you stare at a house where you know someone is waiting for you in the dark.
 
 "We're changing direction," he announced on the fourth morning. "West. I need to go home."
 
@@ -58,7 +58,7 @@ He knew the Crown Dune was nowhere near. But every full Ash would bring it one t
 
 On the twenty-ninth night, it rose full.
 
-It came up out of the eastern dunes huge and white and close, so close it seemed to fill half the sky, exactly as it did in his vision. The whole desert went silver under it. Every grain of sand cast its own small shadow. You could see for miles, and there was nothing moving in any of them, not a beetle, not a breath of wind. The desert was holding still the way an animal holds still when something larger is passing overhead.
+It came up out of the eastern dunes huge and white and close, filling half the sky, exactly as in his vision. The desert went silver. You could see for miles, and nothing moved in any of them, not a beetle, not a breath of wind. The desert was holding still the way an animal does when something larger passes overhead.
 
 It was the brightest night Zayn had ever seen, and he sat by the fire and couldn't stop shaking.
 
@@ -174,7 +174,7 @@ You know what the rule is. *Never say your name to the wind.*
 
 Nobody ever told Soren what happens when you say someone else's.
 
-He meant to come back. You should know that. He meant to walk until he'd stopped shaking and then come back and say sorry and make it right. There'd be time in the morning, he thought. There is always time in the morning. That's the oldest lie there is, and the feather never burns for it, because nobody knows it's a lie until afterwards.
+He meant to come back. You should know that. He meant to walk until he'd stopped shaking, then come back and make it right. There'd be time in the morning. That's the oldest lie there is, and the feather never burns for it, because nobody knows it's a lie until afterwards.
 
 He walked away and left Soren alone.
 
@@ -190,7 +190,7 @@ I'd smelled Hounds that evening, before the argument started. A long way off, bu
 
 I went hunting.
 
-I let the Hollow half out. It hurt, worse than it ever had. The burned part of me screamed every time it moved, and the voices inside were louder that night, as if the full Ash had pulled them up near the surface the way it pulls the sea. *Is someone there. Where did everyone go.* But there were Hounds in the dunes and the boy I loved was alone out there, and that is the only use I've ever found for the thing that I am.
+I let the Hollow half out. It hurt worse than it ever had, and the voices inside were louder that night, as if the full Ash had pulled them up near the surface the way it pulls the sea. But there were Hounds in the dunes and the boy I loved was alone out there, and that is the only use I've ever found for the thing that I am.
 
 I hunted them across the silver sand under the full Ash, for most of the night.
 
@@ -210,7 +210,7 @@ He went through it again and again, getting the words right, the way he'd copied
 
 Some time after the middle of the night, he looked down, and the little orange point had gone out.
 
-He told me later that he'd thought nothing of it. Fires burn down. Soren would have let it go and rolled up in his cloak. He'd thought nothing of it, he said, and then he said it again, and the second time his mark burned, very faintly, and he had to stop and start over. *I thought it was nothing. I told myself it was nothing.* That one was true.
+He told me later he'd thought nothing of it. Fires burn down. He said it twice, and the second time his mark burned, faintly, and he had to start over. *I told myself it was nothing.* That one was true.
 
 Near dawn, with the Ash sinking into the western dunes and the sky going the grey of old bone, he fell asleep sitting up.
 
@@ -338,7 +338,7 @@ The broken sword was lying in the sand by Soren's open hand.
 
 Zayn picked it up.
 
-It was lighter than he'd expected. Half a blade, a hand's width and a little more of jagged steel, dark leather on the grip and a bronze pommel that didn't quite match. It was cold. Everything in that hollow was cold, though the Fire was well up by then. He held it across his knees the way Soren used to hold it by the fire at night.
+It was lighter than he'd expected. Half a blade, dark leather on the grip, a bronze pommel that didn't quite match. It was cold. Everything in that hollow was cold, though the Fire was well up by then. He held it across his knees the way Soren used to hold it by the fire at night.
 
 He didn't know what was inside it. Not yet.
 

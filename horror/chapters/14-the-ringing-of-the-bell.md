@@ -10,7 +10,7 @@ The town was called Thornwell, and it was the kind of place you could love if no
 
 It sat in a shallow bowl between three dunes, around a spring so old the stones of its well had been worn into the shape of hands. Nine date palms stood over it. Somebody long ago had decided nine was lucky, so the people of Thornwell never cut one down and never planted a tenth. There was a market of striped awnings, a dyer's yard hung with red and saffron cloth, and a hundred flat-roofed mud-brick houses. A free town. No king, no walls. Just water, and people who'd decided to stay near it.
 
-They hung lanterns in their doorways now, day and night, the way Veimore does. Every house. The rumours had come in on the trade roads: the grey moving in the south, whole villages going quiet. Nobody in Thornwell said the word *Hollow* out loud. They just kept their lamps lit, and didn't look too long at strangers, and hurried their children indoors when the Fire went down.
+They hung lanterns in their doorways now, day and night, the way Veimore does. Rumours had come in on the trade roads of whole villages in the south going quiet. Nobody in Thornwell said the word *Hollow*. They kept their lamps lit and hurried their children indoors when the Fire went down.
 
 Orrin's house stood on the edge of the market. Blue shutters, a courtyard with a fig tree, and a fountain that actually worked, which in the desert is about as close to showing off as you can get.
 
@@ -42,7 +42,7 @@ I told myself it was a prayer. I've told myself a lot of things.
 
 You have to understand how good Orrin was at it.
 
-Most liars are bad at it. They talk too much. They hurry. Orrin never hurried. Orrin had all the time in the world, and he wanted you to feel it, the way you feel the weight of a warm blanket.
+Most liars are bad at it. They talk too much. They hurry. Orrin never hurried. He wanted you to feel he had all the time in the world, the way you feel the weight of a warm blanket.
 
 On the first evening there were dates on the table. Dates rolled in honey, on a blue clay plate.
 
@@ -52,7 +52,7 @@ Zayn stopped in the doorway and stared.
 
 The bell was upstairs, in the bag on the bed. I was on the roof with my ear to a crack in the shutter, and my tail went dim as a dying coal. Nobody saw.
 
-Zayn sat. He ate one date, slowly, with his eyes shut, and I watched him go searching for the sweetness the grey blade had taken in the storm. I watched him find it. His face broke open with relief. He ate another. He didn't touch the twist of waxed paper in his pocket, carried all the way from Harrow's End. He ate Orrin's dates instead, and his eyes filled, and Orrin pretended not to notice, which was the kindest thing anyone had done for him in days.
+Zayn sat. He ate one date, slowly, eyes shut, and I watched him go searching for the sweetness the grey blade had taken in the storm, and find it, and his face broke open with relief. He didn't touch the twist of waxed paper in his pocket. He ate Orrin's dates instead, and his eyes filled, and Orrin pretended not to notice, which was the kindest thing anyone had done for him in days.
 
 That's how it's done. Not with chains. With honey, and a real bed, and an old man who knows exactly when to look away.
 
@@ -160,7 +160,7 @@ I didn't answer.
 
 There it was. The door, wide open.
 
-*Don't trust him.* Three words. And he would have asked *why not*, and I'd have had to tell him where I'd been on the night of the full Ash, and what I'd been, and everything after. I wasn't ready to say it out loud. Not to him. Not even to you, yet. And I had no proof, nothing but my own word, and my own word had gone dark in the City of Glass.
+*Don't trust him.* Three words. And he'd have asked *why not*, and I'd have had to tell him where I'd been on the night of the full Ash, and what I'd been. I wasn't ready. Not with him. Not even with you, yet. And I had no proof but my own word, and my own word had gone dark in the City of Glass.
 
 I'm not going to make excuses. I'll only tell you what I did.
 
@@ -180,7 +180,7 @@ Behind him, on the far roof across the courtyard, one of the silent servants was
 
 In the morning, he wore the bell.
 
-Out of spite, I think, to prove me wrong, the way you'd taste a dish someone swore was poisoned just to show them. Or maybe for Hesset. He'd been angry at the old man since the murals told him what Hesset hadn't. Maybe, in that soft blue house, he'd started to forgive him a little. You can't always tell why people do things. Sometimes they can't either.
+Out of spite, I think, the way you'd taste a dish someone swore was poisoned just to show them. Or maybe for Hesset. You can't always tell why people do things. Sometimes they can't either.
 
 He tied it to his belt on a short thread, under the fold of his scarf. A small bronze bell no bigger than a thumb.
 
@@ -244,11 +244,7 @@ I have never in my life left a place so quickly.
 
 ---
 
-I've thought about that conversation a great deal.
-
-At first it made no sense. Why would the Unnamed need a starving boy to tell them where Zayn slept? Their master was the one who'd *put* him there. Orrin had chosen the room. Orrin had chosen the bed.
-
-I understood later. A man like Orrin never lets his own hands be seen. If anything went wrong, if the bearer lived long enough to wonder how the masks had found him, it would be Bram's face he remembered. The boy from his village. The boy who'd thrown the first stone. Not the kind old man with the dates, who'd tried so hard to keep him safe.
+Why would the Unnamed need a starving boy to tell them where Zayn slept, when Orrin had chosen the room himself? I understood later. A man like Orrin never lets his own hands be seen. If the bearer lived long enough to wonder how the masks had found him, it would be Bram's face he remembered. The boy who'd thrown the first stone. Not the kind old man with the dates.
 
 It was a clever plan. It would have worked.
 
