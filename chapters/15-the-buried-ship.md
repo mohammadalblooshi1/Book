@@ -30,8 +30,6 @@ And inside it, through every crack and gap in the hull, lanterns burned.
 
 Grey lanterns. Their light was the colour of ash.
 
-I never found out what sea it had sailed before the sand swallowed it. Some mysteries the desert keeps.
-
 Then I crept down the slope in the dark, and found a place where the sand had drifted up against the hull, and dug.
 
 ---
@@ -72,7 +70,7 @@ The cloth caught, and curled, and was gone. Each young man, as his name burned, 
 
 Three men had walked into the circle. Three nobodies walked out.
 
-Zayn told me that was the worst thing he ever saw. Worse than the Veilbeast. Worse than the Husks. Because the Husks hadn't chosen it.
+Zayn told me that was the worst thing he ever saw. Worse than the Husks, because the Husks hadn't chosen it.
 
 ---
 
