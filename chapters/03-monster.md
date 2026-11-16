@@ -22,9 +22,7 @@ He took another.
 
 "I said *no*. You've just done something you don't understand, you're half dead on your feet, and that is the Hollow. Not a storm. Not a curse. The thing itself. You walk in there tonight and you might not walk out."
 
-He looked down at me. Fifteen years he had heard my voice and thought it was his own loneliness talking. Now he knew better, and the first thing I'd done with my real voice was tell him not to help someone.
-
-"He's seven," Zayn said.
+He looked down at me. "He's seven," he said.
 
 And then he went in after Bram, and I went in after him, because apparently that's who I am.
 
@@ -32,9 +30,9 @@ And then he went in after Bram, and I went in after him, because apparently that
 
 The grey feels like nothing.
 
-That's the only way I can describe it. Not cold, exactly. Not heavy. It's the feeling of a room after everyone you love has left it, spread over the whole world. The colour goes out of your eyes first. Then the sound. Then, if you stay long enough, the reasons you came.
+It's the feeling of a room after everyone you love has left it, spread over the whole world. The colour goes first. Then the sound. Then, if you stay long enough, the reasons you came.
 
-Zayn felt it pressing at him. I saw it. He walked with his hand flat against his chest, and the feather mark under his palm was the only warm thing for a hundred paces in any direction. Every few steps he whispered something to himself, too low for the grey to steal. I didn't need to hear it. I knew what he was saying.
+Zayn walked with his hand flat against his chest, and the feather mark under his palm was the only warm thing for a hundred paces in any direction. Every few steps he whispered something to himself, too low for the grey to steal. I didn't need to hear it. I knew what he was saying.
 
 *The sand remembers. The sand remembers.*
 
@@ -62,7 +60,7 @@ Bram laid his brother down on the hard ground outside the house. He knelt there 
 
 Then he turned around and looked at Zayn.
 
-I will remember that look until the Embers burn out. It wasn't hatred. It wasn't the sneer he'd worn at the well every day for ten years. It was the look of someone standing at the bottom of a very deep pit, seeing a rope for the first time and hating that it was this particular rope.
+It wasn't hatred. It was the look of someone at the bottom of a deep pit, seeing a rope for the first time and hating that it was this particular rope.
 
 "You did something," Bram said. His voice was hoarse. "Before. The Husks. You did something with the light and that woman's eyes went *brown*. I saw it."
 
@@ -136,7 +134,7 @@ He blinked up at the sky.
 
 Then he saw Zayn.
 
-And I understand why he screamed. I do. I've thought about it from every side for a long time, and I understand. Imagine you're seven years old and you've just come back from the place where there is nothing, not even yourself. The first thing you see is a face bent over yours, a face that's burning. Golden cracks running up its neck and across its cheeks like a pot about to shatter. Eyes full of light, light pouring out of them like tears. And a fox beside it, staring at you with one amber eye and one silver.
+I understand why he screamed. Imagine you're seven years old and you've just come back from the place where there is nothing, not even yourself. The first thing you see is a face bent over yours, a face that's burning. Golden cracks running up its neck and across its cheeks like a pot about to shatter. Eyes full of light, light pouring out of them like tears. And a fox beside it, staring at you with one amber eye and one silver.
 
 Tobin screamed. He screamed and twisted out from under Zayn's hands and scrambled backward across the sand until he hit his brother's legs, and he clung to them and kept screaming.
 
@@ -174,17 +172,17 @@ They were looking at the light still flickering in the cracks of his skin. And s
 
 "The grey came when he did," said a woman behind him. "Two nights ago. I saw him. Up on the dune. He was saying something to the wind."
 
-A murmur ran through the crowd. It was an ugly sound, the sound of a lot of frightened people discovering they all agreed on something.
+A murmur ran through the crowd: the ugly sound of frightened people discovering they all agreed on something.
 
 Zayn's hand went to his chest.
 
-Because she was right. Two nights ago he had climbed the dune and whispered his name to the wind, and the next morning the grey had been waiting on the horizon. He'd thought about it every hour since. He couldn't say she was wrong. He couldn't say anything at all, because every word that came to his tongue was a denial, and the feather burned at each one before it reached his lips.
+Because she was right. He had whispered his name to the wind, and the grey had come. He couldn't say she was wrong. Every denial that came to his tongue, the feather burned before it reached his lips.
 
 So he said nothing. And to the people of Harrow's End, his silence sounded exactly like guilt.
 
 "Oszkar," said Garrem.
 
-The headman looked at Zayn for a long moment. I'll say this for Oszkar: he didn't enjoy it. There was no cruelty in his face. Only tiredness, and fear, and the heavy, hopeless look of a man who has decided to sacrifice one thing to save the rest.
+The headman looked at Zayn for a long moment. I'll say this for Oszkar: he didn't enjoy it. He had the hopeless look of a man who has decided to sacrifice one thing to save the rest.
 
 "Get out, Sandborn," he said. "Get out of Harrow's End, and don't come back."
 
@@ -204,7 +202,7 @@ He got up. He didn't run. He walked, backward at first, then turned and walked a
 
 He staggered. He kept walking.
 
-He never raised his hands. Not once. I want you to know that. He had a light inside him that had just driven twenty Husks screaming from a lane, and forty people were throwing stones at him, and he never once raised his hands.
+He never raised his hands. Not once. I want you to know that.
 
 I bit a man's ankle. I'm not ashamed of that.
 
@@ -214,7 +212,7 @@ At the edge of the village, where the last houses gave way to hard ground and th
 
 The door opened as Zayn passed.
 
-Auntie Sabba came out. She was very small, much smaller than you'd think for someone who baked bread for half a village, with a face folded up like a dried fig and a shawl wrapped tight around her shoulders. The crowd was behind us, still shouting, still throwing, but the stones were falling short now. She didn't look at them. She didn't say a word to them.
+Auntie Sabba came out. She was very small, with a face folded up like a dried fig and a shawl wrapped tight around her shoulders. The crowd was behind us, still shouting, but the stones were falling short now. She didn't look at them.
 
 She walked straight up to Zayn and pressed something into his hands.
 
@@ -228,7 +226,7 @@ Then she turned and went back inside and shut the door. She didn't look back. So
 
 Zayn stood there holding the bread.
 
-It was the first time in his life anyone in Harrow's End had touched him gently. He was fifteen years old, and he was bleeding from a dozen places, and he had just been driven out of the only home he'd ever known, and he stood at the edge of the desert holding a bundle of bread against his chest as if it were made of gold.
+It was the first time in his life anyone in Harrow's End had touched him gently. He stood at the edge of the desert, bleeding from a dozen places, holding that bread against his chest as if it were made of gold.
 
 "Come on," I said, as softly as I've ever said anything. "Come on. We can't stay."
 
@@ -240,9 +238,7 @@ The Hounds found us before midnight.
 
 I heard them first. Foxes always do. A low sound under the wind, like breath through teeth. Then a howl, close this time, from somewhere behind the dune to our left. Then another, ahead.
 
-"Kiri," Zayn said.
-
-It was the first time he'd ever said my name. I don't know how he knew it. I'd never told him. Perhaps I had muttered it to myself once, in fifteen years of muttering. Perhaps he'd simply always known it the way you know the name of a star you've looked at every night. I didn't have time to ask.
+"Fox," Zayn said.
 
 "Yes," I said. "I know. Keep walking. Don't run. Running makes them happy."
 
@@ -250,9 +246,7 @@ They came over the dune like smoke poured from a jug.
 
 Hollow Hounds. There were six of them. They were shaped something like wolves, if a wolf were made of the darkness between the Embers. Long and low and lean, with no real edges, their bodies fraying into black mist at the legs and tail. Their eyes were coals. Hot, red, ember-bright, the only colour in them. They didn't pant. They didn't snarl. They spread out in a slow circle around us, and the sand didn't move under their feet.
 
-They track the Light. That's what they're for. Every time a bearer uses it, every time he heals, it rings out across the desert like a bell, and the Hounds lift their heads and follow the sound.
-
-Zayn had healed a child three hours ago. He might as well have lit a bonfire on a hill.
+They track the Light. Every time a bearer heals, it rings out across the desert like a bell, and the Hounds lift their heads and follow. Zayn had healed a child three hours ago. He might as well have lit a bonfire on a hill.
 
 "What do they want?" he whispered.
 
@@ -268,11 +262,7 @@ Zayn slashed at it. The knife passed through its shoulder like a hand through sm
 
 I went for its throat. I'm small. I'm not stupid. My teeth closed on something cold and slippery, and the Hound shook me off with a twist of its head and sent me tumbling down the slope.
 
-Up on the dune, I heard the others begin to run.
-
-I'll be honest with you. In that moment, rolling over and over through the sand, I felt it. Something dark stirring in the silver half of me. Something huge and hungry, uncoiling, the way it does when I'm pushed too far. I felt my bones begin to *ache* with it.
-
-I didn't let it out. Not that night. Not in front of him. That's a story for later, and you won't like it.
+Rolling through the sand, I felt something stir in the silver half of me. Something huge and hungry, uncoiling. I didn't let it out. Not that night. That's a story for later, and you won't like it.
 
 I didn't need to, as it turned out.
 
@@ -312,25 +302,19 @@ The wind answered him. Nothing else did.
 
 Then the rider pulled the camel's head around and rode away north, back into the dark, the long spear held upright like a banner. The hoofbeats faded. In a little while there was nothing to show they'd ever been there except three drifts of black ash on the sand and a set of tracks that the dunes were already beginning to fill.
 
-"Kiri," said Zayn. "Who was that?"
+"Who was that?" said Zayn.
 
 I licked the sand off my paw and said nothing.
 
-You're wondering whether I knew. I'll tell you this much: there are many things I should have said to that boy and didn't. I've told you that already. It's a theme. Who the rider was is a story for its proper time, and if I tell it now you'll skip ahead, and then where will we be?
-
-Be patient. He was.
+Who the rider was is a story for its proper time. If I tell it now you'll skip ahead, and then where will we be? Be patient. He was.
 
 ---
 
 Zayn sat in the sand for a long time after that, holding Auntie Sabba's bread in his lap.
 
-He didn't eat it. He just held it. The golden cracks on his face and arms were starting to fade, slowly, the way the colour goes out of a coal. His back was bleeding where the stone had hit. His knife lay in the sand beside him.
+The golden cracks on his face and arms were fading slowly, the way the colour goes out of a coal. His back was bleeding where the stone had hit.
 
-He looked back toward Harrow's End.
-
-The village was almost entirely dark now. At its eastern edge, under the Embers, the grey lay over the houses like a sheet over a dead man. Only one light was still burning anywhere in that whole black huddle of clay.
-
-It was at the far edge of the village, even farther out than his own tent had been. A single, small, stubborn lamp, glowing through the walls of a tent hung with herbs and bells.
+He looked back toward Harrow's End. At its eastern edge the grey lay over the houses like a sheet over a dead man. Only one light still burned in that whole black huddle of clay: a single, stubborn lamp at the far edge of the village, glowing through the walls of a tent hung with herbs and bells.
 
 Hesset was awake.
 
