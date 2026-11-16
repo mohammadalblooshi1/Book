@@ -60,6 +60,54 @@ On the fourth night he finished it. The four squashed honey-dates from the wreck
 
 ---
 
+On the third night we saw the lantern.
+
+It was very late. The moon hadn't risen yet, and the dark between the dunes was the thick, close dark of the deep sands, where you can hold your hand in front of your face and only guess at it. Theyab had lain down in a hollow and was not sleeping, and I was lying across the top of the hollow with my nose to the wind, and we both saw it at the same moment.
+
+A light. Far off to the north, low down, where two dunes crossed. Small and yellow and warm. It swung, a little, side to side, the way a lantern swings in the hand of a man who is walking. Then it stopped, and hung there, as if the man had turned to look for something he'd dropped.
+
+Theyab sat up.
+
+"A camp," he whispered. "Ghareeb. Someone's there."
+
+It didn't flicker like a fire. It didn't smoke. There was no smell of a fire on the wind, no camel, no coffee, and the wind was coming from it, straight down to my nose, and it carried nothing at all. Not even sand.
+
+The light swung again. Slowly. It came a little nearer, or seemed to. And I watched his face in the dark, lit very faintly gold by that far-off glow, and I saw what he saw in it. A lamp in a window. One small low lamp, left burning at the edge of a village while everything else went dark. He had walked away from that lamp three nights ago, and he had looked back at it until the dunes closed, and now here it was, out in front of him, as if someone had carried it all this way to find him.
+
+"It might be someone looking for me," he said.
+
+Nobody was looking for him. He knew it. But he was fifteen, and three days hungry, and he had never once in his life been looked for, and he got up out of the hollow and started walking toward the light.
+
+Bakhit had told him. *Don't follow a light.* He'd sat in that tent four nights ago and nodded. It didn't matter. Warnings are made of words, and the light wasn't. The light was warm.
+
+I went round in front of him.
+
+He stepped round me. I went round in front of him again, and this time I stood broadside across his path the way a saluki stands over a downed gazelle, and when he tried to step over me I leaned, all my weight against his shins, so he staggered.
+
+"Move," he said. "Ghareeb, *move*. It's a camp. There'll be water—"
+
+The light swung. A little nearer. A little warmer. And under it, now, as if it had been listening, a sound came over the sand: a voice. Too far to hear the words. Only the rise and fall of it, a woman's, calling the way the mothers called in the lanes at noon. *Come in. Come in.*
+
+My hackles went up so hard they hurt. The bell at his neck gave one small chime and stopped, as if it, too, wasn't sure what was speaking.
+
+He took another step, and I did something I had never done to him. I am not a herding dog. Salukis are made for running things down, not bringing them home. But I have lived a very long time and watched a great many sheepdogs work, and I did what they do. I went at him low and fast and snapped at the air an inch from his heel, and when he swung round I was already on his other side, snapping, shouldering, driving him, and every time he turned toward the light I was there, teeth showing, between him and it. Back. Back. Back toward the hollow, step by step, the way you drive a stupid lamb back from the lip of a well.
+
+"*Stop it!*" He was crying. I don't think he knew it. "Stop it, it's *her*, it's—"
+
+He stopped. He'd heard himself.
+
+He stood very still in the dark with his hand pressed to his chest. The mark wasn't burning. He hadn't lied. He'd only hoped, very hard, out loud.
+
+Out at the crossing of the dunes, the lantern hung, and waited. Then it began, slowly, to move away. Not back toward the north where it had come from. Away to the east, over the dune-crests, low and swinging, keeping the same distance from us exactly. Pausing. Swinging. As if to say: *this way, then. I'll go slowly. I'll wait for you.*
+
+Abu Fanous. The Father of the Lantern. It led that light away across the sands for an hour, and for an hour I lay across the top of the hollow with my teeth bared at it, and Theyab lay in the bottom with his arms around his knees and didn't look.
+
+In the morning I went to the place where the two dunes crossed, alone, while he slept. There was nothing there. No ash, no camel dung, no prints of a man. Only, in the hollow where the lantern had stood and swung, a ring of little round cups pressed into the sand, two by two, going round and round in a tight circle, the way a woman paces when she's waiting for someone who's late. And a smell, cold, of hair-oil.
+
+I scuffed them out with my hind feet before he woke. He'd had enough lamps for one life.
+
+---
+
 The dunes spoke on the fifth night.
 
 We'd stopped at the foot of a long crescent ridge, the slip-face rising steep and smooth above us like a wall. Theyab had scooped a hollow in the sand to sleep in. The moon had risen late and lopsided. I lay with my nose on my paws and watched him not sleep.

@@ -48,6 +48,14 @@ We found Nadim on his knees at the end of the lane, near the dead grey palms of 
 
 Shibl was sitting in front of him in the sand, cross-legged, the way small children sit when they've been told to wait and haven't been told for how long. Four of the emptied stood around him in a neat square, one at each corner, facing inward. Keeping him. The way you'd pen a lamb with four stakes and a rope.
 
+There were marks in the sand around that square. I saw them before Theyab did, because my nose is closer to the ground and because I had been looking for them since noon. Small round cups, two by two, pale and soft-edged, the way everything is in the grey. They came in from the dark side of the grove, and they walked once around the four emptied and the child in the middle, slowly, all the way round, the way a herder walks round a pen at dusk to count what's in it. Then they went back out the way they had come.
+
+Theyab saw them. I heard his breath stop. He looked at the hoofprints, and then at Shibl sitting so neatly in the middle of them, and I knew what he was thinking, because I was thinking it too. Every mother in Hilat al-Sarab had called her children in at noon, and every child had come, and the doors had shut, and they had all lain safe under their damp cloths while something with hooves walked the lanes. And the one that was taken was taken at midnight, under the noses of a crowd shouting about dogs, because a little boy wanted his brother.
+
+You can keep a child in at the qayla. You can't keep a child from loving somebody.
+
+Whatever had walked round that square had not taken him. It had left him. Counted, and left. The way you leave a thing you're coming back for.
+
 He wasn't crying any more. That was what frightened me most. His face had gone the colour of old ash, and his eyes were open and calm and terribly white.
 
 Nadim had him by the shoulders, shaking him gently, desperately.
@@ -235,6 +243,14 @@ Flatbread, still warm from the plate, a thick round of it, and a fistful of date
 He knew that cloth. He stared down at it, then up at her, and I watched him understand. Fifteen years of bundles with no footprints leading to them.
 
 "Eat, child," said Umm Hanan. Her voice was dry and thin and fierce. "The sand remembers kindness too."
+
+She turned to go. Then she turned back, and took hold of his wrist with her floury fingers, and squeezed it, hard, the way the mothers did in the lanes at noon.
+
+"And keep out of the qayla," she said. "Out there, there's no shade but what you make. You lie down at noon, under a cloth, under a bush, under anything. You hear me? You don't walk in the heat. She walks in the heat." Her eyes went past him, east, toward the grey lane behind her oven, and I smelled the fear on her, old and dry. She had seen the prints, then. Or she'd heard the *tik, tik* on the stones some noon, lying awake with her two remaining names. "You come in. Wherever you are. You come in."
+
+It was the noon-call. Fifteen years late, at midnight, with stones still coming over the crowd behind him, and a bleeding boy on the edge of the sand. But it was the call, and it had his face in it, and nobody had ever made it to him before.
+
+Theyab's mouth moved. Nothing came out.
 
 Then she went back inside and shut the door. I imagine she sat on her mat and shook for a long time. I imagine she tried to say the names of her dead, too, and found only two of them, and said them twice.
 

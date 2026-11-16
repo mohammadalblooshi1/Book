@@ -262,6 +262,38 @@ I lifted my head and looked at him. *Almost*, I thought. *Careful.*
 
 "You don't. You walk, and the dunes find it for you. They'll open a way if you're meant to reach it."
 
+"And if something else opens a way?"
+
+Bakhit's head came round. "Why do you ask that?"
+
+Theyab hesitated. Then he told him about the lane behind Umm Hanan's oven at noon. The hot smell that Theyab hadn't smelled but had watched me smell. The little round prints, two by two, stopping at a door. The ring of them round Shibl in the grove.
+
+Bakhit listened without moving. When it was done he was quiet a long time, and the bells hung still.
+
+"The mothers are right to call their children in," he said at last. "They think they're telling a tale. Most tales are only a warning that has forgotten why it was given." He felt for the teapot, found it empty, and set it down. "Listen to me now, because I'll say this once, and you'll have no one out there to say it again. The sands are full of things that are hungry. The worst of them are the ghilan."
+
+"Ghouls," said Theyab. "Like in the stories."
+
+"Like in the stories. The stories are the only maps we have." Bakhit's fingers found a bead on a string at his wrist and began to turn it. "A ghoul lives in the empty places. Old wells, old graves, ruins like the ones you dig in. It sleeps under the sand by day and wakes at night, and it has no shape of its own, so it borrows. It takes the shape of a traveller who has lost his way and calls to you for help. It takes the shape of a woman, a beautiful one, standing alone at the edge of the firelight with her hair down, crying. It takes the shape of your own mother, if it knows you have none. It calls you by name. It knows the way to water. It only wants you to step off the path and follow it a little way, a very little way, over the next dune, where it can be alone with you."
+
+"How do you know it, then? If it looks like anyone?"
+
+"By the feet." Bakhit tapped the floor with one finger. "Whatever shape a ghoul wears, it can't change its feet. It has the hooves of a donkey. Always. Under the hem of the robe, under the long skirt, in the sand where it stood. That's the only honest thing about it." He turned his blind face toward me. "And the dog will smell them before you see them. Watch his back. When his hackles go up and there's no one lying to you, look down."
+
+I lay very still. He had never told any of the others that. Not like that.
+
+"Don't leave the path," said Bakhit. "Whatever calls. Whoever cries. Don't follow a voice over a dune at night. And don't follow a light."
+
+"A light?"
+
+"Out in the deep sands, you'll see lanterns. Far off, low down, swinging the way a lantern swings when a man walks with it. You'll think it's a camp, or a caravan, or someone come looking for you. The Bedouin call it Abu Fanous, the Father of the Lantern. It walks ahead of you all night, and you follow, and it never comes any closer, and when the sun comes up it's gone, and you're three days from water with no tracks behind you but your own." He let go of the bead. "The ghilan hang their lamps on him, the old men say. Or he hangs his on them. Either way it's the same grave."
+
+Theyab sat with the feather in his hands. "Why didn't you ever tell me that one? In all those nights."
+
+"Because you'd never had anywhere to go," said Bakhit.
+
+The bell was silent. That one was true too, and it hurt him to say it. I could smell that.
+
 Theyab turned the broken feather over in his hands. "Will you come with me?"
 
 Something passed across the old man's face. Quick, gone almost before I saw it. But I've known Bakhit a long time, and I smelled it at the same moment I saw it. Shame. And under the shame, older and worse, fear.
@@ -342,7 +374,21 @@ Then he turned his back on the only home he'd ever had and walked out into the d
 
 ---
 
-About an hour later, as the sun came up red over the eastern dunes, I caught a *dhub*.
+Before the sun was up, I found the other tracks.
+
+They came over the crest of the dune on our left, down the steep face where the sand was still cold and damp from the night, and they reached the edge of the new path, and they stopped. Two neat cups in the sand, side by side. Round. Hard-edged. A donkey's hooves, and nothing else of a donkey: no drag of a tail, no second pair behind. Then they turned, and went along beside the path, a little way up the slope, keeping pace with it. Never stepping onto it. Walking where we would walk, a few paces to one side, the way a man walks beside a friend he hasn't decided yet whether to rob.
+
+They were fresh. The smell on them was cold, cold as the air in the ruin where something had knocked. Under it, very faint, a woman's hair-oil.
+
+My hackles went up. Theyab felt it against his leg and looked at me, and then, because he had been listening to Bakhit, he looked down.
+
+He didn't say anything for a long while. Then he said, "It's not on the path."
+
+No. It wasn't. It was very careful about that. I put myself between him and the slope, and we walked like that, me on the uphill side with my hair standing in a ridge, until the sun came up and the prints went over the next crest and didn't come back.
+
+He walked in the exact middle of the path all morning after that, as if it were a beam over a well.
+
+Not long after, as the sun cleared the eastern dunes, red and swollen, I caught a *dhub*.
 
 It was a fat one, a spiny-tailed lizard as long as my foreleg, waddling out of its burrow to warm itself in the first light. The Bedouin roast them in the embers. I didn't. I took it behind the head with one snap and sat down in the middle of the path to eat it.
 

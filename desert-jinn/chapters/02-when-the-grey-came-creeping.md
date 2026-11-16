@@ -50,9 +50,45 @@ The red cloth over Ghanim's stall was grey. The date palms in the grove were gre
 
 The child's mother carried him inside. The goat watched the door all day.
 
+At the qayla the mothers called their children in, as they always did. But I heard the difference. Yesterday the call had been half a game. Today there was no game in it at all. "*Come in! Come in, Hmarat al-Qayla!*" went up from doorway after doorway, sharp and high, and the children didn't squeal or dawdle. They ran. One mother came out into the lane herself, barefoot on the burning gravel, and dragged her boy in by the wrist, and I heard her slap him once inside, hard, and then hold him and cry.
+
+Then the doors shut, and the lanes were empty, and the heat came down like a lid.
+
+And Theyab, who had nobody to call him in, was out.
+
+He walked the lanes at noon the way he always had, because he didn't know how to do anything else, and because I think some part of him wanted to see how far the grey had come while nobody was watching him look. I went with him. The light was so white it hurt. On the western side of the village the walls ticked in the heat and the palm fronds hung dead still. On the eastern side there was no heat at all. The grey lay there flat and cool and patient, and where the sunlight touched it, it simply stopped being sunlight.
+
+We were halfway down the lane behind Umm Hanan's oven when I smelled it.
+
+I stopped so sharply that Theyab looked back.
+
+It was a hot smell. That was the first wrong thing, because nothing near the grey smells of anything. Hot dung and hot hide, the smell of a beast that has been worked too long in the sun. And over it, laid on top like a cloth over a dish, the smell of a woman: hair-oil, and smoke from a hearth, and the sweet, heavy rose-water the women of the coast wear at weddings. Two smells that should not have been one smell, sewn together where they met.
+
+I put my nose down to the lane.
+
+The tracks were right there, in the fine dust that blows into every lane in Hilat al-Sarab and lies there until someone sweeps it. Small. Neat. Hooves. Not a goat's split hoof: a donkey's, round and hard, each print a little cup pressed into the dust, the edges crisp. A donkey walks on four feet, and these went two by two. One, and then another, a long way apart, straight down the middle of the lane, the way a woman walks when she is carrying something on her head and doesn't want to spill it.
+
+Theyab crouched beside me. He put out one finger and touched the edge of a print. The dust in it was warm.
+
+"There's no donkey in the village," he said. "Ghanim's donkey died at Ramadan."
+
+The tracks went past Umm Hanan's back wall. They stopped at the doorway of the house beside it, the one whose indigo door had gone grey that morning, and there they turned, and stood. Two prints side by side, close together, facing the door. Something had stood there, on two hooves, at noon, with its face against the wood, the way the emptied would stand at doors that night. Listening for the children inside. Then the prints went on, unhurried, *tik, tik, tik*, down to the end of the lane, across a strip of bright gravel where they didn't show, and into the grey.
+
+Where the grey began, the last print was half in it and half out. The half that was out was sharp. The half that was in had gone pale and soft-edged, as though it were forgetting it had ever been made.
+
+Theyab stood up very slowly. He looked up and down the empty white lane. Every door was shut. Behind every one of them, a child was lying awake under a damp cloth, safe, because somebody had called its name.
+
+"It's only a story," he said. "It's a thing they say to children."
+
+My hackles rose. Not far. Just enough. He wasn't lying, exactly. He was hoping, and hope and a lie smell like cousins.
+
+He didn't touch the tracks again. He went back to his tent and sat inside it with the flap tied shut until the sun had slid west, the first time in his life he had ever hidden from the qayla. No one had told him to. No one ever would.
+
+By the afternoon the wind had swept the lane. Nobody else ever saw the prints. I've never told anyone but you.
+
 And it was quiet. In the grey part of the village there was no sound at all. No wind in the palm fronds. No doves. No creak of doors.
 
-People began to gather in the square. They talked in low, nervous voices. An old woman said she'd heard stories from her grandmother's grandmother about a thing that came up out of the deep sands, an Ifrit's breath that made people forget, and that you knew it was close when you couldn't say the names of your dead. Sheikh Mazyad told her to stop talking nonsense, too loudly. I noticed that he did not try to say the names of his own.
+When the heat broke, people began to gather in the square. They talked in low, nervous voices. An old woman said she'd heard stories from her grandmother's grandmother about a thing that came up out of the deep sands, an Ifrit's breath that made people forget, and that you knew it was close when you couldn't say the names of your dead. Sheikh Mazyad told her to stop talking nonsense, too loudly. I noticed that he did not try to say the names of his own.
 
 Theyab stood at the very edge of the crowd, where he always stood, close enough to hear and far enough to run.
 

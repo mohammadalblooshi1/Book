@@ -125,6 +125,34 @@ Then he tucked the copper into his bag and crawled out into the sun, and he did 
 
 By the time we walked back into Hilat al-Sarab the sun was high and merciless, and his bag held enough copper to buy rice and dates for three days.
 
+It was the qayla. The dead hour, when the sun stands straight overhead and your shadow crawls under your own feet to hide, and the gravel is hot enough to blister a camel's pad. Nothing moves in the qayla that has any sense. The goats lie panting in the strip of shade along the walls. The doves stop. Even the flies give up. And the whole village lies down behind its palm-frond screens to sleep through it, with wet cloths over their faces, until the sun has slid far enough west to let a person live.
+
+Before they lie down, the mothers call their children in.
+
+I had heard it every noon for fifteen years, from every doorway in Hilat al-Sarab, the same call in forty different voices, high and sing-song and not entirely joking:
+
+"*Come inside! Come in, or Hmarat al-Qayla will get you!*"
+
+The Donkey of the Midday. Every child on the edge of the sands knows her. She is a woman from the waist up, they say, with long hair hanging over her face, and from the waist down she is a she-donkey, grey and dusty, with small hard hooves that go *tik, tik, tik* on the hot stones. She walks the empty lanes and the palm gardens in the qayla, when everyone is asleep and no one is watching, and if she finds a child outside she takes him. Some mothers say she eats them. Some say she carries them off into the sands and they come back years later as old men who don't know their own names. The mothers never agree on what she does. They only agree on when.
+
+So at noon, in every house, a mother would lean out into the white glare and call her children's names, one after another, *Mubarak! Moza! Salim! Come in, come in, she's coming*, and the children would come running and squealing and half pleased to be frightened, and the doors would close, and the lanes would empty.
+
+Nobody ever called Theyab.
+
+Not once. Not one mother in forty houses. Nobody leaned out of a doorway at noon and said *Laqeet, come in*, not even to frighten him. You don't call in the lamb set aside for the feast. You don't warn the jinni's whelp about the jinn.
+
+So at the qayla, every day of his life, Theyab was the only child in Hilat al-Sarab who was out.
+
+He'd learned to use it. It was the best hour for scavenging, because nobody was watching. He picked over the rubbish heaps behind the houses for bits of rope and broken pots. He gleaned fallen dates from under the palms in the grove before the owners woke. He drank from the trough by the well when Saqi wasn't there to charge him for it. He lay in the thin noon shade of the grove with his headcloth over his eyes and listened to the village sleep, and once, when he was very small, I watched him stand at the end of an empty lane and say, in a tiny, cracked voice, to no one, "Come in, Theyab. Come in, or she'll get you."
+
+He said it the way the mothers said it. Then he went and sat in the grove by himself.
+
+I have never wanted to bite a whole village more than I wanted to that day.
+
+Today he did as he always did. He crossed the white, empty square with his bag of copper while the lanes ticked and creaked in the heat, and I trotted at his side with my tongue hanging, and the only sound was our feet, and from behind one shuttered window a mother's voice, low, telling her children a story to put them to sleep. I caught the word *hooves*. A child giggled, frightened.
+
+Ghanim was the only grown man in Hilat al-Sarab who stayed awake through the qayla, because the qayla was when a starving boy would sell him copper cheap rather than wait.
+
 He got enough for one.
 
 "Copper's cheap this month," said Ghanim, under the palm-frond roof of his stall, sliding two worn copper annas across the mat. Ghanim was the only man in the village who ever saw silver. He kept his Maria Theresa thalers in a strongbox with a lock the size of a fist, and counted them at night by lamplight like a man telling the beads of his own heart. "Too many scavengers."
@@ -137,7 +165,9 @@ I smelled it rise off him, sour and quick. My hackles lifted. A growl started in
 
 Theyab put his hand on my neck, and the growl went back down where it came from. He picked up the coins and turned to go. He never argued with Ghanim. Ghanim's brass scales had a thumb in them, and everyone knew it, and Ghanim was getting very slowly rich on it.
 
-We made it halfway across the square before someone said, "Look. The jinni's whelp is back from his grave."
+We sat out the rest of the qayla in the grove. When the sun had slid west and the doors opened again and the children came spilling out, blinking and safe, we crossed back through the square to the well.
+
+We made it halfway before someone said, "Look. The jinni's whelp is back from his grave."
 
 Nadim.
 
