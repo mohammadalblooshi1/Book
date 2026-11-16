@@ -60,7 +60,7 @@ They lure (the Perfumed Bride, the Lantern Man, the Shimmer, the Deep Caller), l
 ### The good ones
 They **defend people**, using their powers for good, and they often can't be seen doing it:
 - **The Dwellers of good houses** guard the families they live with. They keep the lamp alight, wake the house when something comes, and stand at the threshold. **Umm Hanan's Dweller** is why her lamp is the one the wind can't put out (a hidden-message return: she always named the Creator before pouring hot water, and never scalded the unseen).
-- **The Milk-Sister** (a new character, see below).
+- **The Sand-Mother** (a new character, see below).
 - **Good Drowners** who push drowning divers up toward the air; **good Whirlers** who turn a sandstorm aside from a caravan; **well-keepers from below** who keep water sweet.
 - **A good Bodiless Voice** that sometimes warns. The horror is that **Theyab can't tell which voice is the good one** and which is the Twin.
 
@@ -70,10 +70,10 @@ They **defend people**, using their powers for good, and they often can't be see
 - **No good one can defeat the Sealed King.** Only the Light, freely given, can.
 - **Good and evil fight each other.** On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the evil ones pouring from the sinkhole. It is a war from below fought alongside the human battle.
 
-### New character: **the Milk-Sister**
+### New character: **the Sand-Mother**
 (Inspired by the jinn princess who nursed the baby hero in *Sirat Sayf ibn Dhi Yazan*.)
-- When baby Theyab was left in the sand, **a good one from below nursed him** through the first nights, which is why the desert "protected" him. She became his **milk-sister**, bound to him for life by that milk.
-- She has no name she will give: names are dangerous. Ghareeb calls her **the Milk-Sister**. She appears as a **gazelle with gold eyes**, or as a girl at the edge of firelight whose feet never touch the sand, and sometimes only as **warmth and the smell of milk** in the dark.
+- When baby Theyab was left in the sand, **a good one from below nursed him** through the first nights, which is why the desert "protected" him. She became his **Sand-Mother**, bound to him for life by that milk.
+- She has no name she will give: names are dangerous. Ghareeb calls her **the Sand-Mother**. She appears as a **gazelle with gold eyes**, or as a girl at the edge of firelight whose feet never touch the sand, and sometimes only as **warmth and the smell of milk** in the dark.
 - **Seeds:** in Part I, Theyab sometimes wakes from a Sitter attack with the weight lifted and a smell of milk. A gazelle watches him scavenge. Ghareeb knows her and keeps the secret, as he has known her since the first night.
 - **Kindness returns:** as a boy, Theyab saved a pale snake in the ruins that Ghanim wanted to kill, warning it three times to leave, as the old people do. **It was her.**
 - **She defends him:** she pulls him from the Lantern Man's path, turns a Whirler aside, holds the Halfman back on the salt, and fights the Perfumed Bride for Nadim's soul. She can't come near when he wears the hirz, so he is torn.
