@@ -130,7 +130,7 @@ She closed her eyes. I watched something go through her: not grief, exactly. Rel
 
 "No," said Theyab. "I never heard it."
 
-"No," she said. "Nobody did. I never said it out loud. Not in forty years. Not to anyone but the bread." She opened her eyes. "And now the bread's forgotten it too."
+"No," she said. "Nobody did. I never said it out loud. Not since the boat came home. Not to anyone but the bread." She opened her eyes. "And now the bread's forgotten it too."
 
 She looked past him then, down the lane, toward the east. I turned my head and looked with her.
 

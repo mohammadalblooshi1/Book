@@ -84,7 +84,7 @@ I'll tell you later what I did with it. You won't like it. Hilal wouldn't have.
 
 They drove him south through the lanes, toward the palms.
 
-He'd slept for eight years in a tent at the south edge of the village, where the last houses gave way to the gardens and the gardens gave way to the sand: a low lean-to of patched goat-hair over two poles, that he'd built himself from scraps other people threw away. Nine patches. I'd counted them, the nights I lay across the door. Each one from a different tent, a different family, a different year. He'd sewn them together with gut and a bone needle and he was proud of it the way a man is proud of a house.
+He'd slept for eight years in a tent at the south edge of the village, where the last houses gave way to the gardens and the gardens gave way to the sand: a low lean-to of patched goat-hair over two poles, that he'd built himself from scraps other people threw away. Nine patches. I'd counted them, the nights I lay across the door. Each one from a different family, a different year. He'd sewn them together with gut and a bone needle and he was proud of it the way a man is proud of a house.
 
 Some of the young men had run ahead.
 
@@ -152,7 +152,7 @@ She walked straight up to Theyab and pressed something into his hands.
 
 Flatbread, still warm from the plate. A thick round of it, and a fistful of dates, all wrapped in a square of faded indigo cloth knotted at the top.
 
-He knew that cloth. He stared down at it. Then up at her. And I watched him understand. Eight years of bundles left on her wall with no footprints leading to them. Eight years of honey-dates and bread on the nights when there was nothing else, and him eating them in the dark, thinking the desert had sent them. Thinking it was luck.
+He knew that cloth. He'd guessed whose it was, these last days; he stared down at it, then up at her, and I watched the guess go all the way down into him and become knowing. Eight years of bundles left on her wall with no footprints leading to them. Eight years of honey-dates and bread on the nights when there was nothing else, and him eating them in the dark, thinking the desert had sent them. Thinking it was luck.
 
 It was warm. That's the thing he told Bakhit later, and told it twice, as if he couldn't get past it. It was *still warm*. She'd baked it that night. At midnight. While the stones were flying. She'd heard the shouting and known what it meant, and she'd got up and lit her oven and made bread, because it was the only thing she could do, and she'd done it.
 
@@ -168,11 +168,11 @@ Her eyes went past him, east, toward the Grey, and I smelled the fear on her, ol
 
 It was the noon-call.
 
-Eight years late, at midnight, with the last stones still falling in the gardens behind us, and a bleeding boy on the edge of the sand. But it was the call. It had his face in it. Nobody had ever made it to him before.
+Eight years late, at midnight, with the last stones still falling in the gardens behind us, and a bleeding boy on the edge of the sand. But it was the call. It had his face in it. Shibl had called him in once, a child at play; no mother ever had, until then.
 
 Theyab's mouth moved. Nothing came out.
 
-She let go of his wrist. She went back into her house. Before she shut the door, I heard her start to say the names, the way she did every morning over the dough, the way she'd done for forty years. She was saying them for herself. I don't think she knew she was saying them out loud.
+She let go of his wrist. She went back into her house. Before she shut the door, I heard her start to say the names, the way she did every morning over the dough, the way she'd done for all those years. She was saying them for herself. I don't think she knew she was saying them out loud.
 
 She said her husband's name, softly, the way you'd set down a cup. She said her elder son's. Then: "And ——."
 
@@ -232,7 +232,7 @@ I felt it before he did. The sand under us went cold. Then the air above us went
 
 I couldn't see it. Even with the silver eye I couldn't see it, only the shape it made in the dark: a darker dark, squatting. Heavy. Like a sack of wet sand set down on a sleeping man. His breath went short. His eyes came open. He looked straight up at nothing, and I saw in his face that he couldn't move. Not a finger. Not his lips. His eyes moved, and his eyes were all he had, and they were rolling toward me.
 
-The Sitter. You'll hear a great deal more about it before we're done. That was only the first touch.
+The Sitter. You'll hear a great deal more about it before we're done. It had come to him before, on other nights, though he never knew its name. It would come again.
 
 I couldn't get up. That's the thing about the Sitter: it doesn't sit on one of you. It sits on the whole night. I lay against him and strained to lift my head and my head stayed on the sand as if someone had poured lead into my skull. I growled. Even the growl came out flat and small, the growl of a dog in a dream.
 

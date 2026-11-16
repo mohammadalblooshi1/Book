@@ -42,7 +42,7 @@ Or so I tell myself. I've had a great deal of time to practise.
 
 ---
 
-Old Bakhit's tent stood at the western edge of the village, farther out than anyone's: long and low, of goat hair woven so tight that rain ran off it like oil, hung with harmal and wild thyme and dozens of little brass bells on threads that never made a sound.
+Old Bakhit's tent stood at the western edge of the village, farther out than anyone's: long and low, of goat hair woven so tight that rain ran off it like oil, hung with harmal and wild thyme and dozens of little brass bells on threads that chimed when they pleased, wind or no wind.
 
 And on the main pole, just inside the door, one bigger bell. Old brass gone brown, with marks stamped round its rim that nobody in Hilat al-Sarab could read. It never swung in the wind. It only rang when it wanted to.
 

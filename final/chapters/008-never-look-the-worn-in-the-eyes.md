@@ -164,7 +164,7 @@ He said it was like falling past a crowd of people on the stairs of a deep well 
 
 And then they went deeper. Into the place under the place where you keep things. And he felt them find it.
 
-The name he had given himself at seven, sitting on the lip of this very well, saying it over and over under his breath until it made him laugh. The name he had never told anyone. The name he had whispered to the wind on the high dune, once, and heard the wind say back.
+The name he had given himself at seven, sitting on the lip of this very well, saying it over and over under his breath until it made him laugh. The name he had told no one but a blind man and a dog. The name he had whispered to the wind on the high dune, once, and heard the wind say back.
 
 The fingers closed on it. He felt them close.
 
@@ -343,5 +343,7 @@ He came out of the Grey. Straight out of it, out of the eastern lane where the e
 His lips were moving. He was reciting something under his breath, steadily, the way a man walks to a rhythm, and the rhythm came ahead of him up the lane like the first cool air before a shamal.
 
 At the post in the sheikh's yard, Saqi stopped smiling.
+
+---
 
 *End of Chapter Eight*

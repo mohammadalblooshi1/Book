@@ -82,7 +82,7 @@ That was the first thing. They were young men's voices, a little rough, the voic
 
 Then the other one, the younger one, laughing the way he must have laughed: "*Yumma, we're starving, what did you bake? Yumma. Yumma, it's us.*"
 
-They had drowned off the pearl banks years before, before ever the boy came up out of the noon, the two sons and their father on the same morning. The other divers said a voice had called them over the side, using their names. A thing the divers talk about only when they are very drunk or very old, a thing in no book, that they call the Deep Caller.
+They had drowned off the pearl banks years before, before ever the boy came up out of the noon, the two sons and their father on the same night. The other divers said a voice had called them over the side, using their names. A thing the divers talk about only when they are very drunk or very old, a thing in no book, that they call the Deep Caller.
 
 I think the things from below talk to each other, little one, the way traders talk at a well. I think the Deep Caller kept those voices in the cold under the sea, the last bubbles of three drowning men, and that night it lent them inland. As a favour. As a joke. I do not know what passes for a joke down there.
 
@@ -118,7 +118,7 @@ She stood there breathing. She looked at his face. There was a mark coming up on
 
 Then she lifted the same hand and laid it flat against his cheek, over the mark, the way you lay a hand on a child's forehead to see if he is hot. And she left it there.
 
-Nobody had ever touched his face before. I want you to understand that. Not in eight years. Not once. I had seen him flinch from a hand raised to shade an old man's eyes.
+Nobody had ever touched his face like that before. I want you to understand that. Fists, yes, and once the corner of her sleeve wiping the clay away. But not a hand laid on it to keep it. Not in eight years. Not once. I had seen him flinch from a hand raised to shade an old man's eyes.
 
 He did not flinch.
 
@@ -130,7 +130,7 @@ Then, from much further off, the voice of her younger son said, "*Yumma?*" in a 
 
 She shut her eyes.
 
-"What was his name," she said. Not to Theyab. Not to anyone. "What was his name. My little one. I had it this morning, I had it in the bread."
+"What was his name," she said. Not to Theyab. Not to anyone. "What was his name. My little one. I had it in the bread. I had it every morning of my life."
 
 I tried to tell her.
 
@@ -377,5 +377,7 @@ And from the bottom of the well, from the water, up the long stone throat of the
 Three notes, and a little turn.
 
 And three notes again.
+
+---
 
 *End of Chapter Six*

@@ -214,7 +214,7 @@ Hilal had been talking about the Drowners. About the bottoms of old wells, and t
 
 Hilal stopped.
 
-"The divers say there's a voice," said Theyab. "On the pearl banks. It calls men over the side in voices they know. It took her husband and both her sons on the same morning. The other men heard it. They say it's half a fish, and big as a dhow, and it calls from the water and the salt. They call it—" He hesitated. "They have a name for it."
+"The divers say there's a voice," said Theyab. "On the pearl banks. It calls men over the side in voices they know. It took her husband and both her sons on the same night. The other men heard it. They say it's half a fish, and big as a dhow, and it calls from the water and the salt. They call it—" He hesitated. "They have a name for it."
 
 "I know what they call it," said Hilal.
 
@@ -236,7 +236,7 @@ My hackles stayed flat. He believed it. Every word.
 
 Remember that, little one. My nose can smell a lie. It cannot smell a mistake. An honest man who is wrong smells exactly like an honest man who is right, and there is no gift in the world, not mine and not anyone's, that can tell you the difference until the water closes over your head.
 
-I had heard those drowned voices calling at Umm Hanan's door, three nights before, with the sea in their throats. I had heard what lent them. And I lay in the shade of the ghaf and watched the only man who had ever come to Hilat al-Sarab to help us tie up his book with his steady old hands, and tell a frightened boy that the thing in the sea wasn't there.
+I had heard those drowned voices calling at Umm Hanan's door, only a handful of nights before, with the sea in their throats. I had heard what lent them. And I lay in the shade of the ghaf and watched the only man who had ever come to Hilat al-Sarab to help us tie up his book with his steady old hands, and tell a frightened boy that the thing in the sea wasn't there.
 
 I could not tell him. I have never been able to tell anyone anything.
 
@@ -311,5 +311,7 @@ I did not see the mat beside him.
 I would see it later. I would see it the way you see a thing you have been dreading so long that when it finally comes it feels almost familiar. A small mat of woven palm, with a blanket thrown back from it, and a hollow in the middle of it the shape of a curled child, still faintly warm.
 
 And nobody in it.
+
+---
 
 *End of Chapter Ten*

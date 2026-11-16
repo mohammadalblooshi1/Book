@@ -122,7 +122,7 @@ I'll give you some of them. I gave you a list before. I'll give you another. Som
 
 *"I'll be back before the milking."*
 
-*"Is that you? Is that you? Is that you?"*
+*"Here I am. Here I am."*
 
 *"Don't let the fire go out, I'm cold."*
 
@@ -130,9 +130,9 @@ I'll give you some of them. I gave you a list before. I'll give you another. Som
 
 *"The goat's loose. The goat's loose."*
 
-*"Here I am. Here I am."*
+*"Is that you? Is that you? Is that you?"*
 
-That last was the herdsman. The one who had answered his dead wife's voice from the eastern lanes, four nights before, and walked in to meet her, and walked out again like this. He stood at the corner by the old date-store with his arms open, the way a man stands when someone he loves is running toward him. He'd been standing like that for four nights. His arms didn't tremble. That's how you know they're empty. A living man's arms would have given out.
+That last was the herdsman. The one who had answered his dead wife's voice from the eastern lanes, seven nights before, and walked in to meet her, and walked out again like this. He stood at the corner by the old date-store with his arms open, the way a man stands when someone he loves is running toward him. He'd been standing like that for seven nights. His arms didn't tremble. That's how you know they're empty. A living man's arms would have given out.
 
 I knew his name. He used to throw me gristle, because he liked to see a saluki move. His name was
 
@@ -148,7 +148,7 @@ Theyab didn't look at them. I was proud of that, and sick about it.
 
 We found Nadim on his knees at the end of the lane, near the grove where the palms stood dead and grey as ash-columns, where the Grey had been thickest since the first day.
 
-Shibl was sitting in front of him in the sand, cross-legged, the way small children sit when they've been told to wait and haven't been told for how long. He was in his sleeping shirt. One foot was bare and one had a sandal on it. The broken thread of the bead hung at his neck with nothing on it.
+Shibl was sitting in front of him in the sand, cross-legged, the way small children sit when they've been told to wait and haven't been told for how long. He was in his sleeping shirt. One foot was bare and one had a sandal on it. There was a thin red mark round his neck where the bead's thread had been.
 
 Four of the emptied stood round him in a neat square, one at each corner, facing in. Keeping him. The way you pen a lamb at dusk with four stakes and a rope.
 
@@ -198,7 +198,7 @@ I don't do it often. The silver eye is like a window in a house I live in, onto 
 
 She was standing in the heat.
 
-From the waist up, a woman. A tall one, taller than any woman in Hilat al-Sarab, in a black abaya that hung straight down as if there were no wind in the world, which in there there wasn't. Her face was a mother's face. I mean it was *made* of mothers, every face that has ever leaned in a doorway at noon and called a name into the glare, shifting softly from one to the next like sand sliding on a slope. Umm Hanan's, forty years younger. A face I didn't know. Saqi's dead wife's face, which I'd seen once, at the well, when Shibl was a baby on her hip. It held that one longest. I think it knew whose son was in the pen.
+From the waist up, a woman. A tall one, taller than any woman in Hilat al-Sarab, in a black abaya that hung straight down as if there were no wind in the world, which in there there wasn't. Her face was a mother's face. I mean it was *made* of mothers, every face that has ever leaned in a doorway at noon and called a name into the glare, shifting softly from one to the next like sand sliding on a slope. Umm Hanan's, forty years younger. A face I didn't know. Saqi's dead wife's face, which I'd seen once, at the well, when she was heavy with Shibl. It held that one longest. I think it knew whose son was in the pen.
 
 From the waist down, she was something else. The abaya didn't reach the ground. Under its hem there were legs, long and thin and bent backward at a joint where no woman has a joint, grey-furred, ending in small neat hooves that stood in the sand without denting it.
 
@@ -274,7 +274,7 @@ Not the emptied. Her. The thing in the noon shimmer between the palms. She hadn'
 
 He lifted his head.
 
-He was fifteen. His mother had been dead six years. He'd been the one who held Shibl at the burial, a boy of nine holding a baby of one, because his father couldn't stand up. He'd been the one who carried Shibl on his shoulders to the top of the dune and named him the stars. And now from the dark, in the dead grove, in the only voice in the world he had never once in his life disobeyed, someone was telling him to bring his brother in.
+He was fifteen. His mother had been dead seven years. He'd been the one who held Shibl at the burial, a boy of eight holding a baby a day old, because his father couldn't stand up. He'd been the one who carried Shibl on his shoulders to the top of the dune and named him the stars. And now from the dark, in the dead grove, in the only voice in the world he had never once in his life disobeyed, someone was telling him to bring his brother in.
 
 He got up.
 

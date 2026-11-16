@@ -24,7 +24,7 @@ I won't tell you that either. Not yet. I'm sorry, little one. There are so many 
 
 "I can't," Theyab said.
 
-"You can," said Hilal. "You just don't want to. Those aren't the same, though they wear each other's clothes." He didn't lower his hand. "I asked you once, at the sheikh's gate, and you hid it behind your back like a boy with a stolen date. I let you. I shouldn't have. I went away to Liwa and spent three days reading over a sick child and thinking about your hand the whole time, and I couldn't tell you what was wrong with the child." He paused. "She lived. No thanks to me. I think it was her mother's soup."
+"You can," said Hilal. "You just don't want to. Those aren't the same, though they wear each other's clothes." He didn't lower his hand. "I asked you twice, in your own hollow, and you hid it in the crook of your arm like a boy with a stolen date. I let you. I shouldn't have. I went away down the Liwa road thinking about your hand the whole way, and I couldn't have told you a word the camel-boy said to me." He paused. "I sent him on with read-over water for the sick child. She'll live, I think. No thanks to me. It'll be her mother's soup."
 
 The bell didn't ring.
 
@@ -114,7 +114,7 @@ For a long time he didn't answer. I watched him, and I've known him longer than 
 
 "I don't know who your father was," he said at last.
 
-The bell hung over his head and didn't move.
+The bell hung on its pole and didn't move.
 
 It was true. He didn't know. Neither did I, not then. I'd smelled something on that first night, in the wind from the north, among the other smells: a man's sweat and a camel's, and under them, faintly, something that wasn't a man. Smokeless fire and wet stone. I'd smelled it and put it away in the deep place. I didn't know what it meant. When I learned, years later, it was in a place you haven't come to yet, from a mouth you wouldn't believe.
 
@@ -330,7 +330,7 @@ And I slept, and I dreamed.
 
 I'll tell you the dream. I've never been sure it was one.
 
-I was standing on a high dune a long way from Hilat al-Sarab, south and west, in the deep sand where the dunes go up like mountains and come down like the sea. It was night. The same night. I know it was the same night because the moon was the same, a thin paring two days off new, lying on its back low in the west like a cup.
+I was standing on a high dune a long way from Hilat al-Sarab, south and west, in the deep sand where the dunes go up like mountains and come down like the sea. It was night. The same night. I know it was the same night because the moon was the same, a few nights past full and lopsided, hanging low over the dunes like a cracked bowl.
 
 And down in the hollow below me there were riders.
 
@@ -346,7 +346,7 @@ He sat very still in the saddle. Then he lifted his masked face. Not toward me. 
 
 Then he turned his camel's head.
 
-Toward Hilat al-Sarab. Straight toward it, as if someone had stood up on the far horizon with a lamp and waved it. And down the line, one by one, the others turned after him, and they rode out of the hollow at a trot, then faster, and the sand rose behind them white under the thin moon.
+Toward Hilat al-Sarab. Straight toward it, as if someone had stood up on the far horizon with a lamp and waved it. And down the line, one by one, the others turned after him, and they rode out of the hollow at a trot, then faster, and the sand rose behind them white under the late moon.
 
 ---
 

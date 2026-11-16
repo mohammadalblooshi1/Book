@@ -208,7 +208,7 @@ He snatched his hand off Bakhit's knee.
 
 His voice wasn't loud. That was the terrible thing. I'd have been glad if he'd shouted.
 
-"You knew. All the years since I came. Eight years. Since the day they found me in the lane and nobody wanted me and you said, *bring him to me, I'll give him tea.* You knew what I was. You saw the feather. You heard me talk in my sleep. You told me the story over and over and *over* and you watched me sit there and drink it like it was milk." He was breathing hard. "You knew what they'd do to me. You *knew*. You knew they'd find out, someday, and you knew what a village does to a thing it's frightened of, you've lived in villages longer than anyone alive. You've seen it. You knew they'd take stones to me and drive me out like a mad dog."
+"You knew. All the years since I came. Eight years. Since nobody wanted me and you called me in out of the dark, *you there, you with the dog, come and drink something.* You knew what I was. You saw the feather. You heard me talk in my sleep. You told me the story over and over and *over* and you watched me sit there and drink it like it was milk." He was breathing hard. "You knew what they'd do to me. You *knew*. You knew they'd find out, someday, and you knew what a village does to a thing it's frightened of, you've lived in villages longer than anyone alive. You've seen it. You knew they'd take stones to me and drive me out like a mad dog."
 
 He stood up. The bitter paste cracked on his back.
 
@@ -228,9 +228,9 @@ And the bell didn't ring.
 
 I want you to hear that properly, little one.
 
-There was a bell in that tent. A big one, bigger than the others: brass, old, green at the rim, hanging from the ridge-pole over Bakhit's head on a cord of plaited hair. It didn't ring in the wind. It had never once rung in the wind. It rang for lies, and only for lies, and it had rung once, that first night, when Theyab sat on that same rug and said *I'm not afraid.* It would ring for a lie whispered in the dark at the far end of the tent. It would ring for a lie you told yourself. It would ring, Bakhit said, for the lie in a man's face when he smiled at you.
+There was a bell in that tent. A big one, bigger than the others: brass, old, gone brown, hanging from the main pole just inside the door on a cord of plaited hair. It didn't ring in the wind. It had never once rung in the wind. It rang for lies, and only for lies, and it had rung once, the morning before the Diggers came, when Theyab sat on that same rug and said *I'm not afraid.* It would ring for a lie whispered in the dark at the far end of the tent. It would ring for a lie you told yourself. It would ring, Bakhit said, for the lie in a man's face when he smiled at you.
 
-He said *yes*, and the bell hung there over his head and didn't move.
+He said *yes*, and the bell hung there on its pole and didn't move.
 
 It was true. Every bit of it. He'd known. He'd let them.
 
@@ -348,7 +348,7 @@ Then Hilal looked at Theyab properly.
 
 He looked at the gold in his face, the cracks running up his throat and across his cheeks. He looked at the bitter paste on his back and the blood dried down his cheek and the split ear. He looked at the knotted cord round his neck, with the hirz on it, and his mouth tightened.
 
-"I heard," he said. "On the road. I was half a day out toward Liwa. A herder coming the other way told me the sky over Hilat al-Sarab lit up gold at midnight, like a lamp under a bowl. He thought it was a sign of something. He thought it might be good." He shook his head. "I turned round. Light like that, in a village like this, there's only one thing that follows it. I walked all night. I hoped I'd be wrong."
+"I heard," he said. "On the road. I was a few hours out toward Liwa. A herder coming the other way told me the sky over Hilat al-Sarab lit up gold at midnight, like a lamp under a bowl. He thought it was a sign of something. He thought it might be good." He shook his head. "I turned round. Light like that, in a village like this, there's only one thing that follows it. I walked all night. I hoped I'd be wrong."
 
 He reached out and took hold of the hirz between two fingers, and turned it to the lamp, and looked at the knot in the cord.
 

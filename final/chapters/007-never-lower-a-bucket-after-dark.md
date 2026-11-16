@@ -170,7 +170,7 @@ Smiling.
 
 On the third day, Shibl came to the wall.
 
-There was a low mud wall at the back of Saqi's yard, crumbling at the top, where the yard gave onto the lane that led out past the last houses to Theyab's hollow. Shibl knew he was not allowed to talk to Laqeet. Every child in the village knew that. But Shibl had been in love with me since he could walk. He thought my silver eye was a coin I kept in my head. He used to save me date-stones with a little flesh left on them, and hold them out on his flat palm the way he had been taught to feed a camel, and giggle when my whiskers touched his hand.
+There was a low mud wall at the back of Saqi's yard, crumbling at the top, where the yard gave onto the lane that led out past the last houses to Theyab's hollow. Shibl knew he was not allowed to talk to Laqeet. Every child in the village knew that. But Shibl had been in love with me since the evening at the well when he first looked into my eye. He thought my silver eye was a coin I kept in my head. He used to save me date-stones with a little flesh left on them, and hold them out on his flat palm the way he had been taught to feed a camel, and giggle when my whiskers touched his hand.
 
 He came to the wall in the afternoon, when the noon rest was over and the shadows were beginning to stretch, and he hung over the top of it on his stomach and held a date down toward me.
 
@@ -313,5 +313,7 @@ And then he spoke.
 It came out of his mouth in two voices at once. One was his own, low and rough, the well-keeper's voice that had haggled over every cup of water in Hilat al-Sarab for twenty years. The other was underneath it, laid exactly in time with it, so that every word was said twice in the same breath. A woman's voice. Soft and tired and fond. The voice of a mother leaning over a sleeping child at the end of a long day.
 
 "*This one,*" said the two voices together, very tenderly, "*is light enough to carry.*"
+
+---
 
 *End of Chapter Seven*

@@ -120,7 +120,7 @@ I know what he saw because he said it aloud afterward, that same night, to the d
 
 ---
 
-He saw a baby born in the killing heat of summer, red-faced and furious, while a boy of eight pressed his nose to the doorframe to look. He saw a woman lying very still on a mat, and the boy of nine holding the baby while men he didn't know washed her, because his father couldn't stand.
+He saw a baby born in the killing heat of summer, red-faced and furious, while a boy of eight pressed his nose to the doorframe to look. He saw a woman lying very still on a mat, and the same boy holding the baby while men he didn't know washed her, because his father couldn't stand.
 
 He saw that same boy, older, carrying the baby on his shoulders up the dune behind the well, pointing at the night.
 
@@ -310,7 +310,7 @@ Saqi had got up.
 
 I don't know how. Minutes before, he'd been sitting in the sand like a man with his legs cut out from under him. Now he was standing. Swaying. Alone; the two neighbours had let go of him and stepped back, the way you step back from a man who's about to be sick. He was looking at Theyab.
 
-I want you to remember what Saqi had been through. Three nights before, something had come up the well-rope and put him on like a robe. He'd been gentle in it, strange, kind; his sons had loved him in it more than they'd ever loved him in his own skin, and he knew that now, and he would know it forever. He'd stood over his own son's mat at midnight and said in a doubled voice that the boy was light enough to carry. He'd thrown Nadim through a wall. And then Theyab's light had struck him in his own yard and the thing in him had screamed with his mouth, and used his tongue to say, in Theyab's own voice, *He did this to me.*
+I want you to remember what Saqi had been through. Six nights before, something had come up the well-rope and put him on like a robe. He'd been gentle in it, strange, kind; his sons had loved him in it more than they'd ever loved him in his own skin, and he knew that now, and he would know it forever. He'd stood over his own son's mat at midnight and said in a doubled voice that the boy was light enough to carry. He'd thrown Nadim through a wall. And then Theyab's light had struck him in his own yard and the thing in him had screamed with his mouth, and used his tongue to say, in Theyab's own voice, *He did this to me.*
 
 Hilal had read the thing out of him. And Saqi had wept for a whole day, remembering everything. Every word he'd said while he was Worn. Every touch.
 
