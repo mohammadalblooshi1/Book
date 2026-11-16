@@ -87,11 +87,11 @@ A nameless outcast boy crosses a living desert to uncover the secret of his birt
 - **His last words:** *"I'm coming, Soren."*
 - **His true name** (spelled out by the dunes at the end): **Aeron**, which means *"the one who rises"*.
 
-### Prince Soren of Taharyn, the Exiled Prince (Zayn's only friend)
+### Prince Soren of Kharesh, the Exiled Prince (Zayn's only friend)
 - **Age:** 17. The eldest son of King Absalon.
 - **Exiled for:** secretly **hiding a Hollow victim**, a palace stable boy, inside the palace, trying to cure him. Vizier Orrin "discovered" it and named it treason and dark magic.
 - **The broken sword:** It **broke protecting the stable boy** from the guards who came to kill him. Soren never repairs it, and later hides proof of Orrin's crimes inside its hollow hilt.
-- **Skill:** The **best sword in Taharyn**, even with half a blade.
+- **Skill:** The **best sword in Kharesh**, even with half a blade.
 - **Survival:** He hunts shadow creatures and **sells their ash**.
 - **Look:** Tall, with a scarred jaw and a royal signet ring he never takes off.
 - **Personality:** Proud, funny, reckless and loyal. He is just as lonely as Zayn underneath.
@@ -160,10 +160,10 @@ A nameless outcast boy crosses a living desert to uncover the secret of his birt
 - **Redemption:** years later, he is the father of the newborn bearer. He names his son **Aeron**.
 
 ### Brother One
-- Orrin's giant, silent bodyguard and the cult's strongest fighter after Tamir. Zayn fights him in a duel during the battle of Taharyn.
+- Orrin's giant, silent bodyguard and the cult's strongest fighter after Tamir. Zayn fights him in a duel during the battle of Kharesh.
 
 ### King Absalon & Prince Idan
-- **King Absalon** is proud and grieving, and easily controlled by Orrin. He **dies** in the battle of Taharyn.
+- **King Absalon** is proud and grieving, and easily controlled by Orrin. He **dies** in the battle of Kharesh.
 - **Prince Idan** is Soren's 10-year-old brother. Orrin takes him hostage at the end, and Zayn rescues him on the Crown Dune.
 
 ### The Weaver of Dunes (the divine presence)
@@ -182,8 +182,8 @@ Three women appear briefly. Each has a small, warm role and is mentioned only a 
 - She appears in **Chapter 1** and in **Chapter 3**, when she quietly presses food into his hands as the village drives him out: *"Eat, child. The sand remembers kindness too."*
 - She is mentioned once more at the end. She lights the first lantern for Zayn on the Night of Embers.
 
-### Mother Yusa, the palace cook (Taharyn)
-- The large, loud head cook of Taharyn's palace kitchens, who **half-raised Soren and Idan** when the king had no time for his sons.
+### Mother Yusa, the palace cook (Kharesh)
+- The large, loud head cook of Kharesh's palace kitchens, who **half-raised Soren and Idan** when the king had no time for his sons.
 - In **Chapter 17** she **hides Zayn in the kitchen storerooms** and feeds him. She knew Soren was innocent all along.
 - **Key line:** *"That boy stole honey cakes from my kitchen for ten years. A boy like that doesn't kill anyone. And neither do you. Eat."*
 
@@ -237,7 +237,7 @@ Three women appear briefly. Each has a small, warm role and is mentioned only a 
 | **The Valley of Echoes** | A canyon where your voice replies with your secret fears. |
 | **The Mountain Caves** | Where Daruun hid for fifteen years. |
 | **The Buried Ship** | An ancient ship half-swallowed by the dunes, far from any sea. It is the **Unnamed's hidden base**. |
-| **Taharyn** | A walled city of red stone around the greatest oasis, guarded by lanterns that burn day and night. |
+| **Kharesh** | A walled city of red stone around the greatest oasis, guarded by lanterns that burn day and night. |
 | **The Hollow** | A spreading grey wasteland with no colour or sound. |
 | **The Crown Dune** | The highest dune in the world and the place of sacrifice. |
 
@@ -370,7 +370,7 @@ Moments where everything connects:
 
 ## 10. The Ending (summary)
 
-1. Zayn exposes Orrin before King Absalon. The Unnamed attack Taharyn on the **Night of Embers**. Zayn duels **Brother One**, and the **king dies**. Orrin flees to the Crown Dune with **Prince Idan**.
+1. Zayn exposes Orrin before King Absalon. The Unnamed attack Kharesh on the **Night of Embers**. Zayn duels **Brother One**, and the **king dies**. Orrin flees to the Crown Dune with **Prince Idan**.
 2. On the Crown Dune under the full Ash, Malek speaks face to face: *"You'll be forgotten."* Hesset arrives, blind and dying.
 3. Zayn frees Idan. Daruun **begs him to stop, then lets go**. Tamir watches from behind a cracking mask.
 4. Zayn knows: *"I am the hero."* He says his last words, *"I'm coming, Soren,"* and opens the Light.
