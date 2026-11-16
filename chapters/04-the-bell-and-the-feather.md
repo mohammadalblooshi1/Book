@@ -158,11 +158,7 @@ Zayn touched it. It lay against his chest just above the feather mark, cool agai
 
 "How do I know it works?"
 
-"Fox," said Hesset. "Say something untrue."
-
-I sighed. I hate being made to perform.
-
-"I've always been very fond of Bram," I said.
+Hesset lifted his cup and smiled. "My tea," he said, "is the finest in the whole desert."
 
 The bell rang.
 
@@ -172,9 +168,15 @@ Zayn looked at the bell. Then he looked at my tail. Then he looked at me.
 
 "Your tail," he said slowly. "When you lie, it…"
 
-"Yes, yes. Glows for the truth, goes dark for a lie. Very embarrassing. Imagine trying to play cards." I curled the offending thing tighter around my paws. "Now you've got two ways of knowing when somebody's lying to you. Most people don't get one. Try not to waste them."
+"Yes, yes. Glows for the truth, goes dark for a lie. Anybody's lie, not just mine. Very embarrassing. Imagine trying to play cards." I curled the offending thing tighter around my paws. "Now you've got two ways of knowing when somebody's lying to you. Most people don't get one. Try not to waste them."
 
-He was still staring at my tail. I could see him thinking back. Over everything I'd said that night, all of it, every word, trying to remember whether it had glowed.
+"And when *you* lie?"
+
+"I don't," I said.
+
+My tail glowed.
+
+He was still staring at it. I could see him thinking back over everything I'd said to him that night, every word, trying to remember whether it had glowed.
 
 It had. All of it.
 
@@ -246,7 +248,7 @@ Zayn was quiet. Then he asked it. The same question he'd asked two nights ago, w
 
 I held my breath.
 
-And Hesset, who had been the oldest and wisest man in Harrow's End for longer than anyone could remember, who had sat in that tent among his truth bells for three hundred years and never once told a lie, looked at the boy with his blind eyes and said:
+And Hesset, who had been the oldest and wisest man in Harrow's End for longer than anyone could remember, who had sat among his truth bells for more years than the boy could have guessed and never told a lie that mattered, looked at the boy with his blind eyes and said:
 
 "Go to the City of Glass. The answers there are older than mine, and truer. You'll understand it better when you see it written."
 

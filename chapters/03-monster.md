@@ -8,7 +8,7 @@
 
 Bram ran first.
 
-I'll give him that. Whatever else he did, before and after, and he did plenty, Bram was the first one into the grey that night. He didn't stop to think about it. He didn't look back at his father or at the forty white faces in the doorways or at the strange glowing boy against the wall. He just heard his brother's voice asking the dark who he was, and he ran toward it.
+I'll give him that. Whatever else he did, before and after, Bram was the first one into the grey that night. He heard his brother's voice asking the dark who he was, and he ran toward it.
 
 "*Tobin!*"
 
@@ -20,7 +20,7 @@ Zayn was on his feet before he knew it. His legs were shaking. His palms still b
 
 He took another.
 
-"I said *no*. You've just done something you don't understand, you're half dead on your feet, and that is the Hollow. Not a storm. Not a curse. The thing itself. You walk in there tonight and you might not walk out."
+"I said *no*. You're half dead on your feet, and that is the Hollow. The thing itself. You walk in there tonight and you might not walk out."
 
 He looked down at me. "He's seven," he said.
 
@@ -54,7 +54,7 @@ Bram made a sound I've heard many times in many places, and I still don't have a
 
 They got him out of the grey between them. Bram carried him and Zayn walked behind, his glowing palms held up like lanterns, and the grey drew back from them a little as they went. Not much. Just enough.
 
-Hadric, the well-keeper, was waiting at the edge with a lamp. He took one look at his younger son's face and sat down in the sand as if his legs had been cut out from under him. People were gathering behind him: Oszkar in his nightshirt, Garrem with a cudgel, women with shawls clutched at their throats. Everyone was talking and nobody was saying anything.
+Hadric, the well-keeper, was waiting at the edge with a lamp. He took one look at his younger son's face and sat down in the sand as if his legs had been cut from under him. Behind him people were gathering: Oszkar in his nightshirt, Garrem with a cudgel, neighbours clutching shawls.
 
 Bram laid his brother down on the hard ground outside the house. He knelt there with his hands hovering over the small grey face, not knowing what to do with them.
 
@@ -82,7 +82,7 @@ Zayn knelt.
 
 ---
 
-I want to tell you that he was brave. That he knew what he was doing. That he laid his hands on that child like the heroes in Hesset's stories, calm and certain and shining.
+I want to tell you he laid his hands on that child like the heroes in Hesset's stories, calm and certain and shining.
 
 He didn't. His hands were shaking so badly that when he set them on either side of Tobin's face, the boy's head rocked a little. His breath came short. He was thinking of the Husks, and the grey, and forty people watching him from behind their lamps. He was thinking of what they'd say about him. He was thinking about himself.
 
@@ -106,7 +106,7 @@ The light went gold.
 
 ---
 
-It came up out of him gently this time. Not the blaze of the lane, not the bonfire that had driven back twenty Husks. It was softer. Warmer. It flowed from his chest down his arms and out through his fingertips and into Tobin's face, like honey poured into water, and the grey began to lift.
+It came up out of him gently this time, softer and warmer than the blaze in the lane. It flowed from his chest down his arms and out through his fingertips and into Tobin's face, like honey poured into water, and the grey began to lift.
 
 And Zayn saw.
 
@@ -222,7 +222,7 @@ He knew that cloth. He'd seen it outside his tent every few days for as long as 
 
 "Eat, child," said Auntie Sabba. Her voice was dry and thin and fierce. "The sand remembers kindness too."
 
-Then she turned and went back inside and shut the door. She didn't look back. Somewhere behind the clay walls, I imagine she sat down at her table and shook for a long time.
+Then she went back inside and shut the door. I imagine she sat down at her table and shook for a long time.
 
 Zayn stood there holding the bread.
 
@@ -244,7 +244,7 @@ I heard them first. Foxes always do. A low sound under the wind, like breath thr
 
 They came over the dune like smoke poured from a jug.
 
-Hollow Hounds. There were six of them. They were shaped something like wolves, if a wolf were made of the darkness between the Embers. Long and low and lean, with no real edges, their bodies fraying into black mist at the legs and tail. Their eyes were coals. Hot, red, ember-bright, the only colour in them. They didn't pant. They didn't snarl. They spread out in a slow circle around us, and the sand didn't move under their feet.
+Hollow Hounds. Six of them, shaped like wolves, if a wolf were made of the darkness between the Embers. Long and low, their bodies fraying into black mist at the legs and tail. Their eyes were coals, ember-bright, the only colour in them. They didn't pant or snarl. They spread out in a slow circle around us, and the sand didn't move under their feet.
 
 They track the Light. Every time a bearer heals, it rings out across the desert like a bell, and the Hounds lift their heads and follow. Zayn had healed a child three hours ago. He might as well have lit a bonfire on a hill.
 
@@ -278,11 +278,9 @@ Then the hoofbeats.
 
 They came from the north, out of the dark between the dunes, a heavy, rolling drumming that I felt through my paws before I heard it. A camel came over the crest of the dune at a full run. It was pale, almost white in the Ember-light, like something carved out of bone. On its back rode a figure wrapped from head to foot in grey cloth. There was no face to see. Only wrappings, and a veil, and a dark slit where the eyes should be.
 
-The rider leaned out from the saddle as the camel passed, pulled the spear from the sand in one smooth movement, and drove it through the second Hound without slowing. The third leapt at the camel's flank. The rider turned in the saddle and took it out of the air.
+The rider leaned from the saddle, pulled the spear from the sand in one smooth movement, and drove it through the second Hound without slowing. The third leapt at the camel's flank. The rider took it out of the air.
 
-The last three ran.
-
-They poured back over the dunes like smoke blown by a gust, and their coal-eyes winked out one by one in the dark, and the desert was quiet again.
+The last three ran, their coal-eyes winking out one by one in the dark.
 
 ---
 
@@ -292,15 +290,13 @@ The rider looked down at us.
 
 Zayn was sitting up in the sand, black ash all over his chest, his knife still clutched in his hand. He was staring up at the figure on the camel with his mouth slightly open. In the dark, the golden cracks along his jaw were faintly glowing.
 
-The rider didn't move. Didn't speak. The veil didn't stir. But I could feel the weight of that look from where I lay, and it wasn't the look of a hunter at his prey. I've seen that look. This was something else.
-
-It went on a long time. Longer than it should have.
+The rider didn't move or speak. But I could feel the weight of that look from where I lay, and it wasn't a hunter's look. It went on a long time. Longer than it should have.
 
 "Who are you?" Zayn called.
 
 The wind answered him. Nothing else did.
 
-Then the rider pulled the camel's head around and rode away north, back into the dark, the long spear held upright like a banner. The hoofbeats faded. In a little while there was nothing to show they'd ever been there except three drifts of black ash on the sand and a set of tracks that the dunes were already beginning to fill.
+Then the rider turned the camel and rode away north into the dark, the long spear held upright like a banner. Soon there was nothing left but three drifts of black ash and a set of tracks the dunes were already filling.
 
 "Who was that?" said Zayn.
 

@@ -14,17 +14,15 @@ That suited Zayn. He'd had enough of being seen.
 
 He had barely spoken since the beast came down out of the black sky and the caravan was simply *gone*, camels and lizards and all. Since he'd dug one man out of the sand with his bare hands and poured the Light into him until his own arms cracked gold, and the man had opened his eyes and looked at those glowing hands and said the word.
 
-You know the word. I don't need to say it again.
-
 The cracks from that healing were still fading on his forearms, thin lines of dull honey under the skin. Every so often he'd look down at them and then look away fast.
 
 "You can talk to me, you know," I said. "I'm told I'm an excellent listener."
 
 "Who told you that?"
 
-"No one. No one has ever said it, in all of history. I was hoping you'd be the first."
+"No one. I was hoping you'd be the first."
 
-The corner of his mouth moved. It wasn't a smile. It was the place where a smile would have gone, if he'd had the strength to put one there. I'll take it, I thought. I've worked with less.
+The corner of his mouth moved. It wasn't a smile, but I've worked with less.
 
 His water skin had been empty since the afternoon before. His lips had split. His feet dragged. He kept his hand pressed to the feather mark, as though it were the only thing holding him upright.
 
@@ -38,11 +36,11 @@ It was a hum. Low and steady and very large, as if the whole desert were humming
 
 "Water," Zayn whispered.
 
-"Yes," I said. "Unfortunately."
+"Unfortunately," I said.
 
 ---
 
-You'll want to know why a fox would be unhappy about water in the middle of the Destiny Desert. It's a fair question. I'll answer it.
+You'll want to know why a fox would be unhappy about water in the middle of the Destiny Desert.
 
 The Singing Wells are older than Veimore, older than the glass city, older than most of the names on the map. Seven stone well-mouths sit in a ring among date palms, and the water in them hums. The water-finders will tell you it's the voice of the Weaver, or the ghosts of everyone who ever drowned in them. Water-finders will tell you anything if you buy them a drink.
 
@@ -100,7 +98,7 @@ That was true. My tail glowed with it. But the young man was also bleeding from 
 
 Zayn turned and looked at me.
 
-I wish I hadn't said it. I've wished that about a great many things I've said. But it was true, and he had a right to know it, and my tail was glowing so bright it lit the sand between us.
+I wish I hadn't said it. But it was true, and my tail was glowing so bright it lit the sand between us.
 
 He got up.
 
@@ -120,7 +118,7 @@ Fear does that. I've told you. It turns the Light into something the dark can ch
 
 The Hound sprang at him. Zayn threw himself sideways into the sand and felt its teeth snap shut on the air beside his ear. He rolled. He came up on his knees. And over the Hound's smoking back he saw the young man stagger as a second Hound caught his wounded shoulder and dragged him half off his feet.
 
-The young man didn't cry out. He just grunted, and set his teeth, and swung the broken sword one-handed. He kept fighting. He kept standing up.
+The young man didn't cry out. He set his teeth and swung the broken sword one-handed. He kept standing up.
 
 And Zayn thought, with no words at all, *Not him too.*
 
@@ -132,7 +130,7 @@ It didn't blaze the way it had in Harrow's End. He was too worn through for that
 
 The Hound in front of him flinched.
 
-Zayn didn't give it time to recover. He lunged and slashed, and for the first time in his life his knife went *into* a creature of the Hollow instead of sliding off. The Hound burst into ash. Zayn ran through the falling cloud of it without slowing down, and slammed his shoulder into the Hound that had the young man's arm, and the light went through it like lamp-oil going up.
+Zayn lunged, and for the first time in his life his knife went *into* a creature of the Hollow instead of sliding off. The Hound burst into ash. Zayn ran through the falling cloud of it, and slammed his shoulder into the Hound that had the young man's arm, and the light went through it like lamp-oil going up.
 
 Then there was a back against his back.
 
@@ -204,9 +202,9 @@ Zayn watched him do it for a long time.
 
 "You can keep it."
 
-"Absolutely not. I have principles." He considered that. "I have *some* principles. One. It's that one."
+"Absolutely not. I have principles." He considered that. "One. It's that one."
 
-He sealed the jar, wiped his spoon on his robe, and sat back on his heels. In the silver light from the wells, I saw the ring on his right hand for the first time. It was heavy and gold, too heavy and too gold for a dusty young man who scraped up monster-ash for a living. It was carved with a crest I had seen before, on banners and on great red city gates.
+He sealed the jar and sat back on his heels. In the silver light from the wells, I saw the ring on his right hand for the first time. It was heavy and gold, too heavy and too gold for a dusty young man who scraped up monster-ash for a living. It was carved with a crest I had seen before, on banners and on great red city gates.
 
 I kept that to myself. I keep a lot of things to myself. You may have noticed.
 
@@ -222,13 +220,13 @@ Zayn's hand went to his chest. He pressed the mark under his shirt. He looked at
 
 Then he said, so quietly that I barely heard it, "Zayn."
 
-"Zayn," Soren repeated, at a perfectly normal volume. "Good. Short. Easy to shout when you're about to be eaten." He looked down. "And who's this?"
+"Zayn," Soren repeated, at a perfectly normal volume. "Good. Easy to shout when you're about to be eaten." He looked down. "And who's this?"
 
 That was me. I had trotted down from the dune and was sitting by the nearest well, washing ash off my front paw with what I felt was considerable dignity.
 
-"Kiri," I said. "And before you ask, yes, I talk. No, it isn't a trick. No, I won't do it on command for your friends. Yes, I've heard every joke."
+"Kiri," I said. "Yes, I talk. No, it isn't a trick. Yes, I've heard every joke."
 
-Soren looked at me. He looked at Zayn. He looked back at me.
+Soren looked at me, then at Zayn.
 
 "Your fox talks," he said to Zayn.
 
@@ -308,7 +306,7 @@ Zayn wiped his face with the heel of his hand.
 
 My tail glowed. It was the truest thing he could have said.
 
-Later, when Soren had built a fire between two of the wells and was boiling water in a battered tin pot, Zayn came and sat by me. He didn't look at me. He kept his eyes on the flames.
+Later, when Soren had built a fire between two of the wells, Zayn came and sat by me. He didn't look at me. He kept his eyes on the flames.
 
 "Kiri," he said softly. "That song. Do you know it?"
 
@@ -332,7 +330,7 @@ Soren shared his flatbread, hard as roof tiles, and the boiled, strained water f
 
 Zayn lay down on the far side of the fire with his patched cloak pulled over him. I watched him do something I had never once seen him do in fifteen years. He fell asleep with his knife lying in the sand beside him, instead of held in his hand.
 
-Soren sat up a while longer, turning the heavy gold ring on his finger, looking west at nothing. Then he lay down too.
+Soren sat up a while longer, turning the heavy gold ring on his finger. Then he lay down too.
 
 I stayed awake. Someone has to.
 
