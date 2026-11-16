@@ -310,9 +310,9 @@ Theyab said nothing. His left hand was on his knee. Closed.
 
 It was the first time anybody had ever asked.
 
-I want you to understand that, little one. Ghanim had seen it, by cheating. The thing in the well had seen it, somehow, by whatever ways those things see. Nobody had ever *asked*. Nobody in eight years had ever asked Theyab for anything, except to go away.
+Ghanim had seen it by cheating. The thing in the well had seen it by whatever ways those things see. Nobody in eight years had ever asked Theyab for anything, except to go away.
 
-He looked at the old man for a long time. I watched his fingers move on his knee. I watched them begin, just barely, to open.
+I watched his fingers begin, just barely, to open.
 
 Then they closed. Hard. And his whole arm came in against his body, the fist hidden in the crook of his other elbow, the way a child hides a thing it has stolen.
 

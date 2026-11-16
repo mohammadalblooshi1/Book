@@ -10,9 +10,7 @@ In the morning the grey was still there.
 
 It lay along the bottom of the south-eastern sky like a smear of ash on a clean plate, and in daylight it was easy not to see. The sun bleached it. A herder looking that way would have called it haze, or dust off some far storm, and turned back to his goats. Theyab looked at it all morning. Every time he looked away and looked back, he couldn't be sure it was nearer, and he couldn't be sure it wasn't.
 
-He didn't tell anyone. Who would he tell? A boy who'd said *I don't know* in the square, telling the village a line of nothing was eating the stars?
-
-He'd tell them. Soon. He'd hammer on a door before dawn and say it to a heavy man's face, and you'll see how that went. But not yet. That day he only watched, and drank his water slowly, and at noon, when the mothers began to call, he got up and walked into the lanes the way he always did. I went with him.
+He didn't tell anyone. Not yet. That day he only watched, and at noon, when the mothers began to call, he walked into the lanes the way he always did. I went with him.
 
 You'll say: *after what was standing at his blanket, he went out at noon again?*
 
@@ -22,15 +20,15 @@ Yes, little one. Where else would he go? Nobody called him in.
 
 Umm Hanan's house had a summer room.
 
-Most houses in Hilat al-Sarab did, the ones that could afford it: an *arish*, a room built of palm fronds lashed to a frame of palm trunks, alongside the mud house or out in the yard. The fronds let the wind through and kept the sun out, and in the worst of the summer the whole family lay in the arish through the noon with wet cloths over their faces, and the breeze came through the walls in a thousand thin threads. Hers was old and grey and patched, and it stood against the back lane. Its wall was a hand's width of dry frond between the inside and the out.
+An *arish*: palm fronds lashed to a frame of trunks, that let the wind through in a thousand thin threads and kept the sun out. Hers was old and grey and stood against the back lane, a hand's width of dry frond between the inside and the out.
 
-Theyab never went near it. He never went near anyone's house at noon. But that day, passing the back lane in the white glare, he heard a voice through the fronds, and he stopped.
+That day, passing in the white glare, Theyab heard a voice through the fronds, and he stopped.
 
 It was her voice. Old and dry and low, the way you speak to children when you want them to lean in. And he heard Shibl say, "Tell the one about her. Tell the one with the hooves."
 
 Theyab sat down in the slip of shade against the frond wall.
 
-I lay down beside him. I put my chin on his foot. Through the fronds I could smell them all: Umm Hanan's flour and smoke, Shibl's dates and goat, and two others, a girl with a cough and her small brother, children of a herding family whose mother had gone to the coast with the camels. Umm Hanan kept them through the noon. Saqi didn't want his younger son underfoot while he slept, and there was no mother at the well-keeper's house to want him either. So Shibl came to the widow's arish, and she gave him bread, and he gave her someone to talk to. It was a fair trade. Most of the fair trades in that village happened where Ghanim couldn't see them.
+I put my chin on his foot. Through the fronds I could smell them all: Umm Hanan's flour and smoke, Shibl's dates and goat, and two others, a girl with a cough and her small brother, whose herding mother had gone to the coast. Umm Hanan kept them through the noon. Saqi didn't want his younger son underfoot while he slept, and there was no mother at the well-keeper's house to want him. So Shibl came to the widow's arish, and she gave him bread, and he gave her someone to talk to. It was a fair trade. Most of the fair trades in that village happened where Ghanim couldn't see them.
 
 "That one's not for small children," said Umm Hanan.
 
@@ -58,7 +56,7 @@ I'll give it to you the way she gave it. I've kept her words, as near as an old 
 
 *She is the Noon Mare.*
 
-*She doesn't come at night. That's what children never understand. You're all afraid of the night, you lie in your beds and you think the dark is where the bad things are. No. The dark is honest. She comes at noon. At the very top of the day, when the sun stands straight over the village and your shadow crawls under your feet to hide, and every grown person is lying down asleep with a cloth over their face, and the lanes are white and empty and hot, and nobody is watching. That's when she walks. Up one lane and down the next. Slowly. Tik. Tik. Looking at the doors.*
+*She doesn't come at night. You're all afraid of the night. No. The dark is honest. She comes at noon, when every grown person is asleep with a cloth over their face, and the lanes are white and empty, and nobody is watching. Up one lane and down the next. Slowly. Tik. Tik. Looking at the doors.*
 
 *She's looking for children who are out.*
 
@@ -70,7 +68,7 @@ The small boy said something. Too low for me to hear.
 
 *The first rule. She speaks in your mother's voice.*
 
-*Not like your mother. In it. Exactly. If your mother has a cough at the back of her throat when she says your name, the Noon Mare has the cough. If your mother calls you* habibi *the way mothers do when they're tired and want you to come anyway, the Noon Mare says it just that way, with the tiredness in it. She stands at the end of the lane, in the shaking air, where the heat makes everything swim, and you can't see her legs. You only see a tall shape with long hair. And she calls you. In your mother's voice. Come in. Come in from the sun.*
+*Not like your mother. In it. If your mother has a cough at the back of her throat when she says your name, the Noon Mare has the cough. If your mother calls you* habibi *the way mothers do when they're tired, the Noon Mare says it with the tiredness in it. She stands at the end of the lane in the shaking air, where you can't see her legs, and she calls you. Come in. Come in from the sun.*
 
 *And you go. Of course you go. Wouldn't you go?*
 
@@ -88,13 +86,13 @@ Umm Hanan stopped. I heard her breathe. In and out, long, the breath of someone 
 
 Beside me, against the frond wall, Theyab went still.
 
-I mean still the way a hare goes still in the open when the shadow of the falcon crosses it. Every part of him stopped. Even his breath. His left fist, which had been resting on his knee, closed tighter, the knuckles going pale, and I felt the shudder go down him through the foot my chin was resting on.
+Still the way a hare goes still when the falcon's shadow crosses it. His left fist closed tighter on his knee, and I felt the shudder go down him through the foot my chin was resting on.
 
 *The third rule,* said Umm Hanan.
 
 *She never takes them far.*
 
-*That's the cruellest. She doesn't carry them to the Empty Quarter, or down a well, or across the sea. She takes them just over the next dune. Just past where you can see. And she keeps them there. And they call.*
+*That's the cruellest. She takes them just over the next dune. Just past where you can see. And she keeps them there. And they call.*
 
 *For days, they call. You can hear them from the village. "Mama. Mama. I'm here. I'm just here." Close. So close. Just past the next dune. And you go out and you climb the dune and there's nothing. And from the next one: "Mama, I'm here." And you climb that one. And from the next.*
 
@@ -152,7 +150,7 @@ And Umm Hanan said, "Hanan."
 
 ---
 
-You know what it means, little one. *Umm Hanan.* The mother of Hanan. In the sands you're called by your eldest child's name, so that the whole village says your child's name to you every day, at the well and in the lane and over the bread. *Mother of Hanan. Mother of Hanan.* Forty years. Every morning. Every single person who greeted her said her lost daughter's name to her face, and had no idea they were doing it.
+You know what it means, little one. *Umm Hanan.* The mother of Hanan. In the sands you're called by your eldest child's name. Forty years, every person who greeted her at the well said her lost daughter's name to her face, and had no idea they were doing it.
 
 "Is that true?" whispered the girl again. "Is it true, Umm Hanan? Did it happen?"
 
@@ -161,8 +159,6 @@ And Umm Hanan said, "It's a tale. Go to sleep."
 My hackles rose.
 
 Slowly, all the way down my back. I couldn't help it. A growl started in my chest and I swallowed it so hard it hurt. Theyab put his hand on my neck without looking at me, and felt the hair standing up under his palm, and left his hand there.
-
-He knew. He didn't need my back to tell him. But he felt it anyway.
 
 ---
 
@@ -216,7 +212,7 @@ He sat in the slip of shade with his hand still on my neck, and the noon burned 
 
 And there was one child in the lane.
 
-He'd heard the mothers call for eight years. Every noon. *Come in, come in from the sun, or the Noon Mare will take you.* He'd heard it the way you hear the wind, the way you hear the pulley at the well: a sound that was part of the place and had nothing to do with him. He'd never once wondered what it was *for*.
+He'd heard the mothers call for eight years, the way you hear the pulley at the well: a sound that had nothing to do with him. He'd never once wondered what it was *for*.
 
 Now he knew.
 
@@ -232,7 +228,7 @@ Then the arish rustled, and a small face came round the end of the frond wall.
 
 Shibl.
 
-He'd got up while the others slept. He stood barefoot in the burning lane, squinting, his jug ears pink in the sun, and he looked at Theyab sitting in the shade against the wall, and at me, and he didn't seem surprised to see us there at all.
+He stood barefoot in the burning lane, squinting, his jug ears pink in the sun, and didn't seem surprised to see us at all.
 
 "You heard," he said.
 
@@ -262,7 +258,7 @@ Shibl frowned, the way children frown when grown people ask them something obvio
 
 Theyab opened his mouth, and nothing came out of it.
 
-The wind brought it. To the well-keeper's roof, and to a little boy lying awake on it. And to other places. I thought of the cold wind that smelled of nothing, coming back over the crest. I thought of how far a word can go, once you've given it away.
+The wind brought it. To the well-keeper's roof. And to other places. I thought of how far a word can go, once you've given it away.
 
 "Go inside," Theyab said at last. Hoarse. "Shibl. Go inside. It's noon."
 
@@ -298,7 +294,7 @@ Shibl's mother had been dead seven years. She'd died the night he was born. He'd
 
 He ran. I ran ahead of him.
 
-Round the corner of Umm Hanan's wall. Into the lane that ran down toward the well and out past the last houses to the open sand. It was the widest lane in Hilat al-Sarab, and at noon the sun stood straight over it, and there wasn't a finger's width of shade from one end to the other. The walls were white. The gravel was white. The light came off it like heat off an iron plate, and at the far end of the lane, where it opened onto the sand, the air was shaking so hard it looked like water poured over glass.
+Round the corner of Umm Hanan's wall into the widest lane in Hilat al-Sarab, without a finger's width of shade from one end to the other, the light coming off it like heat off an iron plate. At the far end of the lane, where it opened onto the sand, the air was shaking so hard it looked like water poured over glass.
 
 Shibl was in the middle of the lane. Walking. Barefoot. Not hurrying. One sandal on and one off. Walking the way a child walks toward his mother at the end of a long day, with his arms a little lifted, ready to be picked up.
 
@@ -326,7 +322,7 @@ The boy didn't turn. He didn't hear. He was smiling. I could see it from behind,
 
 Theyab ran. I ran faster.
 
-I'm fast, little one. Even then, old as I was. A saluki was made to run down a gazelle across open gravel, and I went down that lane like a thrown spear, low, flat, my belly almost on the stones, and I passed the boy and turned and planted myself in front of him, between Shibl and the end of the lane, with every hair on my body standing up and a sound coming out of me that I'd never heard myself make. Not a growl. Lower. Something from before dogs.
+A saluki was made to run down a gazelle across open gravel, and I went down that lane like a thrown spear, and I passed the boy and turned and planted myself in front of him, between Shibl and the end of the lane, with every hair on my body standing up and a sound coming out of me that I'd never heard myself make. Not a growl. Lower. Something from before dogs.
 
 Shibl walked into me. Bumped against my chest. Blinked.
 
@@ -346,7 +342,7 @@ Not to Shibl.
 
 He stopped.
 
-I saw it go into him. I saw his whole back go loose, the way a man's back goes loose when he's been carrying something heavy a very long way and someone finally offers to take it. Eight years. Eight years of noons. Nobody, ever, had leaned out of a doorway and said it to him. And here it was, at last, in the lane, at noon, said kindly, said by someone who wanted him.
+I saw his whole back go loose, the way a man's back goes loose when he's carried something heavy a very long way and someone finally offers to take it. Eight years of noons. Nobody had ever said it to him. And here it was, said kindly, by someone who wanted him.
 
 He turned his head. Slowly. Toward the end of the lane. Toward the shaking air.
 
@@ -392,9 +388,7 @@ Nobody believed him.
 
 You knew that. I knew it as we came through the door. Umm Hanan woke and screamed. Saqi came, roused by the screaming, with his stick in his hand and his beard full of sleep, and found his younger son sunburned and blinking in the widow's house in the arms of the foundling. At noon. With one sandal missing.
 
-Theyab told him. Every word. He couldn't do anything else.
-
-He told him about the voice. *Coming, Mama.* The lane. The tall shape in the shimmer. The legs that bent the wrong way. *Tik.* He told it plainly and exactly, with his hand flat on his chest the whole time because the feather was quiet and he wanted Saqi to see that it was quiet, and that he was telling the truth.
+Theyab told him. Every word. The voice. The lane. The tall shape in the shimmer, the legs that bent the wrong way. He told it plainly, with his hand flat on his chest the whole time because the feather was quiet and he wanted Saqi to see that it was quiet.
 
 Saqi didn't know about the feather. Nobody did.
 
