@@ -1,20 +1,20 @@
 # Chapter Eleven
 ## Riders of the Storm
 
-> *Ride with the storm, never against it. And if you hear your name in the wind, do not answer. The wind does not know your name. Something in it does.*
+> *Ride with the storm, never against it. And if the wind says your name, do not answer.*
 > — what every lizard-rider's father tells him, before the first storm and after the last
 
 ---
 
 Night eighteen. The Ash was fat and white and getting fatter, and I'd stopped looking at it, the way you stop looking at a stranger who has been standing at the edge of your camp for too many nights without speaking.
 
-We'd left the City of Glass three days before, walking east toward the free towns. Soren had decided that if the walls didn't know a third way, then somebody alive might. Some old scholar, some water-finder, some half-mad hermit in a cave who'd heard a different ending to the story. "Everyone in this desert has a different version of every story," he said. "One of them has to be the one where the child lives."
+We'd left the City of Glass three days before, walking east toward the free towns. Soren had decided that if the walls didn't know a third way, somebody alive might. "Everyone in this desert has a different version of every story," he said. "One of them has to be the one where the child lives."
 
-Nobody answered that. The walls had shown us eleven children. Eleven painted faces, all of them young, all of them looking up. You don't argue with a wall like that. You just stop sleeping well.
+Nobody answered. The walls had shown us eleven painted faces, and all of them were children. You don't argue with a wall like that. You just stop sleeping well.
 
 Zayn walked. He found water. He sat by the fire in the evenings and copied the letters Soren drew, and when Soren made jokes he laughed at them, a little too quickly, like someone paying a debt to a man who might come back with a knife.
 
-I didn't say much. I'd told one lie in that glass hall and it had used up all my talking. Zayn hadn't mentioned it, not once. He still let me sleep against his side at night. Somehow that was worse. A boy who forgives you without a word is a boy who expects nothing else from anyone.
+I didn't say much. I'd told one lie in that glass hall and it had used up all my talking. Zayn hadn't mentioned it once. He still let me sleep against his side. Somehow that was worse.
 
 On the morning of the eighteenth day, Zayn stopped on top of a dune and sniffed the air.
 
@@ -24,9 +24,7 @@ Soren sniffed too. "I don't smell anything."
 
 "Like an old coin. Like a coin someone's been holding in their mouth." Zayn was looking south, where the sky along the edge of the world had gone the yellow of an old bruise, the kind that never quite heals. "It's coming fast." He frowned. "And something else."
 
-I'd already smelled it. I'd smelled it for an hour and kept hoping I was wrong. I'm old enough to know that hope is mostly a way of wasting the time you have left.
-
-Smoke without fire. Ash without heat. Cloth burning somewhere a long way off, and under it the sweet, flat smell of a room where somebody has been dead for days and nobody has opened the door.
+I'd smelled it for an hour and hoped I was wrong. Smoke without fire. Ash without heat. Burning cloth a long way off, and under it the sweet, flat smell of a room where somebody has been dead for days and nobody has opened the door.
 
 The Hollow.
 
@@ -40,7 +38,7 @@ Hounds first: eight, ten, more, running low, with darkness streaming off their b
 
 Behind the Hounds, on sand lizards, came men.
 
-I'll describe the lizards for you, since you've never seen one. Long and low and the colour of the dunes, with a frilled crest along the spine that flares red when they're angry, which is always. They run with their bellies skimming the sand and their tails held out stiff behind them, and their eyes roll independently, one forward, one back, so that a lizard is always watching where it's been. Faster than any camel ever born. They bite, and they don't let go.
+I'll describe the lizards, since you've never seen one. Long and low and dune-coloured, with a frilled crest that flares red when they're angry, which is always. Their eyes roll independently, one forward, one back, so a lizard is always watching where it's been. Faster than any camel. They bite, and they don't let go.
 
 The men on them wore grey robes. Their faces were smooth white masks with nothing on them: no eyes, no mouth, no nose. A blank white oval, like an egg, like the inside of a skull scraped clean. They didn't turn their heads to look at us. They didn't need to. The masks were all pointed the same way, at the same boy, the way flowers point at the Fire.
 
@@ -50,7 +48,7 @@ The Unnamed.
 
 Twelve of them. Zayn counted under his breath, and I watched the colour go out of him number by number.
 
-They were singing. Not words. It was a low hum with no tune, rising and falling with the lizards' strides, and it came across the sand to us without getting any quieter, the way a sound does in a dream.
+They were humming. No words, no tune, rising and falling with the lizards' strides, and it came across the sand without getting any quieter, the way a sound does in a dream.
 
 "Friends of yours?" said Soren.
 
@@ -82,7 +80,7 @@ I have heard a lot of things in my life. That one stayed with me. It was the voi
 
 A second lizard had come down the slope. Its rider was turning to slash at Soren's back. Zayn ran at it, ducked the snapping jaws, grabbed the rider's ankle with both hands, and hauled. The masked man fell without a sound. Zayn scrambled up onto the scaly back in his place.
 
-The lizard went mad underneath him. It bucked and spun, crest flaring scarlet, and Zayn grabbed two fistfuls of the frill and clamped his knees. I leapt. I landed half on his pack and half on his head, and clawed my way down into his lap, and he didn't even yell at me.
+The lizard went mad underneath him, bucking and spinning, and Zayn grabbed two fistfuls of frill and clamped his knees. I leapt, landed half on his head, and clawed my way down into his lap, and he didn't even yell at me.
 
 Soren was already racing away. Zayn's lizard saw its friend go and decided, as lizards do, that wherever that was looked better than here.
 
@@ -90,9 +88,7 @@ It ran.
 
 ---
 
-I've ridden on camels and in carts and once, unwillingly, in the beak of a very large bird. Nothing has ever been as fast as a sand lizard running from something it's afraid of.
-
-The dunes went past in a blur. Behind us came the Unnamed, a grey tide pouring over every ridge, the Hounds running ahead like smoke blown before a fire, and under the thunder of claws, steady, unhurried, that humming. Ahead, the bruised sky had gone brown, then black, and the storm was coming up to meet us like a wall falling over.
+The dunes went past in a blur. Behind us came the Unnamed, a grey tide pouring over every ridge, and under the thunder of claws, steady and unhurried, that humming. Ahead, the sky had gone black, and the storm was coming up to meet us like a wall falling over.
 
 "*Left!*" Soren shouted. "We go left, around it—"
 
@@ -110,11 +106,11 @@ And the storm swallowed us.
 
 The world went brown. Then it went dark.
 
-Sand everywhere, in the air, in our eyes and teeth, roaring like the sea, so thick Zayn couldn't see his own hands on the frill. He pulled his cloak over his face and rode blind. I pressed myself flat against his stomach and felt his heart going like a trapped bird's. The wind came behind us like a great hand at our backs.
+Sand everywhere, roaring like the sea, so thick Zayn couldn't see his own hands. He pulled his cloak over his face and rode blind. I pressed myself flat against his stomach and felt his heart going like a trapped bird's.
 
 And in the wind, there were voices.
 
-There always are, in a big storm. The old riders will tell you that. It's just the sand, they'll say, singing through the gaps in the dunes. But I've lived a long time and I know the difference between the sand singing and the sand *talking*. These were talking. Dozens of them, faint and close, right at our ears, saying the same few things over and over in voices that had been worn smooth.
+There always are, in a big storm. The old riders say it's only the sand singing through the dunes. But I know the difference between the sand singing and the sand *talking*. Dozens of voices, faint and close at our ears, worn smooth with repeating:
 
 *Is that you? Is someone there? I can't see. I can't see. Where did everyone go?*
 
@@ -130,13 +126,13 @@ He didn't. I felt him bite down on it.
 
 Behind us, the Unnamed tried to cut across.
 
-I heard it happen. A lizard screamed as its rider tried to turn it sideways into the wind. The storm caught it like a sail and flung it, lizard and rider and all, tumbling away into the dark. Then another. Then a Hound howled for the first time I'd ever heard one howl, as the wind tore the shadow off it in strips and there turned out to be nothing underneath. Not bones. Nothing.
+I heard it happen. A lizard screamed as its rider turned it sideways into the wind, and the storm caught it like a sail and flung it away into the dark. Then another. Then a Hound howled, the first I'd ever heard howl, as the wind tore the shadow off it in strips and there turned out to be nothing underneath.
 
 The riders didn't scream when they went. They just kept humming, right up until the storm took the sound away.
 
 *Ride with the storm, never against it.*
 
-Zayn had learned that from no one. He'd learned it from a lifetime of crouching alone in a patched tent at the edge of Harrow's End, listening to which way the seams were straining, while the voices in the wind said things outside. It had never seemed like a useful thing to know. Most of the things that keep you alive don't.
+Zayn had learned that from no one: from a lifetime of crouching alone in a patched tent, listening to which way the seams were straining while the voices in the wind said things outside. Most of the things that keep you alive don't seem useful until they do.
 
 One rider was still with us, close behind, running in the shelter of our lizards. Zayn didn't see him until the grey blade came out of the brown, low and fast.
 
@@ -146,11 +142,11 @@ It barely bled. That's the horror of them. They barely bleed.
 
 But for one long heartbeat, Zayn couldn't remember what honey tasted like.
 
-He knew he'd eaten it. He knew there had been a pot, and dates, and someone laughing. But the sweetness itself was gone, cut out of him clean, and where it had been there was a cold grey blank with smooth edges, like the place in a mouth where a tooth used to be. His tongue kept going back to it.
+He knew he'd eaten it. There had been a pot, and dates, and someone laughing. But the sweetness itself was gone, cut out clean, and where it had been was a cold blank with smooth edges, like the place a tooth used to be. His tongue kept going back to it.
 
 Then it seeped back, slowly. Mostly. He gasped.
 
-I don't think it all came back. I don't think it ever does. That's the thing nobody tells you about the grey blades. They don't cut flesh so much as they cut *you*, and you heal the way a dune heals over a footprint: smooth on top, and something missing underneath that you'll never be able to point to.
+I don't think it all came back. It never does. The grey blades don't cut flesh so much as they cut *you*, and you heal the way a dune heals over a footprint: smooth on top, and something missing underneath that you'll never be able to point to.
 
 Soren's lizard came round out of the storm, and the broken sword came down, and the rider behind us was gone. His mask spun away into the dark, still humming.
 
@@ -158,7 +154,7 @@ Soren's lizard came round out of the storm, and the broken sword came down, and 
 
 We came out of the worst of it into a place of stone.
 
-Ruins, older than Harrow's End, older than anything Zayn had ever dug in. A long road ran between two rows of carved pillars, half buried, half fallen, like the ribs of something enormous that had died lying on its back. There were faces carved on the pillars, worn almost smooth, and every one of them had had its eyes chiselled out. Not weathered. Chiselled. Someone had done it carefully, a long time ago, all the way down the road.
+Ruins, older than anything Zayn had ever dug in. A long road ran between rows of carved pillars, half buried, half fallen, like the ribs of something that had died on its back. There were faces carved on the pillars, and every one had had its eyes chiselled out. Not weathered. Chiselled, carefully, all the way down the road.
 
 The storm still howled overhead, but between the pillars the wind broke and swirled, and for a moment we could see.
 
@@ -182,7 +178,7 @@ A blind stone face lay a hand's width from his cheek, staring at him with no eye
 
 "I'm all right," he said into the sand. His voice was thin. "Nothing's broken. I think nothing's broken. It's just *very heavy*."
 
-Zayn got his shoulder under the edge and heaved. Nothing. He set his feet and heaved again until the cracks on his arms flared and his heels dug trenches, and the stone didn't so much as tremble. It weighed as much as a house. It weighed as much as a life.
+Zayn got his shoulder under the edge and heaved until the cracks on his arms flared, and the stone didn't so much as tremble. It weighed as much as a house. It weighed as much as a life.
 
 From the storm behind us, out of the dark between the pillars, came a snarl like tearing cloth.
 
@@ -200,7 +196,7 @@ The riders stopped in a line. They tilted their blank white faces, all four of t
 
 The fourth said nothing. The fourth had a child's voice, I learned later, and had nothing left to say at all.
 
-Zayn reached for the Light. It came, but grey and thin and sputtering, the way it had with the Hounds at the Wells, because he wasn't thinking about anyone else now. He was terrified, and the terror filled him to the brim and left no room for anything gold.
+Zayn reached for the Light. It came grey and thin and sputtering, the way it had with the Hounds at the Wells, because he wasn't thinking about anyone else now. Terror filled him to the brim and left no room for anything gold.
 
 The Hounds grinned their shadow grins. They have too many teeth when they grin. More than they have when their mouths are shut.
 
@@ -218,11 +214,11 @@ I'll tell you how it feels, because nobody has ever asked me.
 
 It feels like drowning in reverse. Something cold and enormous that has been folded small inside you for a very long time begins to *unfold*, and it doesn't care what it breaks on the way out.
 
-My silver eye goes first. It doesn't burn; it *opens*, wider than an eye should open, and behind it there's no fox at all. There's cold, spreading through my skull, down my spine, into my teeth. And then the dark comes up out of the place where half of me used to be. It isn't a part of me. It's a part of *it*, a piece of the Hollow I swallowed a long time ago, trying to drag someone out. It has been waiting the whole time. It's always been patient.
+My silver eye goes first. It doesn't burn; it *opens*, wider than an eye should, and behind it there's no fox at all. Then the dark comes up out of the place where half of me used to be. It isn't a part of me. It's a part of *it*, a piece of the Hollow I swallowed long ago, trying to drag someone out. It has always been patient.
 
 I grew.
 
-You should hear the sound it makes. Bones that aren't bones lengthening with a noise like wet rope being pulled tight. My jaw unhinging, and unhinging again. I grew until my head was level with the tops of the pillars. My fur went black, not black like a dune wolf's coat but black like the space between the Embers, the black that was there before the Weaver lit anything. It didn't lie on me. It *poured* off me, upward, the wrong way, like smoke going back into a fire. My mouth filled with teeth, row behind row, and they kept coming, the way they do on the Hounds, as if the dark simply makes more of whatever's useful. My eyes burned like coals in a cave.
+You should hear the sound it makes: bones that aren't bones lengthening like wet rope pulled tight, my jaw unhinging, and unhinging again. I grew until my head was level with the tops of the pillars. My fur went black, the black that was there before the Weaver lit anything, and it didn't lie on me; it *poured* upward off me, like smoke going back into a fire. My mouth filled with teeth, row behind row, the way the Hounds' do. My eyes burned like coals in a cave.
 
 And I could hear them. The ones inside the dark. Every Husk the Hollow has ever emptied, all the last words of everyone who has ever been forgotten, all of it rushing through me like wind through a ruined house. *Is someone there. Where did everyone go. Don't let it in.*
 
@@ -254,7 +250,7 @@ It was really to keep me from seeing their faces when they were.
 
 Zayn's face, looking up at me in that storm, was the worst thing I've ever seen. And I have seen eleven children burn.
 
-He didn't know it was me. Of course he didn't. All he saw was a monster made of the Hollow standing over Soren with its mouth full of teeth and its eyes full of embers, the biggest thing of the grey he'd ever seen except the Veilbeast. And somewhere in all the voices pouring out of me, he must have heard one say his name. I didn't mean it to. I don't know whose voice it used.
+He didn't know it was me. All he saw was a monster of the Hollow standing over Soren with its mouth full of teeth, the biggest thing of the grey he'd seen since the Veilbeast. And somewhere in all the voices pouring out of me, one said his name. I didn't mean it to. I don't know whose voice it used. All he felt was fear, filling him the way water fills a well, to the top and over.
 
 All he felt was fear, pure and total, filling him like water filling a well, all the way to the top and over.
 
@@ -268,11 +264,11 @@ Light and Hollow don't mix. Nothing in the world burns the dark the way the Ligh
 
 I howled.
 
-I had never howled before, not in all my years. I heard it come out of me, a broken, many-throated sound, every voice inside me screaming at once, and it rang off the pillars and went up into the storm. I felt the Light tearing into the Hollow half of me like fire into dry grass, and for one moment I felt the dark in me *afraid*, which I had never felt before and which I would very much like never to feel again. It burned my silver eye. It burned the black pouring off my back. It burned down into the cold place where the dark lived, looking for the bottom, and it *hurt*. Weaver help me. More than anything has ever hurt, and I was there when the Hollow took me the first time.
+I had never howled before. It came out of me broken and many-throated, every voice inside me screaming at once, and went ringing off the pillars and up into the storm. The Light tore into the Hollow half of me like fire into dry grass, and for one moment I felt the dark in me *afraid*, which I had never felt and hope never to feel again. It burned my silver eye. It burned down into the cold place where the dark lived, looking for the bottom, and it *hurt*. Weaver help me. More than the Hollow did, the first time it took me.
 
 I fell.
 
-And as I fell, I got smaller. The dark ran out of me like water out of a broken jar, and all those voices went with it, and the last one to go was the quiet one, the familiar one. The black fur went gold. The teeth went back to fox teeth, one row, small and ordinary. By the time I hit the sand I was only a fox again, lying on my side between the pillars, my fur scorched and smoking along one flank, my silver eye squeezed shut and weeping something that wasn't tears.
+And as I fell, I got smaller. The dark ran out of me like water from a broken jar, and the voices went with it, the quiet familiar one last of all. The teeth went back to one small, ordinary row. By the time I hit the sand I was only a fox, scorched and smoking down one flank, my silver eye squeezed shut and weeping something that wasn't tears.
 
 The light went out of Zayn all at once. He stood there swaying. His arms were cracked gold from wrist to shoulder.
 
@@ -298,19 +294,19 @@ That was the last thing I said to him for a long time.
 
 The storm blew itself out by nightfall.
 
-They made camp among the pillars, because Soren couldn't walk far. His legs were bruised black from the knees down, but by some miracle nothing was broken. Zayn built a fire from a dead thornbush and turned the nearest stone face toward the dunes so its empty sockets wouldn't watch us. Then he sat in the sand and gathered me into his lap, very carefully, scorched side up, and curled himself around me.
+They made camp among the pillars, because Soren couldn't walk far; his legs were bruised black, but by some miracle nothing was broken. Zayn built a fire from a dead thornbush and turned the nearest stone face toward the dunes so its empty sockets wouldn't watch us. Then he gathered me into his lap, scorched side up, and curled himself around me.
 
-He kept saying he was sorry. Over and over, very quietly, into my fur, until the words stopped sounding like words. Near the middle of the night he cried himself to sleep with his arms around me, and his hands, even asleep, kept checking that I was still there. As if I might come apart in the dark the way the Hound had.
+He kept saying he was sorry into my fur until the words stopped sounding like words. Near the middle of the night he cried himself to sleep, and even asleep his hands kept checking that I was still there.
 
 I lay in his arms with my good eye half open, and I watched Soren.
 
 Soren didn't sleep either.
 
-He waited until Zayn's breathing had gone slow. Then he got up, wincing, and limped away toward the far end of the ruins, where the pillar had come down. I think he wanted to see if any of them were alive. Soren was like that, even with them.
+He waited until Zayn's breathing had gone slow, then got up, wincing, and limped toward the fallen pillar. I think he wanted to see if any of them were alive. Soren was like that, even with them.
 
 One of them was. Barely.
 
-He lay a little apart from the others, half under the edge of the stone. His mask had cracked down the middle and come partly away, and Soren had to pull at it. It didn't want to come. It had grown to his face at the edges, I think, the way bark grows over a nail. When it finally came free there was a face under it much younger than I'd expected, thin and grey and frightened, the skin pale and soft as a thing kept too long in the dark. Not much older than Soren.
+He lay apart from the others, half under the stone. His mask had cracked down the middle, and Soren had to pull at it. It didn't want to come. It had grown to his face at the edges, the way bark grows over a nail. Under it was a face much younger than I'd expected, thin and grey and frightened, pale as a thing kept too long in the dark. Not much older than Soren.
 
 The young man's eyes found Soren's. For a moment, they were his own eyes.
 
@@ -320,7 +316,7 @@ Soren knelt there a long while. Then he reached into the dead man's robe and dre
 
 A letter. Folded small and sealed with grey wax.
 
-He held it up to the Ash, which was bright enough now to read by. I watched him look at the seal, and I watched him go still, the stillness of a man who has just seen a familiar face at a window where no one should be. He'd seen that seal before. He'd seen it pressed into the bottom of the order that sent him out of Veimore with half a sword. The personal seal of the Vizier Orrin.
+He held it up to the Ash, bright enough now to read by, and went still: the stillness of a man who sees a familiar face at a window where no one should be. He'd seen that seal before, at the bottom of the order that sent him out of Veimore with half a sword. The personal seal of the Vizier Orrin.
 
 He broke it and read.
 
@@ -330,13 +326,11 @@ Soren read it twice. His hand was shaking.
 
 Then he folded it very small. He twisted the bronze pommel off the hilt of his broken sword and slid the letter into the hollow where the prayer was supposed to go. He screwed the pommel back on, tight.
 
-He came back to the fire and sat down beside us with the sword across his knees. He looked at Zayn asleep, the golden cracks still glowing faintly up both arms, a scorched fox in his lap. He looked at me, and I didn't pretend to be asleep, and he didn't pretend not to have seen what I'd been that afternoon. Neither of us said a word.
+He came back to the fire and sat beside us with the sword across his knees. He looked at Zayn asleep, the gold still glowing faintly up both arms. He looked at me, and I didn't pretend to be asleep, and he didn't pretend he hadn't seen what I'd been that afternoon. Neither of us said a word.
 
 He didn't wake Zayn. He didn't tell him.
 
 I think he meant to. I think he was waiting until he knew what to do with it. I think he wanted Zayn, for one more night, to carry only one terrible thing instead of two.
-
-I've wondered since what the dying man said to him. Soren never told me. I've wondered whether it was a warning, or a name, or only the last thing the boy under the mask had ever said before they took him, and was finally allowed to finish.
 
 We were a fine pair, the prince and I. Two keepers of secrets, sitting up in the dark among blind stone faces, watching over the same sleeping boy.
 
