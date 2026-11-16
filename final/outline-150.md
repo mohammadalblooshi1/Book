@@ -26,11 +26,10 @@ The Smokeless are **good and evil**. **The evil ones want control**, and they ge
 **The named good ones** never take a person over; they only protect, warn, carry and fight. That rule is how readers learn to tell them from the evil ones. Most of them help because someone was kind to them first.
 - **The Sand-Mother** (land; set against Old Thorn). Above. She is unmade in Ch 129.
 - **The Lamp-Keeper** is Umm Hanan's house-Dweller, there because she always named the Creator before pouring hot water. It keeps her lamp lit against any wind; Ash-Mouth can't eat names in a house it guards (Ch 5, 6, 19, 145). It survives.
-- **The Lifter** is a good Drowner, set against the Deep Caller, and the reason a few divers ever came home. It is kind because Jasir's mother left fresh water at the sea's edge every night (Ch 33, 80, 84, 128, 139). Wounded under the salt, it survives, and carries Jasir up at the end.
+- **The Lifter** is the good one of all water, wells and sea alike, set against the Deep Caller and the Smiling Hunger (which poisons wells to make the Worn). It keeps wells sweet, hides water from the Grey, leads the thirsty to it, and lifts drowning divers to the air: the reason a few ever came home. It lives in the well of Bir al-Ghina'. It is kind because Jasir's mother left fresh water at the sea's edge every night, and because Theyab poured the first cup back (Ch 33, 44–45, 80, 84, 106, 128, 139). Wounded under the salt, it survives, and carries Jasir up at the end.
 - **The Turning Wind** is a good Whirler, set against the Black Wind. It turns storms from caravans and children and carries warnings, never names (Ch 37, 86, 89). It is torn apart turning the Black Wind away from the freed children (Ch 89).
 - **The Quiet Voice** is the good Bodiless Voice, set against the Thousand-Voiced and the Twin. It whispers "Not that way" and "Wake up", and **Theyab can't tell it from the Twin** (Ch 22, 26, 30, 49, 62, 100). It is revealed in Ch 147 as the voice that said "Wake up" every time the Sitter came, and it says it one last time at the cradle (Ch 150).
 - **The Threshold-Watcher** is a Dweller of doorways and cradles, set against the Heavy One and the Cradle Mother. It is Old Bakhit's unseen guest, poured a second glass of tea every night for three hundred years (Ch 4, 14, 146). After Bakhit dies it goes to Hessa's tent (Ch 148–150): old, and growing thin.
-- **Sweetwater** is a well-keeper, set against the Smiling Hunger, which poisons wells to make the Worn. It lives in Bir al-Ghina' (Ch 44–45) and shows Theyab the hidden water on the road to Ubar (Ch 106). It survives.
 On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the evil ones pouring from the sinkhole (Ch 123–124, 129). Some are unmade, and the reader should grieve them.
 
 **The Sealed King's five lieutenants** (named Turned; original names only):
@@ -494,7 +493,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 *"The singing well sings because it's full. Ask yourself what it's full of." — said at Bir al-Ghina'*
 - [ACTION] The well's Dweller, gone Turned, rises in a column of wet hair and voices and drags Theyab toward the lip. The Hoofed close in from the palms.
 - A young man comes out of the dark with a broken sword, fighting like a dance. It is **Hazza'**. He cuts the hair-rope and stands over Theyab, swearing magnificently.
-- Sweetwater, the well's true keeper and a good one from below, pleased by the poured cup, fights the Turned thing down the shaft ⟲⟲. Ghareeb kills one of the Hoofed with one bite. One. Never two. When the well's thing falls back down the shaft, it falls a long way, much farther than any well is deep. ⟨U⟩
+- The Lifter, the well's true keeper and a good one from below, pleased by the poured cup, fights the Turned thing down the shaft ⟲⟲. Ghareeb kills one of the Hoofed with one bite. One. Never two. When the well's thing falls back down the shaft, it falls a long way, much farther than any well is deep. ⟨U⟩
 - They sit up all night. Hazza', with the broken sword across his knees, tells the dog, "Good dog." No one has said that to Ghareeb in a hundred years (*base Ch 8*).
 - Hazza' gives his own name freely, laughing at the wind.
 - **Hook:** The thin moon hangs like the first stitch in a shroud. Ghareeb starts counting the nights: one turn of the moon.
@@ -804,5 +803,449 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 - Theyab is carried on toward the dead sabkha.
 - **Hook:** Across the white salt, lamps burn inside a buried ship, and voices from the crust are calling the boat home.
 [TWIST-T5 reveal]
+
+---
+# PART VI: THE SALT THAT SPEAKS (Chapters 76–90)
+
+### 76. Never Count the Lamps in a Buried Ship
+*"A ship in the sand is a ship still sailing; ask it where." — a saying of the sabkha herders*
+- [FIRE] *"The teller said… Hold your breath, little ones." He unfolds a burnt scrap of cloth with half a child's name on it. The children are seven. One girl asks after a friend, and no one, including her, can remember the friend's name: "——". The boy among them mentions "the ship's lamps" before the old man has said there is a ship.*
+- Ghareeb tracks the camel-string a night and a day, carrying the bell soundlessly and the hirz on its cord (*base Ch 15*).
+- The dead sabkha, white and cracked into plates, and at its edge a vast pearling dhow half swallowed by the dunes, leaning toward a sea a thousand years gone.
+- Lamps burn inside her through every crack. Ghareeb knows her lines: the oar-ports, the posts where the diving ropes ran.
+- He counts the lamps, and the count changes each time he counts. [UNREAL]
+- **Hook:** Out on the salt, voices begin calling to the boat.
+[FIRE] [TWIST-T9 seed] [UNREAL]
+
+### 77. Never Answer a Voice From the Salt
+*"Never answer a voice from the salt; the sea left, but its hunger stayed." — what the sabkha herders tell their children*
+- Night on the sabkha's rim. Drowned divers' voices call the boat from under the crust, so many that the salt hums.
+- It is the Deep Caller's work, carried on the Thousand-Voiced's tongues. One of the voices is Theyab's.
+- ⟨U⟩ Ghareeb's silver eye looks through the crust: the salt is a door. Under it the drowned walk in rows without going anywhere, and below them is heat with no light.
+- Ghareeb takes three steps onto the crust toward Theyab's voice before he stops. He hates himself.
+- Something vast curves under the crust, too big to be a back, and passes.
+- **Hook:** Inside the hull, a child begins to hum two notes, and many children take them up.
+[UNREAL] [the Deep Caller]
+
+### 78. Never Let Them Hear You Hum
+*"The song the captors teach you is the rope they lead you by." — a saying of the old slave-coast women*
+- Theyab's account, which he told once, in the caves on Jebel Hafeet, "looking at his hands the whole time". Inside the dhow's hold: eleven stolen children with shaved heads, silent, humming the chant.
+- Shibl is among them. The Nameless took him anyway, breaking their bargain with Nadim (cruelty returns on the one who bargained).
+- [ACTION] The children are half-people: half Worn, put on by the Smiling Hunger. They attack Theyab with cold, coordinated strength, then become children again, weeping, when his Light touches them.
+- ⟨U⟩ A hatch in the hold's floor opens not onto sand but onto a dark that breathes heat and smells of burnt hair and old frankincense. The children are lowered toward it at night "to listen".
+- Theyab holds Shibl and recognises him; Shibl recognises nobody.
+- **Hook:** The Nameless bring a brass bowl and a knife, and say a word Theyab now knows: Marked.
+[ACTION] [TWIST-T1 payoff]
+
+### 79. Never Burn Your Name for a Master
+*"Burn your name and you can't be cursed; also, you can't be called home." — the Liwa elders*
+- The name-burning ritual. Each child writes a name on a cloth and burns it, and each name vanishes from the text: "——, ——, ——". [UNREAL]
+- The burned names are food. Ash-Mouth feeds on them below the hatch, and the Nameless's power grows with each one.
+- Muhaisen presides. Theyab sees the faded grey eyes and understands: Muhaisen burned his own name, long ago, and chose forgetting when the Sealed King tested him. (The name *Mu'in* is seeded in a scorched corner of a cloth.)
+- Theyab refuses to write. They hold his hand to the cloth. He cannot lie, so he writes the truth: *Laqeet*. It burns, and nothing happens, because it was never his.
+- Then he tries to say Hazza''s name for comfort, and he can't: "——".
+- **Hook:** In the dark, an old blind man chained beside him says, "Don't fret. The sea took my name too, and gave me back worse."
+[UNREAL] [TWIST-T7 seed: names feed it]
+
+### 80. Never Ask a Drowned Man How He Drowned
+*"The divers never named it. Naming it was how it learned yours." — said on the pearling banks*
+- [TALE: the Deep Caller's origin, told by the blind diver, the last survivor of this very dhow's crew sixty years ago, kept by the Nameless because the salt-voices quiet when he sings]
+- The nakhuda's greed: diving at night on a forbidden bank for a pearl that glowed. The Deep Caller, the giant half-fish thing from below, called every diver off the ropes in his own mother's voice.
+- The diver, a rope-boy then, kept silent and lived. Something good from below, the Lifter, pushed him up to the air when he went under, "because my mother left water at the shore for strangers."
+- The sea drew back that night and became salt, and the ship has been sinking into the sand ever since, still trying to crawl home.
+- Hilal's books do not name the Deep Caller. "It's in no book. That's why it's still hungry."
+- **Hook:** The diver whispers: "It has a son walking among men. A boy with lamp eyes. It wants him home."
+[TALE] [the Deep Caller] [the Lifter]
+
+### 81. Never Lean on a Masked Man's Shoulder
+*"A falcon on the wrong fist still remembers the right one." — a falconers' saying*
+- Saqr guards the hold. He slips the children water ⟲ and doesn't hum when the others are near.
+- Theyab talks to him through the slats: about the song, about the man in the indigo veil buried to the neck in the sun.
+- Twice the voice that answers is not Saqr's. It is the Smiling Hunger, riding him, grinning through the mask. Saqr's own voice breaks through once: "Don't."
+- Theyab understands that his brother is Worn and fighting it, and has been all along.
+- **Hook:** Saqr leans on the slats as if exhausted. Under the mask's edge there is a hairline crack, and through it Theyab sees an eye wet with tears.
+
+### 82. Never Hold Your Hand Over Brass
+*"Blood on brass is a key; ask what door before you turn it." — a saying of the old smiths*
+- The Nameless bargain with Old Thorn, keeper of sealed places, which tasted Theyab's blood at Bahla. In return for leading them to the Marked boy, it wants first blood.
+- [ACTION] The palm-cut over a brass bowl, a lesser twin of the Sealed King's vessel. Marked blood drops, and the whole sabkha shudders. Far south, under Ubar, a seal weakens and every door from below widens a little.
+- The Sealed King's voice comes through the bowl, delighted, repeating its first-century vow: riches, long life.
+- Theyab's Light flares. Saqr, holding his shoulder, is caught in it, and they share one memory: **five-year-old Saqr holding his newborn brother** in a storm.
+- The mask cracks brow to chin. The Smiling Hunger screams in Saqr's voice. Saqr staggers out.
+- **Hook:** Muhaisen, licking blood from his thumb: "One seal left. Your father ran from it; you'll carry it home."
+[ACTION] [TWIST-T1 payoff] [TWIST-T5 deepen]
+
+### 83. Never Dig Under a Sleeping Ship
+*"Old hulls remember the sea; push one and it will try to swim." — the dhow-builders of the coast*
+- Ghareeb's chapter. Under the hull at night, with sand in his mouth, he digs.
+- His smoke-touched strength comes up. He digs under the rotten hull and brings down a buried section of timbers with a frightening force: no lifting, only a dog's realistic digging, impossibly fast and impossibly strong.
+- A way opens into the hold. He brings the bell to Theyab in his mouth and the hirz round his neck. Theyab puts the hirz back on.
+- The children follow Theyab's Light out through the hole, one by one, silent.
+- The blind diver refuses to come: "I'll sing them quiet behind you." ⟲
+- **Hook:** The ship groans and settles, and the whole white sabkha begins, very slowly, to move.
+[ACTION]
+
+### 84. Never Run Across the Salt at Night
+*"On the salt, run straight and don't look down; the ground has eyes under it." — the sabkha herders*
+- [ACTION] Escape across the moving sabkha: plates tilting, mud breathing under them, Nameless lamps behind.
+- The Halfman comes for the children, hopping across the salt: split lengthwise, one eye, one arm, one leg, impossibly fast. It takes the slowest child.
+- The Sand-Mother is there, a gold-eyed gazelle on the crust, but she can't come near Theyab while he wears the hirz. He has to choose. He tears it off. She hits the Halfman like a thrown spear and holds it back while the child is pulled free.
+- Under the crust, the Lifter fights the Deep Caller. The salt heaves with it, and the Nameless lamps go down one by one, still lit under the salt.
+- The blind diver's song stops.
+- **Hook:** Three dunes away, the voices on the salt start again. There are more now, and two or three of the new ones are only humming the two notes.
+[ACTION] [Sand-Mother] [the hirz dilemma]
+
+### 85. Never Walk on Salt That Remembers the Sea
+*"The salt is the sea's grave; walk softly, and don't wake the mourners." — said on the coast*
+- Dawn on the dunes. The children have no names left, only a story the Nameless let them keep because they thought it was theirs.
+- [TALE: The Boy of Salt, the seventh bearer, told by the smallest child, haltingly, in the children's own words] A diver's son, nine, on the old coast. The Deep Caller wanted his father's boat. The boy walked out onto the tide-flat at night and called it away from the boat with his Light, and gave himself on the wet sand. The sea boiled and drew back, and the salt flats are what was left.
+- It is a real tale. Ghareeb remembers the smell: wet salt and a child's scorched hair. "The Boy of Salt was nine."
+- The children cry for him. They don't know it is the first time they've cried since the hold.
+- The smallest child asks Theyab whether he's going to burn too. He can't lie.
+- **Hook:** On the horizon behind them something runs low across the sand toward the children. No, many things, with eyes like coals.
+[TALE]
+
+### 86. Never Carry a Dog That Should Be Dead
+*"A man carries his dog only once; ask him why." — a houndsmen's saying*
+- [ACTION] Ember Hounds chase. Theyab runs with Hazza''s broken sword in one hand and Shibl's hand in the other, and Ghareeb slung half-dead across his shoulders (*base Ch 16*).
+- One Hound, off to the left, says *Theyab* in a wet child's voice.
+- Every time Ghareeb lifts his head to look back, the pack turns exactly toward them. He sees it. He shuts his silver eye. The pack slows.
+- The Turning Wind, a good Whirler, raises a sand-veil between children and pack and buys them an hour.
+- At dawn, on the edge of a dune, an old man in a goat-hair cloak stands with a lamp, reciting. The Hounds break and run.
+- **Hook:** Mutawwa' Hilal looks at the children, then at the dog on Theyab's shoulders, and stops reciting.
+[ACTION] [TWIST-T4 seed]
+
+### 87. Never Read Over a Loyal Dog
+*"Read over the dog last; what's in a dog is loyal, and loyalty is hard to drive out." — a saying of the old healers*
+- Hilal reads over the half-people children ("half-people," he calls them, with pity), and the Smiling Hunger's grip in them loosens.
+- He reads near Ghareeb. The silver eye burns, smokes and bleeds black. Hilal says what it is: **the Sealed King's window**. When the dog threw himself after Ghadban, the Sealed King took half of him, and it has seen through that eye ever since. **[TWIST-T4 reveal]**
+- Hilal points out, with dread, that the Halfman on the salt had one eye too. "The ones from below make windows of whatever they halve."
+- In one paragraph, Ghareeb re-reads his life: the Nameless arriving after he saw clearly, Bahla's tower, the masks turning, the Grey knowing the way, the riders turning at the palm. The silver eye, at last, has been the enemy's all along. Bakhit's words: "It saw me through something."
+- Horror and shame complete. Readers must want to re-read Parts I–V.
+- **Hook:** At midnight Ghareeb rises and walks away from the fire, into the dark, without looking back.
+[TWIST-T4 reveal]
+
+### 88. Never Let Your Dog Leave You
+*"A dog that leaves you to save you is a dog you must chase." — a Bedouin saying*
+- Ghareeb walks away to protect the boy: if he's gone, the window goes with him.
+- Theyab follows him into the dunes all night on foot and catches him at dawn. "You stayed fifteen years. You don't get to leave because you're ashamed." It is loyalty returned ⟲⟲.
+- Theyab holds him, the dog's head against his chest. Neither can speak.
+- Hilal binds the eye with cloth soaked in read-over water. It dims the window, though it may also dim the dog.
+- **Hook:** Under the bandage the eye still aches, still sees, and something on the other side is patiently looking back.
+[TWIST-T4]
+
+### 89. Never Trust a Child Who Doesn't Cry
+*"The child who doesn't cry is the one to hold tightest." — a saying of the tent-mothers*
+- One child, a girl, stays half Worn: obedient, sweet, dry-eyed. The Smiling Hunger keeps its last hook in her.
+- At night she leads the youngest out toward "water", into the path of the Black Wind, which has risen for them out of a clear sky.
+- [ACTION] Theyab runs after them. The Turning Wind throws itself against the Black Wind to turn it from the children, and is torn apart: a good thing from below unmade, its last warning scattered as a sigh.
+- Theyab reaches the girl and gives her the Light. She becomes a child and weeps, her first tears, and all the children cry together.
+- The storm passes over them. Theyab sits in the quiet where the Turning Wind died and grieves for something he never saw.
+- **Hook:** The smallest child plays one note on a clay whistle with the end bitten off. Theyab gave it to her from the cairn at Wadi al-Sada.
+[ACTION] [the Turning Wind's death]
+
+### 90. Never Climb a Mountain That Knows Your Father
+*"Mountains keep what men drop on them, and give it back when they choose." — a saying of the Hajar*
+- Jebel Hafeet rises out of the gravel plain. The Al Bu Ghaf clan's goat-hair tents sit at its foot, among ghaf trees and hot springs.
+- The clan takes in the children under the three-day guest-right ⟲. The women wash the children's scalps and sing over them.
+- The clan's elders know Hilal, and they know the Rider's pale camel, which is tethered there.
+- Shibl says his first word since the dhow, "Nadim?", and nobody there knows the name.
+- **Hook:** At the cave mouth above the camp, burned black by the sun and alive because of a wet cloth his son left at his lips, stands Sharood.
+[TWIST-T6]
+
+---
+
+# PART VII: THE MOUNTAIN OF THE FATHER (Chapters 91–105)
+
+### 91. Never Sleep in a Cave That Is Warm
+*"A warm cave in winter is someone's house. Ask leave before you lie down." — a Hajar saying*
+- [FIRE] *"The teller said… Hold your breath, little ones." He sets down a small brass bell. It rings when a child fibs about being brave, and everyone laughs. Then it rings, very softly, when the small boy among them says, "I came with my brother." The old man doesn't hear. The saluki does, and growls for the first time at the fire.*
+- The caves high on Jebel Hafeet: warm rock, old soot on the ceilings, the clan's goats.
+- Theyab and Sharood can't speak to each other. Sharood leaves food at his son's place and goes.
+- Theyab asks Hilal what it feels like to be lied to by a father for fifteen years. Hilal: "Ask him. Gently. Or don't, and wonder forever."
+- **Hook:** Theyab finds Sharood at the cave mouth and asks the one question: "Why?"
+[FIRE] [TWIST-T9 seed]
+
+### 92. Never Ask Your Father Why
+*"Never ask your father why; he's been asking himself every night of your life." — a saying of the tent-mothers*
+- [TALE: The Runner, the eleventh bearer, Sharood's own story] At sixteen he had the feather. On the dune he ran. Ghadban's shape had made running sound like courage, as it had for Bakhit.
+- He married, and had two sons. The Nameless came on the night Theyab was born, wanting a Marked child. They took five-year-old Saqr, thinking he was the one. The boy's mother died in the fire of the tents.
+- Sharood hid the true Marked baby in a sandstorm near Hilat al-Sarab, wrapped in the name-cloth his wife had woven. At dawn he came back. A gold-eyed gazelle lay curled around the baby, and there was milk on his mouth. **The Sand-Mother is revealed.**
+- Sharood watched from a distance for fifteen years as the Veiled Rider. He was afraid that if he came close, they'd find the boy through him.
+- "I ran so that you would have to burn instead. Every day I have known that."
+- **Hook:** Theyab: "Did you ever come to the village?" Sharood: "Every Night of Lamps. I left bread on a widow's wall for her to leave for you." [UNREAL: Umm Hanan's bread re-read]
+[TALE] [Sand-Mother reveal] [TWIST-T6 deepen]
+
+### 93. Never Let the Children Name Themselves Twice
+*"A name chosen twice is stronger than one given once." — a saying of the Al Bu Ghaf*
+- Healing days. Hilal reads, and Theyab pours Light, and some children get their names back in a rush of tears.
+- Some names are gone for good, eaten by Ash-Mouth. Those children choose new names. One chooses *Hazza'*. Theyab can't speak.
+- Shibl recovers his name and his brother's face.
+- The clan teaches the children falconry and herding. There is joy, real and fragile.
+- A girl writes on a slate in a script she doesn't know. It is Theyab's handwriting, the Twin's, and it reads: *He will leave you.* [UNREAL]
+- **Hook:** A ragged rider comes up the valley at dusk on a dying camel. Shibl screams his brother's name.
+
+### 94. Never Forgive Too Quickly
+*"Forgive too quickly and the wound closes over the thorn." — a saying of the healers*
+- Nadim has followed the clan's trail, half dead. He kneels in front of Theyab and confesses everything: the Perfumed Bride, the deal, the room.
+- Theyab cannot lie. Asked "Do you forgive me?", he says, "Not yet." It is the most honest kindness in the book.
+- Nadim stays to serve the children. He is the one who sits up with them at night.
+- Nadim mentions a gazelle that stood in his road twice, and that he threw a stone at it. Theyab knows now who it was.
+- Nadim remembers the full-moon night differently: "On the salt road I saw you, from the dune. Walking toward the prince's fire. Smiling. I thought you'd made up." **[TWIST-T3 seed: a character remembers differently]**
+- **Hook:** Theyab never walked back. Ghareeb, hearing it, begins to shake.
+[TWIST-T3 seed] [UNREAL]
+
+### 95. Never Fly a Falcon at a Shadow
+*"A falcon sees the hare; it never sees the hand that hoods it." — a falconers' saying*
+- The Al Bu Ghaf's old falconer takes Theyab hawking at dawn.
+- [TALE: The Falconer, the eighth bearer, the clan's own ancestor] A herd-boy who trained a wild saker. When the feather woke he asked the old dog, very politely, whether he could go home now (*base Ch 2*'s line). He went to the dune. His falcon flew into the fire after him and the two burned together.
+- That is why the Al Bu Ghaf shelter bearers and stolen children: an old debt, kept as a promise.
+- A true tale. Ghareeb remembers the smell of feathers burning, and his hackles stay flat.
+- Theyab flies the falconer's saker and loves it for an afternoon.
+- **Hook:** The hooded saker turns its head and stares at Ghareeb's bandaged eye, then mantles and screams.
+[TALE]
+
+### 96. Always Learn the Words Before the Night Comes
+*"Learn the words in daylight; at night you won't remember which mouth you're using." — Mutawwa' Hilal*
+- Hilal's teaching. He opens his worn al-Jahiz and goes through the ranks again: Dwellers, the Turned, Breakers, Burners, and the lieutenants by what they do (eating names, putting people on, speaking in the voices of the dead, sitting, guarding).
+- **Written against unwritten:** Hilal trusts what's in his books. The clan women laugh softly: "And the Perfumed Bride? And the Deep Caller? Are they in your book, mutawwa'?" He says those are coast stories.
+- The Bodiless Voice, given both old explanations: al-Jahiz says the Bedu would think you mad to doubt it; al-Mas'udi says it is the desert's loneliness speaking. "Choose, if you can."
+- The hard rule: iron, hirz and recitation drive back good ones and evil ones alike. Theyab understands the salt, and the Sand-Mother, and why she could never come close.
+- Hilal: "That one under Ubar is not mine to send away. That one is waiting for you."
+- **Hook:** At night a voice calls Hilal's name from the dark beyond the tents. He answers calmly, "Not yet," and goes back to sleep.
+
+### 97. Never Leave Food for a Brother Who Hunts You
+*"Feed the wolf at your door, and one day it will guard it." — a saying of the herders*
+- Theyab leaves dates at the edge of camp each night for Saqr ⟲. At dawn they are gone.
+- [ACTION] Saqr's torment. The Smiling Hunger drives him into the camp at night, blades out, toward the children's tent. Saqr fights his own body every step.
+- Theyab meets him. Saqr's blade stops a finger from Shibl's throat and shakes there.
+- Sharood says his son's name, and Saqr flees bleeding, leaving one grey blade in the sand.
+- In the blade's ash-sheen, Ghareeb, through the bandage, sees the full-moon night again, and it is different.
+- **Hook:** "I've told you that night once. I was wrong. Not about everything. About what I saw."
+[ACTION] [TWIST-T3 seed]
+
+### 98. Never Make the Old Man Tell It Twice
+*"A tale told twice is either a lie corrected or a lie improved." — a saying of the coffee-hearth*
+- [FIRE: Nadim falters a second time] *He skips the formula again. The children say it for him, in chorus. He says the dog wants this part told again. "You heard the dog's first telling. The dog was wrong." A child protests that the dog can't be wrong. The old man covers his face. The small boy says, in a voice like one of the missing children's, "Tell it."*
+- On the mountain, Hilal reads over Ghareeb's eye to burn the Sealed King's colouring off the memory. It is agony; the clan holds the dog down.
+- What comes up is not new memory but the old memory, uncoloured.
+- Ghareeb prepares "little one": "I'll tell it again. Properly. In the same words, until I can't."
+- **Hook:** "Ghareeb hunts Ember Hounds all night, his shadow running ahead of him…"
+[FIRE] [TWIST-T3 approaching] [TWIST-T8 seed]
+
+### 99. Never Trust the First Telling
+*"The first telling is what you saw; the second is what was there." — a saying of the judges of the majlis*
+- **The second telling.** It opens word for word with Ch 60, then diverges: Ghareeb did not hunt all night. He turned back before midnight.
+- He saw Theyab walk back to the fire. It wasn't Theyab: it was the Twin in Theyab's body, smiling. Hazza' rose to embrace "Theyab" and said sorry. The Twin held his arms.
+- Muhaisen stepped out of the dark with an ash-blade. **The Twin opened the way to the killer**, and the killer was Muhaisen. **[TWIST-T3 reveal]**
+- Saqr came running, too late. He tried to stop it, and dragged Muhaisen off. Hazza''s blood got on Saqr's blades. The Sealed King, looking through the silver eye, coloured what Ghareeb "saw": Saqr as killer.
+- ⟨U⟩ Behind the fire that night, Ghareeb's eye showed the Underneath opening a crack, and the rows of the emptied turning to watch.
+- And Ghareeb froze. The eye held him like a hand on a scruff. Hazza''s last words were to the Twin: "Why did you hold me?" The Twin whispered, in Theyab's voice, "Never give up."
+- **Hook:** Theyab, laying his healing hand on the dog's bandage, sees it all through the Light, and looks down at his own hands.
+[TWIST-T3 reveal] [UNREAL]
+
+### 100. Never Look at Your Own Hands After Dark
+*"Your hands are the only part of you that can't lie; that's why the dark borrows them." — a grandmother's saying*
+- Theyab knows his body held Hazza' while he died. Despair. The Twin laughs in him, very softly, in his own voice.
+- He tries to cut his hands. Sharood stops him, and they hold each other for the first time.
+- That night the Heavy One comes itself, not a lesser Sitter: a weight like a dune on him. The Underneath shows him Hazza' at the singing well, laughing. Lie or truth?
+- A voice says *"Wake up."* He wakes, and can't tell whether it was the Quiet Voice or the Twin.
+- Hilal: the Twin is his, born with him, and he must master it, not hate it. "You'll carry it to the end. It will scream."
+- **Hook:** Outside the cave, unmasked for the first time to the waist, kneels Saqr. He was listening.
+[UNREAL] [TWIST-T2 deepen]
+
+### 101. Never Fight a Brother Who Won't Fight Back
+*"Two brothers fighting: the desert laughs; two brothers refusing: the desert listens." — a saying of the tribes*
+- Theyab goes out to Saqr with Hazza''s sword. Saqr won't raise his blade.
+- [ACTION] The Smiling Hunger raises it for him. Theyab fights his brother's body and talks to his brother's face.
+- Light touches. The shared memory comes again, longer: Saqr, five, singing the song to the baby in the burning tent.
+- Saqr can't speak. He hasn't spoken his own words in fifteen years, and he won't until the end. He presses his forehead to Theyab's.
+- The Smiling Hunger wrenches him away into the dark, back toward the Nameless.
+- **Hook:** In the sand where Saqr knelt, a word has been scratched with a blade-tip, a word Theyab can't yet read.
+[ACTION] [TWIST-T5 deepen]
+
+### 102. Never Open What a Dead Friend Closed
+*"What a friend locked, he locked with his life; open it gently." — a saying of the majlis*
+- The letter in the hilt (*base Ch 16*). Theyab twists off the brass pommel. Because Hazza' taught him, he can read ⟲⟲.
+- There is the Nameless letter (Muhaisen will have Sheikh Mutlaq killed on the Night of Lamps) and Hazza''s own note in his big clumsy letters: *Theyab and Hazza': monsters.* And: *If I'm wrong about the third way, at least make them sorry.*
+- Theyab laughs and cries at once.
+- He stands: "I'm going to Ubar." Sharood: "Every gate is waiting for the Prince-Killer." "Probably." The bell doesn't ring.
+- Sharood's hand on his shoulder. Theyab lets it stay, and doesn't call him father, but doesn't step away.
+- **Hook:** Hilal, very quietly: "Then I'm coming. My books end at Ubar's gate. I'd like to read past them."
+
+### 103. Never Teach the Children to Wait for You
+*"Don't tell a child you'll come back; tell him what to do if you don't." — a saying of the tent-mothers*
+- Preparations. The Al Bu Ghaf promise riders. The children give gifts: a plaited cord, a falcon's feather, and the bitten clay whistle, given back to Theyab and then given again to the smallest child: "You keep it. Blow it when you need me."
+- Theyab teaches the children their letters in the sand, as Hazza' taught him ⟲⟲. Kindness passes forward.
+- He gives Nadim Bakhit's bell: "So you'll always know." (This is the bell on the frame's sand.)
+- Nadim will stay to protect the children and Shibl. It is the start of his arc as the one who will raise the next bearer.
+- **Hook:** Theyab finally reads the word Saqr scratched: *brother*.
+[TWIST-T8 seed: the bell's path]
+
+### 104. Never Use the Enemy's Eye
+*"If your enemy watches through your window, show him a garden." — a saying of the old sheikhs*
+- They ride south. Nameless riders shadow them, guided through the eye.
+- Ghareeb's idea, put across with the bark code: he'll take off the bandage and look at a false trail.
+- [ACTION] Ghareeb stares deliberately down the wrong wadi. The Nameless follow it into an Al Bu Ghaf ambush, and the Lantern Man's lights, sent to lure the travellers, lead the Nameless instead.
+- The eye has been turned against its master, for once.
+- Through the eye, for the first time, the Sealed King speaks to Ghareeb directly, in Ghadban's boy-voice: *"Kiri. Clever dog."*
+- **Hook:** It is a name Ghareeb hasn't heard in thousands of years: his first name, from before.
+[ACTION] [TWIST-T4]
+
+### 105. Never Answer to a Name You Gave Up
+*"The name you left behind is a door you forgot to shut." — a saying of the Liwa elders*
+- In dreams the Sealed King, as the shepherd boy Ghadban, walks with "Kiri" in a green valley. It is the one memory Ghareeb has kept clean.
+- The offer: his whole self back, his true eye, his old life, his friend, if he brings the boy to Ubar without the bandage.
+- Every major character is tested, and this is Ghareeb's test. He refuses, growling, and wakes.
+- He tells "little one" this was the hardest refusal of his life, because he wanted it.
+- **Hook:** At dawn the bandage lies on the sand, untied, and he does not remember untying it.
+[TWIST-T4] [UNREAL]
+
+---
+
+# PART VIII: THE CITY OF THE DEAD (Chapters 106–120)
+
+### 106. Never Smell a City Before You See It
+*"You smell Ubar for years before it lets you see it; some smell it all their lives." — said by the funeral guides*
+- [FIRE] *"The teller said… Hold your breath, little ones." He crumbles a lump of old frankincense into the fire, and the smell is sweet and closed. A girl shares her dates with the small boy, who eats them politely. The saluki watches the boy's feet, which are always tucked under his dishdasha.*
+- The long ride south into the deep red sands. The Lifter, the good one of the water who lives in Bir al-Ghina''s well, leads them to hidden water in a dune hollow, where a single date-palm grows from nothing ⟲⟲ (the first cup Theyab poured back).
+- From the crest of a high dune they see old caravan tracks converging, visible only from above, like scars.
+- On the twelfth day comes lamp smoke: ten thousand wicks, and under it something sweet and shut, like dates in a jar.
+- Sharood: "Close is as far as I've ever got."
+- **Hook:** Camels come over the ridge carrying long white bundles, led by a thin young man with an ash-grey patch on his face.
+[FIRE] [TWIST-T9 seed] [the Lifter]
+
+### 107. Never Follow the Funeral Camels
+*"Follow the dead to Ubar and you'll arrive; it's leaving you'll find hard." — a saying of the guides*
+- Jasir (*base Ch 17*). "You." He has guided the dead to Ubar for a year: the only road that lets you in.
+- He confesses he ran because the Light showed him his own half: the sea in his blood. He hears the dead in the bundles, and they tell him the way.
+- His eyes shine at night. He can walk the dead roads unharmed. Hilal's recitation makes him dizzy and sick, but doesn't hurt him. Half of him is from below. **(Half-Smokeless: partly revealed.)**
+- Theyab gave him his last water. Jasir will lead him in ⟲⟲.
+- Ghareeb lies across his feet as he did in the caravan's wreck.
+- **Hook:** "There's a way in that isn't a gate. The dead showed me. It's not on any map. Or it is, but wrong on purpose."
+
+### 108. Never Trust a Map Drawn by the Living
+*"The map is wrong in one place, and that place is the door." — said by the old frankincense guides*
+- Jasir's secret way. An old guide's map has one deliberate error, a well placed a day's ride wrong, and the error marks the real way.
+- They see Ubar at last from the high dunes: a ring of towers joined by thick walls around a well, and a great sinkhole where part of the city has fallen into the limestone below. Frankincense lamps burn day and night.
+- They enter through a dry falaj channel running under the walls into the city's cisterns.
+- Hilal and Sharood go in by the funeral gate, as mourners, to find the Sheikh.
+- **Hook:** In the channel's dark, Jasir stops: "Someone's been waiting for you down here for a long time." A thin figure stands knee-deep in old water, repeating, *"Bar the door, bar the door."*
+
+### 109. Never Walk Ubar's Streets at Noon
+*"In Ubar, the noon is longer; the Mare likes old cities best." — said by the lamp-sellers*
+- Suhail, the emptied stable boy Hazza' hid, is half emptied and still wandering. He shows them a hidden way out of the channel ⟲⟲ (Hazza''s kindness returns).
+- Ubar's noon streets are empty and white. Hoofprints cross the lane, and a woman's voice calls children who aren't there: the Noon Mare, at home in an old city.
+- The names of the dead are painted in the wall niches, and lamps are kept burning against the dark, oil bought a thumb at a time.
+- The emptied stand in corners, all facing the sinkhole.
+- Suhail touches the broken sword on Theyab's back and says one new sentence: "He came back for me."
+- **Hook:** Suhail leads them to a kitchen door, where a huge woman with a ladle is waiting, as if she always knew.
+
+### 110. Never Refuse a Cook's Bread
+*"The cook who feeds the princes knows where the knives are kept." — said in Ubar's kitchens*
+- Umm Shamma, the palace cook, who fed Hazza' and Zaid as boys. She hides Theyab in the store-rooms and feeds him ⟲⟲.
+- She tells stories of Hazza' as a thieving, beloved boy. Theyab laughs and cries into her bread.
+- She fears what is "in no book": the Perfumed Bride has walked the palace for a year as a lady of the court, and Umm Shamma can smell her. "The mutawwa' won't believe me. It's not in his books."
+- Zaid comes to the kitchens at night to steal honey, as Hazza' did. He sees the broken sword and knows it.
+- **Hook:** Zaid: "They say you killed my brother." Theyab can't lie: "My hands held him."
+[the Perfumed Bride]
+
+### 111. Never Climb the Wall to Read the Words
+*"The walls of the old city speak; the wise leave without answering." — said of Ubar*
+- Warning words are carved on the inner walls of Ubar's oldest quarter, about pride and death, as in the old tale of the city of brass. Men who climb to read them laugh and leap, into the sinkhole.
+- A guard climbs, laughs, and leaps while they watch.
+- Theyab can read now. He reads, and the words are in **his own handwriting**, centuries old. [UNREAL]
+- He starts to laugh. Jasir drags him down, and Ghareeb bites his heel.
+- The words are the Twin's, carved long ago, or the Thousand-Voiced's forgery of him. It is never settled.
+- **Hook:** Palace guards seize Theyab at the wall's foot: "The Prince-Killer."
+[UNREAL] [ACTION]
+
+### 112. Never Kneel Where a Prince Was Accused
+*"The court that exiled the son will hang the friend." — a saying of the majlis*
+- Sheikh Mutlaq's court: proud, grieving, frankincense smoke. Muhaisen stands at his shoulder, and Hilal and Sharood are among the mourners.
+- The Perfumed Bride sits among the court's women in a veil, with oud and rot. Ghareeb's hackles stand, and Hilal sees nothing: she isn't in his books.
+- Theyab tries to show the letter. Muhaisen intercepts it: a forgery, he says, and the boy a murderer. Theyab cannot lie, and says "My hands held him." That condemns him.
+- Under his cloak, Muhaisen touches the leather case that holds the tablet, and the guards' faces go slack.
+- Zaid tries to speak and is sent from the room.
+- **Hook:** They throw Theyab, with Jasir and Ghareeb, down into the tombs beneath the city.
+[the Perfumed Bride] [the tablet]
+
+### 113. Never Read by the Light of the Dead
+*"In the tombs, read quickly; the lamp-oil is borrowed from the dead." — said by Ubar's lamp-keepers*
+- The endless tombs. Painted names, rows of shelves, the smell of old resin.
+- Hazza''s library, rooms and rooms going down into the dark, where he hoped for a third way. Theyab reads by a stolen lamp.
+- He finds Hazza''s boyhood notes in a margin: *There is always another way. —H.* He had been looking for Suhail's cure.
+- A bearers' ledger, kept by the lamp-keepers for centuries. Some pages are torn out. [TWIST-T7 seed]
+- The dead whisper to Jasir. One of them, very old, wants to be seen.
+- **Hook:** At the bottom of the stair, a man sits on a stone chair, perfectly preserved, and his eyes are open, and they move.
+[TWIST-T7 seed]
+
+### 114. Never Look Into the Eyes of the Last Sheikh
+*"A king who waits too long to give will give everything at once, and too late." — a saying of the old tribes*
+- [TALE: The Last Sheikh, the fifth bearer, told by the carved panels around his tomb, which Theyab reads aloud, and by Suhail, who has wandered down and repeats the dead man's last words]
+- A boy who became sheikh of Ubar at fourteen with the feather on his chest. He refused, then ruled, then gave himself at last, too late. By then the Grey had taken half the city, and part of Ubar fell into the sinkhole.
+- His people embalmed him and set him at the bottom of the stair, with his eyes open "so he'll see what his delay cost."
+- A true tale. Ghareeb remembers the smell, and remembers that the boy cried for his mother.
+- Theyab, reading, understands what delay costs, and stops hoping for a third way.
+- **Hook:** The Last Sheikh's eyelids slowly close, and the oud smell comes down the stair.
+[TALE]
+
+### 115. Never Breathe the Perfume Under the City
+*"If you smell oud in a tomb, the bride has come for the groom." — said in Ubar's kitchens*
+- [ACTION] The Perfumed Bride in the tombs: beautiful, then not, her blades scraping the walls.
+- Jasir fights her and bargains with her in a tongue from below. Being half of below, he can.
+- Ghareeb fights, and Theyab with the Light. She is wounded but not destroyed, because she is not in any book that tells how.
+- She tells Jasir what he is, and laughs: "Your father is waiting under the city's well, little lamp-eyes."
+- She escapes up a shaft.
+- **Hook:** The shaft breathes heat. Below the tombs is a deeper stair, and at its foot a light that isn't lamplight.
+[ACTION] [the Perfumed Bride]
+
+### 116. Never Touch the Brass That Holds a Vow
+*"A vow kept in brass goes sour like milk in a skin." — a saying of the old smiths*
+- The limestone cavern beneath Ubar's well, the great door. The broken brass vessel with its ancient seal, half sunk in the cavern floor.
+- Old Thorn guards it, keeper of sealed places, made of thorny dark. It smells Theyab's blood and remembers it from Bahla and the dhow.
+- ⟨U⟩ Past the vessel the cavern floor isn't floor. It goes down into the Underneath: heat without light, the smell of burnt hair and frankincense, endless rows of the emptied walking nowhere, and voices using Theyab's name.
+- The Sealed King's voice rises from the vessel, repeating its rotted vows in order: riches, wishes, ruin. "One seal left. Your blood."
+- Ghareeb's silver eye looks into the Underneath and knows it as home. He is horrified at the homesickness.
+- **Hook:** Jasir is walking toward the edge of the cavern as if called, and something from below is calling him by a name only his mother used.
+[TWIST-T1] [the tablet's hollow fits a niche here]
+
+### 117. Never Ask a Guide Who His Father Was
+*"A guide knows every road but the one his father took." — a saying of the funeral guides*
+- Ghareeb pulls Jasir back by the sleeve. Jasir confesses: his father is the Deep Caller. **(Confirmed: half of below.)**
+- Through the cavern, the Sealed King makes its offer: to make him whole, all of below, free of the human half that hurts. Arabian Nights and Days: a test that reveals.
+- Jasir wants it. He is lonely in both worlds.
+- He looks at Theyab, who gave him his last water, and says, "Not today." That is all he can promise.
+- Far off under the sand, water moves toward Ubar from the sabkha: the Deep Caller is coming to the city's well for his son.
+- **Hook:** Suhail beckons: a way up, past the bearers' tombs. "Count them," he says, and smiles.
+
+### 118. Never Count the Graves of Ubar
+*"Count the graves of Ubar and one will be yours; count them twice and you'll know who lied." — said by Ubar's lamp-keepers*
+- The bearers' tombs, under eleven painted names. Theyab counts. There are **nine** graves.
+- The tombs of the Weaver's Daughter and the Dreamer are empty and freshly cut, their carved stories new. The torn ledger pages match: two bearers added. **[TWIST-T7 reveal]**
+- The truth: the Nameless invented two holy tales to make the sacrifice look holy and glorious. The Sealed King wants bearers to burn, because each burning **feeds** it as well as sealing it. The cycle itself is the horror.
+- Ghareeb realises his "memories" of those two came through the eye, planted, with no smell. He scratched *twelve* in Ch 2, and the truth was ten. Readers re-read Ch 35 and 66.
+- Theyab: "Then why am I burning? If the fire feeds it…" No one can answer.
+- **Hook:** From the cavern below, the Sealed King laughs, the first time it has ever laughed in the book.
+[TWIST-T7 reveal]
+
+### 119. Never Listen to a Wazir on the Stair
+*"The truth from a liar's mouth is the sharpest lie of all." — a saying of the majlis*
+- Umm Shamma and Zaid get Theyab out of the tombs and hide him in a high tower room.
+- Ghanim is glimpsed in the street below: masked, a Nameless lackey counting lamp-oil, poorer than he has ever been.
+- Muhaisen's soft slippers come up the stair. He knows everything. He sits at the door and talks (*base Ch 17*): his dead son and brother, why forgetting is mercy, why the cycle must go on.
+- Every word is true, and Ghareeb's hackles stay flat. That is the horror.
+- "Tomorrow night, the lamps go out."
+- **Hook:** On the opposite tower roof crouches a figure with two grey blades and a mask cracked brow to chin, humming.
+
+### 120. Never Light a Lamp for a Child Not Yet Dead
+*"Light a lamp for the living and the dead will come to see who it's for." — said in Ubar on the Night of Lamps*
+- The eve of the Night of Lamps (*base Ch 18*). On the fort's black stairs, eleven brass lamps with coloured panes, one per bearer. An old lamp-keeper lights them.
+- Ghareeb names them, and now knows two are lies.
+- Theyab slips down at midnight and blows out two lamps: the Weaver's Daughter and the Dreamer.
+- He leaves room for a twelfth and sits by the dark place: "There should be another one. Tomorrow."
+- Al Bu Ghaf dust on the eastern dunes: riders, and the freed children with them, coming ⟲⟲.
+- **Hook:** Behind him on the stair, the two dark lamps relight themselves.
+[TWIST-T7]
 
 ---
