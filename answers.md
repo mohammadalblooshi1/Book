@@ -89,3 +89,19 @@
 73. **Zayn as a prisoner:** All of it. They try to take his name, drain his light, and make him relive his worst pain. It is the darkest chapter of the book.
 74. **The cult's base:** An ancient ship buried in the dunes.
 75. **The joining ritual:** New members write their name on cloth and burn it.
+76. **Children in the cult:** Yes. The cult steals children, as it did with Tamir, and Zayn wants to save them.
+77. **Strongest fighter after Tamir:** **Brother One**, Orrin's giant bodyguard, who never speaks.
+78. **Who wants to escape:** Only Tamir.
+79. **Orrin's end:** He dies.
+80. **Second traitor:** **Bram**. He tells the cult where Zayn is, then regrets it forever.
+
+## H. Malek
+81. **How he speaks to Zayn:** First in dreams, then through Husks speaking his words in unison, and finally face to face on the Crown Dune. He gets closer as the story goes on.
+82. **His most convincing argument:** "You'll be forgotten. No one remembers the bearers."
+83. **When readers pity him:** Only at the very end, when he is healed.
+84. **As a human:** A small, ordinary, poor shepherd boy.
+85. **Friends or family:** Kiri was his only friend, which is why Kiri misses him most.
+86. **Last words when healed:** "I remember my name."
+
+## I. World & Magic
+87. **Names for the sky:** The sun is **the Fire**, the moon is **the Ash**, and the stars are **the Embers**.
