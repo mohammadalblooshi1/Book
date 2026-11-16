@@ -172,6 +172,24 @@ He tied it to his belt by its camel-hair cord, under the fold of his shirt. A sm
 
 I went down into the market to find something to eat.
 
+It was an ordinary oasis market at the end of the morning: dates, rope, goats complaining, a coffee-seller with his brass pots in the coals. By the old well under the two palms, an old man sat cross-legged on a mat with a tin cup, and the children were teasing him.
+
+He was blind the way pearl divers go blind, his eyes cooked white by forty summers of opening them in salt water on the banks. His nose was flattened where the bone clip had pinched it shut every dive of his life, and his fingers were seamed with old white scars from the oyster shells.
+
+"Tell the one about the ship," said a boy, and dropped a date in his cup.
+
+So he told it, half sung, the way the old divers tell things. A pearling dhow from the coast, generations back, a big one with forty divers and as many pullers and a *nahham* to sing them down. Lying off the banks on a black night with no moon. And a voice coming up out of the water, calling one diver by his name, in his own mother's voice. Then another name. Then all of them.
+
+"*Bu Darya*," the old man said, and the children went quiet. "The Father of the Sea. Big as a reef. A man's throat on him and a fish's belly, and no pity in either. He calls you by your name, and you answer, and over the side you go. And he takes you down to the dark of the banks and keeps your voice, to use on the next boat."
+
+He sipped his coffee. "They found that dhow years after. Inland. A day's ride from any shore, lying on the salt where the sea went back. Not a man of her crew aboard. And you go near that sabkha at night, you'll hear them still. Calling to the pullers to haul them up. Calling and calling." He tapped the cup with one scarred finger. "Never answer a voice from the water, boys. Not even when the water's gone."
+
+The children ran off shrieking, happy. The old man turned his white eyes to the shade where I was standing, which no blind man should have been able to do.
+
+"Stay off the dead salt, saluki," he said. "It remembers what it ate."
+
+I didn't know then that I'd be lying under that ship in two days' time. I'm not sure I'd have done anything differently if I had. That's the trouble with warnings. They only work on the people who were going to stay home anyway.
+
 ---
 
 That's where I saw Nadim.
@@ -181,6 +199,14 @@ I almost didn't know him. The boy I'd last seen in Hilat al-Sarab had been broad
 There was a grey streak down one side of it. Not the old one, from the emptied thing in the lane. A new one, running from his temple into his hair, and the hair there had gone grey too, all the way to the roots, as if someone had laid a cold thumb on him and pressed. When he blinked, the eye on that side was a little slow to follow.
 
 I went very still in the shade of a palm-frond awning.
+
+Then the wind turned, and brought him to me.
+
+Sweat. Fear. The black rot of feet bound too long in the same rags. And under all of it, worked into his hair and the threads of his shirt the way smoke works into the walls of a tent, a scent that had no business on a starving boy. Oud. Musk. And beneath them, faint and sweet, meat turning in the sun.
+
+He'd been close to her. Not for one night on the road. Close for days. Close enough that she'd touched him, and kept touching him, the way you keep a hand on a camel you don't want to wander.
+
+The children at the well wrinkled their noses at him and moved off without knowing why. A married man coming out of the coffee-seller's stopped, sniffed, and looked at the ragged boy with an expression I've seen on men's faces before, a kind of sick recognition, and walked quickly the other way.
 
 He didn't see me. He was watching the house with the teak door the way a starving dog watches a butcher's stall. When the market got busy around noon he slipped off down a narrow lane between the dyer's yard and the garden wall.
 
@@ -208,7 +234,7 @@ My back stayed flat. True. All of it.
 
 "Good. Tonight, then."
 
-"And Shibl?" Nadim took a step forward. "You *promised*. When you found us in the desert, you said you'd keep him safe from the grey. You said if I found the glowing boy, you'd give my brother back."
+"And Shibl?" Nadim took a step forward. "You *promised*. When she brought us to you in the desert, you said you'd keep him safe from the grey. You said if I found the glowing boy, you'd give my brother back."
 
 "When we have the bearer," said the mask, "the child goes free."
 
@@ -344,6 +370,10 @@ Someone was standing in it. Behind the masks, in the shadow at the top of the st
 
 Nadim.
 
+Theyab told me afterwards that for a moment, over the burning cloth, the room smelled sweet. Heavy and sweet, like a wedding tent. He'd thought it came from the masks.
+
+It didn't. I smelled it too, from the floor, through the white roaring in my head, and I knew exactly whose it was, and on whom. It came in through that doorway on a thin boy's rags and lay over the wrecked room like a hand: oud, and musk, and under them the meat in the sun.
+
 They looked at each other across the wrecked room. The boy who'd thrown the first stone, and the boy it had hit.
 
 "They've got Shibl," Nadim said. His voice was barely there. "I'm sorry. Theyab, I'm sorry."
@@ -364,7 +394,15 @@ I picked it up in my teeth, gently, the way I'd carried it the night before, cor
 
 I didn't know where they'd taken him. I didn't know whether there'd be anything left of him when I found him. I only knew that the bell had rung, and rung too late, and that I had been standing in a courtyard when it did, with the truth in me, and no way to say it, and no courage to show it.
 
-Nadim told me, many years later, sitting by a fire with his hand on my head the way the bearers used to, that he never forgave himself for that night.
+Nadim told me the rest of it many years later, sitting by a fire with his hand on my head the way the bearers used to. Only once. He was a grown man with grey in his beard by then, and Hessa was asleep, and he'd been staring into the coals a long time.
+
+He said he'd carried Shibl out of Hilat al-Sarab on his back when the grey took their father, and walked until his feet bled through the rags, and on the fourth night, on the salt road, a woman had stepped out of the dark ahead of them. He said she smelled like a sheikh's wedding. He said she called his brother by his name before he'd spoken a word, and said it so gently that he wept, because nobody had said Shibl's name kindly in days. Not even him. She gave them water from a skin that never seemed to empty, and walked ahead of them all night, and every time he stumbled she turned her head and smiled, and he got up.
+
+"Just before dawn we came to a fire," he said. "White masks round it. She stopped at the edge of the light and let me walk past her into it." His hand went still on my head. "I looked back. Once. To thank her. Her hands were wrong, Ghareeb. Long. Curved. Like the sickles you cut fodder with. And her face—" He stopped. "I don't know what her face was. I think she'd only been wearing it for me."
+
+He never said whether she was one of them, a Nameless woman with oud on her robe and a trick of knowing names, or the thing the grandmothers warn their sons about, borrowed for the road. I never asked him. My hackles stayed flat the whole time he talked. Whatever she was, he told it true.
+
+He said he never forgave himself for that night.
 
 Neither did I.
 

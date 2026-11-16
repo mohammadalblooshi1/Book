@@ -28,6 +28,26 @@ A vast old hull, longer than all of Hilat al-Sarab, sunk on its side like a drow
 
 And inside it, through every crack and gap, lamps burned.
 
+I knew what she'd been the moment I saw her lines. Not a trader. A pearler, a big one, built for the banks, with the long rows of oar-ports down her sides where the pullers had sat, and the stubby posts along the rail where the diving ropes had run. Half out of the sand by her stern lay a heap of the stones divers tie to their feet to go down fast, still on their rotten cords, bleached white as knucklebones. The blind man in the market had been telling the truth. They usually are, the ones the children laugh at.
+
+The sea had been here once. Not in my time, but near it. The sabkha was what the sea left behind when it went: a crust of salt over grey mud, and the mud over something soft and deep and never quite dry. In summer the crust cracks into plates the size of camel saddles, and between them it breathes out a smell of rot and old tide.
+
+No herder grazes near that flat. No caravan camps within a night of it. Every Bedouin between Liwa and the coast knows why, though they'll only say it after the coffee has gone round twice and the children are asleep. The thing that took that boat didn't leave when the water did. It went down. Bu Darya, the Father of the Sea, who calls the divers by their names.
+
+That was why the Nameless had chosen the wreck. A lair no one would ever come close enough to find, because of what you heard there.
+
+I heard it that first night, later, lying on my belly in the hole I'd dug against the hull, while the lamps moved about in the hull above me.
+
+Voices. Out on the salt.
+
+Men's voices, thin with distance, coming up through the crust the way water seeps up into a footprint. Calling the way divers call from the water to the boat. *Haul! Haul me up!* And names. Names I didn't know. A man calling for his brother. A boy, very young, calling *Yuba, yuba*, father, father, over and over, in the voice of someone whose rope has gone slack in his hand. And under all of them, very low, one long note that was no man's at all. Like a nahham's song from the bottom of the sea, with the sea gone and the song still going.
+
+Every one of them was calling to someone on the boat.
+
+The boat was right here. I was under it.
+
+I put my head down and didn't answer. The divers' grandmothers are right about that, if about nothing else. You never answer a voice from the water.
+
 I crept down the slope in the dark, round to the side away from the sabkha, where the sand had drifted up against the buried belly of the ship. I put the bell down in a hollow and covered it.
 
 And I dug.
@@ -399,6 +419,38 @@ Behind him, eleven children were holding on to one another in the dark at the ed
 He'd come back for them. Nobody had asked him to. I remembered that, later, when it mattered.
 
 And he ran.
+
+He ran along the edge of the sabkha, because there was nowhere else to run. Dunes on the left, too steep for eleven children in the dark. The dead white flat on the right, glittering under the stars, cracked into plates.
+
+Behind us the Nameless came over the ridge on their racing camels, lamps swinging, and saw us, and did the sensible thing. They cut across the salt.
+
+It was shorter. Any herder could have told them not to. They didn't ask any herders.
+
+I was hanging over Theyab's shoulders with my head jolting against his ribs, so I saw it all upside down. The camels hit the crust at a run, and the plates boomed under their feet like the skin of a drum, and the jackals raced ahead of them, low and fast, coal eyes in a line, bearing down on the place where the edge of the flat curved in to meet us.
+
+And the voices on the salt stopped.
+
+All of them. At once. The divers calling *haul me up*, the boy calling his father, the long low note under everything. A silence like the tombs holding their breath.
+
+Then the sabkha moved.
+
+Not cracked. *Moved.* Out in the middle of the flat a long ridge rose under the crust, the way a sheet rises when someone sits up beneath it. It ran toward the camels, a swell under the salt as long as the buried dhow and longer, the white plates lifting and tilting and sliding off its back, grey mud bulging up between them. And a smell came off it across the whole flat. Not salt. The sea. Deep and cold and rotten, the bottom of the pearl banks, a smell that hadn't been on that wind in a thousand years.
+
+The jackals felt it first. They stopped dead, all of them, and turned, and ran the other way, and the crust opened under the hindmost and it went down without a sound.
+
+The first camel screamed. Then the ridge went under them.
+
+I didn't see what happened. I'm glad. I saw the lamps go down, one, two, five, into the grey, still lit for a breath under the salt, the way a lamp shows through the wall of a tent. I saw something curve up out of the flat beside them, wet and dark and gleaming, too big to be a back and too smooth to be anything else, and go down again. I heard a man in a mask begin to hum the chant, and stop.
+
+Then the crust closed. The plates settled. Out in the middle of the sabkha the white lay flat and still under the stars, as though nothing had ever crossed it.
+
+Theyab didn't stop running. Neither did the children. Not one of them looked back. I've always been proud of them for that.
+
+We were three dunes away before I heard the voices start up again behind us, out on the salt. Thin with distance. Calling to the boat.
+
+There were more of them now.
+
+And two or three of the new ones, faint and puzzled, weren't calling for anyone. They were humming. Two notes. The same two notes, over and over, as if they'd forgotten the rest.
 
 ---
 

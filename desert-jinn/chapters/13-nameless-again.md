@@ -48,6 +48,40 @@ And every morning the dunes had moved in the night, and the word was gone.
 
 ---
 
+That same evening, an hour past the gourd hollow, we came on a proper well, and people at it.
+
+Not much of a well. A ring of stones on a gravel flat, a frayed rope, a leather bucket, and a family of herders watering their goats before dark: an old woman, two half-grown grandsons, and a girl small enough to ride a goat. They saw a boy coming with a sword on his back and a burned dog limping behind him, and the grandsons reached for their sticks.
+
+The old woman slapped their hands down. A stranger at a well gets water before he gets questions. That's older than any of us. She filled a bowl with goat's milk, still warm from the goat, and held it out, and when Theyab didn't speak she didn't ask him to. She put a second bowl down for me. I want that recorded too.
+
+They hadn't heard the word yet. *Prince-Killer.* It hadn't outrun us that far. They saw only a silent boy with his sleeves pulled down over his wrists.
+
+She talked while he drank, the way old women talk to fill a silence for someone who can't. And because there were children to frighten into their blankets, she talked about the night.
+
+"Don't you go out past the goats after dark," she told the grandsons. "Not to piss, not for anything. She's walking. Your uncle smelled her on the salt road three nights back, and he came home without his headcloth, and he hasn't said a word since but *oud, oud*."
+
+"Who?" said the little girl, who knew perfectly well.
+
+"Umm al-Duwais." The old woman leaned in, and the firelight made a mask of her face. "She comes to a man alone on the road at night. Beautiful, beautiful, her hair down to here, and her scent comes before her: oud, and musk, and under it something you don't want to know. She knows your name. She knows your mother's name. She knows the name of whatever you love most, and she says it to you sweetly, so you'll think she's the only one left in the world who cares about it. And you follow her. Every man follows her. And when you're far enough from the fire that no one will hear—" She lifted her two hands, fingers pressed together, and curved them, slowly, into the shape of the little sickles they cut the fodder with. "Then she turns round."
+
+The girl shrieked and hid in her grandmother's skirts, delighted. The grandsons laughed too loudly.
+
+"Your uncle was lucky," the old woman said. "He had his knife on him. Iron, children. She can't abide it." Then, more quietly, to the fire and not to them: "And my cousin's boy says he saw her on the coast road with two boys behind her. A big one, and a little one on his back. The big one following like he'd been promised water."
+
+Theyab looked up for the first time.
+
+I'd been lying with my chin on my paws. I didn't lift it. I didn't want the old woman to see my face. My face isn't good at keeping things.
+
+I knew which two boys. I'd smelled them on the night of the full moon. I could have got up right then and followed that perfume to the coast, and maybe this would have been a different story. Maybe I'd have found a woman with sickles for hands. Maybe something worse. I didn't go. I had a boy who'd stopped speaking and a burn that wouldn't close, and I told myself that was enough to carry.
+
+Theyab gave back the bowl with both hands and touched his chest, the way you thank someone when you can't make your mouth work. Then we walked on into the dusk, away from the well and the goats and the little girl peeking out from the skirts.
+
+That night, when the wind came round from the coast, I smelled it again. Very faint. Oud, and musk, and under them the meat in the sun.
+
+I lay between him and the wind until morning.
+
+---
+
 On the third morning, the word was still there.
 
 Not where he'd written it. He'd written it on the crest, where he sat. This one was at the bottom of the slope, fifty paces down, in a smooth bowl of sand where the wind hadn't reached. Four letters. The dot on the *zay*. Pressed in deep with one finger, the way he pressed.

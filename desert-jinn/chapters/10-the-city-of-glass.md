@@ -122,7 +122,37 @@ A small boy with a herding stick. Turning away, out of the picture, face hidden.
 
 I looked at the ground.
 
-He went on.
+He crouched. Below the goatherd, where the cracks ran thickest, there were more pictures. Smaller, cruder, cut by some other hand. A ring of tall towers, joined wall to wall, standing round a well. Under the well, a hollow, like the inside of a mouth. In the hollow, a jar with a narrow neck, and on its stopper a mark like a star with too many points. Beside it, the small boy with the stick again, kneeling, with a stone raised in both hands over the jar. And above the jar, rising out of it, a long twist of something like smoke, and at the top of the smoke, a face. Someone had taken a stone to it since, over and over. But they hadn't been able to get the eyes: two small round holes, very neat.
+
+Theyab didn't ask me about that one. He sat down on the glass in front of it the way he used to sit in Bakhit's tent.
+
+So I'll tell it to you, the way a boy on a high pasture once told it to me, and the way the old tellers in the coffee-houses of Muscat tell such things when the lamps are low.
+
+*It was, or it was not, in the oldest of times, before the sands had learned to walk, that there was a jinn of the great kind, an Ifrit, so old that it remembered when the mountains were soft. And this Ifrit did a wrong so great that its own kind would not speak of it, and it was taken and shut up in a jar of yellow brass no longer than a man's forearm, and the jar was stoppered with lead and stamped with a seal older than any king, and carried down into the deep sands, to a city of towers that stood in a ring around a well. And under the well, in a cavern of white stone where the water went down in the dark, they set the jar on a ledge above the black water, and the city was built tall over it, with lamps on its walls so that it would never be fully dark there.*
+
+*And in the first hundred years of its prison, the Ifrit said in its heart: whoever lets me out of this jar, I will make him rich. I will give him gold and silver and long life, and his sons and his sons' sons will never know hunger. And no one came.*
+
+*And in the second hundred years it said: whoever lets me out of this jar, I will give him three wishes, any three, though he wish for the moon. And no one came.*
+
+*And in the third hundred years, and the fourth, and the hundred years after those, it lay in the dark with the water dripping beneath it, and it heard the city above it laughing and feasting and marrying and burying, and none of them came. And its gratitude went bad in it the way milk goes bad in a skin left in the sun, slowly, and then all at once. And at last it said: whoever lets me out of this jar, I will kill him. I will take him for my own, and wear him, and everything he loves I will take from him, one by one, until he cannot remember that he ever loved anything. That is what I will give him, for making me wait.*
+
+*And then, after a thousand years, someone came.*
+
+He was twelve. He had a crooked front tooth and a patched brown *thawb* and the Light in his chest, and the moon was filling, and he was afraid. Not of the dark, any more. Of the dune. He'd seen the fire, the way Theyab sees it. Every night it came closer. And one night he remembered the story the old man in the market at Bahla had told him, the one he'd loved since he was small. The jar under the city of towers. *Whoever opens me, I'll make rich. I'll give him long life.*
+
+Long life. That was all he wanted by then. Not the flock, not the sandals. Only not to burn.
+
+So he ran. Not to the great dune. Away from it, deep into the sands, to the city of towers, and he found his way down beside the well into the dark, and I went with him, because I always go. I stood on the ledge over the black water and I growled until my throat bled, and he told me to hush. He found the jar by the light in his own chest. He knelt, and he took a stone in both hands, and he broke the seal.
+
+He thought he was answering the first vow. He was a thousand years late. Nobody had told him that promises go off, if they're kept too long in the dark.
+
+The smoke came up out of the jar and stood over him in the cavern, and it spoke to him very kindly, and it went into him through his mouth and his eyes. And when he came up out of the well he was still small, and still twelve, and still had the crooked tooth, and his eyes were still brown. But something behind them was watching me that had never been there before, and it was patient, and it was very glad to be out.
+
+The rest is in the rock. He walked here, to this town, because the Light still pulled him, even then. He stood on that ridge with the moon full above him, and the thing inside him closed his hands. And the sand wept glass.
+
+That was how the grey began. Not with a monster. With a frightened boy, and an old promise, and a jar that had been waiting too long for someone to be kind to it.
+
+After a while Theyab got up off the glass and went on.
 
 The ninth showed a boy walking away from a dune with his hands pressed over his eyes. A boy. But something in the tilt of his head, as if listening for something no one else could hear, made Theyab look at it a long while, and something went across his face that he didn't say. I didn't help him. I'll tell you about that one later. I promise.
 

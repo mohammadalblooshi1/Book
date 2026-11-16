@@ -326,6 +326,46 @@ I stayed awake. Someone has to.
 
 The dune hummed. Around midnight, the wind changed, and a long sheet of sand let go along the crest, and the whole dune *boomed*, one deep shuddering note that went on and on, and for an hour afterwards the well beneath it sounded almost exactly like breathing. I sat with my back to the fire and watched the black water and did not let either of the boys go near it.
 
+That was when the lanterns came.
+
+Not one, this time. Five. Six. They came out along the crest of the singing dune, high above us, one after another, as if a line of men were walking along the top of it with lamps in their hands, coming down to the well to draw water by night. They swung as men's lanterns swing. They paused, and went on. They were small and yellow and warm, and there were no men under them, and the sand of that crest was so loose that a beetle walking there would have set it sliding, and none of it slid.
+
+The ghilan like wells. I told you that. Water is where the thirsty come, and the thirsty don't look at feet.
+
+One of the lights left the line and started down the face of the dune toward the palms. Slowly. Swinging. And as it came lower, into the silver mist off the well, I saw that it did have a hand under it after all. A thin hand, a woman's, hennaed to the wrist in the old patterns, holding up an old brass lantern with a glass cracked across one side. Then an arm in black. Then the shape of a woman in an old-fashioned *abaya*, the burqa'a across her face, walking carefully down the sand the way a grandmother walks, a little bent. A grandmother come down to the well at night with a lamp, looking for a child who hadn't come home.
+
+She stopped at the edge of the palms, where the firelight just reached. She lifted the lantern. She looked across the fire at Theyab, asleep with his hand open on the sand.
+
+And very softly, in a voice like the sound of bread being torn, she called.
+
+"*Come in, now. Come in. It's late, child, come in.*"
+
+He sat up.
+
+His eyes were open, but he wasn't in them. He was still in the tent from the well-water, still small and wrapped, and somebody was calling him in at last, and he got to his knees and began to get up with his open hand held out toward the light as if someone were going to take it.
+
+I was across him before he was on his feet. I didn't snap this time. I lay down on him, the whole long weight of me across his chest and his outstretched arm, and pinned him to the sand, and put my face between his face and the lantern so the only thing he could see was me.
+
+He fought. Not hard. The way a sleeping child fights a blanket. "She's calling," he said. "Ghareeb, somebody's calling me *in*—"
+
+*I know*, I thought at him. *I know. Not her. Not that one.*
+
+I heard the hiss of steel behind me. Hazza' was up on one knee on the other side of the fire with the broken sword in his fist and his hair full of sand, staring at the woman at the edge of the palms. He was not smiling now.
+
+"Look at her feet," Theyab said suddenly. Thickly, still half in the dream. "Bakhit said. Look at her feet."
+
+Hazza' looked.
+
+The old woman with the lantern stood quite still at the edge of the light. The hem of her black abaya hung just clear of the sand. And under it, pressed into the cool damp ground at the edge of the well, where the palms dripped, were two small round hooves.
+
+"Ah," said Hazza'. Very quietly. "That's what the old men meant." Then, a little louder, without taking his eyes off her: "Grandmother. I've no water to spare and no ash to sell you. And if you come one step nearer this fire I'll find out whether a broken sword still cuts a ghoul in half." A pause. "They say you mustn't strike twice. I've never struck anything twice in my life. I'm not going to start with you."
+
+The lantern swung, very gently. Then it turned away. The figure under it went back up the dune the way it had come, slowly, a little bent, and joined the others on the crest, and the whole line of them went on along the top of the singing dune, swinging, pausing, swinging, and over the far side, and the dune boomed once behind them, a long low note, like something laughing with its mouth shut.
+
+Theyab was asleep again by then. He'd never fully woken. In the morning he remembered nothing of it but a dream about someone calling him in, and I didn't tell him, and Hazza', who had sat up the rest of the night with his broken sword across his knees, only looked at me across the dead fire and said, "Good dog," the way men say it to dogs that have earned it. Nobody had said that to me in a hundred years.
+
+All round the well, in the damp sand under the palms, there were hoofprints. Round and round the stone lip, close together, as if a great many patient things had stood there in the dark drinking, or waiting to.
+
 The stars turned. Suhail climbed out of the south, the great white star that rises at summer's end and breaks the heat. And low over the eastern dunes, the thin moon hung like a white thread, like the first stitch in a shroud that would take exactly one turn of the sky to sew.
 
 I didn't count the nights, that first night. I should have. If I'd begun at the beginning I'd have known exactly how many they had, and I could tell you every one.

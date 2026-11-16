@@ -184,6 +184,36 @@ A saluki runs down what runs. I let the jinn half out. It hurt worse than it eve
 
 I hunted them across the silver sand under the full moon, for most of the night. My shadow ran ahead of me, longer than the dunes.
 
+I'll tell you one more piece of that night, because it isn't mine to keep, and because you'll need it later.
+
+Somewhere past the middle of the night, running a jackal down along the old salt road the camel men use between the coast and Buraimi, I crossed a scent and stopped so hard I went over in the sand.
+
+Oud. Good oud, the black, smoky kind the sheikhs' wives burn in a censer under their robes so the smoke climbs through the cloth. Musk over it, thick and warm, the scent of a woman who wants to be followed across a room. And beneath both, so faint a man would never have found it, the smell of meat left out in the sun. Not old. Turning.
+
+Every grandmother on the coast has a name for that perfume. They use it to keep their sons home at night. I won't say it yet. I didn't want to say it then.
+
+Below me, where the road dipped into a hollow, two boys were walking. A big one, ragged, his feet wrapped in strips of cloth, with a small one asleep on his back, its arms locked round his neck. I knew them by the wind before I knew them by their shapes: well-rope and wet stone and goats, the smell of Saqi's well in Hilat al-Sarab. Nadim, the boy who threw the first stone. And Shibl, the little brother Theyab had healed.
+
+A little way ahead of them, unhurried, walked a woman.
+
+She carried no lamp, and needed none. Her abaya was black and her hair was blacker, loose, hanging past her waist, which no decent woman on that road would ever let a stranger see. She moved the way the moon moves, without seeming to. Every few steps she turned her head over her shoulder, and Nadim, who by the smell of him had not eaten in days, followed the turn of it the way a camel follows the halter.
+
+"Not far now," she said. Her voice was low and kind, and even from the ridge it smelled of oud. "Shibl will have milk. Shibl will sleep under a roof. You've carried Shibl so well."
+
+She said the little one's name three times in one breath, the way you knock a bucket against the side of a well to show it's full. Nadim hadn't told her. I knew he hadn't. He'd been too frightened to tell anyone anything since the grey came.
+
+My hackles went up so far they pulled the burn open.
+
+She stopped. She didn't turn round. She lifted her face toward the ridge where I stood, the way a woman lifts her face to a breeze, and breathed in, slowly, as if I were the perfume.
+
+Then she walked on, and the boys walked after her, into the dark toward the coast.
+
+I could have gone down. I could have stood in that road with the thing that lives in my shadow and let her see it. But there were jackals between me and the fire where my boy had left Hazza', and two other people's sons were not my boy, and I turned my back on them.
+
+Much later I went down to read her tracks. I'll tell you what I found. Two sets of a boy's footprints, one pressed deep with the weight of the little one. And in front of them, where she had walked, nothing. Not a print. Not the drag of a hem. As if the boys had spent the night following the wind.
+
+I put that on the pile too.
+
 That's all I'm going to tell you about where I was. Don't ask me any more. Not yet.
 
 I said, *don't ask*.

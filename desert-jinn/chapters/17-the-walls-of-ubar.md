@@ -148,7 +148,41 @@ He looked at the hilt over Theyab's shoulder.
 
 Then the grey came back over his mouth, and he climbed down into the water and walked away down the right-hand tunnel. We followed. What else was there?
 
-He took us by ways no one living had used in a hundred years. Through a gap behind a fallen tomb-door. Along a ledge above black water. Up a channel so narrow Theyab went sideways and I went on my belly, until the air was warm and smelled, impossibly, of bread.
+He took us by ways no one living had used in a hundred years. Through a gap behind a fallen tomb-door. Along a ledge above black water.
+
+That ledge is the part I still dream about.
+
+The tunnel opened without warning into a cavern so wide Theyab's light couldn't find the far side of it. Pale rock, limestone, all holes and folds, like the inside of a bone. High overhead, in the middle of the roof, hung a disc of dim orange light the width of a threshing floor: the bottom of Ubar's great well, where the city let down its buckets, with lamps burning round its rim far above and their smoke leaning in. Ropes hung down through that light, swaying. Some had buckets on them. Some had only frayed ends.
+
+Under it the water lay black and still, and so deep the light gave up on it.
+
+Half of one of the old towers was down there. Long ago, before the oldest lamp-keeper's grandmother, the ground under the city had given way, and a tower of the wall had slid down into the cavern with everyone in it. Its stones lay heaped in the black water like the bones of something that had been eaten, carved faces and lamp niches and all, with the water lapping in their mouths.
+
+And on a shelf of pale rock at the edge of the heap, just above the waterline, lay the vessel.
+
+You've heard me tell of it. At Ghidd al-Zujaj, under the carvings, I told you how it was, or how it was not. Here it was.
+
+Brass, gone green and black. As big as the great water jars the women carry to the falaj, round-bellied, long-necked, stamped all over with old marks worn almost smooth, so that the light from far above ran over them like water over fish-scales. It had split open from neck to belly, the brass peeled back in curling petals the way a pomegranate splits when it's left too long on the tree. Not from outside. From in.
+
+Beside it, where it had rolled and come to rest, lay the stopper. The seal was still on it, cracked straight across.
+
+I knew whose hands had cracked it. I'd known that boy's whistle, once, across a wadi at dusk.
+
+Theyab stopped on the ledge. He didn't know what he was looking at. He didn't need to. His mark had gone dim and cold under his wet shirt, the way a coal goes when you drop it on damp ground.
+
+"Ghareeb," he whispered. "What was in that?"
+
+The water below the ledge moved. Not a ripple. The whole black face of it lifted a finger's width, the way the tombs drew breath, and settled.
+
+And out of the split brass, faint as a cup set down in another room, something spoke, in no voice at all.
+
+*Whoever frees me—*
+
+Suhail began to hum the two notes of the Nameless under his breath, without seeming to know he was doing it, and walked on along the ledge. I pushed Theyab after him with my whole head. I didn't let him look back. I didn't look back myself.
+
+I didn't need to. I've heard that sentence finished before, more ways than one. None of the endings are good. I'll tell you them when the lamps go out.
+
+Up a channel so narrow Theyab went sideways and I went on my belly, until the air was warm and smelled, impossibly, of bread.
 
 At the end were slippery steps and a wooden hatch.
 

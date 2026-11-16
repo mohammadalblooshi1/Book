@@ -36,6 +36,8 @@ Abu Kharbash laughed and stood, already bellowing at someone about a loose saddl
 
 *Couch the camels in a ring.* He said it at every halt, the same way, like a man saying his prayers. You'll see why I remember.
 
+The ring was for wolves, he told the new boys, and for raiders. And for the other things. A man who stepped outside the ring at night to relieve himself took a friend, and a stick, and he didn't go past the last camel. If anyone called to you from out in the dark by name, you looked at their feet before you answered. If they had no feet you could see, you didn't answer at all. And if you saw a lantern on the dunes where no lantern should be, you lay down with your face in the sand and counted your sins until morning. "My cousin's son followed a light out of the ring at Bir Hamad," Abu Kharbash said, "and we found his sandals in the morning, side by side, neat as a bride's, and all round them, in the sand, the hooves of a donkey. And we had no donkey." He spat in the fire. "Couch the camels in a ring."
+
 ---
 
 Theyab worked.
@@ -57,6 +59,32 @@ They talked late. Or Jasir talked, and Theyab listened. A lot of grey out east t
 "You can't cure the grey," Jasir said. "You take them out to the sands and leave them, quick, before they start smiling at you."
 
 Theyab's hand had gone to his chest. I lay with my nose under my tail. Every word was true as Jasir knew it. My hackles stayed flat. I've never been sure that's a comfort.
+
+"Liwa," Jasir said after a while, poking the fire. "Which village?"
+
+"Hilat al-Sarab."
+
+Jasir stopped poking. Then he laughed, but the laugh was different, shorter, with a little edge of salt in it. "The mirage," he said. "Of course it is. Of course you'd come from there." He threw the stick on the fire. "You want to know why I ride camels? I'm a coast boy. Ras al-Khaimah. My father had a boat. Not a big one. A *shasha*, palm-rib and rope, the kind you can carry on two men's shoulders. Fished the shallows inside the reef, and the creek mouths, and when the tide went out across the flats he'd walk out after crabs with me on his back."
+
+Theyab said nothing. He was good at that. People told him things.
+
+"I was eight. Nine. He was sick, that winter, lying in the house coughing, and I took the boat out alone because I wanted to bring him something. I wanted him to see me come in with fish." Jasir shrugged with one shoulder, the way men do when the thing they're shrugging off is heavy. "And out past the creek mouth, on the water, where the sea goes flat and white in the noon heat, I saw gold."
+
+"Gold?"
+
+"A shine. Like a whole bank of pearls lying on top of the water. Like someone had spilled a merchant's chest out there and left it floating. And it moved. Not far. Only a little, every time I got close. So I rowed. And it moved. And I rowed. And every time, it was right there, a few more strokes, so bright it hurt, and I thought, my father will never cough again, we'll buy a real boat, we'll buy two." He laughed again. Not much of a laugh. "My grandmother had told me a hundred times. Khattaf Rafai. The Snatcher. He shows the fishermen whatever they want most, gold, pearls, a fat shoal, a woman on the water, and he pulls it away a stroke at a time, and they row after it until they've no land behind them and no water in the jar. I knew that story better than my own name. I rowed anyway."
+
+"How did you get home?"
+
+"I didn't. Not in the boat." Jasir held up his hands and looked at them in the firelight, as if checking they'd come back. "The shine went out at sunset, all at once, like a lamp. There was nothing there. Just sea, every side. I'd no idea where the land was. The boat filled in the night, and I held onto it, and a pearling dhow coming in from the banks found me two days later with my lips cracked open and the gulls already interested. My father's boat they never found. He sold his nets to pay the dhow's captain for my rescue, and he died that summer without one." He picked up a date and didn't eat it. "My uncle took me inland to his camels the next year. He said a boy who'll row after Khattaf Rafai had better live where there's no water to row on."
+
+"But there are mirages out here," said Theyab.
+
+"There are." Jasir grinned, and the gap in his teeth showed. "That's why I don't look at them. I don't trust anything that shines. Not water on the gravel, not a lamp on a dune, not a merchant's silver, not a pretty face at a well. If it shines, I keep my eyes on Shaha's ears and I keep riding." He tapped his temple. "You'd do well to learn it, mirage-boy. The things that shine are the ones that want you to follow."
+
+I was watching Theyab's hand. It had crept back to his chest, to the place where the feather mark was faintly warm under his shirt, where, after dark, if anyone looked, it shone.
+
+He didn't say anything. He wound his ghutra a little higher round his face, and they talked about camels after that.
 
 ---
 
@@ -224,7 +252,7 @@ Then Jasir looked up.
 
 At Theyab, cracked all over with glowing gold, light still leaking from the corners of his eyes, his hair smoking. At the swept and empty plain where an hour before there had been everyone he knew.
 
-I watched him put it together. I watched him do the sum, the way frightened people always do, quick and wrong.
+I watched him put it together. I watched him do the sum, the way frightened people always do, quick and wrong. Everything he'd loved had gone up into the dark, and the only thing left on the whole swept plain was a boy who shone. A gap-toothed child in a palm-rib boat, rowing after gold. *If it shines, it wants you to follow.*
 
 "It looked at you," Jasir whispered. His voice was wet now. Theyab's water had given it back to him. "I saw it. All those eyes. It came, and it stopped, and it looked straight at *you*."
 
