@@ -294,7 +294,7 @@ Then it was gone. Not let go. *Pulled*. Torn out of his fist, the fingers draggi
 
 He knew that tune.
 
- He'd heard it hummed, out in the dunes, behind a smooth white mask, by a man with twin grey blades who had cornered him in the dark and then, for no reason at all, let him go.
+He'd heard it hummed, out in the dunes, behind a smooth white mask, by a man with twin grey blades who had cornered him in the dark and then, for no reason at all, let him go.
 
 ---
 
