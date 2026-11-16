@@ -59,7 +59,7 @@
 49. **Healing tools:** Herbs and truth bells.
 50. **Hardest question he asks Zayn:** "Would you die for them?" (meaning the people who called him monster)
 51. **Does he betray Zayn:** Yes, by silence. He knew Zayn would die and never told him.
-52. **Hesset and Malek:** They were friends. Malek pretended to be his friend, the same way Orrin later does with Zayn.
+52. **Hesset and Malek:** Malek only pretended to be Hesset's friend, the same way Orrin later does with Zayn. Kiri was Malek's only true friend.
 53. **Does he join the journey:** Only at the end. He breaks his bond to walk to the Crown Dune.
 54. **Gift to Zayn:** A small truth bell, so Zayn can tell who is lying.
 
@@ -105,3 +105,41 @@
 
 ## I. World & Magic
 87. **Names for the sky:** The sun is **the Fire**, the moon is **the Ash**, and the stars are **the Embers**.
+88. **Money:** Water tokens. Each clay token is worth one cup of water.
+89. **Other desert animals:** Falcons (used to carry messages), giant scorpions, sand lizards (riding beasts faster than camels) and dune wolves.
+90. **Common blessing:** "May the sand remember you."
+91. **Worst curse:** "May the dunes forget you."
+92. **Festival:** The **Night of Embers**, when everyone lights a lantern for the lost bearers.
+93. **Burial:** The dead are given to the dunes, left on the sand for the desert to take.
+94. **Reading and writing:** Only the rich can read. Zayn can't, and Soren teaches him.
+95. **Other places:** Many small free oasis towns scattered across the desert, with no other big kingdoms.
+96. **Beyond the desert:** A mystery. No one has ever returned from the edge.
+97. **The eleven earlier bearers:** Known by titles only, e.g. "The Shepherd" (Malek), "The Blind One" (Hesset), "The Runner" (Daruun).
+98. **Can the Light be stolen:** Yes, but stolen light turns grey and destroys the thief.
+99. **The Light's weakness:** The cult's grey blades can cut it.
+100. **Rule of the desert:** "Never say your name to the wind," because the Hollow might hear it.
+
+## J. Action & Big Scenes
+101. **First fight:** Husks attack Harrow's End, and Zayn's light awakens.
+102. **Most frightening encounter:** The Veilbeast swallowing a whole caravan in a storm.
+103. **Saddest scene:** The sacrifice, as Zayn burns saying "I'm coming, Soren."
+104. **Biggest shock:** Kiri is revealed to be half Hollow.
+105. **Big chase:** Riding sand lizards through a sandstorm.
+106. **Losing control:** Yes. Zayn's light burns Kiri's Hollow half.
+107. **Escape from the buried ship:** Kiri uses his monster strength to lift and break open the wreck.
+108. **Great battle of Taharyn:** Zayn duels Brother One, Orrin's giant bodyguard.
+109. **King Absalon:** He dies in the battle.
+110. **Hostage at the end:** Prince Idan, Soren's 10-year-old brother.
+
+## K. Meaning, Style & the Book
+111. **Main message for readers:** Your pain has a purpose.
+112. **Key quote:** "The end is the beginning."
+113. **Should feel like:** *Dune*, *The Alchemist* and *Harry Potter* (but fully original).
+114. **Chapter openings:** Each chapter starts with a line from a desert legend.
+115. **Chapter titles:** Poetic (e.g. "The Boy the Sand Forgot").
+116. **Map:** Yes, a map of the Destiny Desert at the front.
+117. **Illustrations:** Yes, for every chapter. Three to four illustrations of key scenes per chapter, in a **3D realistic anime style** (similar in feel to Naruto-era shonen anime, but realistic, not cartoon).
+118. **Sequel hook:** Yes. Book 2 follows the newborn bearer.
+119. **Newborn bearer's name:** **Aeron**. Bram names him after Zayn's true name.
+120. **Final book title:** ***The End Is the Beginning***
+- **Bonus (personal details):** None. The story stays fully fictional.
