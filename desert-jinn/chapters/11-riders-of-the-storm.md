@@ -242,7 +242,7 @@ It was really to keep me from seeing their faces when they were.
 
 Theyab's face, looking up at me in that storm, was the worst thing I've ever seen. And I have seen eleven children burn.
 
-He didn't see me. Not the dog. All he saw was a jinn standing over Hazza' with its mouth full of teeth, the biggest thing of the grey he'd seen since the zawba'a took the caravan. And somewhere in all the voices pouring out of me, one said his name. I didn't mean it to. I don't know whose voice it used. All he felt was fear, pure and total, filling him like water filling a well, all the way to the top and over.
+He didn't see me. Not the dog. All he saw was a jinn standing over Hazza' with its mouth full of teeth, the biggest thing of the grey he'd seen since the zawba'a took the caravan. And somewhere in the voices of the storm around us, one said his name. It wasn't mine. I have no words a man can hear, not even then. All he felt was fear, pure and total, filling him like water filling a well, all the way to the top and over.
 
 "*Get away from him!*"
 
@@ -258,7 +258,7 @@ Salukis are a quiet kind. I had never howled like that in all my years. It came 
 
 I fell.
 
-And as I fell, the shadow fell with me, running back under my feet like water out of a broken jar, and the voices went with it, the quiet familiar one last of all. By the time I hit the sand there was only a dog, scorched and smoking down one flank, my silver eye squeezed shut and weeping something that wasn't tears, and a shadow the ordinary size, lying the ordinary way.
+And as I fell, the shadow fell with me, running back under my feet like water out of a broken jar, and the voices went with it, the quiet familiar one last of all. By the time I hit the sand there was only a dog, scorched and smoking down my left flank, my silver eye squeezed shut and weeping something that wasn't tears, and a shadow the ordinary size, lying the ordinary way.
 
 The light went out of Theyab all at once. He stood there swaying. His arms were cracked gold from wrist to shoulder.
 

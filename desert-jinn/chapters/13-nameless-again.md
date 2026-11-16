@@ -16,7 +16,7 @@ He'd buried Hazza' the way the poor are buried, in a scrape, with no stone, and 
 
 *Prince-Killer.*
 
-He'd been called a lot of things. Nameless. Son of the sand. Monster. Now he had a new one, and the worst part, the part that sat in his chest like a swallowed stone, was that he couldn't be sure it was wrong.
+He'd been called a lot of things. Nameless. Laqeet. Monster. Now he had a new one, and the worst part, the part that sat in his chest like a swallowed stone, was that he couldn't be sure it was wrong.
 
 I followed a dune behind. I'd have walked closer, but I wasn't walking well.
 
@@ -328,7 +328,7 @@ Theyab looked down at me. He looked tired beyond anything a boy of fifteen shoul
 
 That was true too. Mostly.
 
-"And you were quiet as a stone once," he said, more quietly. "At the carvings. Remember?"
+"And you didn't growl once," he said, more quietly. "At the carvings. Remember?"
 
 He turned the camel's head east and followed the old man's lamps over the dune.
 

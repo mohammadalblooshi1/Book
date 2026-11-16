@@ -48,7 +48,7 @@ No bell. My hackles lay down smooth, and I put my chin back on my paws. The corn
 
 There was something wrong about that sword, and Theyab noticed it while Hazza' was picking sand out of the guard.
 
-The hilt was wrapped in leather gone black with hand-sweat, and the pommel was a round bronze cap that didn't quite match, as though made for a different sword.
+The hilt was wrapped in leather gone black with hand-sweat, and the pommel was a round brass cap that didn't quite match, as though made for a different sword.
 
 "Why don't you mend it?" Theyab asked.
 
@@ -56,7 +56,7 @@ The hilt was wrapped in leather gone black with hand-sweat, and the pommel was a
 
 It was true. My hackles didn't stir. It just wasn't an answer.
 
-"The old smiths of my city made their hilts hollow," Hazza' said after a moment. He twisted the bronze pommel off. Inside the grip was a narrow empty space, the length of a finger. "You're meant to keep a blessing in here. A holy man writes it very small on a scrap of paper, and you fold it tight and carry it into every fight."
+"The old smiths of my city made their hilts hollow," Hazza' said after a moment. He twisted the brass pommel off. Inside the grip was a narrow empty space, the length of a finger. "You're meant to keep a blessing in here. A holy man writes it very small on a scrap of paper, and you fold it tight and carry it into every fight."
 
 "What's in yours?"
 

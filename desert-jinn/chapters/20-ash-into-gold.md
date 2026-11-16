@@ -15,7 +15,7 @@ I watched from the top of Tal Moreeb. I couldn't have moved if I'd wanted to. Do
 
 Not all of them. I promised you no more silences, so I'll tell you. Some of them woke screaming, because the gold gave them back everything, including what their hands had done while they were empty. And some didn't wake at all. The gold touched them, and they lay down in the sand, still smiling, and didn't get up.
 
-Ghanim woke with his memory and nothing else. Camels, oil, strongbox, the silver sewn into his saddle-bags against bad years, all gone into the grey. They say he sweeps out a coffee house in Al-Nakhlatain now, and counts every coin that crosses the floor twice, and none of them are his.
+Ghanim woke with his memory and nothing else, a cracked white mask at his feet. Camels, strongbox, the silver sewn into his saddle-bags against bad years, all gone to the Nameless. They say he sweeps out a coffee house in Al-Nakhlatain now, and counts every coin that crosses the floor twice, and none of them are his.
 
 Then there was *sound*. Thousands of people talking and weeping and shouting names. The whole of the sands was saying them.
 
@@ -229,7 +229,7 @@ Twelve years went by. Desert years. Long ones.
 
 But first, the morning after. I wasn't there. I've heard Nadim tell it at the fire so often I could tell it in his voice.
 
-The grey had taken Hilat al-Sarab that spring. Every palm-frond roof the colour of ash, every face, the well water grey in the bucket. Only one lamp in the village had kept burning through it: a little clay lamp in a widow's window, which she filled every night with oil she couldn't spare, though she could no longer have told you why, or for whom.
+The grey had taken Hilat al-Sarab that summer. Every palm-frond roof the colour of ash, every face, the well water grey in the bucket. Only one lamp in the village had kept burning through it: a little clay lamp in a widow's window, which she filled every night with oil she couldn't spare, though she could no longer have told you why, or for whom.
 
 When the gold came down over Liwa that dawn, it came to Umm Hanan's house first.
 
@@ -343,7 +343,7 @@ Wake up, little one.
 
 *The old man stopped.*
 
-*The fire had burned down to coals. None of the children moved. Over Liwa the Pleiades had climbed high, and in the south, low on the dunes, Suhail burned white.*
+*The fire had burned down to coals. None of the children moved. Over Liwa the Pleiades had climbed high, and in the south, low on the dunes, Suhail burned red.*
 
 *"You'll say it's a tale," he said at last. "I told you at the start. It happened. I was there." He turned his hands over in the firelight, big hands, old, with a well-keeper's calluses. "My name is Nadim. I sold him. And then I raised him."*
 

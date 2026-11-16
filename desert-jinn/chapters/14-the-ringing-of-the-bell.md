@@ -160,7 +160,7 @@ I went down later, when the house was asleep.
 
 Along the top of the courtyard wall, and in at Theyab's window. He was asleep on his face with one arm off the mattress.
 
-His bag was on the floor by the bed. I put my nose in it. Dates and the old smell of Hilat al-Sarab, smoke and goats and poverty. And at the bottom, wrapped in a rag, a small bronze bell no bigger than a thumb.
+His bag was on the floor by the bed. I put my nose in it. Dates and the old smell of Hilat al-Sarab, smoke and goats and poverty. And at the bottom, wrapped in a rag, a small brass bell no bigger than a thumb, on its cord of braided camel hair.
 
 I took it in my mouth, carefully, so it didn't sound. Then I laid it on the mattress beside his face, an inch from his nose, where it would be the first thing he saw.
 
@@ -168,7 +168,7 @@ I took it in my mouth, carefully, so it didn't sound. Then I laid it on the matt
 
 In the morning, he wore the bell.
 
-He tied it to his belt on a short thread, under the fold of his shirt. A small bronze bell no bigger than a thumb.
+He tied it to his belt by its camel-hair cord, under the fold of his shirt. A small brass bell no bigger than a thumb.
 
 I went down into the market to find something to eat.
 
@@ -232,7 +232,7 @@ Why would the Nameless need a starving boy to tell them where Theyab slept, when
 
 It was a clever plan. It would have worked.
 
-Except for a small bronze bell, no bigger than a thumb, that a dog had carried in his mouth and laid by a sleeping boy's face.
+Except for a small brass bell, no bigger than a thumb, that a dog had carried in his mouth and laid by a sleeping boy's face.
 
 ---
 
@@ -292,7 +292,7 @@ Theyab's lips were white. "The ring," he whispered. "Did he give you the ring?"
 
 "Of course he did," said Muhaisen.
 
-The bell rang again. Louder. And it didn't stop shivering after, the way a bell does. It kept trembling on its thread, humming to itself, as if it had more to say and couldn't find the note.
+The bell rang again. Louder. And it didn't stop shivering after, the way a bell does. It kept trembling on its cord, humming to itself, as if it had more to say and couldn't find the note.
 
 Then it all came at once, each piece a small stone striking his back. The bag on the camel. The dates on the plate. *Hazza' told me you liked them.* The ring that had been warm from Muhaisen's robe. The guest-right, the coffee poured three times.
 
@@ -358,9 +358,9 @@ Then the sack came down, and it smelled of burned cloth and something sweeter un
 
 I woke alone on the floor of a room that smelled of lamp oil and spilled coffee and lentils.
 
-On the floor near the hearth lay a scrap of snapped thread, and beside it, on its side, a small bronze bell.
+On the floor near the hearth lay a snapped length of camel-hair cord, and beside it, on its side, a small brass bell.
 
-I picked it up in my teeth, gently, the way I'd carried it the night before. It was still faintly warm. And very faintly, so faintly I might have imagined it, it was still trembling.
+I picked it up in my teeth, gently, the way I'd carried it the night before, cord and all, and hid it in the soft of my mouth where no mask would think to look. It was still faintly warm. And very faintly, so faintly I might have imagined it, it was still trembling.
 
 I didn't know where they'd taken him. I didn't know whether there'd be anything left of him when I found him. I only knew that the bell had rung, and rung too late, and that I had been standing in a courtyard when it did, with the truth in me, and no way to say it, and no courage to show it.
 

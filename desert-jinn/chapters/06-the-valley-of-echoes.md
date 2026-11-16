@@ -128,7 +128,7 @@ That he would do every terrible thing asked of him, and in the end it wouldn't m
 
 And then it did something I had never heard it do. It said his name.
 
-Not *Ibn al-Raml*, son of the sand, which is what the village called him when they called him anything. The name he had given himself at seven, sitting on the lip of Saqi's well. The name he had never once said to the wind.
+Not *Laqeet*, foundling, which is what the village called him when they called him anything. The name he had given himself at seven, sitting on the lip of Saqi's well. The name he had never once said to the wind.
 
 "*Theyab*," the wadi whispered, almost tenderly, from every wall at once. "*Theyab. Theyaaab.*" Tasting it, the way I'd taste a track. "*Wolves. He named himself for wolves. Who was Theyab? Nobody. Nobody remembers Theyab.*"
 
@@ -152,7 +152,7 @@ The wadi heard me.
 
 I stopped dead.
 
-I have never had a voice. Not one a man could hear. Whatever I am inside, it has only ever come out as a whine, a bark, a growl, the noises any dog makes. But I knew that voice the way you know the smell of your own bed. Old and thin and very, very tired. It was the voice I talk in, in here, to you. The wadi had reached down my throat and found it.
+I have never had a voice. Not one a man could hear. Whatever I am inside, it has only ever come out as a whine, a bark, a growl, the noises any dog makes, and once, in Hilat al-Sarab, a dead man's keening with no words in it. But I knew that voice the way you know the smell of your own bed. Old and thin and very, very tired. It was the voice I talk in, in here, to you. The wadi had reached down my throat and found it.
 
 "*Again. Again. Again.*" And then, so faint I've sometimes told myself I imagined it: "*Too late. Too late. You're always too late.*"
 

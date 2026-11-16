@@ -168,7 +168,7 @@ Then the voice went softer. Almost shy. All thirty faces turned down, toward the
 
 The burned place in my side said its three words louder. In his voice. It had always been his voice.
 
-I won't tell you what that voice sounded like centuries ago, when it was a shepherd boy's in the Hajar, whistling me in from the wadi at dusk. That's mine. I'll only tell you that I didn't go to it, and that it was the hardest thing I have ever not done.
+I won't tell you what that voice sounded like long ages ago, when it was a shepherd boy's in the Hajar, whistling me in from the wadi at dusk. That's mine. I'll only tell you that I didn't go to it, and that it was the hardest thing I have ever not done.
 
 ---
 
@@ -388,11 +388,11 @@ I remember hands. His hands, picking me up. Holding me against his chest, right 
 
 I wriggled until he let me down, and dragged myself three steps to a hollow, and dug, and came back with it in my soft mouth, and put it in his palm.
 
-A small bronze bell, no bigger than a thumb.
+A small brass bell, no bigger than a thumb, on its snapped camel-hair cord.
 
 He looked at it. He looked at me. And behind us, over the ridge, came the sound I'd been dreading: the howl of jinn-jackals, the roar and drum of racing camels, and under it all, the chant. No words. A hundred voices, none of them breathing.
 
-Theyab tied the bell to his belt. He hoisted me over his shoulders, long legs dangling, the way a herdsman carries a lamb. He took Shibl's hand.
+Theyab knotted the cord and tied the bell to his belt. He hoisted me over his shoulders, long legs dangling, the way a herdsman carries a lamb. He took Shibl's hand.
 
 Behind him, eleven children were holding on to one another in the dark at the edge of a dead white sabkha. Some were crying. Some weren't. Two still hummed, under their breath, and didn't know they were doing it.
 

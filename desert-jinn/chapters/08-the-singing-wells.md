@@ -6,9 +6,9 @@
 
 ---
 
-The moon was a thin new crescent the night we found Bir al-Ghina'.
+The moon was a thin old crescent the night we found Bir al-Ghina'.
 
-Thin as the smile of a trader who has just cheated you and would like you back tomorrow. Ghanim smiled like that, in Hilat al-Sarab, every time he weighed Theyab's scraps of copper on his crooked scales. The moon hung low over the western dunes like that smile, a pale scratch on the dark, and gave almost no light at all.
+Thin as the smile of a trader who has just cheated you and would like you back tomorrow. Ghanim smiled like that, in Hilat al-Sarab, every time he weighed Theyab's scraps of copper on his crooked scales. The moon hung low over the eastern dunes like that smile, a pale scratch on the dark, and gave almost no light at all.
 
 That suited Theyab. He'd had enough of being seen.
 
@@ -156,7 +156,7 @@ And something new. A sound, below him on the dune. Someone shouting. Shouting a 
 
 "Hey. *Hey.*"
 
-A hand on his shoulder. Theyab blinked, and the desert came back. Palms, well, stars, the thin scratch of moon in the west. He was sitting in the sand. He didn't remember sitting down. His palms were stinging. There was nothing on them. The young man was crouched in front of him with the broken sword across his knees, watching him with frank, dark-eyed interest.
+A hand on his shoulder. Theyab blinked, and the desert came back. Palms, well, stars, the thin scratch of moon in the east. He was sitting in the sand. He didn't remember sitting down. His palms were stinging. There was nothing on them. The young man was crouched in front of him with the broken sword across his knees, watching him with frank, dark-eyed interest.
 
 "You went somewhere," he said. "Your eyes did a thing. And you were saying *it's hot, it's hot*. It's freezing."
 
@@ -326,7 +326,7 @@ I stayed awake. Someone has to.
 
 The dune hummed. Around midnight, the wind changed, and a long sheet of sand let go along the crest, and the whole dune *boomed*, one deep shuddering note that went on and on, and for an hour afterwards the well beneath it sounded almost exactly like breathing. I sat with my back to the fire and watched the black water and did not let either of the boys go near it.
 
-The stars turned. Suhail climbed out of the south, the great white star that rises at summer's end and breaks the heat. And low over the western dunes, the thin moon hung like a white thread, like the first stitch in a shroud that would take exactly one turn of the sky to sew.
+The stars turned. Suhail climbed out of the south, the great white star that rises at summer's end and breaks the heat. And low over the eastern dunes, the thin moon hung like a white thread, like the first stitch in a shroud that would take exactly one turn of the sky to sew.
 
 I didn't count the nights, that first night. I should have. If I'd begun at the beginning I'd have known exactly how many they had, and I could tell you every one.
 

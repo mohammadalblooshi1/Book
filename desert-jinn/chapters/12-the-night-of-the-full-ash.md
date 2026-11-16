@@ -8,7 +8,7 @@
 
 I made no sound at all before the full moon. Not a whine, not a growl, not a sigh through the nose.
 
-I limped behind the two of them with my coat scorched brown down one side and my silver eye swollen shut. The burn wept a thin black fluid that smoked when it touched the sand. I didn't eat much. At night I slept away from the fire, and every night Theyab looked over at me before he lay down, and every night I turned my face away.
+I limped behind the two of them with my coat scorched brown down my left side and my silver eye swollen shut. The burn wept a thin black fluid that smoked when it touched the sand. I didn't eat much. At night I slept away from the fire, and every night Theyab looked over at me before he lay down, and every night I turned my face away.
 
 He tried to say sorry. Once he left me the best part of a roasted sandgrouse and sat with his back to me so I could eat unwatched. I ate it after he'd fallen asleep. I want that on the record.
 

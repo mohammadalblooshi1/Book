@@ -92,7 +92,7 @@ He hummed four notes. Not the chant. The beginning of the fire-bird song.
 
 Then he turned and ran.
 
-Theyab picked up the sword. "He's still in there," he said.
+Theyab picked up the sword, and tied the bell back on his belt by its camel-hair cord. "He's still in there," he said.
 
 I licked his hand. I'd known since the first night the Seventh let him go. I put that on the pile with the rest.
 
@@ -114,11 +114,11 @@ They moved through the crowds slowly, reaching out, touching. At every touch, so
 
 At the corner of the oil market a merchant's stall was burning. The great jars had cracked in the heat, and the oil ran down the lane in a gold river, and the man who owned it was standing in the middle of it.
 
-I knew his smell before his face. Musk and stale tobacco, and the sour sweat of a man counting money he hasn't earned. I'd last smelled it at the trading post in Hilat al-Sarab, the day he paid a starving boy half a thaler for a silver bracelet worth five and told him to be grateful.
+I knew his kind by the smell before I saw his face. Musk and stale tobacco, and the sour sweat of a man counting money he hasn't earned. Ghanim had smelled like that under his rose attar, over his crooked scales in Hilat al-Sarab.
 
-Ghanim.
+This one was an oil-seller of Ubar, one of the brass-spoon men from the inner gates.
 
-He'd come to Ubar with twenty camel-loads of oil for the one night of the year the city would pay anything. His camels were gone, led off loaded through the east lanes by grey robes. His strongbox lay open and empty at his feet. His ledger was burning. And he stood in his own oil with the hem of his robe smouldering and his eyes gone white, holding up one finger and smiling.
+He'd hoarded twenty camel-loads of oil for the one night of the year the city would pay anything. His camels were gone, led off loaded through the east lanes by grey robes. His strongbox lay open and empty at his feet. His ledger was burning. And he stood in his own oil with the hem of his robe smouldering and his eyes gone white, holding up one finger and smiling.
 
 "Two thalers the thumb," he said pleasantly, to no one. "Two thalers the thumb."
 
@@ -138,7 +138,7 @@ Theyab was on his knees in front of her before I could get between them. I barke
 
 "Yes," said Theyab, and put his hands on her face.
 
-The Light came gold. It always did, by then, when it was for someone else. The grey shrank back from it like frost from the sun. Her eyes cleared. On the wall behind her a single name glowed faint and gold where the ochre had run. *Mira.* Her grandmother. Then it faded. But the girl remembered it. I watched her remember.
+The Light came gold. It always did, by then, when it was for someone else. The grey shrank back from it like frost from the sun. Her eyes cleared. On the wall behind her a single name glowed faint and gold where the ochre had run. Her grandmother's. Then it faded. But the girl remembered it. I watched her remember.
 
 And Theyab saw. An old woman's henna'd hands braiding her hair. A grown woman reading names at this same wall.
 
@@ -176,7 +176,7 @@ That's the part I hate. Not the size. The joy. The silver half of me that is jin
 
 The people in the lane screamed at me the way they'd screamed at the things in the grates. An old Al Bu Ghaf rider covered his eyes and asked the One who made the sands to protect him from me. I didn't blame him.
 
-The old burn on my flank, where Theyab's Light had caught me in the storm, tore open.
+The old burn on my left flank, where Theyab's Light had caught me in the storm, tore open.
 
 Behind us, the grey was rolling down the lane like a wave full of smiling faces. I planted myself across the lane in front of it with my back to him, and growled. In that shape, my growl rattles shutters. He understood. The bearers always do.
 

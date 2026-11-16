@@ -214,17 +214,17 @@ I thought: *Let him have that. A little while. Let him have a little longer befo
 
 So I lied.
 
-I went to him and wagged, my whole back end swinging, and pushed my head under his arm and leaned my whole weight into his chest the way I do when everything is all right, and looked up at him with my ears soft and my eyes warm.
+I barked. Once. *Yes.* The bark he had taught me himself, on the second evening out of Hilat al-Sarab.
+
+Then I went to him and wagged, my whole back end swinging, and pushed my head under his arm and leaned my whole weight into his chest the way I do when everything is all right, and looked up at him with my ears soft and my eyes warm.
 
 *Yes*, all of me said. *Yes. There's a way. Don't be afraid.*
 
 ---
 
-And my body betrayed me.
+And my body let me.
 
-Even as I leaned into him, the hackles came up along my spine on their own, stiff, from my skull to the root of my tail. And out of my own chest, while my tail was still wagging, came the growl. The stone dragged over stone. The sound I keep for liars.
-
-I was growling at myself.
+I'd braced for it, even as I leaned into him: the hackles coming up along my spine on their own, the growl, the stone dragged over stone, the sound I keep for liars. Nothing came. My back lay flat as still water. For the first time in all my years, the thing in me that cannot abide a lie lay down and let me tell one. I lied with my whole body, and not one hair of it argued.
 
 And somewhere in Theyab's bag, muffled in its rag, Old Bakhit's little brass bell gave one small clear note.
 
@@ -232,7 +232,7 @@ And somewhere in Theyab's bag, muffled in its rag, Old Bakhit's little brass bel
 
 It went up into the dark of the hollow and came back off the rock, again and again, smaller each time. *Ting. Ting. Ting.* As if all eleven of them were ringing it.
 
-Theyab's hand was on my back. He felt the hackles rise under his palm. He'd been watching for them before I'd even moved. He had learned to read me better than any of them. He looked into my eyes, the amber one and the silver, and didn't say anything.
+Theyab's hand was on my back. He felt the hackles lying flat under his palm, and he heard the bell. He'd been watching for both before I'd even moved. He had learned to read me better than any of them. He looked into my eyes, the amber one and the silver, and didn't say anything.
 
 That was the worst. I'd been ready for him to push me off, or shout. But he only looked at me a long moment, and then he looked away, up at the eight burning children, and he nodded slightly, as if I'd confirmed something.
 
@@ -242,7 +242,7 @@ Which, of course, I had.
 
 That was all.
 
-He didn't push me away. He left his hand there, on the hackles, until they went down.
+He didn't push me away. He left his hand there, on my flat, lying back, for a long time.
 
 Nothing I've ever borne hurt as much as that one lie, and that one small word he gave me back.
 
@@ -256,7 +256,7 @@ Hazza' came back with a full waterskin and glass-dust in his beard, talking befo
 
 "There's a cistern under the east wall, it's full, it's disgusting, I *think* the thing in it is only a toad. And there are more of them down there. In the walls. A whole room of them, sitting in rows, like they were waiting for someone to—"
 
-He stopped. He looked at Theyab on the ground, at me with the last of my hackles still standing, and up, slowly, at the eight burning children in the rock.
+He stopped. He looked at Theyab on the ground, at me pressed against him with my ears down, and up, slowly, at the eight burning children in the rock.
 
 "What happened?"
 
@@ -328,7 +328,7 @@ He didn't wake. But his right hand came out from under his cloak, and the forefi
 
 Then again beside it. *Ramad.* And again. Moving in a slow ring around himself, the way he'd ringed the well at Bir al-Ghina', until he lay in the middle of a little circle of the word.
 
-And then, in a hand that wasn't quite his, one more word. Very small. Not in any letters Hazza' had taught him: the old letters no Bedu living can read, tall and straight, like little ladders and little trees. The same shapes the dunes had written at him that night on the ridge.
+And then, in a hand that wasn't quite his, one more word. Very small. In letters Hazza' hadn't taught him yet. The same shapes the dunes had written at him that night on the ridge.
 
 He couldn't read it now either. He was asleep. But his finger knew it.
 

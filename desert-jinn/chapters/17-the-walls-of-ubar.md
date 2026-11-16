@@ -16,7 +16,7 @@ We had a broken sword, a letter, a compass that pointed backwards, and a dog. No
 
 ---
 
-On the third day south the wind began to carry a smell I didn't like. Lamp smoke, old and oily, ten thousand wicks burning at once, and under it something sweet and closed, like dates left too long in a shut jar.
+On the twelfth day south the wind began to carry a smell I didn't like. Lamp smoke, old and oily, ten thousand wicks burning at once, and under it something sweet and closed, like dates left too long in a shut jar.
 
 I put my nose up and whined.
 
@@ -26,13 +26,13 @@ Then I smelled something else. Camels. Myrrh, the kind they pack the dead in. An
 
 He came over the next ridge on foot, leading three camels, and across each saddle lay a long white bundle. A young man, thin, sun-black, his face wrapped against the sand. He stopped when he saw us. He looked at Theyab a long time, and pulled the cloth down.
 
-There was a white scar across his throat, shiny and puckered. I knew that smell. I'd licked that wound once, in the wreck of a caravan, after the zawba'a went through it.
+The left side of his face was paler than the right, a faint ashy patch from temple to jaw where the grey had licked him once and never quite let go. I knew that smell. I'd lain across his lap once, in the wreck of a caravan, after the zawba'a went through it.
 
 "You," said Jasir.
 
 Theyab didn't move.
 
-"You gave me your water," Jasir said. "The last of it. I was dying in the sand and you put your waterskin in my mouth and then your hands on my throat, and there was light, and I called you—" His jaw worked. "I called you a monster. In front of everyone that was left."
+"You gave me your water," Jasir said. "The last of it. I was dying in the sand and you put your hands on my face, and there was light, and then you put your waterskin in my mouth, and I called you—" His jaw worked. "I called you a monster. In front of everyone that was left."
 
 "I remember," said Theyab.
 
@@ -42,7 +42,7 @@ Theyab didn't move.
 
 I sat by Theyab's leg with my hackles as flat as a wet cat's. Jasir looked at me, and at the boy.
 
-"Your water tasted of goat," he said at last. "It was the best thing I ever drank." He turned his lead camel. "You can't use the gates. Come with the dead. The dead go in by the old way."
+"Your water tasted of goat," he said at last, and touched the old waterskin hanging from his saddle, a knot of faded red wool still tied round its neck. "It was the best thing I ever drank." He turned his lead camel. "You can't use the gates. Come with the dead. The dead go in by the old way."
 
 ---
 
@@ -88,7 +88,7 @@ Not a draught. The air went *in*, all of it, down the length of the tunnel, slow
 
 Theyab read some of the names. A boy who's only just learned to read reads everything.
 
-"*Hamad*," he whispered. "*Little Moza. Salha, beloved.*" As he said *Salha*, the last red letters slid down the stone like a drop of water and were gone. "Did I do that?"
+"*Son of*," he whispered. "*Little daughter of*— *Beloved wife of*—" As he said *beloved*, the last red letters slid down the stone like a drop of water and were gone, and the name went with them before he could read it. "Did I do that?"
 
 "No," said Jasir. "They do that by themselves."
 
@@ -130,7 +130,7 @@ Theyab went white under the gold.
 
 "Suhail," he said.
 
-Hazza' had told him the story at Bir al-Ghina'. The stable boy the grey had taken. The boy he'd hidden in the fort's feed store and tried to cure with honey and talking and stubbornness. The guards. The sword that broke defending him. And Wazir Muhaisen, after, smoothing his robes: *The boy has been taken away. For everyone's safety.*
+Hazza' had told him the story at Bir al-Ghina'. The stable boy the grey had taken. The boy he'd hidden in the fodder loft over the stables and tried to cure with honey and talking and stubbornness. The guards. The sword that broke defending him. And Wazir Muhaisen, after, smoothing his robes: *The boy has been taken away. For everyone's safety.*
 
 Taken away. Down. Into the tombs, alive, where nobody would go looking. Where the knocking was.
 
@@ -188,9 +188,9 @@ I sat down on a sack of rice and let her look at me. Every hair flat. Not a soun
 
 "I knew it," she whispered. "I *knew* it. I told them, and nobody listens to the cook."
 
-She was Umm Shamma. She'd run the fort's kitchens for thirty years and half-raised the Sheikh's two sons, because the Sheikh was busy being a sheikh and somebody had to make sure the boys ate. She sat Theyab on a crate and put rice and lentils and a plate of *luqaimat* in front of him, the little fried dough balls shining with date syrup. She put a bowl of goat's milk on the floor for me. I want that recorded.
+She was Umm Shamma. She'd run the fort's kitchens for thirty years and half-raised the Sheikh's two sons, because the Sheikh was busy being a sheikh and somebody had to make sure the boys ate. She sat Theyab on a crate and put rice and lentils and a plate of her honey cakes in front of him, little fried rounds of dough shining with sidr honey. She put a bowl of goat's milk on the floor for me. I want that recorded.
 
-"That boy," she said, pointing a floury finger at the hilt as if Hazza' were inside it, "stole luqaimat from my kitchen for ten years. Came up out of that hatch smelling of the dead every time, and thought I didn't know. Half of them went down the hole to that poor stable boy. I knew that too." Her chin trembled. "A boy like that doesn't kill anyone. And neither do you. Eat."
+"That boy," she said, pointing a floury finger at the hilt as if Hazza' were inside it, "stole honey cakes from my kitchen for ten years. Came up out of that hatch smelling of the dead every time, and thought I didn't know. Half of them went out to the stables, to that poor stable boy. I knew that too." Her chin trembled. "A boy like that doesn't kill anyone. And neither do you. Eat."
 
 Theyab ate slowly, the way he'd eaten Umm Hanan's bundles, as if somebody might take it away.
 
@@ -234,7 +234,7 @@ I'll tell you about that night soon, little one. Let me be a coward a little lon
 
 ---
 
-Zaid came down after midnight, bare feet on the back stairs, lifting the lid off the luqaimat jar exactly the way someone else had taught him.
+Zaid came down after midnight, bare feet on the back stairs, lifting the lid off the honey-cake jar exactly the way someone else had taught him.
 
 Theyab stood up behind the jars. His mark glowed.
 
@@ -252,7 +252,7 @@ I padded out and stood in front of him, every hair flat, and put my nose into hi
 
 "He knows when people lie," said Theyab. "Hazza' said he was the rudest dog in the Empty Quarter. He said he once ate a scorpion to impress him and was sick for a whole day, and Ghareeb watched and wagged."
 
-That was a lie about the wagging. I let it go. Zaid made a small cracked sound, and it took me a moment to understand it was a laugh.
+That was generous about the wagging. I had thumped my tail twice, that was all. The mark didn't burn, so I suppose it counts. I let it go. Zaid made a small cracked sound, and it took me a moment to understand it was a laugh.
 
 Then he sat down on the floor and cried, and Theyab sat beside him, shoulders touching, the way you share warmth at a fire, and I lay down across both their feet.
 
@@ -270,7 +270,7 @@ The majlis at the heart of the fort had no windows. It was lit only by lamps, hu
 
 Along the walls the men of Ubar sat on cushions with their coffee cups, each with a little lamp of his own burning on the carpet beside him. At the far end, on a black stone bench spread with a camel-hair rug, sat the saddest man I have ever seen.
 
-Sheikh Mutlaq had been tall and broad once. You could see the shape of it, the way you see the shape of a house after the roof has gone. A silver ring hung on a thin chain at his neck, and every few breaths his hand drifted up to touch it.
+Sheikh Mutlaq had been tall and broad once. You could see the shape of it, the way you see the shape of a house after the roof has gone. A heavy gold ring hung on a thin chain at his neck, and every few breaths his hand drifted up to touch it.
 
 One step below him sat Wazir Muhaisen. Silver beard, smooth face, robes the colour of sand, rosewater. His faded grey eyes found Theyab the instant the boy stepped out from behind Zaid.
 
@@ -332,7 +332,7 @@ He was still smiling.
 
 The tower room was small and round, with one window facing east. They took the sword and the bell. Nobody had worked out how you arrest a saluki. I lay down across the doorway, and the guard looked at me and decided to leave it at that.
 
-The sun went down. All over the city, bolts slid home one after another like a great slow clock. Then the whispering began from every rooftop: the people of Ubar reading the names of their dead off the walls before the paint could fade further. *Hamad. Moza. Salha.* And under it, all across the city, so faint you'd think it was your own heart, the knocking. Three. Pause. Three. From under every street at once.
+The sun went down. All over the city, bolts slid home one after another like a great slow clock. Then the whispering began from every rooftop: the people of Ubar reading the names of their dead off the walls before the paint could fade further. *Son of. Daughter of. Beloved.* And under it, all across the city, so faint you'd think it was your own heart, the knocking. Three. Pause. Three. From under every street at once.
 
 "They're answering," Theyab said at the window. "Something down there's answering the names."
 

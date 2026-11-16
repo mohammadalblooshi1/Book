@@ -22,9 +22,9 @@ Abu Kharbash was a broad, bald, sun-blackened man with a beard dyed orange with 
 
 "Name?"
 
-"In my village they called me Ibn al-Raml."
+"In my village they called me Laqeet."
 
-"Son of the sand. That's not a name, that's a complaint." Abu Kharbash spat. "One of my boys ran off at the last well. You'll work for water and dates and a place by the fire. You don't like it, the desert's that way." He squinted down at me. "Now *that's* a dog."
+"Foundling. That's not a name, that's a complaint." Abu Kharbash spat. "One of my boys ran off at the last well. You'll work for water and dates and a place by the fire. You don't like it, the desert's that way." He squinted down at me. "Now *that's* a dog."
 
 He crouched and took my muzzle in one hard hand and turned my head to the light. Then he saw my eyes. One amber. One clouded silver, like a coin left in the sea.
 
@@ -66,7 +66,7 @@ It went up three wingbeats and came straight back to the merchant's fist and sat
 
 Then the camels knelt. No one told them to. All down the line they sank onto the gravel, groaning, and stretched their necks flat along the ground and closed their eyes. The way camels lie for the knife at a wedding feast.
 
-The two salukis crept under the nearest camel with their tails between their legs. I stood out on the open gravel and howled, long and high and broken, a sound I hadn't made in a hundred years.
+The two salukis crept under the nearest camel with their tails between their legs. I stood out on the open gravel and howled, long and high and broken, the warning-cry I hadn't given in a hundred years.
 
 The wind had stopped. Out here the wind is never still. Now the air hung hot and dead, and the sky was clear in every direction but the east, where, low on the horizon, there was a line of black.
 
@@ -146,7 +146,7 @@ And a child's: the merchant's little daughter, going home to her mother on the c
 
 Last words. That's all that's left of you, inside it. Your last words, going round and round in the black like a bell that won't stop swinging.
 
-Through the flying sand I saw Shaha down, kicking, and Jasir was pinned beneath her by one leg, screaming the only name he had for Theyab. *Ibn al-Raml! Ibn al-Raml!* And the foot of the whirlwind was sliding toward him across the gravel like a tide that knows exactly where you've buried your feet.
+Through the flying sand I saw Shaha down, kicking, and Jasir was pinned beneath her by one leg, screaming the only name he had for Theyab. *Laqeet! Laqeet!* And the foot of the whirlwind was sliding toward him across the gravel like a tide that knows exactly where you've buried your feet.
 
 Theyab ran.
 
@@ -300,7 +300,7 @@ I lay down against him. You know by now that I knew who the rider was, and that 
 
 ---
 
-We walked the way the spear had pointed. Theyab made the rider's water last. Near dusk he ate the last of Umm Hanan's dates from the bottom of his bag, squashed and sticky with sand. He held it in his mouth a long time, the way a child holds a hand.
+We walked the way the spear had pointed. Theyab made the rider's water last. Near dusk he ate one of the squashed honey-dates from the wreck of his tent, Umm Hanan's, from the bottom of his bag, sticky with sand. He held it in his mouth a long time, the way a child holds a hand.
 
 He didn't say anything about Jasir, or about my hackles lying flat when Jasir said *it came for you*. He'd seen. I know he had.
 

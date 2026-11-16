@@ -53,7 +53,7 @@ Not only the ones from Ubar. All of them. They had come from the whole of the sa
 
 They parted for us like water.
 
-I saw Ghanim among them, still holding up his one finger. I saw old Sheikh Mazyad with sand in his beard. I didn't see Nadim. I looked.
+I saw the oil-seller of Ubar among them, still holding up his one finger. I saw old Sheikh Mazyad with sand in his beard. I didn't see Nadim. I looked.
 
 We climbed. The sand slid under our feet, and under the sand something moved with the breathing, so that every step went down a little further than it should. Halfway up, Theyab turned and picked me up without a word and carried me the rest of the way, across his shoulders, the way he'd carried me out of the dhow. His skin singed my coat. I let him. I was too tired to be proud.
 
@@ -63,7 +63,7 @@ I had seen it in his eyes every time he healed. Here it was, every piece falling
 
 The moon hung full and white above Tal Moreeb, so close and so swollen it looked like something that had fed. The crest was pale sand, so cold after his skin that it ached. Below us, on every side, the sands went away silver and grey to the edge of the world.
 
-Wazir Muhaisen waited at the far end of the crest, with Zaid. Around him stood twenty of the Nameless, white masks shining like small moons, and a fire of Ghanim's oil burning in a ring of stones. A little apart stood the Seventh, the crack in his mask so wide now that half his real face showed through, the skin around it raw where he'd been tearing at it.
+Wazir Muhaisen waited at the far end of the crest, with Zaid. Around him stood twenty of the Nameless, white masks shining like small moons, and a fire of stolen lamp-oil burning in a ring of stones. A little apart stood the Seventh, the crack in his mask so wide now that half his real face showed through, the skin around it raw where he'd been tearing at it.
 
 And behind the wazir, bare-faced among all those masks, stood the Eldest. Grey beard. Broken nose. His long grey blade had been replaced with another. He stood where he'd been told to stand. His lips were still moving.
 
@@ -255,7 +255,7 @@ Theyab came to me last.
 
 I was lying in the sand by Bakhit, too tired to stand, my coat dark with my own blood, my silver eye aching the way it always aches near the end. He knelt so our faces were level. Heat came off him like an open bread oven.
 
-"You lied to me once," he said. "With your silence."
+"You lied to me once," he said. "With your whole body."
 
 I didn't look away.
 
@@ -275,7 +275,7 @@ He watched them a long moment. Then he smiled, the small, crooked, rusty smile h
 
 "Look after them," he said.
 
-For the first time in all my long life, I wished I could speak. I've wished it every night since.
+Never in all my long life have I wished so hard that I could speak. I've wished it every night since.
 
 He walked to the very end of the crest, where the dune fell away on every side into the silver dark, and stood under the full moon with his back to us all.
 

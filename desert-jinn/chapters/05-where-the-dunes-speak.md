@@ -32,6 +32,8 @@ I barked. Once. It echoed off the dune, and a sand-grouse went up out of a hollo
 
 He stared at me with his mouth open. None of the others had thought of it. Eleven children had talked to me, and wept on me, and slept against me, and not one of them had thought to ask me anything that could be answered.
 
+Remember that bark. One bark, *yes*. I would use it to lie to him exactly once.
+
 "Are you a jinn?" he asked, much more quietly.
 
 I didn't bark. I didn't look away. I lay there with my chin on my paws and looked at him with my amber eye and my silver one, and after a while he looked away instead.
