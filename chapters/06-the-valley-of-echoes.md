@@ -284,7 +284,7 @@ I'll tell you what I didn't tell Zayn, since you're listening.
 
 His name was Malek.
 
-He was a shepherd. A small, poor, ordinary shepherd boy, a long time ago, before the City of Glass was glass, before there was any Taharyn or any Harrow's End. He had a crooked front tooth and a patched brown robe that had been his father's, and he was frightened of the dark, and he used to talk to his sheep because nobody else would listen.
+He was a shepherd. A small, poor, ordinary shepherd boy, a long time ago, before the City of Glass was glass, before there was any Veimore or any Harrow's End. He had a crooked front tooth and a patched brown robe that had been his father's, and he was frightened of the dark, and he used to talk to his sheep because nobody else would listen.
 
 Nobody except me.
 

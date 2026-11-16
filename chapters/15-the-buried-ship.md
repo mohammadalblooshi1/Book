@@ -24,7 +24,7 @@ At dusk on the second day, under an Ash thinned almost to a sliver, I came over 
 
 A ship.
 
-There's no sea in the Destiny Desert. There never has been, not in all my centuries. And yet there it lay in the trough between two great dunes: a vast wooden hull, longer than the whole of Harrow's End, sunk on its side into the sand like a drowned animal. Its prow reared up out of the dune, carved into the shape of some long-necked beast with its mouth open. Its masts had snapped long ago. Its ribs showed through the broken planks along one side, curved and pale as bones.
+There's no sea in the Destiny Desert. There never has been, not in all my centuries. And yet there it lay in the trough between two great dunes: a vast wooden hull, longer than the whole of Harrow's End, sunk on its side into the sand like a drowned animal. Its prow reared out of the dune, carved like some long-necked beast with its mouth open. Its ribs showed through the broken planks, pale as bones.
 
 And inside it, through every crack and gap in the hull, lanterns burned.
 
@@ -38,7 +38,7 @@ Then I crept down the slope in the dark, and found a place where the sand had dr
 
 He woke up chained.
 
-That's how he told it. *I woke up, and I was chained.* There was a great beam running down the middle of the hold, black with age, and an iron ring set into it, and from the ring ran a grey chain to a cuff around each of his wrists. The chain wasn't iron. It was cold in a way iron isn't, and when the light in his chest tried to rise, the chain drank it.
+A great beam ran down the middle of the hold, black with age, and from an iron ring in it ran a grey chain to a cuff around each of his wrists. The chain wasn't iron. It was cold in a way iron isn't, and when the light in his chest tried to rise, the chain drank it.
 
 The hold smelled of old salt, which made no sense, and of lamp smoke, which did. The curve of the hull rose around him like the inside of a ribcage.
 
@@ -50,7 +50,7 @@ He stared at that sword for a long time.
 
 They brought him up on the first night, for the burning.
 
-The upper deck lay tilted under the sky, half buried in the dune, so that one edge of it ran down into the sand like a ramp. The Unnamed stood in a great circle on it. Fifty of them, perhaps more, grey robes and smooth white masks, silent as Husks. In the middle stood an iron bowl, and in the bowl a fire burned.
+The upper deck lay tilted under the sky, one edge running down into the sand like a ramp. The Unnamed stood in a great circle on it. Fifty of them, perhaps more, grey robes and smooth white masks, silent as Husks. In the middle stood an iron bowl, and in the bowl a fire burned.
 
 The flames were grey.
 
@@ -126,7 +126,7 @@ Over and over. *Promise me you'll never give up.* And Zayn turning away. Walking
 
 Under the hull, with the sand pressing in around me and my burned side screaming, I heard every sound he made.
 
-I didn't make any. I dug my claws into the wood and waited. Not while he was chained to that beam with fifty masks around him. I had one chance, and I had to choose the moment exactly right.
+I didn't make any. I couldn't do anything. Not while he was chained to that beam with fifty masks around him. I had one chance, and I had to choose the moment exactly right.
 
 That's what I told myself. It was even true.
 
@@ -134,7 +134,7 @@ That's what I told myself. It was even true.
 
 On the second night, they let the Husks in.
 
-There were dozens of them, kept penned somewhere in the deep lower hold, where the ship's belly had broken open against the sand. The Unnamed didn't fight Husks. They *kept* them, the way you'd keep dogs. And Husks are drawn to light.
+Dozens of them were penned in the deep lower hold. The Unnamed didn't fight Husks. They *kept* them, the way you'd keep dogs. And Husks are drawn to light.
 
 They came shuffling out of the dark and gathered around the boy on the chain, so close he could feel the cold coming off them. They didn't touch him. They just stared, the way they'd stared at the lamp in Bram's window.
 
@@ -160,7 +160,7 @@ Then the voice changed. It went softer. Almost shy.
 
 Under the hull, in the dark, I stopped breathing.
 
-I'm not going to tell you what that did to me. I'm not going to tell you what his voice sounded like, all those centuries ago, when it was just a shepherd boy's voice calling me in from the hills at dusk. That's mine. I'm keeping it.
+I'm not going to tell you what his voice sounded like, all those centuries ago, when it was just a shepherd boy calling me in from the hills at dusk. That's mine.
 
 I'll only tell you that I didn't answer. And that it was the hardest thing I have ever not done.
 
@@ -188,7 +188,7 @@ But Zayn couldn't lie, and he didn't know.
 
 "I'll try," he said instead. It was all he had. "I'll try. I swear I will."
 
-Tobin looked at him for a long moment. Then he nodded, as if that were enough. As if *I'll try* from someone who couldn't lie was worth more than *I promise* from anyone else.
+Tobin nodded, as if *I'll try* from someone who couldn't lie was worth more than *I promise* from anyone else.
 
 Maybe it was.
 
@@ -196,9 +196,7 @@ Maybe it was.
 
 That night, alone on the chain, Zayn reached for his name and couldn't find it.
 
-He told me about this part in the plainest voice of all.
-
-He was lying against the beam in the dark. The blades had been at him all day. He was so cold he couldn't feel his hands. And he thought, the way you think of something just to make sure it's still there, *My name is*—
+The blades had been at him all day. He was so cold he couldn't feel his hands. And he thought, the way you think of something just to make sure it's still there, *My name is*—
 
 And there was nothing.
 
@@ -230,7 +228,7 @@ Zayn's finger moved. A line. A slant. A line.
 
 "*Zayn,*" whispered Zayn.
 
-It came back. All of it, all at once, rushing in like water into a dry well. A boy of seven at the edge of a village well, deciding he would be called a word that sounded like wind over a dune. The only thing in the world that was his.
+It came back all at once, like water into a dry well. A boy of seven at the edge of a village well, deciding he would be called a word that sounded like wind over a dune.
 
 "There you are," said Soren softly.
 
@@ -254,7 +252,7 @@ Brother Seven. Always hunting him. Always, somehow, missing.
 
 Zayn started to hum too.
 
-He didn't decide to. It just came out of him: the same tune, the next line, the one the masked man hadn't reached yet.
+It just came out of him: the next line, the one the masked man hadn't reached yet.
 
 The humming stopped.
 
@@ -274,7 +272,7 @@ The light came up out of his chest like the Fire coming up over the dunes.
 
 *Gold.*
 
-It ran down his arm and into the grey blade and *through* it, the way the Fire pours through a crack in a shutter, and the blade couldn't drink it fast enough. It went up the masked man's wrist. Up his arm. Into him.
+It ran down his arm and into the grey blade and *through* it, faster than the blade could drink. It went up the masked man's wrist. Up his arm. Into him.
 
 And they both saw it.
 
@@ -282,7 +280,7 @@ And they both saw it.
 
 A tent, at night. Lamplight. A storm howling outside, the walls of the tent bowing in and out like something breathing.
 
-A small boy, five years old, sitting on a rug. His face was very serious. In his arms, held carefully, the way he'd been shown, was a baby. Newborn. Wrapped in a grey cloth covered in strange woven symbols. The baby had one tiny fist wrapped around the boy's finger and wouldn't let go.
+A small boy, five years old, sitting on a rug, very serious. In his arms, held carefully, the way he'd been shown, was a newborn baby wrapped in a grey cloth covered in strange woven symbols. The baby had one tiny fist wrapped around the boy's finger and wouldn't let go.
 
 And somewhere above them, a man's voice was singing. Low and warm. Fire and rising wings.
 
@@ -296,7 +294,7 @@ The vision broke.
 
 So did the mask.
 
-I heard it from under the hull, a sharp, clean crack like ice splitting on a cold night. Zayn saw it. A line ran straight down the middle of the smooth white face, from brow to chin, and golden light shone through it. Through the gap, for a single heartbeat, he saw an eye. Wide and wet and pale.
+I heard it from under the hull, a sharp, clean crack like ice splitting. A line ran straight down the middle of the smooth white face, from brow to chin, and golden light shone through it. Through the gap, for a single heartbeat, he saw an eye. Wide and wet and pale.
 
 Too pale for a desert child.
 
@@ -314,7 +312,7 @@ And Brother Seven fled. Up the ladder, through the hatch, out into the night, an
 
 ---
 
-The cuffs were still on Zayn's wrists. The chain hung from them in two short lengths. It didn't matter. He was up and across the hold before the hatch had stopped swinging, and he had the broken sword in his hand and his bag over his shoulder.
+The cuffs were still on his wrists. It didn't matter. He was up and across the hold before the hatch had stopped swinging, and he had the broken sword in his hand and his bag over his shoulder.
 
 He went up the ladder to the children.
 
@@ -336,7 +334,7 @@ And the ship moved.
 
 That was me.
 
-I'd been waiting under the hull for two nights and a day. Two nights in the sand with my burned side splitting and smoking and Malek's voice in my ears. I had one chance. And when I felt the light go gold above me, I knew.
+I'd been waiting under the hull for three nights. Three nights in the sand with my burned side splitting and smoking and Malek's voice in my ears. I had one chance. And when I felt the light go gold above me, I knew.
 
 I let it out.
 
@@ -346,13 +344,13 @@ It hurt. The burn hadn't healed, and the dark part of me came up through it like
 
 And I *lifted*.
 
-The ship groaned. It was a long, deep, terrible sound, like the whole desert sighing. Timbers that hadn't moved in a thousand years tore loose from the dune. The deck tilted. Masks went sliding and tumbling down it. Grey lanterns smashed and went out. And the old hull, rotten and dry, split right along its belly with a crack like thunder, and the night came pouring in.
+The ship groaned, like the whole desert sighing. Timbers that hadn't moved in a thousand years tore loose from the dune. Masks went sliding and tumbling down the deck. Grey lanterns smashed. And the old hull split along its belly with a crack like thunder, and the night came pouring in.
 
 I held it. Sand and wood and fifty masked men and a thousand years of silence, all on my back.
 
 Through the gap in the broken hull, Zayn looked down at me.
 
-He'd seen this shape once before. In the storm. And he had been so afraid of it that his light had burned it.
+He'd seen this shape once before, in the storm, and been so afraid of it that his light had burned it.
 
 He wasn't afraid now. I saw his face. I'll never forget his face.
 
@@ -378,7 +376,7 @@ I remember hands. His hands, picking me up. Holding me against his chest, right 
 
 "I've got you," he said.
 
-I had something in my mouth still. I'd had it the whole time. I let it drop into his palm.
+I had something in my mouth. I'd snatched it from the sand where I'd hidden it. I let it drop into his palm.
 
 A small bronze bell, no bigger than a thumb.
 
