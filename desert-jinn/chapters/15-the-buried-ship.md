@@ -28,8 +28,6 @@ A vast old hull, longer than all of Hilat al-Sarab, sunk on its side like a drow
 
 And inside it, through every crack and gap, lamps burned.
 
-Grey lamps, the colour of ash. Their light didn't spill onto the sand. It stayed close to the hull, like breath on cold glass.
-
 I crept down the slope in the dark, round to the side away from the sabkha, where the sand had drifted up against the buried belly of the ship. I put the bell down in a hollow and covered it.
 
 And I dug.
@@ -48,15 +46,11 @@ Names. Hundreds of them, scratched into the old wood with nails and buckles and 
 
 In the far corner, tossed in a heap like rubbish, were his bag and Hazza's broken sword.
 
-He stared at that sword a long time.
-
 ---
 
 They brought him up on the first night, for the burning.
 
 The upper deck lay tilted under the stars, one edge running down into the sand like a ramp. The Nameless stood in a circle on it. Fifty of them, perhaps more, grey robes, smooth white masks, silent as the emptied. In the middle stood an iron brazier, and in it a fire burned.
-
-The flames were grey, and gave off no heat. Only cold, the way cold comes off the stone lip of a deep well at night.
 
 To one side, in a line, stood the children.
 
@@ -65,8 +59,6 @@ There were eleven. The youngest perhaps five, the oldest perhaps twelve. Little 
 They weren't crying. Not one. Not a sniff. Frightened children cry. These had been frightened so long that crying had been worn out of them, the way the stones of an old well-head get worn into the shape of hands.
 
 Behind them, on a row of pegs along the rail, hung eleven small white masks. Waiting.
-
-One girl, six or so, kept glancing at her peg. Not in fear. Hopefully.
 
 The Nameless brought Theyab into the circle and forced him to his knees.
 
@@ -84,8 +76,6 @@ He let it fall.
 
 The cloth caught and curled, and as it burned he tried to say his name again. Then his lips stopped halfway through the shape of it and stayed open, puzzled, like a man who has walked into a tent and forgotten why. The smell came off the brazier: scorched cotton, and that sweet burnt something underneath.
 
-Then his face went slack. Not peaceful. *Empty*. The way a camp looks the morning after the tribe has moved on, the hearth-stones still black and nobody coming back.
-
 A brother stepped up behind each of them and pressed a white mask to his face, and Theyab saw its edges *settle*, softening against the skin like wax near a flame. One of the young men raised a hand and felt for the edge, and couldn't find one. He lowered his hand.
 
 Then the children swept the ash into a sack. The smallest hummed the chant while she swept, perfectly.
@@ -102,8 +92,6 @@ Grey robe, white mask, like all the others. But when it spoke, Theyab knew the v
 
 "Hello again, child."
 
-*The Voice*, they called him there. A voice was all he'd kept after he burned his name.
-
 He crouched in front of Theyab and held out a strip of white cotton and a stick of charcoal.
 
 "Write it," he said.
@@ -118,13 +106,9 @@ He thought of Hazza' drawing letters in the sand with a stick, right to left. *D
 
 Theyab spat on the cloth.
 
-The circle was very quiet.
-
 The Voice looked down at the wet spot a moment. Then he folded the cloth carefully and tucked it into his robe, close to his heart, where he kept the ring.
 
 "I must go back to Ubar," he said, rising. "The Night of Lamps is close." He turned to the circle. "Drain him slowly. Make him remember. When he is empty enough to forget his own name, he will give it to us himself. They always do."
-
-He rode off into the dark toward the west. I'd like to tell you that was the last we saw of him. I can't.
 
 ---
 
@@ -148,19 +132,13 @@ I couldn't tell him. I lay under the hull an arm's length from him, hearing ever
 
 ---
 
-Each time they finished with him, they marched the children past to watch. On the first day one boy flinched when Theyab cried out. On the second, nobody did. They looked at him the way you'd watch rain.
-
 On the second night, they let the emptied in.
 
 Dozens of them were penned in the lower hold, so close to my tunnel I could smell them through the wood. The Nameless *kept* them, the way a sheikh keeps hawks. And the emptied are drawn to the Light the way moths are drawn to a lamp, with the same ending.
 
-They shuffled out of the dark and gathered round the boy on the chain, smelling of dust and old breath and nothing at all.
-
 They were all muttering their own last words, a soft dry babble like water in a falaj. *Mind the step. Mind the step.* *Is that you?* *Bring the goats in, the shamal's coming.* *Tell her I said—tell her I said—tell her—*
 
 Then, all at once, they stopped.
-
-Every head turned to the same angle at once, the way the masks had in the storm. The silence was so complete he could hear the grey lamps hiss.
 
 Then they spoke.
 
@@ -170,13 +148,9 @@ Every mouth, together. One voice out of thirty throats, not a syllable apart. No
 
 Theyab went rigid on his chain.
 
-He knew that voice. He'd heard it in a dream, in Wadi al-Sada, leaning over him in the dark between the gorge walls.
-
 Ghadban. The shepherd boy who said no. And under him, behind him, wearing him the way the masks wore the faces underneath them, the thing that had been sealed beneath Ubar since before Ubar had a name.
 
 "*Little nameless light,*" said the emptied. Thirty jaws moving as one. "*They threw stones at you. They called you monster. They drove you into the sand to die. And you'd burn for them? Why? No one remembers the bearers. Ask the dog. Ask him how many he's buried. Ask him if anyone sings their names at the coffee hearth.*"
-
-A pause. Thirty heads tilting, exactly together.
 
 "*Ask him why it's always children.*"
 
@@ -192,8 +166,6 @@ Then the voice went softer. Almost shy. All thirty faces turned down, toward the
 
 "*Hello, Ghareeb,*" it said. "*I know you're down there. You always did listen at the tent wall.*"
 
-Under the hull, in the dark, I stopped breathing.
-
 The burned place in my side said its three words louder. In his voice. It had always been his voice.
 
 I won't tell you what that voice sounded like centuries ago, when it was a shepherd boy's in the Hajar, whistling me in from the wadi at dusk. That's mine. I'll only tell you that I didn't go to it, and that it was the hardest thing I have ever not done.
@@ -207,8 +179,6 @@ One of them stopped in front of Theyab and stared.
 He was seven. His head was shaved, his shift too big. And his eyes were brown, clear brown, not faded at all. Not yet.
 
 "You're the monster," said Shibl.
-
-He said it without fear. That was the horror of it. He said it the way you'd name a colour.
 
 "Nadim said you weren't," Shibl whispered. "After. He said he was wrong." Something moved in his face, deep down, like a fish rising in murky water. His lip shook. Just once. "Is Nadim coming?"
 
@@ -246,13 +216,9 @@ The hold was full of gold.
 
 Hazza' was sitting on the beam above him, swinging his legs.
 
-He looked the way he had on the dune, but dimmer, the edges of him drifting like ash off a fire just gone out.
-
 Under the planks, every hair on my back lay down at once.
 
 "I spend a whole month teaching you," Hazza' said, "and you give up on the first letter. I'm insulted."
-
-Theyab stared up at him.
 
 "*Dhal*," said Hazza'. He leaned down and pointed at the dust. His finger left no mark. "The old man's bent back, with his dot. Go on. Right to left. You always forget which way."
 
@@ -302,8 +268,6 @@ It just came out of him: the next line, the one the masked man hadn't reached ye
 
 The humming stopped.
 
-The Seventh sat completely still. The white mask stared across the lamplight.
-
 "Where did you learn it?" Theyab whispered. "Who taught it to you?"
 
 No answer. I never once, in all that time, heard him speak.
@@ -330,8 +294,6 @@ A small boy, five years old, sitting on a woven rug, very serious. In his arms, 
 
 Somewhere above them, a man's voice was singing. Low and warm. The firebird, burning and rising.
 
-The boy looked down at the baby and smiled. A gap-toothed smile, so proud he could burst.
-
 Then the tent wall tore open, and there were white masks in the storm.
 
 ---
@@ -342,13 +304,9 @@ So did the mask.
 
 I heard it from under the hull: a clean crack, like ice splitting on a winter water-skin. A line ran down the white face from brow to chin, with gold shining through. Along the crack the mask had grown *into* him, fine pale threads that bled, very slightly, grey.
 
-Through the gap, for one heartbeat, an eye. Wide and wet and dark. A falcon's eye, Theyab said afterwards, though he didn't know why he'd said it.
-
 And Theyab saw what he always saw: the full moon, Tal Moreeb, the fire. Clearer. He could feel the heat on his shins now, his skin tightening. And there were people in it. A man on his knees in the sand, begging. A figure in a cracked white mask, standing very still.
 
 The Seventh tore free and scrambled backwards, one hand clamped over the crack, making a small broken wordless sound, like a child woken from a nightmare who can't find the tent flap.
-
-He stared at Theyab.
 
 Then his blade flashed once. I can't tell you whether he meant to do it. I don't think he knew himself. But the grey chain parted between Theyab's wrists like a cut thread.
 
@@ -369,8 +327,6 @@ None of them moved. Two were wearing their masks already.
 He went to the nearest masked child and worked his fingers under the rim, gently, the way you'd work out a thorn from a camel's foot, saying anything, *you've got a name, you've got a name*, and it came away with a soft sound like a lip unsticking. Under it was a girl's face: blank, then puzzled, then all at once crumpling.
 
 She cried.
-
-Theyab said, in the caves, that it was the most beautiful sound he ever heard.
 
 Shibl moved first after that. He got up and took the smallest girl's hand. Then the next child. Then the next. The second mask came off easier.
 
@@ -421,8 +377,6 @@ He laughed. In the middle of all that, he laughed. Then he was down through the 
 When the last bare foot touched the dune outside, I let go.
 
 The bow came down into the hole with a roar of splitting timber, and the ship settled deeper into its dune, groaning, and the sand closed over the broken end of it like water closing over a stone.
-
-The humming went on a little while, under the sand. Then it stopped.
 
 ---
 

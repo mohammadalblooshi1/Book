@@ -204,11 +204,9 @@ Longer now. Much longer. It didn't flash. It *took* him.
 
 The full moon above him, so vast and white it seemed to be falling. A dune under his bare feet, higher than any dune he'd ever seen, red sand going up into the sky. He knew its name now, though no one had ever told him. *Tal Moreeb*. The Hill of Fear. He felt his arms rise. And then the fire started in his chest, and this time it didn't stop at a flash, and this time he *felt* it.
 
-Not light. Fire. He felt the skin of his chest tighten and split. He felt the heat go into his ribs and climb his throat and fill his mouth so that he couldn't scream, and come out through his eyes. He smelled his own hair burning, and under it, something worse, something like meat on a spit.
+Not light. Fire. The skin of his chest tightened and split. The heat climbed his throat and filled his mouth so he couldn't scream, and came out through his eyes. He smelled his own hair burning, and under it something like meat on a spit. Below him, a man's voice, cracked down the middle, was shouting a name.
 
-Below him, someone was shouting a name. Over and over. A man's voice, cracked down the middle.
-
-Then it was gone, and he was on his knees on the caravan track, retching, with his hands still on Jasir's face and the smell of burnt hair still real in his nose. It was his own hair. The front of it had crisped where the light came out of his eyes.
+Then he was on his knees on the caravan track, retching, with the smell of burnt hair still real in his nose. It was his own. The front of it had crisped where the light came out of his eyes.
 
 ---
 

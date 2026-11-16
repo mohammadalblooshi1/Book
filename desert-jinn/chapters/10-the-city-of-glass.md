@@ -310,13 +310,11 @@ Theyab didn't sleep for a long time.
 
 He took out the broken golden feather Old Bakhit had given him and turned it over. It seemed to me that the break across its middle had closed. Only a little. Only the width of a hair. As if facing one hard truth had mended something in it. I've wondered since what it was mending itself *for*.
 
-He didn't notice. He was looking at the twelfth place on the rock.
-
-There was one. I'd known there would be. At the end of the long curve, past the clouded figure of the Runner, there was one more stretch of smooth black varnish. Empty. Nothing pecked in it at all.
+He didn't notice. He was looking at the twelfth place on the rock: past the clouded Runner, one more stretch of smooth black varnish. Empty.
 
 Not yet.
 
-And past it, if you looked, the rock didn't end. The smooth black face went on, curving round the hollow and away into the dark by the way in. Room for a thirteenth. Room for a great many more. Whoever had chosen this rock had not been planning for twelve.
+And past it, the smooth black face went on, curving away into the dark. Room for a thirteenth. Room for a great many more. Whoever had chosen this rock had not been planning for twelve.
 
 Theyab looked at the twelfth place a long time. Then he lay down beside Hazza' and closed his eyes.
 
@@ -336,7 +334,7 @@ He couldn't read it now either. He was asleep. But his finger knew it.
 
 I can read it. I'm a dog, and I can read every script these sands have ever been written in. I've had time.
 
-I wiped it all away before dawn, with my forefeet and my belly and my tail, every letter, until the glass-dust lay smooth. I didn't show him. I didn't show Hazza'. You'll learn what the dunes were spelling when he did, and not before. That much at least I'll let him have.
+I wiped it all away before dawn, with my forefeet and my tail, every letter. You'll learn what the dunes were spelling when he did, and not before. That much at least I'll let him have.
 
 I counted the night. Night fourteen. I wished I had never learned to count. I wished, for the first time in a very long time, that I had never learned to read.
 
