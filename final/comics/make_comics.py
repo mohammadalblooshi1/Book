@@ -13,21 +13,21 @@ PANELS = os.path.join(HERE, 'panels')
 PAGES = os.path.join(HERE, 'pages')
 os.makedirs(PANELS, exist_ok=True); os.makedirs(PAGES, exist_ok=True)
 
-STYLE = ("anime style, all people are Arab Emirati and Omani Bedouins with brown skin and Arab features, all men have short hair and bare heads with no headdress, all women are modestly dressed and fully covered with hair covered, manga illustration, cel shading, sharp clean lineart, cinematic lighting, "
+STYLE = ("anime style, fully clothed, modest, family-friendly, no nudity, Arab Emirati and Omani Bedouin people with brown skin and Arab features, the characters are men and boys unless a woman is named, men and boys have short hair and bare heads, manga illustration, cel shading, sharp clean lineart, cinematic lighting, "
          "detailed, 1920s Arabian desert of UAE and Oman, horror atmosphere, no text, no letters, no speech bubbles")
 CHARS = [
-    (r"\bTheyab\b|teenage boy(?!.*Nadim)", "Theyab: 15-year-old Emirati Bedouin boy, brown sun-darkened skin, thick black eyebrows, short black hair, light amber-gold eyes, thin face, ragged sand-coloured kandura robe, faint glowing golden feather mark on his chest"),
+    (r"\bTheyab\b|teenage boy(?!.*Nadim)", "Theyab: a male teenage boy, 15-year-old Emirati Bedouin boy, brown sun-darkened skin, thick black eyebrows, short black hair, light amber-gold eyes, thin face, ragged sand-coloured kandura robe, faint glowing golden feather mark on his chest"),
     (r"small boy|7-year-old", "small Emirati Bedouin boy with brown skin and black hair"),
     (r"Ghareeb|saluki|\bdog\b", "Ghareeb: lean Arabian saluki hound, sand-coloured, long feathered ears and tail, slender long face, one amber eye and one glowing silver eye"),
     (r"Umm Hanan", "Umm Hanan: old Emirati widow in black abaya and black shayla, gold metallic face mask burqa over nose and mouth, kind tired eyes, wrinkled brown hands"),
-    (r"Hilal", "Mutawwa Hilal: thin old Omani man, very dark sun-blackened skin, white trimmed beard, brown goat-hair cloak, wooden walking stick, leather satchel"),
-    (r"Bakhit", "Old Bakhit: ancient blind Bedouin healer, milky white eyes, short white hair and long white beard, deep wrinkles, tent full of hanging herbs and brass bells"),
-    (r"Ghanim", "Ghanim: fat Emirati trader, orange henna-dyed beard, white kandura, gold rings, crooked brass scales"),
-    (r"Haddaj", "Haddaj: old gaunt Bedouin sorcerer, dark bisht, hawk nose, clay under his fingernails, battered leather book"),
-    (r"Nadim", "Nadim: broad Emirati Bedouin teenage boy, brown skin, short black hair, white kandura, hard proud face"),
-    (r"Shibl", "Shibl: small 7-year-old Emirati boy, brown skin, black hair, huge dark eyes, blue bead on a string"),
-    (r"Saqi", "Saqi: heavy Emirati well-keeper, grey beard, white kandura"),
-    (r"old man|teller", "very old Emirati Bedouin storyteller, white beard, brown bisht, face in firelight"),
+    (r"Hilal", "Mutawwa Hilal: a thin old man, very dark sun-blackened skin, white trimmed beard, brown goat-hair cloak, wooden walking stick, leather satchel"),
+    (r"Bakhit", "Old Bakhit: an ancient blind old man, Bedouin healer, milky white eyes, short white hair and long white beard, deep wrinkles, tent full of hanging herbs and brass bells"),
+    (r"Ghanim", "Ghanim: a fat middle-aged man, Emirati trader, orange henna-dyed beard, white kandura, gold rings, crooked brass scales"),
+    (r"Haddaj", "Haddaj: an old gaunt man, Bedouin sorcerer, dark bisht, hawk nose, clay under his fingernails, battered leather book"),
+    (r"Nadim", "Nadim: a male teenage boy, broad Emirati Bedouin boy, brown skin, short black hair, white kandura, hard proud face"),
+    (r"Shibl", "Shibl: a little boy, small 7-year-old Emirati boy, brown skin, black hair, huge dark eyes, blue bead on a string"),
+    (r"Saqi", "Saqi: a heavy middle-aged man, Emirati well-keeper, grey beard, white kandura"),
+    (r"old man|teller", "a very old man, Emirati Bedouin storyteller, white beard, brown bisht, face in firelight"),
     (r"villager|crowd|men\b", "Emirati Bedouin villagers, men with short black hair and no headdress in white kandura, women fully covered in black abaya with hair covered by black shayla"),
     (r"Noon Mare|legs are wrong|donkey", "the Noon Mare: pale woman in a long modest dress with her hair fully covered by a dark headscarf, whose lower body is donkey legs with hooves, standing in noon heat-shimmer"),
     (r"Lamp-Keeper|protecting Umm Hanan's lamp", "the Lamp-Keeper: small hooded figure made of warm amber light cupping a lamp flame with both hands"),

@@ -7,7 +7,7 @@ import os, re, textwrap
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 from make_comics import gen, FONT_B, FONT_I, PANELS
 
-STYLE = ("anime style character design, Arab Emirati and Omani people with brown skin, men have short hair and no headdress, women modestly dressed and fully covered with hair covered, manga illustration, cel shading, sharp clean lineart, full body, "
+STYLE = ("anime style character design, fully clothed, modest, family-friendly, no nudity, Arab Emirati and Omani people with brown skin, manga illustration, cel shading, sharp clean lineart, full body, "
          "dramatic lighting, dark desert background, horror atmosphere, no text, no letters")
 
 SHEETS = {
