@@ -11,7 +11,7 @@
 | ghoul / ghilan | **the Hoofed** | Shape-shifters of the empty sand who can change everything except their **donkey hooves**. "One blow. Never two." |
 | zawba'a (sand-devil) | **a Whirler**; the great one is **the Black Wind** | Living whirlwinds and storms |
 | jinn-jackals | **Ember Hounds** | Packs with burning eyes |
-| Umm al-Duwais | **the Perfumed Bride** | A beautiful woman with a perfume of oud and musk, rot beneath it, and blades for hands |
+| Umm al-Duwais | **the Lady of the Crossroads** | A beautiful woman with a perfume of oud and musk, rot beneath it, and blades for hands |
 | Bu Darya | **the Deep Caller** | A giant half-fish thing that calls divers in human voices and drags them under the water or the salt |
 | Hmarat al-Qayla | **the Noon Mare** | Half woman, half donkey; she takes children who are out in the midday heat |
 | Abu Fanous | **the Lantern Man** | A light in the dunes at night that leads travellers away to die |
@@ -40,7 +40,7 @@ Ghareeb can mention once, late in the book, that "the old people had other names
 - **The underworld is called _the Underneath_**: a world of dark and smokeless fire beneath the sand, older than people. The Smokeless live there and come up through its **doors**: wells, sinkholes, caves, graves, ruins, lone trees, the salt crust of the dead sabkha, and the moment between noon and the hour after, or dusk and full dark.
 - **Ubar's sinkhole is the great door.** The Sealed King lies in the brass vessel at the top of the Underneath, directly beneath Ubar's well. When the seal weakens, the doors everywhere open wider. That is why the Grey spreads.
 - **What the Underneath is like** (seen only in glimpses: the Sitter's nights, the Twin's visions, the buried dhow, the sinkhole on the Night of Lamps): heat with no light, the smell of burnt hair and old frankincense, voices that use your name, and endless rows of the emptied, who walk without going anywhere.
-- **All four kinds** (Burners, Whirlers, Drowners, the Hoofed) and **every named creature** (the Perfumed Bride, the Deep Caller, the Noon Mare, the Lantern Man, the Cradle Mother, the Halfman, the Twin, the Sitter, the Ember Hounds, the Black Wind) **come from the Underneath**. Each has its own door: the Deep Caller rises through the salt and the sea, the Noon Mare through the heat-shimmer of empty lanes, the Lantern Man through the dunes at night, the Cradle Mother through the tent's threshold.
+- **All four kinds** (Burners, Whirlers, Drowners, the Hoofed) and **every named creature** (the Lady of the Crossroads, the Deep Caller, the Noon Mare, the Lantern Man, the Cradle Mother, the Halfman, the Twin, the Sitter, the Ember Hounds, the Black Wind) **come from the Underneath**. Each has its own door: the Deep Caller rises through the salt and the sea, the Noon Mare through the heat-shimmer of empty lanes, the Lantern Man through the dunes at night, the Cradle Mother through the tent's threshold.
 - **The Worn** are people a Smokeless from below has "put on". **The Marked** child's blood opens the doors.
 - **What people call it:** the old people say *"the ones from below"*, *"the ones under the sand"*, *"them"*. Hilal calls them *the Smokeless* from his old book. Ghareeb, being smoke-touched, knows the Underneath. Part of him has been there, and **his silver eye still looks into it.**
 - **Never** use: jinn, jinni, djinn, demon, devil or hell. Use only **the Smokeless**, **the ones from below**, **the Underneath**, or the creature's own horror name.
@@ -55,7 +55,7 @@ They want **control**. They do it in three ways:
 1. **Possession.** They "put on" a person, who becomes **the Worn**, and use the body to hurt others and spread fear.
 2. **The Sitter.** They crush the sleeping, steal breath, and plant terror and false dreams.
 3. **Stealing.** They take names, memories, children (the Noon Mare, the Cradle Mother), breath, luck, water and buried treasure (they guard what they've stolen, and only **Marked** blood opens it).
-They lure (the Perfumed Bride, the Lantern Man, the Shimmer, the Deep Caller), lie, and test people with offers, as the Sealed King does. **The Nameless serve them.**
+They lure (the Lady of the Crossroads, the Lantern Man, the Shimmer, the Deep Caller), lie, and test people with offers, as the Sealed King does. **The Nameless serve them.**
 
 ### The good ones
 They **defend people**, using their powers for good, and they often can't be seen doing it:
@@ -76,7 +76,7 @@ They **defend people**, using their powers for good, and they often can't be see
 - She has no name she will give: names are dangerous. Ghareeb calls her **the Sand-Mother**. She appears as a **gazelle with gold eyes**, or as a girl at the edge of firelight whose feet never touch the sand, and sometimes only as **warmth and the smell of milk** in the dark.
 - **Seeds:** in Part I, Theyab sometimes wakes from a Sitter attack with the weight lifted and a smell of milk. A gazelle watches him scavenge. Ghareeb knows her and keeps the secret, as he has known her since the first night.
 - **Kindness returns:** as a boy, Theyab saved a pale snake in the ruins that Ghanim wanted to kill, warning it three times to leave, as the old people do. **It was her.**
-- **She defends him:** she pulls him from the Lantern Man's path, turns a Whirler aside, holds the Halfman back on the salt, and fights the Perfumed Bride for Nadim's soul. She can't come near when he wears the hirz, so he is torn.
+- **She defends him:** she pulls him from the Lantern Man's path, turns a Whirler aside, holds the Halfman back on the salt, and fights the Lady of the Crossroads for Nadim's soul. She can't come near when he wears the hirz, so he is torn.
 - **Her end (Part IX, the Night of Lamps):** she fights at the sinkhole to hold back the evil ones while Theyab and the children escape, and she is **unmade**. Her last act is to give Zaid's whistle its sound. It breaks readers' hearts. On Tal Moreeb, at the very end, Theyab smells milk once more.
 
 ---
@@ -90,7 +90,7 @@ They **defend people**, using their powers for good, and they often can't be see
 | الغول (ghoul) | **the Hoofed** |
 | الشياطين (shayateen, the wicked ones) | **the Turned** |
 | الزهوي (zahwi) | **the Marked** |
-| أم الدويس (Umm al-Duwais) | **the Perfumed Bride** |
+| أم الدويس (Umm al-Duwais) | **the Lady of the Crossroads** |
 | بو دريا (Bu Darya) | **the Deep Caller** |
 
 ### The named Turned: the Sealed King's lieutenants (new, original names)

@@ -13,7 +13,7 @@ This outline follows the architecture file exactly: ten parts of 15 chapters, wi
 - **The hidden message** (kindness returns, and so do cruelty and greed) is never stated. Beats mark a kindness with ⟲ when it is done and ⟲⟲ when it comes back. These marks are for the writers only.
 
 ## The creature-names rule (applies to every line of the book)
-No old folklore or classical creature name, and no word for the race itself, ever appears. Only the new names from `creature-names.md` are used: **the Smokeless** (the race); **the Sealed King** (the great one under Ubar); the four kinds: **Burners** (fire), **Whirlers** (wind, the great one being **the Black Wind**), **Drowners** (sea) and **the Hoofed** (land); the four ranks Hilal reads from a worn copy of al-Jahiz's *al-Hayawan*: **Dwellers** (who live in houses with people), **the Turned** (gone wicked), **Breakers** (who carry buildings) and **Burners** (the strongest); **Ember Hounds**; **the Perfumed Bride**; **the Deep Caller**; **the Noon Mare**; **the Lantern Man**; **the Cradle Mother**; **the Shimmer**; **the Halfman**; **half-people**; **the Bodiless Voice**; **the Twin**; **the Sitter**; **the Worn**; **the Marked**; **smoke-touched**; **the Grey**; **the Nameless**. In Ch 147, Ghareeb says once: "the old people had other names for them, names I won't put in your ears, little one."
+No old folklore or classical creature name, and no word for the race itself, ever appears. Only the new names from `creature-names.md` are used: **the Smokeless** (the race); **the Sealed King** (the great one under Ubar); the four kinds: **Burners** (fire), **Whirlers** (wind, the great one being **the Black Wind**), **Drowners** (sea) and **the Hoofed** (land); the four ranks Hilal reads from a worn copy of al-Jahiz's *al-Hayawan*: **Dwellers** (who live in houses with people), **the Turned** (gone wicked), **Breakers** (who carry buildings) and **Burners** (the strongest); **Ember Hounds**; **the Lady of the Crossroads**; **the Deep Caller**; **the Noon Mare**; **the Lantern Man**; **the Cradle Mother**; **the Shimmer**; **the Halfman**; **half-people**; **the Bodiless Voice**; **the Twin**; **the Sitter**; **the Worn**; **the Marked**; **smoke-touched**; **the Grey**; **the Nameless**. In Ch 147, Ghareeb says once: "the old people had other names for them, names I won't put in your ears, little one."
 
 ## Before the story: the Quiet Country (author update)
 When Sharood left baby Theyab in the sand, the **Sand-Mother** took him down into **the Quiet Country**, the hidden good part of the Underneath: sweet wells, ghaf roots like pillars, light with no sun. The good ones raised him there for about seven years: the Sand-Mother, the Lifter, the Quiet Voice, the Turning Wind and the Threshold-Watcher, **with Ghareeb at his side the whole time**. At about seven he lost the path by mistake, following a gazelle up through a noon door. The door closed, and he woke crying in Hilat al-Sarab's noon lane: his "first memory". His memories of below are fragments, dreams, smells of milk and sweet water, and sleep-talk in a tongue no one knows. Neither he nor the reader can be sure they were real until the Sand-Mother returns (Ch 84) and Sharood confirms it (Ch 92). The path back is the great longing of his life.
@@ -50,11 +50,11 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 - **Nadim the reciter** (from *Sirat Sayf ibn Dhi Yazan*). Every fire scene opens with his fixed formula, *"The teller said…"*, followed by *"Hold your breath, little ones,"* before each horror. Every night closes with *"…and what he found there, I'll tell tomorrow, if the wind lets me."* When he falters (Ch 69 in Part V and Ch 98 in Part VII), **he skips the formula, and the children notice.**
 - **Objects that hold the Smokeless** (from the Sayf epic). Whoever holds the object, the Smokeless in it must obey **in letter, never in spirit**. There are three: (1) a Dweller bound in Old Bakhit's brass truth bell, which is why it rings at lies; (2) the Younger Sister of Bahla, whose own sister is bound by a sorcerer's ring; (3) **the carved tablet from Ghidd al-Zujaj that commands the Sealed King.** The Nameless pass the tablet down, Wazir Muhaisen holds it, and **Saqr steals it** (Ch 130). **Ghareeb's silver eye is the Sealed King's *other* window**, the one no tablet can close.
 - **A Smokeless princess ally:** the Younger Sister of Bahla, who dug its falaj in one night. She never gives her name (Ch 50–53, 131, 139).
-- **Written against unwritten.** Hilal trusts only the Smokeless that are in his books. Umm Shamma, the divers and the grandmothers fear the Perfumed Bride and the Deep Caller, "who are in no book". **The unwritten ones are the real ones here.** Hilal dies to the Perfumed Bride, a thing his books never named (Ch 126).
+- **Written against unwritten.** Hilal trusts only the Smokeless that are in his books. Umm Shamma, the divers and the grandmothers fear the Lady of the Crossroads and the Deep Caller, "who are in no book". **The unwritten ones are the real ones here.** Hilal dies to the Lady of the Crossroads, a thing his books never named (Ch 126).
 - **"One blow. Never two."** It is Old Bakhit's rule for the Hoofed and a line that runs through the book (Ch 17, 20, 45, 125, 150). The hooved boy at the fire is one of the Hoofed, who can change everything except their feet.
 - **The Bodiless Voice is the Twin's first voice** (Ch 26, 30). Hilal gives both of the old books' explanations: it is real (al-Jahiz), or it is loneliness (al-Mas'udi). The book never settles which (Ch 96).
 - **The two major recurring unwritten horrors:**
-  - **The Perfumed Bride:** Ch 29, 60, 65, 68, 69 [TALE], 112, 115, 126, 127, 130, 139 and 150.
+  - **The Lady of the Crossroads:** Ch 29, 60, 65, 68, 69 [TALE], 112, 115, 126, 127, 130, 139 and 150.
   - **The Deep Caller:** Ch 3, 6, 28, 32–33 [TALE], 77, 80 [TALE], 84, 117, 128 and 139.
   - Also present: the Noon Mare (Ch 1, 3 [TALE], 11, 109), the Lantern Man (Ch 21, 104) and the Cradle Mother (Ch 148–149).
 
@@ -347,7 +347,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 *"A man who burns his name can't be cursed. He also can't be prayed for." — the Liwa elders*
 - Theyab spies on a Nameless camp. Men write their names on cloth and burn them, and their faces go slack and grey-eyed.
 - Ghanim is there unmasked, selling water and camels at triple price and asking "the boy's price" ⟲ (greed).
-- A perfume moves among the tents: oud, musk, and rot under it. Ghareeb never sees her. The Perfumed Bride's first touch.
+- A perfume moves among the tents: oud, musk, and rot under it. Ghareeb never sees her. The Lady of the Crossroads's first touch.
 - Theyab hears "the Marked one", "the last seal", and a reward.
 - [ACTION] He steals a waterskin and is seen. In the chase the Eldest, a silent giant, almost has his collar. Ghareeb bites him, and the giant doesn't make a sound.
 - **Hook:** Ghareeb looks back once, clearly, and every mask in the camp turns toward the place where he lies.
@@ -651,7 +651,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 
 ### 60. Never Leave a Friend Under the Full Moon
 *"Never leave a friend alone under the full moon; the moon counts who is alone." — a herders' saying*
-- **The first telling.** Ghareeb hunts Ember Hounds all night, his shadow running ahead of him. On the salt road he crosses oud, musk and rot: Nadim carrying sleeping Shibl, led by a woman with hair to her waist. The Perfumed Bride. He doesn't follow.
+- **The first telling.** Ghareeb hunts Ember Hounds all night, his shadow running ahead of him. On the salt road he crosses oud, musk and rot: Nadim carrying sleeping Shibl, led by a woman with hair to her waist. The Lady of the Crossroads. He doesn't follow.
 - Theyab, walking the dunes to stop his shaking, sees in the moonlight a figure with his own walk heading back toward the fire. He thinks it is moonlight. **[TWIST-T2 reveal: the Twin walks in his body]**
 - Ghareeb's first account: he comes back near dawn and finds Hazza' dying by the dead fire, with grey blades' cuts. The Seventh is running from the camp, robes flapping, blades wet.
 - Hazza''s last words, to the boy who arrives: "You came back… why did you hold—" He dies with the question.
@@ -712,7 +712,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 - Muhaisen's household: servants with slack faces who never speak. Ghareeb smells that they are Worn, quiet and obedient, put on by the Smiling Hunger and commanded "in letter" through the tablet.
 - Theyab reads a little in Muhaisen's library, thanks to Hazza' ⟲⟲. He finds a book of the bearers' tales, beautifully illuminated.
 - **Hook:** On the roof at night, the wind brings oud, musk, and rot beneath them.
-[the Perfumed Bride] [TWIST-T7 seed: the book of tales]
+[the Lady of the Crossroads] [TWIST-T7 seed: the book of tales]
 
 ### 66. Never Dream of the Garden Behind the Fire
 *"The garden you see in dreams has a gate, and the gate is a mouth." — a grandmother's warning*
@@ -736,17 +736,17 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 ### 68. Never Walk the Palm Grove at Night
 *"The palms whisper at night. They're telling you who's walking among them." — a saying of the date-farmers*
 - Ghareeb follows the oud into Al-Nakhlatain's palm gardens at midnight. The fronds rustle like women talking.
-- [ACTION] The Perfumed Bride: very beautiful, black hair to her waist. She knows his old name. "Hello, little dog. Your eye has been such a help."
+- [ACTION] The Lady of the Crossroads: very beautiful, black hair to her waist. She knows his old name. "Hello, little dog. Your eye has been such a help."
 - Her hands lengthen into blades curved like fodder-sickles. The fight is short and brutal, and Ghareeb is cut along the ribs.
 - She doesn't kill him. "You're more use to us looking." She is "in no book", and she knows that's why the mutawwa' can't touch her.
 - He limps back to warn Theyab and finds the door barred. Nadim is sitting against it inside, weeping.
 - **Hook:** On the roof Ghareeb howls and howls, and no one in the house understands a dog.
-[ACTION] [TWIST-T4 seed] [the Perfumed Bride]
+[ACTION] [TWIST-T4 seed] [the Lady of the Crossroads]
 
 ### 69. Never Follow the Scent of Oud
 *"If a woman on the night road smells of oud and knows your name, run, and don't look at her hands." — what coastal grandmothers tell their sons*
 - [FIRE: Nadim falters] *He does not say "The teller said." The children notice; one whispers it for him. He stops for a long time, can't look at the fire, and says, "This next part is mine. The dog won't tell it. I will." The boy among the children says softly, "Go on." He does.*
-- [TALE: the Perfumed Bride, Nadim's own telling, as a confession to the fire] After the Grey took Saqi again, Shibl began to fade. Nadim carried him toward the coast for a cure.
+- [TALE: the Lady of the Crossroads, Nadim's own telling, as a confession to the fire] After the Grey took Saqi again, Shibl began to fade. Nadim carried him toward the coast for a cure.
 - On the night road a perfumed woman met them. She knew Shibl's name and was kind to him. Her waterskin never emptied. Every time Nadim stumbled she smiled, and he got up.
 - Twice a gold-eyed gazelle stood in the road between him and the masked fire, and the woman's smile went thin. The second time, Nadim threw a stone at it. (The Sand-Mother, fighting for his soul, and losing for now.)
 - At a fire of white masks she offered his test: Shibl's safety and cure, for word of where the Marked boy sleeps. He took it.
@@ -999,7 +999,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 
 ### 94. Never Forgive Too Quickly
 *"Forgive too quickly and the wound closes over the thorn." — a saying of the healers*
-- Nadim has followed the clan's trail, half dead. He kneels in front of Theyab and confesses everything: the Perfumed Bride, the deal, the room.
+- Nadim has followed the clan's trail, half dead. He kneels in front of Theyab and confesses everything: the Lady of the Crossroads, the deal, the room.
 - Theyab cannot lie. Asked "Do you forgive me?", he says, "Not yet." It is the most honest kindness in the book.
 - Nadim stays to serve the children. He is the one who sits up with them at night.
 - Nadim mentions a gazelle that stood in his road twice, and that he threw a stone at it. Theyab knows now who it was.
@@ -1020,7 +1020,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 ### 96. Always Learn the Words Before the Night Comes
 *"Learn the words in daylight; at night you won't remember which mouth you're using." — Mutawwa' Hilal*
 - Hilal's teaching. He opens his worn al-Jahiz and goes through the ranks again: Dwellers, the Turned, Breakers, Burners, and the lieutenants by what they do (eating names, putting people on, speaking in the voices of the dead, sitting, guarding).
-- **Written against unwritten:** Hilal trusts what's in his books. The clan women laugh softly: "And the Perfumed Bride? And the Deep Caller? Are they in your book, mutawwa'?" He says those are coast stories.
+- **Written against unwritten:** Hilal trusts what's in his books. The clan women laugh softly: "And the Lady of the Crossroads? And the Deep Caller? Are they in your book, mutawwa'?" He says those are coast stories.
 - The Bodiless Voice, given both old explanations: al-Jahiz says the Bedu would think you mad to doubt it; al-Mas'udi says it is the desert's loneliness speaking. "Choose, if you can."
 - The hard rule: iron, hirz and recitation drive back good ones and evil ones alike. Theyab understands the salt, and the Sand-Mother, and why she could never come close.
 - Hilal: "That one under Ubar is not mine to send away. That one is waiting for you."
@@ -1157,10 +1157,10 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 *"The cook who feeds the princes knows where the knives are kept." — said in Ubar's kitchens*
 - Umm Shamma, the palace cook, who fed Hazza' and Zaid as boys. She hides Theyab in the store-rooms and feeds him ⟲⟲.
 - She tells stories of Hazza' as a thieving, beloved boy. Theyab laughs and cries into her bread.
-- She fears what is "in no book": the Perfumed Bride has walked the palace for a year as a lady of the court, and Umm Shamma can smell her. "The mutawwa' won't believe me. It's not in his books."
+- She fears what is "in no book": the Lady of the Crossroads has walked the palace for a year as a lady of the court, and Umm Shamma can smell her. "The mutawwa' won't believe me. It's not in his books."
 - Zaid comes to the kitchens at night to steal honey, as Hazza' did. He sees the broken sword and knows it.
 - **Hook:** Zaid: "They say you killed my brother." Theyab can't lie: "My hands held him."
-[the Perfumed Bride]
+[the Lady of the Crossroads]
 
 ### 111. Never Climb the Wall to Read the Words
 *"The walls of the old city speak; the wise leave without answering." — said of Ubar*
@@ -1175,12 +1175,12 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 ### 112. Never Kneel Where a Prince Was Accused
 *"The court that exiled the son will hang the friend." — a saying of the majlis*
 - Sheikh Mutlaq's court: proud, grieving, frankincense smoke. Muhaisen stands at his shoulder, and Hilal and Sharood are among the mourners.
-- The Perfumed Bride sits among the court's women in a veil, with oud and rot. Ghareeb's hackles stand, and Hilal sees nothing: she isn't in his books.
+- The Lady of the Crossroads sits among the court's women in a veil, with oud and rot. Ghareeb's hackles stand, and Hilal sees nothing: she isn't in his books.
 - Theyab tries to show the letter. Muhaisen intercepts it: a forgery, he says, and the boy a murderer. Theyab cannot lie, and says "My hands held him." That condemns him.
 - Under his cloak, Muhaisen touches the leather case that holds the tablet, and the guards' faces go slack.
 - Zaid tries to speak and is sent from the room.
 - **Hook:** They throw Theyab, with Jasir and Ghareeb, down into the tombs beneath the city.
-[the Perfumed Bride] [the tablet]
+[the Lady of the Crossroads] [the tablet]
 
 ### 113. Never Read by the Light of the Dead
 *"In the tombs, read quickly; the lamp-oil is borrowed from the dead." — said by Ubar's lamp-keepers*
@@ -1204,13 +1204,13 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 
 ### 115. Never Breathe the Perfume Under the City
 *"If you smell oud in a tomb, the bride has come for the groom." — said in Ubar's kitchens*
-- [ACTION] The Perfumed Bride in the tombs: beautiful, then not, her blades scraping the walls.
+- [ACTION] The Lady of the Crossroads in the tombs: beautiful, then not, her blades scraping the walls.
 - Jasir fights her and bargains with her in a tongue from below. Being half of below, he can.
 - Ghareeb fights, and Theyab with the Light. She is wounded but not destroyed, because she is not in any book that tells how.
 - She tells Jasir what he is, and laughs: "Your father is waiting under the city's well, little lamp-eyes."
 - She escapes up a shaft.
 - **Hook:** The shaft breathes heat. Below the tombs is a deeper stair, and at its foot a light that isn't lamplight.
-[ACTION] [the Perfumed Bride]
+[ACTION] [the Lady of the Crossroads]
 
 ### 116. Never Touch the Brass That Holds a Vow
 *"A vow kept in brass goes sour like milk in a skin." — a saying of the old smiths*
@@ -1318,17 +1318,17 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 
 ### 126. Never Leave a Holy Man to Finish Alone
 *"The one who reads over others has no one to read over him; sit with him." — a saying of the Bedu*
-- The Perfumed Bride comes for Hilal. He recites at her, and nothing happens: she is in no book, and his words have no handle on her. **(Written against unwritten pays off.)**
+- The Lady of the Crossroads comes for Hilal. He recites at her, and nothing happens: she is in no book, and his words have no handle on her. **(Written against unwritten pays off.)**
 - Her blades go in. Ghareeb tears at her, and she flees laughing into the smoke.
 - Hilal, dying, keeps reciting over the last Worn guards, and the children he read over on the salt carry him out of the fighting ⟲⟲.
 - Hilal's last words to Theyab: "That one is waiting for you. Don't make it wait well." Then he gives a dry joke about his books.
 - He dies still reciting, the rhythm of his breath going on a moment after the breath stops.
 - **Hook:** Ghareeb howls over him. Above, in the Sheikh's chamber, the oud smell is thickening.
-[Hilal's death] [the Perfumed Bride]
+[Hilal's death] [the Lady of the Crossroads]
 
 ### 127. Never Let the Last Lamp Die
 *"Never let the last lamp die; the dark is waiting for exactly that." — said in Ubar on the Night of Lamps*
-- Sheikh Mutlaq, wounded, holds his chamber with a sword. The Perfumed Bride and Muhaisen come for him.
+- Sheikh Mutlaq, wounded, holds his chamber with a sword. The Lady of the Crossroads and Muhaisen come for him.
 - [ACTION] Theyab arrives too late to save him. The Sheikh dies with his hand on Hazza''s ring at Theyab's throat: "My son was innocent. Tell the walls."
 - Every lamp in the fort is out but one: the lamp in Hazza''s name-niche. Theyab shields it with his body as the wind howls and Ash-Mouth breathes on it.
 - He keeps it lit with the Light from his own hands. The cracks spread up his throat.
@@ -1358,7 +1358,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 
 ### 130. Never Hand a Child to a Smiling Man
 *"Never hand a child to a man who smiles with his teeth shut." — a saying of the tent-mothers*
-- In the chaos Muhaisen takes Zaid again, gently, with a soft voice ("I'll keep him safe"), and rides east with the Perfumed Bride and the Nameless remnant.
+- In the chaos Muhaisen takes Zaid again, gently, with a soft voice ("I'll keep him safe"), and rides east with the Lady of the Crossroads and the Nameless remnant.
 - Saqr is ordered to cover the retreat. He stands in the gate with his blades, between his brother and his master.
 - [ACTION] Saqr fights Nameless, not Theyab, and holds the gate a moment too long.
 - As Muhaisen's camel passes, Saqr cuts the leather case from his saddle: **he steals the tablet.**
@@ -1423,7 +1423,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 - They ride out through Ubar's eastern gate between the emptied murmuring their last words (*base Ch 19*): *bar the door, Mother I'm here, where's the oil.*
 - Days crushed into a night's ride. Tal Moreeb rises above a white sabkha at its foot, a real salt flat at the real dune.
 - At the foot: a great ring of the emptied, every one facing up the slope.
-- On the crest: Muhaisen with Zaid, the Nameless remnant, the Perfumed Bride's veil fluttering, and Saqr apart with the tablet.
+- On the crest: Muhaisen with Zaid, the Nameless remnant, the Lady of the Crossroads's veil fluttering, and Saqr apart with the tablet.
 - **Hook:** As Theyab climbs, a small dark shape on the sabkha walks toward the dune: a blind old man led by a woman with a lamp the wind can't put out.
 [FIRE] [TWIST-T9 seed]
 
@@ -1451,10 +1451,10 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 - [ACTION] **All four kinds attack together.** Burners race down the slope. The Black Wind stands up off the dune. The Hoofed rise from the sand. Out of the sabkha at Tal Moreeb's foot, the **Deep Caller** heaves up through the salt: giant, half-fish, calling in the voices of every drowned diver.
 - It calls Umm Hanan in her sons' voices. She stands holding her lamp and does not answer, and the Lamp-Keeper's flame never wavers ⟲⟲.
 - Jasir walks down onto the salt to face his father with no voice, only the sea's hum. The Lifter rises under him. When the Deep Caller drags him under, the Lifter carries him up.
-- The Perfumed Bride comes for Bakhit. The Younger Sister's last water-thread trips her into the sabkha, and the Deep Caller takes her, mistaking her for his.
+- The Lady of the Crossroads comes for Bakhit. The Younger Sister's last water-thread trips her into the sabkha, and the Deep Caller takes her, mistaking her for his.
 - The Eldest, holding Zaid for Muhaisen, opens his hand and lets the boy run ⟲⟲. Theyab catches Zaid and sends him down the slope to Sharood.
 - **Hook:** Muhaisen draws his ash-blade and walks toward Theyab's back.
-[ACTION] [the Deep Caller] [the Perfumed Bride's fate] [the Lifter]
+[ACTION] [the Deep Caller] [the Lady of the Crossroads's fate] [the Lifter]
 
 ### 140. Never Hold On to a Son Who Is Leaving
 *"Hold a son too long and you'll hold him at his grave." — a saying of the tent-fathers*
@@ -1569,9 +1569,9 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 1. **Theyab** goes from a foundling who lost the path home from the Quiet Country at seven, to the "monster" of Hilat al-Sarab, to a boy who learns to laugh and to read with Hazza'. He breaks when he learns his own hands held his friend (Ch 99–100). Offered every gift, including the way home, he chooses to give the Light *outward*, not into the fire's mouth: "I'm coming, Hazza'." (Ch 143)
 2. **Ghareeb** is the loyal dog who half knows he is the enemy's window. He tells one lie (Ch 56), gives a false first telling (Ch 60), meets the truth (Ch 87) and tries to leave (Ch 88). He burns out his own eye (Ch 142), confesses (Ch 147) and guards the cradle. The window reopens on the last page.
 3. **Hazza'** is a laughing exile who hid Suhail, taught a wolf his letters, and hid a letter in his sword to spare his friend one more weight. He died held by the Twin wearing that friend's body. Every kindness he did returns: Suhail, the hilt, the children's letters.
-4. **Nadim** goes from bully, to the boy who screams "monster", to the man who betrays Theyab for his brother on the Perfumed Bride's road. He is forgiven with "not yet", raises the Light's next bearer, and becomes the old teller who falters, names himself, and warns too late (T8).
+4. **Nadim** goes from bully, to the boy who screams "monster", to the man who betrays Theyab for his brother on the Lady of the Crossroads's road. He is forgiven with "not yet", raises the Light's next bearer, and becomes the old teller who falters, names himself, and warns too late (T8).
 5. **Sharood and Saqr.** The Runner is twice ashamed: he ran from his fire, and he was Worn when his son was conceived. He watches as the Veiled Rider, begs, and lets go. The brother is Worn by the Smiling Hunger and spares Theyab again and again. He steals the tablet, drives the thing out of himself, and his first word in fifteen years is "Nahidh".
-6. **Mutawwa' Hilal** is the decent man of books. He casts the Turned out of the Worn and can't touch the Sealed King. He dies to the Perfumed Bride, a thing in no book, while still reciting and carried by the children he saved.
+6. **Mutawwa' Hilal** is the decent man of books. He casts the Turned out of the Worn and can't touch the Sealed King. He dies to the Lady of the Crossroads, a thing in no book, while still reciting and carried by the children he saved.
 7. **Jasir** is the half-of-below son of the Deep Caller. He was saved by Theyab's last water and guides him into Ubar. He refuses to become whole, trades his human voice to hold back the Drowners, and is carried up by the Lifter.
 8. **Old Bakhit** is the Blind One, who refused and was bound to live three hundred years, pouring tea every night for the unseen guest. He walks to Tal Moreeb on Umm Hanan's arm, sees gold, and dies mid-sentence.
 9. **Umm Hanan** is the widow who kneads her dead men's names into bread and leaves it on her wall. She names the Creator before pouring hot water, so the Lamp-Keeper guards her house. She refuses her drowned sons' voices on Tal Moreeb, and her lamp is the one that never goes out.
@@ -1586,7 +1586,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 12. **The evil ones and the greedy:**
     - Ash-Mouth and the Smiling Hunger burn in the Light.
     - The Younger Sister drowns Old Thorn.
-    - The Perfumed Bride is dragged into the salt.
+    - The Lady of the Crossroads is dragged into the salt.
     - **The Thousand-Voiced and the Heavy One survive**, down below, waiting.
     - Ghanim ends up sweeping a coffee house.
     - Haddaj al-Hafar is taken into the gold.
@@ -1617,7 +1617,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 - Runner (92), Falconer (95)
 - Last Sheikh (114)
 
-**The other tales:** Noon Mare (3), The Mother Who Sent the Smokeless (17, in the Sayf manner), the Deep Caller and Jasir's mother (33), the Perfumed Bride (69), the Deep Caller's origin (80). That makes 16 tales in 150 chapters, about one in nine.
+**The other tales:** Noon Mare (3), The Mother Who Sent the Smokeless (17, in the Sayf manner), the Deep Caller and Jasir's mother (33), the Lady of the Crossroads (69), the Deep Caller's origin (80). That makes 16 tales in 150 chapters, about one in nine.
 
 **[FIRE] chapters:** 1, 16, 31, 46, 61, 69 (mid-Part V falter), 76, 91, 98 (mid-Part VII falter), 106, 121, 136, 150.
 
@@ -1665,8 +1665,8 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 | 3 | The darkness as evil creatures | the Sealed King, the Grey, the Hoofed, Ember Hounds, the Black Wind | 5, 20, 23, 37, 55, 116, 137 |
 | 4 | Creatures real; the Creator respected and unnamed | "the One who made the sands"; naming the Creator before pouring | 5, 7, 10, 44, 64 |
 | 5 | Half monster, with a strength power | Ghareeb, smoke-touched: shadow, strength, silver eye | 37, 57, 83, 122 |
-| 6 | Folklore picks, two of them major | the Perfumed Bride, the Deep Caller (major); the Noon Mare, the Lantern Man, the Cradle Mother | Bride: 29, 60, 65, 68, **69**, 112, 115, 126, 127, 130, 139, 150 · Caller: 3, 6, 28, 32, **33**, 77, **80**, 84, 117, 128, 139 · Mare: 1, **3**, 11, 109 · Lantern Man: 21, 104 · Cradle Mother: 148–149 |
-| 7 | The Bride starts Nadim's betrayal | the Perfumed Bride | 60, 67, 68, 69 |
+| 6 | Folklore picks, two of them major | the Lady of the Crossroads, the Deep Caller (major); the Noon Mare, the Lantern Man, the Cradle Mother | Bride: 29, 60, 65, 68, **69**, 112, 115, 126, 127, 130, 139, 150 · Caller: 3, 6, 28, 32, **33**, 77, **80**, 84, 117, 128, 139 · Mare: 1, **3**, 11, 109 · Lantern Man: 21, 104 · Cradle Mother: 148–149 |
+| 7 | The Bride starts Nadim's betrayal | the Lady of the Crossroads | 60, 67, 68, 69 |
 | 8 | Hoof rules, lantern-lights, the sea mirage | the Hoofed, the Lantern Man, the Shimmer | 20, 21, 28, 32 |
 | 9 | The sealed-vessel backstory and the turned vow | the Sealed King | 55, 82, 116, 138 |
 | 10 | The cradle creature; amulet, bead, iron | the Cradle Mother | 148, 149 |
@@ -1692,7 +1692,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 | R3-5 | "One blow. Never two." | the Hoofed | 16, 20, 45, 125, 150 |
 | R3-6 | The unseen voice as the Twin's first voice; both old explanations | the Bodiless Voice | 26, 30, 96 |
 | R3-8 | The split half-man on the salt; children as half-people | the Halfman; half-people | 84, 87 |
-| R3-10 | Written against unwritten; Hilal killed by one his books never named | the Perfumed Bride | 10, 80, 96, 110, 112, **126** |
+| R3-10 | Written against unwritten; Hilal killed by one his books never named | the Lady of the Crossroads | 10, 80, 96, 110, 112, **126** |
 | U | The Underneath, its doors, the great door at Ubar | the Underneath | ⟨U⟩: 7, 11, 21, 22, 26, 45, 49, 62, 77, 78, 99, 116, 124, 134, 142, 149 |
 | G | Good and evil from below; the hirz drives back both | the good ones and the Turned | 22, 45, 84, 96, 123–124, 129 |
 | SM | The Sand-Mother (nursed and raised him; the pale snake; unmade) | the Sand-Mother | 1, 2, 13, 17, 21, 22, 37, 49, 69, **84**, **92**, **129**, 143 |
