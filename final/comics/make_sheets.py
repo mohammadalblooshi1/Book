@@ -3,7 +3,7 @@
 Each design is one fixed description, reused in every comic panel where the
 character appears, so they look the same throughout the book.
 """
-import os, textwrap
+import os, re, textwrap
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 from make_comics import gen, FONT_B, FONT_I, PANELS
 
@@ -81,7 +81,7 @@ def sheet(title, items, out, seed0):
     for k, (name, role, desc) in enumerate(items):
         r, c = divmod(k, cols)
         x, y = 20 + c * (cw + 20), 110 + r * (ch + cap + 20)
-        path = os.path.join(PANELS, f"design-{name.lower().replace(' ', '-').replace(chr(39), '').replace('&', 'and')}.jpg")
+        path = os.path.join(PANELS, "design-" + re.sub(r'[^a-z0-9]+', '-', name.lower().replace('&', 'and')).strip('-') + ".jpg")
         ok = gen(f"{STYLE}. {desc}", 512, 640, path, seed0 + k)
         if ok:
             page.paste(ImageOps.fit(Image.open(path).convert('RGB'), (cw, ch)), (x, y))
@@ -100,4 +100,4 @@ if __name__ == '__main__':
     want = sys.argv[1:]
     for i, (t, items) in enumerate(SHEETS.items()):
         if not want or t in want:
-            sheet(t, items, os.path.join(here, 'pages', f'sheet-{t.lower().replace(" ", "-")}.png'), 7000 + i * 100)
+            sheet(t, items, os.path.join(here, 'pages', 'sheet-' + re.sub(r'[^a-z0-9]+', '-', t.lower()).strip('-') + '.png'), 7000 + i * 100)
