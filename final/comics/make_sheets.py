@@ -7,17 +7,17 @@ import os, re, textwrap
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 from make_comics import gen, FONT_B, FONT_I, PANELS
 
-STYLE = ("anime style character design, manga illustration, cel shading, sharp clean lineart, full body, "
+STYLE = ("anime style character design, Arab Emirati and Omani people with brown skin, men have short hair and no headdress, women modestly dressed and fully covered with hair covered, manga illustration, cel shading, sharp clean lineart, full body, "
          "dramatic lighting, dark desert background, horror atmosphere, no text, no letters")
 
 SHEETS = {
     'People of the Story': [
-        ("Theyab", "the Marked boy, raised below", "15-year-old Emirati Bedouin boy, brown sun-darkened skin, thick black eyebrows, dark wavy black hair, light amber-gold eyes, thin face, ragged sand-coloured kandura, faint glowing golden feather mark on his chest, left fist closed"),
+        ("Theyab", "the Marked boy, raised below", "15-year-old Emirati Bedouin boy, brown sun-darkened skin, thick black eyebrows, short black hair, light amber-gold eyes, thin face, ragged sand-coloured kandura, faint glowing golden feather mark on his chest, left fist closed"),
         ("Ghareeb", "the smoke-touched saluki, narrator", "lean Arabian saluki hound, sand-coloured, long feathered ears and tail, one amber eye and one glowing silver eye, its shadow slightly too long"),
-        ("Umm Hanan", "the widow who leaves bread", "old Emirati widow in black abaya and shayla, gold metallic face mask burqa, kind tired eyes, holding a steady oil lamp"),
-        ("Mutawwa' Hilal", "the reader who casts them out", "thin old Omani holy teacher, very dark sun-blackened skin, white trimmed beard, white turban, brown goat-hair cloak, wooden staff, leather satchel"),
-        ("Old Bakhit", "the blind healer, 300 years old", "ancient blind Bedouin healer, milky white eyes, very long white beard, white ghutra, holding a small brass bell"),
-        ("Haddaj the Digger", "the treasure sorcerer", "old gaunt Bedouin sorcerer in dark hooded bisht, hawk nose, clay-stained fingers, holding a battered book and a shovel"),
+        ("Umm Hanan", "the widow who leaves bread", "old Emirati widow fully covered in black abaya, hair completely covered by black shayla, gold metallic face mask burqa, kind tired eyes, holding a steady oil lamp"),
+        ("Mutawwa' Hilal", "the reader who casts them out", "thin old Omani holy teacher, very dark sun-blackened skin, white trimmed beard, brown goat-hair cloak, wooden staff, leather satchel"),
+        ("Old Bakhit", "the blind healer, 300 years old", "ancient blind Bedouin healer, milky white eyes, very short white hair and long white beard, holding a small brass bell"),
+        ("Haddaj the Digger", "the treasure sorcerer", "old gaunt Bedouin sorcerer in dark bisht, hawk nose, clay-stained fingers, holding a battered book and a shovel"),
         ("Nadim & Shibl", "the well-keeper's sons", "two Emirati Bedouin brothers, a broad proud teenage boy in white kandura and a small 7-year-old boy with huge dark eyes and a blue bead necklace"),
         ("The Nameless", "the cult who burned their names", "riders in grey robes wearing smooth white faceless masks, on pale camels, holding grey blades"),
     ],
@@ -25,18 +25,18 @@ SHEETS = {
         ("Hazza'", "the exiled sheikh's son, Theyab's only friend", "17-year-old Emirati Bedouin prince, tall, brown skin, short black beard starting, scar along his jaw, gold signet ring, red-and-gold bisht over a white kandura, holding a sword broken halfway"),
         ("Sharood", "the Veiled Rider, Theyab's father", "tall Bedouin man in his forties wrapped in grey desert cloth, face veiled except tired eyes, riding a pale camel, long hunting spear"),
         ("Saqr / the Seventh", "Theyab's lost brother, the hunter", "lean 20-year-old Arab warrior in grey robes, smooth white faceless mask cracked down the middle, twin grey curved blades"),
-        ("Wazir Muhaisen", "the vizier who betrays", "elderly Arab vizier, silver hair and silver beard, soft kind smile, faded grey eyes, rich dark-blue bisht with gold trim, stone seal on a neck chain"),
+        ("Wazir Muhaisen", "the vizier who betrays", "elderly Arab vizier, short silver hair and silver beard, soft kind smile, faded grey eyes, rich dark-blue bisht with gold trim, stone seal on a neck chain"),
         ("Jasir", "the guide, half from below", "17-year-old Emirati boy guide, brown skin, black hair, eyes that shine like an animal's at night, goatskin waterskin tied with a red wool knot, sea-blue sash"),
         ("Ghanim", "the cheating trader", "fat Emirati trader, orange henna-dyed beard, white kandura, gold rings, holding crooked brass scales and a silver coin"),
-        ("Saqi", "the well-keeper, once Worn", "heavy Emirati well-keeper, grey beard, white ghutra, holding a well rope and leather bucket"),
+        ("Saqi", "the well-keeper, once Worn", "heavy Emirati well-keeper, grey beard, holding a well rope and leather bucket"),
         ("Sheikh Mutlaq", "proud ruler of Ubar", "proud old Arab sheikh on a dark throne, grey beard, black bisht with gold, gold ring on a chain, lantern-lit hall"),
-        ("Zaid", "Hazza's little brother", "10-year-old Arab prince, brown skin, white kandura, gold-embroidered cap, holding a small herder's whistle"),
-        ("Umm Shamma", "the palace cook of Ubar", "large cheerful Emirati cook in black abaya with sleeves rolled up, flour on her hands, holding a tray of honey cakes"),
-        ("Hessa", "Nadim's wife, the newborn's mother", "young Emirati mother in black abaya and gold face mask, holding a newborn baby, frightened eyes"),
+        ("Zaid", "Hazza's little brother", "10-year-old Arab prince, brown skin, white kandura, holding a small herder's whistle"),
+        ("Umm Shamma", "the palace cook of Ubar", "large cheerful Emirati cook in a black abaya with hair fully covered by a black shayla, flour on her hands, holding a tray of honey cakes"),
+        ("Hessa", "Nadim's wife, the newborn's mother", "young Emirati mother in black abaya, hair fully covered by black shayla, gold face mask, holding a newborn baby, frightened eyes"),
         ("The Eldest", "the giant silent bodyguard", "giant silent Arab warrior in grey robes, smooth white faceless mask, huge curved sword"),
         ("Ghadban", "the first bearer, the angry shepherd", "Omani shepherd boy of the Hajar mountains, brown skin, angry eyes, ragged goat-hair cloak, black smoke curling from his hands"),
         ("Suhail", "the half-emptied stable boy", "12-year-old Arab stable boy with jug-handle ears, half his face ash-grey, one blank white eye"),
-        ("Old Nadim at the fire", "the teller, decades later", "very old Emirati Bedouin storyteller with white beard, white ghutra and agal, brown bisht, pouring coffee from a brass dallah by a fire, an old saluki with one scarred eye at his feet"),
+        ("Old Nadim at the fire", "the teller, decades later", "very old Emirati Bedouin storyteller with white beard, brown bisht, pouring coffee from a brass dallah by a fire, an old saluki with one scarred eye at his feet"),
         ("The boy at the fire", "the one no one saw arrive", "small boy at the edge of firelight in a white dishdasha, face in shadow, donkey hooves showing under the hem"),
     ],
     'The Evil Ones From Below': [
@@ -46,11 +46,11 @@ SHEETS = {
         ("The Thousand-Voiced", "speaks with the voices of the dead", "towering column of black smoke covered in dozens of open screaming human mouths, at night in the desert"),
         ("The Heavy One", "master of the Sitters", "hunched massive creature of black stone and shadow with glowing eyes, squatting on a sleeping man's chest"),
         ("Old Thorn", "guards stolen treasure", "monstrous non-human creature like a twisted dead acacia tree with a skull-like face of bark, body of black thorns and dry branches, gold coins and jewels caught in its thorns, long thorn claws, half buried in desert sand, not a woman, not human"),
-        ("The Perfumed Bride", "lures men at night", "beautiful woman in gold-embroidered black bridal abaya, coils of perfume smoke, hands ending in long curved sickle blades, rotten skin showing under her veil"),
+        ("The Perfumed Bride", "lures men at night", "beautiful woman fully covered in a modest long gold-embroidered black bridal abaya with long sleeves, hair completely covered by a black shayla, only her face showing, coils of perfume smoke, hands ending in long curved sickle blades, a hint of rot at the edge of her face"),
         ("The Deep Caller", "drags divers under", "giant pale half-fish half-man sea creature covered in barnacles, white eyes, long webbed arms rising from dark water"),
-        ("The Noon Mare", "takes children at noon", "creepy creature: upper body of a pale woman in a faded Arab dress with long black hair hiding her face, lower body and legs of a grey donkey with hooves, centaur-like, in white noon heat haze in an empty mud-brick lane"),
+        ("The Noon Mare", "takes children at noon", "creepy creature: upper body of a pale woman in a long faded modest Arab dress with long sleeves and her hair fully covered by a dark headscarf, face in shadow, lower body and legs of a grey donkey with hooves, centaur-like, in white noon heat haze in an empty mud-brick lane"),
         ("The Lantern Man", "leads travellers to die", "very tall thin dark figure with no face holding a glowing lantern among night dunes"),
-        ("The Cradle Mother", "comes for newborns", "gaunt woman with empty reaching arms, long veil, cracked lips, standing at a tent doorway at night"),
+        ("The Cradle Mother", "comes for newborns", "gaunt woman fully covered in a long black abaya with hair completely covered by a black veil, empty reaching arms in long sleeves, cracked lips, standing at a tent doorway at night"),
         ("The Halfman", "hunts on the salt", "horrifying creature that is exactly half of a man cut vertically down the middle, only one eye, one arm and one leg, the cut side dark and smoky, hopping on its single leg across white salt flats at night"),
         ("Ember Hounds", "packs that track the Light", "pack of jackals made of shadow with burning ember eyes and smoking fur"),
         ("The Black Wind", "the great storm", "enormous black tornado of sand towering over the desert like a mountain, a giant screaming face formed inside the swirling sand, tiny camel caravan below being sucked in, no animals in foreground"),
@@ -58,7 +58,7 @@ SHEETS = {
         ("The Worn", "the possessed", "Emirati man possessed, eyes rolled completely white, black smoke leaking from his mouth, unnatural twisted pose"),
     ],
     'The Good Ones From Below': [
-        ("The Sand-Mother", "raised Theyab in the Quiet Country", "tall gentle woman with gazelle features and glowing gold eyes, white flowing robes, her feet not touching the sand, warm golden glow, a gazelle beside her"),
+        ("The Sand-Mother", "raised Theyab in the Quiet Country", "tall gentle woman with gazelle-like face and glowing gold eyes, modest long white robes with long sleeves, hair fully covered by a white veil, her feet not touching the sand, warm golden glow, a gazelle beside her"),
         ("The Lamp-Keeper", "guards Umm Hanan's house", "small hooded figure made of warm amber light cupping an oil lamp flame with both hands inside a mud-brick room"),
         ("The Lifter", "keeps wells sweet, lifts the drowning", "tall translucent figure made of clear blue-green water lifting a drowning pearl diver up toward the light"),
         ("The Turning Wind", "turns storms away", "graceful spiral of golden sand shaped like a winged guardian, turning a dark sandstorm aside"),
