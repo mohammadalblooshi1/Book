@@ -21,6 +21,24 @@ SHEETS = {
         ("Nadim & Shibl", "the well-keeper's sons", "two Emirati Bedouin brothers, a broad proud teenage boy in white kandura and a small 7-year-old boy with huge dark eyes and a blue bead necklace"),
         ("The Nameless", "the cult who burned their names", "riders in grey robes wearing smooth white faceless masks, on pale camels, holding grey blades"),
     ],
+    'More People of the Story': [
+        ("Hazza'", "the exiled sheikh's son, Theyab's only friend", "17-year-old Emirati Bedouin prince, tall, brown skin, short black beard starting, scar along his jaw, gold signet ring, red-and-gold bisht over a white kandura, holding a sword broken halfway"),
+        ("Sharood", "the Veiled Rider, Theyab's father", "tall Bedouin man in his forties wrapped in grey desert cloth, face veiled except tired eyes, riding a pale camel, long hunting spear"),
+        ("Saqr / the Seventh", "Theyab's lost brother, the hunter", "lean 20-year-old Arab warrior in grey robes, smooth white faceless mask cracked down the middle, twin grey curved blades"),
+        ("Wazir Muhaisen", "the vizier who betrays", "elderly Arab vizier, silver hair and silver beard, soft kind smile, faded grey eyes, rich dark-blue bisht with gold trim, stone seal on a neck chain"),
+        ("Jasir", "the guide, half from below", "17-year-old Emirati boy guide, brown skin, black hair, eyes that shine like an animal's at night, goatskin waterskin tied with a red wool knot, sea-blue sash"),
+        ("Ghanim", "the cheating trader", "fat Emirati trader, orange henna-dyed beard, white kandura, gold rings, holding crooked brass scales and a silver coin"),
+        ("Saqi", "the well-keeper, once Worn", "heavy Emirati well-keeper, grey beard, white ghutra, holding a well rope and leather bucket"),
+        ("Sheikh Mutlaq", "proud ruler of Ubar", "proud old Arab sheikh on a dark throne, grey beard, black bisht with gold, gold ring on a chain, lantern-lit hall"),
+        ("Zaid", "Hazza's little brother", "10-year-old Arab prince, brown skin, white kandura, gold-embroidered cap, holding a small herder's whistle"),
+        ("Umm Shamma", "the palace cook of Ubar", "large cheerful Emirati cook in black abaya with sleeves rolled up, flour on her hands, holding a tray of honey cakes"),
+        ("Hessa", "Nadim's wife, the newborn's mother", "young Emirati mother in black abaya and gold face mask, holding a newborn baby, frightened eyes"),
+        ("The Eldest", "the giant silent bodyguard", "giant silent Arab warrior in grey robes, smooth white faceless mask, huge curved sword"),
+        ("Ghadban", "the first bearer, the angry shepherd", "Omani shepherd boy of the Hajar mountains, brown skin, angry eyes, ragged goat-hair cloak, black smoke curling from his hands"),
+        ("Suhail", "the half-emptied stable boy", "12-year-old Arab stable boy with jug-handle ears, half his face ash-grey, one blank white eye"),
+        ("Old Nadim at the fire", "the teller, decades later", "very old Emirati Bedouin storyteller with white beard, white ghutra and agal, brown bisht, pouring coffee from a brass dallah by a fire, an old saluki with one scarred eye at his feet"),
+        ("The boy at the fire", "the one no one saw arrive", "small boy at the edge of firelight in a white dishdasha, face in shadow, donkey hooves showing under the hem"),
+    ],
     'The Evil Ones From Below': [
         ("The Sealed King", "bound beneath Ubar", "colossal figure of black smokeless fire with ember eyes, chained inside a giant cracked brass vessel in a limestone cavern, a broken brass seal on its forehead"),
         ("Ash-Mouth", "eats names", "tall gaunt grey creature made of ash, no eyes, enormous mouth from which grey ash and faded letters pour out"),
@@ -78,5 +96,8 @@ def sheet(title, items, out, seed0):
 
 if __name__ == '__main__':
     here = os.path.dirname(os.path.abspath(__file__))
+    import sys
+    want = sys.argv[1:]
     for i, (t, items) in enumerate(SHEETS.items()):
-        sheet(t, items, os.path.join(here, 'pages', f'sheet-{i + 1}.png'), 7000 + i * 100)
+        if not want or t in want:
+            sheet(t, items, os.path.join(here, 'pages', f'sheet-{t.lower().replace(" ", "-")}.png'), 7000 + i * 100)
