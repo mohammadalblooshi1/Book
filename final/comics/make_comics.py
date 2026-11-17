@@ -13,19 +13,30 @@ PANELS = os.path.join(HERE, 'panels')
 PAGES = os.path.join(HERE, 'pages')
 os.makedirs(PANELS, exist_ok=True); os.makedirs(PAGES, exist_ok=True)
 
-STYLE = ("anime style, Arab Bedouin characters with brown skin, manga illustration, cel shading, sharp clean lineart, cinematic lighting, "
+STYLE = ("anime style, all people are Arab Emirati and Omani Bedouins with brown skin and Arab features, manga illustration, cel shading, sharp clean lineart, cinematic lighting, "
          "detailed, 1920s Arabian desert of UAE and Oman, horror atmosphere, no text, no letters, no speech bubbles")
 CHARS = [
-    (r"\bTheyab\b|\bboy\b(?!.*Shibl)", "Arab teenage boy with messy sun-bleached hair, light golden eyes, ragged sand-coloured kandura robe, faint glowing golden feather mark on his chest"),
-    (r"Ghareeb|saluki|\bdog\b", "lean sand-coloured saluki dog with feathered ears, one amber eye and one glowing silver eye"),
-    (r"Umm Hanan", "old Arab widow in black abaya and gold face mask, kind tired eyes"),
-    (r"Hilal", "thin old Arab man with white beard, goat-hair cloak and walking stick"),
-    (r"Bakhit", "very old blind Arab healer with milky white eyes and long white beard"),
-    (r"Ghanim", "fat Arab trader with hennaed beard"),
-    (r"Haddaj", "old hooded Bedouin sorcerer with clay-stained hands and a battered book"),
-    (r"Nadim", "broad Arab teenage boy in white kandura"),
-    (r"Shibl", "small Arab boy aged seven with big eyes"),
-    (r"Saqi", "heavy Arab man with grey beard"),
+    (r"\bTheyab\b|teenage boy(?!.*Nadim)", "Theyab: 15-year-old Emirati Bedouin boy, brown sun-darkened skin, thick black eyebrows, dark wavy black hair, light amber-gold eyes, thin face, ragged sand-coloured kandura robe, faint glowing golden feather mark on his chest"),
+    (r"small boy|7-year-old", "small Emirati Bedouin boy with brown skin and black hair"),
+    (r"Ghareeb|saluki|\bdog\b", "Ghareeb: lean Arabian saluki hound, sand-coloured, long feathered ears and tail, slender long face, one amber eye and one glowing silver eye"),
+    (r"Umm Hanan", "Umm Hanan: old Emirati widow in black abaya and black shayla, gold metallic face mask burqa over nose and mouth, kind tired eyes, wrinkled brown hands"),
+    (r"Hilal", "Mutawwa Hilal: thin old Omani man, very dark sun-blackened skin, white trimmed beard, white turban, brown goat-hair cloak, wooden walking stick, leather satchel"),
+    (r"Bakhit", "Old Bakhit: ancient blind Bedouin healer, milky white eyes, long white beard, white ghutra, deep wrinkles, tent full of hanging herbs and brass bells"),
+    (r"Ghanim", "Ghanim: fat Emirati trader, orange henna-dyed beard, white kandura, gold rings, crooked brass scales"),
+    (r"Haddaj", "Haddaj: old gaunt Bedouin sorcerer, dark hooded bisht, hawk nose, clay under his fingernails, battered leather book"),
+    (r"Nadim", "Nadim: broad Emirati Bedouin teenage boy, brown skin, short black hair, white kandura, hard proud face"),
+    (r"Shibl", "Shibl: small 7-year-old Emirati boy, brown skin, black hair, huge dark eyes, blue bead on a string"),
+    (r"Saqi", "Saqi: heavy Emirati well-keeper, grey beard, white ghutra and kandura"),
+    (r"old man|teller", "very old Emirati Bedouin storyteller, white beard, white ghutra and agal, brown bisht, face in firelight"),
+    (r"villager|crowd|men\b", "Emirati Bedouin villagers in white kandura and ghutra, women in black abaya and gold face masks"),
+    (r"Noon Mare|legs are wrong|donkey", "the Noon Mare: pale woman with long black hair and faded dress whose lower body is donkey legs with hooves, standing in noon heat-shimmer"),
+    (r"Lamp-Keeper|protecting Umm Hanan's lamp", "the Lamp-Keeper: small hooded figure made of warm amber light cupping a lamp flame with both hands"),
+    (r"gazelle", "the Sand-Mother: graceful desert gazelle with glowing gold eyes, soft golden light around it"),
+    (r"emptied|grey-skinned|white-eyed|white eyes", "emptied people: ash-grey skin, blank white eyes, colourless clothes, standing still, eerie"),
+    (r"possessed|Worn", "possessed man: eyes rolled completely white, black smoke leaking from his mouth, unnatural pose"),
+    (r"grey mist|the grey|Grey", "flat ash-grey fog that drains all colour from everything it touches"),
+    (r"masked|masks", "the Nameless: riders in grey robes with smooth white faceless masks on pale camels"),
+    (r"hoofprints|hoof-prints", "small donkey hoofprints in the sand"),
 ]
 FONT_B = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
 FONT_I = '/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf'
