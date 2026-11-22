@@ -31,7 +31,7 @@ CHARS = [
     (r"villager|crowd|men\b", "Emirati Bedouin villagers, men with short black hair and no headdress in white kandura, women fully covered in black abaya with hair covered by black shayla"),
     (r"Noon Mare|legs are wrong|donkey", "the Noon Mare: pale woman in a long modest dress with her hair fully covered by a dark headscarf, whose lower body is donkey legs with hooves, standing in noon heat-shimmer"),
     (r"Lamp-Keeper|protecting Umm Hanan's lamp", "the Lamp-Keeper: small hooded figure made of warm amber light cupping a lamp flame with both hands"),
-    (r"gazelle", "the Sand-Mother: graceful desert gazelle with glowing gold eyes, soft golden light around it"),
+    (r"gazelle", "the Sand-Guide: graceful desert gazelle with glowing gold eyes, soft golden light around it"),
     (r"emptied|grey-skinned|white-eyed|white eyes", "emptied people: ash-grey skin, blank white eyes, colourless clothes, standing still, eerie"),
     (r"possessed|Worn", "possessed man: eyes rolled completely white, black smoke leaking from his mouth, unnatural pose"),
     (r"grey mist|the grey|Grey", "flat ash-grey fog that drains all colour from everything it touches"),

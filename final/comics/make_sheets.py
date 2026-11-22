@@ -58,7 +58,7 @@ SHEETS = {
         ("The Worn", "the possessed", "Emirati man possessed, eyes rolled completely white, black smoke leaking from his mouth, unnatural twisted pose"),
     ],
     'The Good Ones From Below': [
-        ("The Sand-Mother", "raised Theyab in the Quiet Country", "tall gentle woman with gazelle-like face and glowing gold eyes, modest long white robes with long sleeves, hair fully covered by a white veil, her feet not touching the sand, warm golden glow, a gazelle beside her"),
+        ("The Sand-Guide", "raised Theyab in the Quiet Country", "tall gentle woman with gazelle-like face and glowing gold eyes, modest long white robes with long sleeves, hair fully covered by a white veil, her feet not touching the sand, warm golden glow, a gazelle beside her"),
         ("The Lamp-Keeper", "guards Umm Hanan's house", "small hooded figure made of warm amber light cupping an oil lamp flame with both hands inside a mud-brick room"),
         ("The Lifter", "keeps wells sweet, lifts the drowning", "tall translucent figure made of clear blue-green water lifting a drowning pearl diver up toward the light"),
         ("The Turning Wind", "turns storms away", "graceful spiral of golden sand shaped like a winged guardian, turning a dark sandstorm aside"),

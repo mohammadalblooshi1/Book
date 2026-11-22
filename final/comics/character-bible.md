@@ -36,5 +36,5 @@ Use these descriptions **word for word** in every slide where the character appe
 | **The Worn** (possessed) | A normal person whose **eyes roll completely white**, with black smoke at the mouth, a doubled voice, and a twisted, unnatural pose |
 | **The Twin** | (Voice only in Part I.) Shown as Theyab's own speech bubble with no speaker |
 | **The Lamp-Keeper** (good) | A small hooded figure made of **warm amber light**, cupping a lamp flame with both hands |
-| **The Sand-Mother** (good) | Usually a **gazelle with glowing gold eyes**. In the Quiet Country, a tall gentle figure in long white robes with a **white veil covering her hair**, gold eyes, her feet not touching the sand |
+| **The Sand-Guide** (good) | Usually a **gazelle with glowing gold eyes**. In the Quiet Country, a tall gentle figure in long white robes with a **white veil covering her hair**, gold eyes, her feet not touching the sand |
 | **The Quiet Country** | The good part of the Underneath: giant ghaf roots like pillars, wells of glowing sweet water, soft light with no sun |

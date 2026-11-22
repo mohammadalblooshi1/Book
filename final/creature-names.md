@@ -60,7 +60,7 @@ They lure (the Lady of the Crossroads, the Lantern Man, the Shimmer, the Deep Ca
 ### The good ones
 They **defend people**, using their powers for good, and they often can't be seen doing it:
 - **The Dwellers of good houses** guard the families they live with. They keep the lamp alight, wake the house when something comes, and stand at the threshold. **Umm Hanan's Dweller** is why her lamp is the one the wind can't put out (a hidden-message return: she always named the Creator before pouring hot water, and never scalded the unseen).
-- **The Sand-Mother** (a new character, see below).
+- **The Sand-Guide** (a new character, see below).
 - **Good Drowners** who push drowning divers up toward the air; **good Whirlers** who turn a sandstorm aside from a caravan; **well-keepers from below** who keep water sweet.
 - **A good Bodiless Voice** that sometimes warns. The horror is that **Theyab can't tell which voice is the good one** and which is the Twin.
 
@@ -70,10 +70,10 @@ They **defend people**, using their powers for good, and they often can't be see
 - **No good one can defeat the Sealed King.** Only the Light, freely given, can.
 - **Good and evil fight each other.** On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the evil ones pouring from the sinkhole. It is a war from below fought alongside the human battle.
 
-### New character: **the Sand-Mother**
+### New character: **the Sand-Guide**
 (Inspired by the jinn princess who nursed the baby hero in *Sirat Sayf ibn Dhi Yazan*.)
-- When baby Theyab was left in the sand, **a good one from below nursed him** through the first nights, which is why the desert "protected" him. She became his **Sand-Mother**, bound to him for life by that milk.
-- She has no name she will give: names are dangerous. Ghareeb calls her **the Sand-Mother**. She appears as a **gazelle with gold eyes**, or as a girl at the edge of firelight whose feet never touch the sand, and sometimes only as **warmth and the smell of milk** in the dark.
+- When baby Theyab was left in the sand, **a good one from below nursed him** through the first nights, which is why the desert "protected" him. She became his **Sand-Guide**, bound to him for life by that milk.
+- She has no name she will give: names are dangerous. Ghareeb calls her **the Sand-Guide**. She appears as a **gazelle with gold eyes**, or as a girl at the edge of firelight whose feet never touch the sand, and sometimes only as **warmth and the smell of milk** in the dark.
 - **Seeds:** in Part I, Theyab sometimes wakes from a Sitter attack with the weight lifted and a smell of milk. A gazelle watches him scavenge. Ghareeb knows her and keeps the secret, as he has known her since the first night.
 - **Kindness returns:** as a boy, Theyab saved a pale snake in the ruins that Ghanim wanted to kill, warning it three times to leave, as the old people do. **It was her.**
 - **She defends him:** she pulls him from the Lantern Man's path, turns a Whirler aside, holds the Halfman back on the salt, and fights the Lady of the Crossroads for Nadim's soul. She can't come near when he wears the hirz, so he is torn.
@@ -110,7 +110,7 @@ Each good one stands against one of the evil ones. They use their powers to prot
 
 | Name | Kind | What it does | Its enemy | Fate |
 |---|---|---|---|---|
-| **the Sand-Mother** | land (gazelle form) | Nursed baby Theyab in the sand; defends him through the whole book; smells of milk | **Old Thorn** (who wants Theyab's Marked blood) | Unmade at the sinkhole on the Night of Lamps |
+| **the Sand-Guide** | land (gazelle form) | Nursed baby Theyab in the sand; defends him through the whole book; smells of milk | **Old Thorn** (who wants Theyab's Marked blood) | Unmade at the sinkhole on the Night of Lamps |
 | **the Lamp-Keeper** | house Dweller | Lives in Umm Hanan's house. Keeps her lamp lit against any wind, wakes her when something comes, and stands at her threshold | **Ash-Mouth** (it can't eat the names in a house the Lamp-Keeper guards) | Survives. Umm Hanan's lamp is the one that never goes out (Ch 20) |
 | **the Lifter** | water (wells and sea) | The good one of all water. **Keeps the wells sweet**, hides water from the Grey, and leads the thirsty to it. **Pushes drowning divers up to the air**; the reason a few divers ever came home | **the Deep Caller** and **the Smiling Hunger** (which poisons wells to make the Worn) | Shows Theyab and the children hidden water on the way to Ubar. Fights the Deep Caller under the salt during the dhow escape. Wounded, it survives, and it carries Jasir up at the end. Lives in the well of Bir al-Ghina' |
 | **the Turning Wind** | wind (Whirler) | Turns sandstorms aside from caravans and children; carries warnings, never names | **the Black Wind** | Turns the Black Wind away from the freed children (Part VI), and is torn apart doing it |

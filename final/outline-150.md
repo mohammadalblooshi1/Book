@@ -16,7 +16,7 @@ This outline follows the architecture file exactly: ten parts of 15 chapters, wi
 No old folklore or classical creature name, and no word for the race itself, ever appears. Only the new names from `creature-names.md` are used: **the Smokeless** (the race); **the Sealed King** (the great one under Ubar); the four kinds: **Burners** (fire), **Whirlers** (wind, the great one being **the Black Wind**), **Drowners** (sea) and **the Hoofed** (land); the four ranks Hilal reads from a worn copy of al-Jahiz's *al-Hayawan*: **Dwellers** (who live in houses with people), **the Turned** (gone wicked), **Breakers** (who carry buildings) and **Burners** (the strongest); **Ember Hounds**; **the Lady of the Crossroads**; **the Deep Caller**; **the Noon Mare**; **the Lantern Man**; **the Cradle Mother**; **the Shimmer**; **the Halfman**; **half-people**; **the Bodiless Voice**; **the Twin**; **the Sitter**; **the Worn**; **the Marked**; **smoke-touched**; **the Grey**; **the Nameless**. In Ch 147, Ghareeb says once: "the old people had other names for them, names I won't put in your ears, little one."
 
 ## Before the story: the Quiet Country (author update)
-When Sharood left baby Theyab in the sand, the **Sand-Mother** took him down into **the Quiet Country**, the hidden good part of the Underneath: sweet wells, ghaf roots like pillars, light with no sun. The good ones raised him there for about seven years: the Sand-Mother, the Lifter, the Quiet Voice, the Turning Wind and the Threshold-Watcher, **with Ghareeb at his side the whole time**. At about seven he lost the path by mistake, following a gazelle up through a noon door. The door closed, and he woke crying in Hilat al-Sarab's noon lane: his "first memory". His memories of below are fragments, dreams, smells of milk and sweet water, and sleep-talk in a tongue no one knows. Neither he nor the reader can be sure they were real until the Sand-Mother returns (Ch 84) and Sharood confirms it (Ch 92). The path back is the great longing of his life.
+When Sharood left baby Theyab in the sand, the **Sand-Guide** took him down into **the Quiet Country**, the hidden good part of the Underneath: sweet wells, ghaf roots like pillars, light with no sun. The good ones raised him there for about seven years: the Sand-Guide, the Lifter, the Quiet Voice, the Turning Wind and the Threshold-Watcher, **with Ghareeb at his side the whole time**. At about seven he lost the path by mistake, following a gazelle up through a noon door. The door closed, and he woke crying in Hilat al-Sarab's noon lane: his "first memory". His memories of below are fragments, dreams, smells of milk and sweet water, and sleep-talk in a tongue no one knows. Neither he nor the reader can be sure they were real until the Sand-Guide returns (Ch 84) and Sharood confirms it (Ch 92). The path back is the great longing of his life.
 
 **The second secret:** Sharood was Worn by the Smiling Hunger for a season of his flight, when Theyab was conceived. Sorcerers whisper that Theyab is "a son of the ones from below". (The creature-names rule bans the older word; this phrase stands in for it.) Marked *and* below-fathered, his blood is twice precious.
 
@@ -28,10 +28,10 @@ Every creature is one of **the Smokeless**, the **ones from below**, and comes u
 ## Good and evil from below
 The Smokeless are **good and evil**. **The evil ones want control**, and they get it three ways: by possession (the Worn), by the Sitter (crushing, stealing breath, planting false dreams), and by stealing (names, memories, children, breath, luck, water, treasure). Some evil ones pretend to be good. **The good ones defend people**: Dwellers who guard good houses (Umm Hanan's keeps her lamp lit), good Drowners who push drowning divers up, good Whirlers who turn a storm aside, well-keepers who keep water sweet, and a good Bodiless Voice that Theyab **cannot tell from the Twin**. **Iron, the hirz and Hilal's recitation drive back good and evil alike**, so Theyab must sometimes take off the hirz to let help in (Ch 22, 86, 96, 129). **No good one can defeat the Sealed King**; only the Light freely given can. On the Night of Lamps, good and evil from below fight their own war alongside the human battle.
 
-**The Sand-Mother** (new character, after the Sayf epic's nursing Smokeless) is a good one from below who nursed the abandoned baby Theyab in the sand, then **raised him in the Quiet Country** until he was seven, and is bound to him by that milk. Her return is a reunion. Her enemy is Old Thorn, who wants Theyab's Marked blood. She gives no name. She appears as a gold-eyed gazelle, as a girl at the edge of firelight whose feet don't touch the sand, or only as warmth and a smell of milk. She is seeded in Ch 1, 2, 13, 17 and 22; she defends Theyab in Ch 21, 37, 49, 69, 84 and 86; she is revealed in Ch 92; she is unmade at the sinkhole in Ch 129; and Theyab smells milk once more in Ch 143. The kindness that returns: as a boy, Theyab saved a pale snake from Ghanim (Ch 2). It was her.
+**The Sand-Guide** (new character, after the Sayf epic's nursing Smokeless) is a good one from below who nursed the abandoned baby Theyab in the sand, then **raised him in the Quiet Country** until he was seven, and is bound to him by that milk. Her return is a reunion. Her enemy is Old Thorn, who wants Theyab's Marked blood. She gives no name. She appears as a gold-eyed gazelle, as a girl at the edge of firelight whose feet don't touch the sand, or only as warmth and a smell of milk. She is seeded in Ch 1, 2, 13, 17 and 22; she defends Theyab in Ch 21, 37, 49, 69, 84 and 86; she is revealed in Ch 92; she is unmade at the sinkhole in Ch 129; and Theyab smells milk once more in Ch 143. The kindness that returns: as a boy, Theyab saved a pale snake from Ghanim (Ch 2). It was her.
 
 **The named good ones** never take a person over; they only protect, warn, carry and fight. That rule is how readers learn to tell them from the evil ones. Most of them help because someone was kind to them first.
-- **The Sand-Mother** (land; set against Old Thorn). Above. She is unmade in Ch 129.
+- **The Sand-Guide** (land; set against Old Thorn). Above. She is unmade in Ch 129.
 - **The Lamp-Keeper** is Umm Hanan's house-Dweller, there because she always named the Creator before pouring hot water. It keeps her lamp lit against any wind; Ash-Mouth can't eat names in a house it guards (Ch 5, 6, 19, 145). It survives.
 - **The Lifter** is the good one of all water, wells and sea alike, set against the Deep Caller and the Smiling Hunger (which poisons wells to make the Worn). It keeps wells sweet, hides water from the Grey, leads the thirsty to it, and lifts drowning divers to the air: the reason a few ever came home. It lives in the well of Bir al-Ghina'. It is kind because Jasir's mother left fresh water at the sea's edge every night, and because Theyab poured the first cup back (Ch 33, 44–45, 80, 84, 106, 128, 139). Wounded under the salt, it survives, and carries Jasir up at the end.
 - **The Turning Wind** is a good Whirler, set against the Black Wind. It turns storms from caravans and children and carries warnings, never names (Ch 37, 86, 89). It is torn apart turning the Black Wind away from the freed children (Ch 89).
@@ -68,7 +68,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 - The flash-forward: a boy burning on Tal Moreeb under the full moon, smelling of honey, hot metal and hair. "But that is the end."
 - **Before the beginning: the Quiet Country.** In broken glimpses, Ghareeb gives the hidden good part of the Underneath: sweet wells, ghaf roots like pillars, light with no sun, a gold-eyed gazelle-woman who smells of milk, a voice that whispers "wake up" at every dawn, and a small boy raised there by the good ones, with an old saluki who never left his side. Ghareeb refuses to say how the boy got there. [UNREAL]
 - **The loss of the path.** At about seven, the boy followed a gazelle, or a sound, too far up one of the doors: up through the noon heat-shimmer. The door closed behind him. He woke alone, crying, in the white-hot noon lane of Hilat al-Sarab, with a dog watching him. That is Theyab's "first memory". Mothers were calling their children in by the Noon Mare's name. No one called him.
-- Eight years later. The village has kept him as Laqeet, the foundling, and he is still the only child out at noon, scavenging the half-buried ruins. A gazelle with gold eyes watches from a ruin wall, where no gazelle should be. Ghareeb looks away politely, like a son who has seen his mother in the market. [Sand-Mother seed]
+- Eight years later. The village has kept him as Laqeet, the foundling, and he is still the only child out at noon, scavenging the half-buried ruins. A gazelle with gold eyes watches from a ruin wall, where no gazelle should be. Ghareeb looks away politely, like a son who has seen his mother in the market. [Sand-Guide seed]
 - He finds a Maria Theresa thaler. He keeps his left fist closed, as always, over the line across his palm. Ghareeb's silver eye aches, as it always does when Theyab is in danger.
 - **Hook:** In the noon-empty lane, round cups in the sand, two by two (hoofprints), circle the hollow where Theyab sleeps and stop at his blanket. He dreams that night of a well of sweet water, and wakes saying words in a language no one in the village knows.
 [FIRE] [UNREAL] [TWIST-T4 seed] [TWIST-T8 seed] [TWIST-T1 seed]
@@ -76,7 +76,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 ### 2. Never Sell What the Sand Gave You
 *"A trader's scale has two pans, and his thumb is the third." — a saying of the Liwa market*
 - Ghanim the trader weighs Theyab's scraps on crooked scales, pays half, and pockets the thaler "for safekeeping". When Theyab opens his fist for the coins, Ghanim sees the unbroken line across the palm. He says nothing, and smiles.
-- In the ruins, Ghanim corners a pale snake with a stick. Theyab stands between them and warns the snake three times to leave, as the old people do, until it goes ⟲. (It is the Sand-Mother.)
+- In the ruins, Ghanim corners a pale snake with a stick. Theyab stands between them and warns the snake three times to leave, as the old people do, until it goes ⟲. (It is the Sand-Guide.)
 - Umm Hanan's secret kindness ⟲: bread and honey-dates left on her wall. She lost her husband and two sons when the pearling boats came home without them, and she kneads their three names into her dough every morning.
 - Nadim, Saqi the well-keeper's son, bullies Theyab at the well. Shibl, seven, is fascinated by the dog with the coin-coloured eye.
 - Theyab cannot lie. Nadim makes a sport of it, and every true answer is a humiliation.
@@ -184,7 +184,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 - Umm Hanan presses bread into his hands as he goes ⟲. It is still warm.
 - His tent is torn down, ringed with salt, and marked with a soot handprint: *what was here is not of us* (*base Ch 4*). Ghanim takes his annas.
 - Ghareeb steps over the salt ring and yawns: salt is mostly for show, for something like him.
-- That night in the open, bleeding and with no iron, Theyab wakes warm, with a smell of milk in the cold air and a gazelle's cloven prints around him. Ghareeb knows whose they are. [Sand-Mother seed]
+- That night in the open, bleeding and with no iron, Theyab wakes warm, with a smell of milk in the cold air and a gazelle's cloven prints around him. Ghareeb knows whose they are. [Sand-Guide seed]
 - Theyab digs the grey name-cloth from the wreck. It smells of smoke, and he has never noticed before.
 - **Hook:** Two lights still burn in Hilat al-Sarab: Umm Hanan's lamp and Old Bakhit's tent. He walks toward the light. They always do.
 [ACTION]
@@ -229,7 +229,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 - The Smokeless obeys in letter, not in spirit: it sets him down gently. A gazelle, and a Smokeless woman with eyes like lamps, nurse the child. He grows up wild and comes back as a man.
 - The fort's poets made it a holy story ("the desert itself chose him") and buried the mother's crime under the miracle. Bakhit: "Every sacred story has a mother's crime under it somewhere."
 - Theyab asks whether his own mother sent him. Bakhit says nothing, and the bell doesn't help.
-- Ghareeb goes very still at the gazelle and the lamp-eyed woman. He was there on the first night of Theyab's life, and this tale is closer to home than Bakhit knows. [Sand-Mother seed]
+- Ghareeb goes very still at the gazelle and the lamp-eyed woman. He was there on the first night of Theyab's life, and this tale is closer to home than Bakhit knows. [Sand-Guide seed]
 - **Hook:** Bakhit, half asleep: "That tablet came from the glass ruins, they say. Somebody cut it out of the wall." Ghareeb's silver eye aches toward the south-west.
 [TALE] [TWIST-T7 seed: a sacred story that hides a crime] [the tablet seed]
 
@@ -748,7 +748,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 - [FIRE: Nadim falters] *He does not say "The teller said." The children notice; one whispers it for him. He stops for a long time, can't look at the fire, and says, "This next part is mine. The dog won't tell it. I will." The boy among the children says softly, "Go on." He does.*
 - [TALE: the Lady of the Crossroads, Nadim's own telling, as a confession to the fire] After the Grey took Saqi again, Shibl began to fade. Nadim carried him toward the coast for a cure.
 - On the night road a perfumed woman met them. She knew Shibl's name and was kind to him. Her waterskin never emptied. Every time Nadim stumbled she smiled, and he got up.
-- Twice a gold-eyed gazelle stood in the road between him and the masked fire, and the woman's smile went thin. The second time, Nadim threw a stone at it. (The Sand-Mother, fighting for his soul, and losing for now.)
+- Twice a gold-eyed gazelle stood in the road between him and the masked fire, and the woman's smile went thin. The second time, Nadim threw a stone at it. (The Sand-Guide, fighting for his soul, and losing for now.)
 - At a fire of white masks she offered his test: Shibl's safety and cure, for word of where the Marked boy sleeps. He took it.
 - He looked back once to thank her. Her hands were long and curved like sickles, and her face had only been worn for him.
 - *Back at the fire, the old man's hands are shaking. A child says, "You were Nadim." He doesn't answer. The saluki lays its head on his foot.*
@@ -900,11 +900,11 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 *"On the salt, run straight and don't look down; the ground has eyes under it." — the sabkha herders*
 - [ACTION] Escape across the moving sabkha: plates tilting, mud breathing under them, Nameless lamps behind.
 - The Halfman comes for the children, hopping across the salt: split lengthwise, one eye, one arm, one leg, impossibly fast. It takes the slowest child.
-- The Sand-Mother is there, a gold-eyed gazelle on the crust, but she can't come near Theyab while he wears the hirz. He has to choose. He tears it off. **The reunion.** He knows her: the smell of milk, the sweet wells, the voice at every dawn. "I know you. I *know* you." She hits the Halfman like a thrown spear and holds it back while the child is pulled free.
+- The Sand-Guide is there, a gold-eyed gazelle on the crust, but she can't come near Theyab while he wears the hirz. He has to choose. He tears it off. **The reunion.** He knows her: the smell of milk, the sweet wells, the voice at every dawn. "I know you. I *know* you." She hits the Halfman like a thrown spear and holds it back while the child is pulled free.
 - Under the crust, the Lifter fights the Deep Caller. The salt heaves with it, and the Nameless lamps go down one by one, still lit under the salt.
 - The blind diver's song stops.
 - **Hook:** Three dunes away, the voices on the salt start again. There are more now, and two or three of the new ones are only humming the two notes.
-[ACTION] [Sand-Mother] [the hirz dilemma]
+[ACTION] [Sand-Guide] [the hirz dilemma]
 
 ### 85. Never Walk on Salt That Remembers the Sea
 *"The salt is the sea's grave; walk softly, and don't wake the mourners." — said on the coast*
@@ -982,11 +982,11 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 - [TALE: The Runner, the eleventh bearer, Sharood's own story] At sixteen he had the feather. On the dune he ran, because Ghadban's shape made running sound like courage, as it had for Bakhit.
 - **The second secret.** For a season of his flight, Sharood was **Worn**, put on by the Smiling Hunger, and Theyab was conceived in that season. Sharood fought the thing off later, but the sorcerers and the Nameless have whispered ever since that the boy's father was one of them. That is why the Diggers call Theyab "a son of the ones from below", and why his Marked blood is twice precious to them. Sharood can barely say it.
 - The Nameless came on the night Theyab was born, wanting the Marked child. They took five-year-old Saqr, thinking he was the one. The mother died in the burning tents.
-- Sharood hid the baby in a sandstorm near Hilat al-Sarab, wrapped in the name-cloth his wife had woven. At dawn he came back and found a gold-eyed gazelle curled round the baby, milk on his mouth. Then the sand opened, and gazelle and baby were gone. **The Sand-Mother took him down into the Quiet Country.** For seven years Sharood searched every well and cave. Then a boy turned up crying in Hilat al-Sarab's noon lane, with a saluki, and Sharood watched him for eight more years as the Veiled Rider.
+- Sharood hid the baby in a sandstorm near Hilat al-Sarab, wrapped in the name-cloth his wife had woven. At dawn he came back and found a gold-eyed gazelle curled round the baby, milk on his mouth. Then the sand opened, and gazelle and baby were gone. **The Sand-Guide took him down into the Quiet Country.** For seven years Sharood searched every well and cave. Then a boy turned up crying in Hilat al-Sarab's noon lane, with a saluki, and Sharood watched him for eight more years as the Veiled Rider.
 - Theyab's broken memories of below are confirmed, and his longing for the path back comes alive. "It was real." [UNREAL resolved, partly]
 - "I ran so that you would have to burn instead. Every day I have known that."
 - **Hook:** Theyab: "Did you ever come to the village?" Sharood: "Every Night of Lamps. I left bread on a widow's wall for her to leave for you." [UNREAL: Umm Hanan's bread re-read]
-[TALE] [Sand-Mother] [TWIST-T6 deepen]
+[TALE] [Sand-Guide] [TWIST-T6 deepen]
 
 ### 93. Never Let the Children Name Themselves Twice
 *"A name chosen twice is stronger than one given once." — a saying of the Al Bu Ghaf*
@@ -1022,7 +1022,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 - Hilal's teaching. He opens his worn al-Jahiz and goes through the ranks again: Dwellers, the Turned, Breakers, Burners, and the lieutenants by what they do (eating names, putting people on, speaking in the voices of the dead, sitting, guarding).
 - **Written against unwritten:** Hilal trusts what's in his books. The clan women laugh softly: "And the Lady of the Crossroads? And the Deep Caller? Are they in your book, mutawwa'?" He says those are coast stories.
 - The Bodiless Voice, given both old explanations: al-Jahiz says the Bedu would think you mad to doubt it; al-Mas'udi says it is the desert's loneliness speaking. "Choose, if you can."
-- The hard rule: iron, hirz and recitation drive back good ones and evil ones alike. Theyab understands the salt, and the Sand-Mother, and why she could never come close.
+- The hard rule: iron, hirz and recitation drive back good ones and evil ones alike. Theyab understands the salt, and the Sand-Guide, and why she could never come close.
 - Hilal: "That one under Ubar is not mine to send away. That one is waiting for you."
 - **Hook:** At night a voice calls Hilal's name from the dark beyond the tents. He answers calmly, "Not yet," and goes back to sleep.
 
@@ -1350,11 +1350,11 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 *"A child's whistle carries farther than a man's shout; the good ones listen for it." — a saying of the tent-mothers*
 - Rank four: Burners. Fire from below climbs the sinkhole stairs. Old Thorn comes up behind them, keeper of the sealed places, drawn by the Marked boy's blood.
 - Zaid and some of the freed children are trapped on the tomb stairs with the Hoofed between them and the light.
-- The Sand-Mother stands at the sinkhole's lip as a girl whose feet don't touch the ground, holding back Old Thorn and the evil ones while the children run. She can't reach Theyab while he wears the hirz. He tears it off for the last time and gives her his hand. ⟲⟲ (the pale snake)
+- The Sand-Guide stands at the sinkhole's lip as a girl whose feet don't touch the ground, holding back Old Thorn and the evil ones while the children run. She can't reach Theyab while he wears the hirz. He tears it off for the last time and gives her his hand. ⟲⟲ (the pale snake)
 - She holds them, and she is **unmade**. Her last act is to give the smallest child's bitten whistle its sound: one note so pure the Hoofed flinch.
 - Theyab carries Zaid up through the gap she made. Jasir carries the smallest child. Every child lives. **The whistle saves Zaid ⟲⟲.**
 - **Hook:** At the top of the stair Theyab smells milk, fading, then nothing, and understands what he has lost: the one who raised him, lost twice.
-[ACTION] [Sand-Mother's end]
+[ACTION] [Sand-Guide's end]
 
 ### 130. Never Hand a Child to a Smiling Man
 *"Never hand a child to a man who smiles with his teeth shut." — a saying of the tent-mothers*
@@ -1370,7 +1370,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 *"Call a friend from below by what they did for you, never by name." — a saying of the Omani interior*
 - Old Thorn has come up into the cavern under the well to drink the blood Theyab spilled there.
 - Theyab spills water from Hilal's read-over flask into the well and calls the Younger Sister of Bahla, by what she did, not her name: "You who dug the water in one night."
-- She comes through the water, as promised, once, and floods the cavern. **Old Thorn is drowned** in the falaj-water of a thing it once helped bind. She is avenging the Sand-Mother.
+- She comes through the water, as promised, once, and floods the cavern. **Old Thorn is drowned** in the falaj-water of a thing it once helped bind. She is avenging the Sand-Guide.
 - Her price: she takes one memory of his, whichever she likes. It is his memory of Bahla's wall at dawn with Hazza' laughing. He feels the hole.
 - She leaves him a warning: no good one can stand against the Sealed King. "Only what you give."
 - **Hook:** Above, among the ruins, the Eldest is writing something in ash with one huge finger.
@@ -1489,7 +1489,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 ### 143. Never Give Your Name to the Fire
 *"Never give your name to the fire; it has eaten all the others and is still hungry." — a saying of the grandmothers*
 - **"I'm coming, Hazza'."** Theyab opens the Light.
-- For one moment he smells milk on the wind, the Sand-Mother, unmade and somehow there. He smiles.
+- For one moment he smells milk on the wind, the Sand-Guide, unmade and somehow there. He smiles.
 - Muhaisen tries to steal the Light as it bursts. Stolen light turns grey and destroys the thief. Muhaisen goes grey and crumbles, whispering "Mu'in" as if surprised to remember it.
 - Theyab burns like the 'anqa of the cradle song, two wings of gold wide enough to cover the sands. The Twin burns with him. The last thing heard is two voices, both his.
 - Gold rains down. Ash-Mouth burns in it, and the Smiling Hunger's last scraps burn too.
@@ -1577,7 +1577,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 9. **Umm Hanan** is the widow who kneads her dead men's names into bread and leaves it on her wall. She names the Creator before pouring hot water, so the Lamp-Keeper guards her house. She refuses her drowned sons' voices on Tal Moreeb, and her lamp is the one that never goes out.
 10. **Wazir Muhaisen (Mu'in, "helper")** chose forgetting when he was tested and made the whole desert pay for his grief. He wrote one of the holy lies, murdered Hazza' through the Twin's hands, and is destroyed by the Light he tried to steal.
 11. **The good ones below:**
-    - **The Sand-Mother** nursed and raised Theyab, is reunited with him on the salt, and is unmade at the sinkhole giving the whistle its note.
+    - **The Sand-Guide** nursed and raised Theyab, is reunited with him on the salt, and is unmade at the sinkhole giving the whistle its note.
     - **The Turning Wind** is torn apart saving the freed children.
     - **The Lifter** is wounded and survives.
     - **The Lamp-Keeper** survives.
@@ -1648,7 +1648,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 6. **T7 against the ending.** If every burning feeds the Sealed King, why does Theyab burn? Because he gives the Light outward, Ghareeb blinds the window that would draw it in, and the Grey still only goes *down* (the darker ending).
 7. **Late author changes,** all applied:
    - The well-keeper is merged into the Lifter.
-   - The nursing good one takes the name the Sand-Mother.
+   - The nursing good one takes the name the Sand-Guide.
    - The Quiet Country childhood moves Theyab's arrival in the village to age seven (eight years before the story).
    - The sorcerers' phrase "son of the ones from below" replaces a banned word.
    - Jasir's mother tale is now about the Deep Caller, because Bakhit's Ch 17 tale carries the Sayf "murderous mother".
@@ -1695,7 +1695,7 @@ On the Night of Lamps the good ones of Ubar's houses and wells rise to fight the
 | R3-10 | Written against unwritten; Hilal killed by one his books never named | the Lady of the Crossroads | 10, 80, 96, 110, 112, **126** |
 | U | The Underneath, its doors, the great door at Ubar | the Underneath | ⟨U⟩: 7, 11, 21, 22, 26, 45, 49, 62, 77, 78, 99, 116, 124, 134, 142, 149 |
 | G | Good and evil from below; the hirz drives back both | the good ones and the Turned | 22, 45, 84, 96, 123–124, 129 |
-| SM | The Sand-Mother (nursed and raised him; the pale snake; unmade) | the Sand-Mother | 1, 2, 13, 17, 21, 22, 37, 49, 69, **84**, **92**, **129**, 143 |
+| SM | The Sand-Guide (nursed and raised him; the pale snake; unmade) | the Sand-Guide | 1, 2, 13, 17, 21, 22, 37, 49, 69, **84**, **92**, **129**, 143 |
 | GO | The named good ones | the Lamp-Keeper, the Lifter, the Turning Wind, the Quiet Voice, the Threshold-Watcher | Lamp-Keeper 4–6, 139, 145 · Lifter 33, 44–45, 80, 84, 106, 128, 139 · Turning Wind 37, 86, **89** · Quiet Voice 22, 26, 30, 62, 100, **147**, 150 · Threshold-Watcher 4, 14, 146, 148–149 |
 | LT | The five named lieutenants | Ash-Mouth, the Smiling Hunger, the Thousand-Voiced, the Heavy One, Old Thorn | Ash-Mouth 5, 24, 79, 123, 127, 143 · Smiling Hunger 7, 34, 65, 78, 81, 92, 122, 140 · Thousand-Voiced 6, 26, 37, 63, 77, 141, 150 · Heavy One 22, 49, 62, 100, 149 · Old Thorn 30, 53, 82, 116, 129, **131** |
 | QC | The Quiet Country childhood; the lost path; the "son of the ones from below" | the Quiet Country | 1, 19, 84, 89, 92, 106, 138 |
