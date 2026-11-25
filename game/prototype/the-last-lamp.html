@@ -1,0 +1,533 @@
+<title>The Last Lamp</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@700&family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: full-screen 3D night village; HUD pinned to the corners; title and end cards centred over the scene. Single dark look by design. */
+:root{
+  --night:#070b16; --moon:#9fb6ff; --sand:#c8a66a; --lamp:#ffb347; --light:#ffd76a; --blood:#e2553f; --ink:#eef1ff; --mute:#8d96b8;
+  --display:'Aref Ruqaa', 'Times New Roman', serif; --body:'IBM Plex Sans', system-ui, sans-serif; --mono:'IBM Plex Mono', ui-monospace, monospace;
+  color-scheme:dark;
+}
+html,body{height:100%;margin:0;background:var(--night);color:var(--ink);font-family:var(--body);overflow:hidden;touch-action:none;user-select:none;-webkit-user-select:none}
+#stage{position:fixed;inset:0}
+canvas{display:block}
+.hud{position:fixed;pointer-events:none;font-family:var(--mono);font-size:13px;letter-spacing:.04em;text-shadow:0 1px 3px #000;font-variant-numeric:tabular-nums}
+#hudTL{top:calc(env(safe-area-inset-top,0px) + 12px);left:max(16px,env(safe-area-inset-left,0px))}
+#hudTC{top:calc(env(safe-area-inset-top,0px) + 12px);left:50%;transform:translateX(-50%);text-align:center}
+#hudTR{top:calc(env(safe-area-inset-top,0px) + 12px);right:max(16px,env(safe-area-inset-right,0px));text-align:right}
+#dawn{font-size:22px;color:var(--lamp)}
+#bars{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(env(safe-area-inset-bottom,0px) + 14px);width:min(520px,calc(100% - 32px));display:grid;gap:6px;pointer-events:none}
+.bar{height:10px;border-radius:5px;background:#ffffff1a;overflow:hidden;position:relative}
+.bar i{position:absolute;inset:0;transform-origin:left;transition:transform .15s}
+.bar label{position:absolute;right:6px;top:-15px;font:600 10px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--mute)}
+#lightBar i{background:linear-gradient(90deg,#b8860b,var(--light))}
+#lampBar i{background:linear-gradient(90deg,#9a3b12,var(--lamp))}
+#flash{position:fixed;top:30%;left:0;right:0;text-align:center;font-family:var(--display);font-size:clamp(26px,6vw,56px);color:var(--moon);opacity:0;pointer-events:none;text-shadow:0 0 24px #4b6bff;transition:opacity .4s}
+#flash.on{opacity:1}
+#charge{position:fixed;left:50%;bottom:calc(env(safe-area-inset-bottom,0px) + 62px);transform:translateX(-50%);font:600 11px var(--mono);letter-spacing:.2em;color:var(--light);opacity:0;pointer-events:none}
+.card{position:fixed;inset:0;display:grid;place-items:center;background:radial-gradient(ellipse at 50% 35%,#13204acc,#070b16f2 70%);padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));z-index:5}
+.card .in{max-width:560px;text-align:center;display:grid;gap:14px}
+.card h1{font-family:var(--display);font-size:clamp(44px,10vw,84px);margin:0;color:var(--lamp);line-height:1;text-wrap:balance;text-shadow:0 0 30px #ff8a1f55}
+.card .rule{font-family:var(--display);font-size:clamp(20px,4.5vw,30px);color:var(--moon)}
+.card p{margin:0;color:var(--mute);line-height:1.55}
+.keys{display:grid;grid-template-columns:auto 1fr;gap:6px 14px;text-align:left;font-size:13px;margin:4px auto 0;color:var(--ink)}
+.keys kbd{font:600 11px var(--mono);border:1px solid #ffffff33;border-radius:4px;padding:2px 6px;color:var(--light);white-space:nowrap}
+button.go{font:600 16px var(--body);letter-spacing:.06em;padding:14px 30px;border-radius:999px;border:1px solid var(--lamp);background:#ff9a2a22;color:var(--lamp);cursor:pointer;justify-self:center}
+button.go:hover,button.go:focus-visible{background:#ff9a2a44;outline:2px solid var(--lamp);outline-offset:3px}
+.stats{font-family:var(--mono);font-size:14px;color:var(--ink);display:grid;gap:4px}
+#touch{position:fixed;inset:0;pointer-events:none;display:none;z-index:3}
+#touch .btn{pointer-events:auto;position:absolute;width:74px;height:74px;border-radius:50%;border:1px solid #ffffff44;background:#ffffff12;color:var(--ink);font:600 12px var(--mono);display:grid;place-items:center;letter-spacing:.08em}
+#bBlast{right:calc(max(16px,env(safe-area-inset-right,0px)) + 6px);bottom:calc(env(safe-area-inset-bottom,0px) + 74px);width:92px!important;height:92px!important;border-color:var(--light)!important;color:var(--light)!important}
+#bDodge{right:calc(max(16px,env(safe-area-inset-right,0px)) + 110px);bottom:calc(env(safe-area-inset-bottom,0px) + 60px)}
+#bBark{right:calc(max(16px,env(safe-area-inset-right,0px)) + 40px);bottom:calc(env(safe-area-inset-bottom,0px) + 178px);border-color:#c9d6ff!important}
+#stick{position:absolute;width:110px;height:110px;border-radius:50%;border:1px solid #ffffff33;display:none;pointer-events:none}
+#stick i{position:absolute;width:46px;height:46px;border-radius:50%;background:#ffffff33;left:32px;top:32px}
+[hidden]{display:none!important}
+@media (prefers-reduced-motion:reduce){#flash{transition:none}}
+</style>
+
+<div id="stage"></div>
+
+<div class="hud" id="hudTL">Ones from below: <b id="eCount">0</b><br>Ghareeb's bark: <b id="barkCd">ready</b></div>
+<div class="hud" id="hudTC"><div id="dawn">3:00</div><div>until dawn · next wave in <b id="nextWave">15</b></div></div>
+<div class="hud" id="hudTR">Wave <b id="wave">0</b> / 4<br>Score <b id="score">0</b><br>Name spoken <b id="names">0</b>×</div>
+<div id="bars">
+  <div class="bar" id="lightBar"><label>Your Light</label><i></i></div>
+  <div class="bar" id="lampBar"><label>The Lamp</label><i></i></div>
+</div>
+<div id="charge">CHARGING THE LIGHT</div>
+<div id="flash">The wind said your name</div>
+
+<div id="touch">
+  <div id="stick"><i></i></div>
+  <div class="btn" id="bBlast">LIGHT</div>
+  <div class="btn" id="bDodge">DODGE</div>
+  <div class="btn" id="bBark">BARK</div>
+</div>
+
+<div class="card" id="titleCard">
+  <div class="in">
+    <h1>The Last Lamp</h1>
+    <div class="rule">Never say your name to the wind.</div>
+    <p>Hilat al-Sarab, one night in the 1920s. The ones from below are rising out of the sand. Keep Umm Hanan's lamp burning for three minutes, until dawn. Every 30 seconds the wind whispers your name, and they all turn toward you.</p>
+    <div class="keys">
+      <kbd>WASD / arrows</kbd><span>Move Theyab</span>
+      <kbd>Space (hold)</kbd><span>Charge the Light, release to blast. Costs Light</span>
+      <kbd>Shift</kbd><span>Dodge</span>
+      <kbd>E</kbd><span>Ghareeb barks and reveals hidden ones</span>
+      <kbd>Stand by the lamp</kbd><span>Refills your Light</span>
+    </div>
+    <button class="go" id="startBtn">Begin the night</button>
+    <p style="font-size:12px">A playable prototype from the novel <i>Never Say Your Name to the Wind</i>, for the Unreal Engine build.</p>
+  </div>
+</div>
+
+<div class="card" id="endCard" hidden>
+  <div class="in">
+    <h1 id="endTitle">Dawn</h1>
+    <div class="rule" id="endLine">They say it truly happened.</div>
+    <div class="stats" id="endStats"></div>
+    <button class="go" id="againBtn">Play again</button>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script>
+(() => {
+'use strict';
+const $ = id => document.getElementById(id);
+const isTouch = matchMedia('(pointer:coarse)').matches;
+const TOTAL = 180, ARENA = 38;
+
+/* ---------- renderer & scene ---------- */
+const renderer = new THREE.WebGLRenderer({antialias:true});
+renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
+renderer.setSize(innerWidth, innerHeight);
+renderer.shadowMap.enabled = true;
+$('stage').appendChild(renderer.domElement);
+const scene = new THREE.Scene();
+const nightSky = new THREE.Color('#070b16'), dawnSky = new THREE.Color('#e9a46a');
+scene.background = nightSky.clone();
+scene.fog = new THREE.Fog(0x070b16, 22, 70);
+const camera = new THREE.PerspectiveCamera(55, innerWidth/innerHeight, 0.1, 200);
+addEventListener('resize', () => { renderer.setSize(innerWidth, innerHeight); camera.aspect = innerWidth/innerHeight; camera.updateProjectionMatrix(); });
+
+const moon = new THREE.DirectionalLight(0x8fa8ff, 0.55);
+moon.position.set(-20, 30, -10); moon.castShadow = true;
+moon.shadow.camera.left = -40; moon.shadow.camera.right = 40; moon.shadow.camera.top = 40; moon.shadow.camera.bottom = -40;
+scene.add(moon);
+const ambient = new THREE.HemisphereLight(0x3a4f8f, 0x1a1208, 0.45); scene.add(ambient);
+
+/* sand */
+const groundGeo = new THREE.PlaneGeometry(160, 160, 80, 80);
+groundGeo.rotateX(-Math.PI/2);
+const gp = groundGeo.attributes.position;
+for (let i = 0; i < gp.count; i++) {
+  const x = gp.getX(i), z = gp.getZ(i), d = Math.hypot(x, z);
+  const dune = d > 30 ? (Math.sin(x*0.08)+Math.cos(z*0.07))*Math.min(4,(d-30)*0.25) : 0;
+  gp.setY(i, dune);
+}
+groundGeo.computeVertexNormals();
+const ground = new THREE.Mesh(groundGeo, new THREE.MeshStandardMaterial({color:0x9c7c4c, roughness:1}));
+ground.receiveShadow = true; scene.add(ground);
+
+/* village: mud-brick houses, palm huts, well, ghaf tree */
+const brick = new THREE.MeshStandardMaterial({color:0x8a6a45, roughness:.95});
+const frond = new THREE.MeshStandardMaterial({color:0x5e4a2a, roughness:1});
+const solids = []; // circles for collision {x,z,r}
+function house(x, z, w, d, h, rot){
+  const g = new THREE.Group();
+  const body = new THREE.Mesh(new THREE.BoxGeometry(w, h, d), brick); body.position.y = h/2; body.castShadow = body.receiveShadow = true; g.add(body);
+  const door = new THREE.Mesh(new THREE.BoxGeometry(1, 1.8, .1), new THREE.MeshStandardMaterial({color:0x1b120a})); door.position.set(0, .9, d/2+.05); g.add(door);
+  const win = new THREE.Mesh(new THREE.BoxGeometry(.6,.6,.1), new THREE.MeshStandardMaterial({color:0x0e0a06})); win.position.set(w/4, h*.65, d/2+.05); g.add(win);
+  g.position.set(x, 0, z); g.rotation.y = rot; scene.add(g);
+  solids.push({x, z, r: Math.max(w, d)*0.55});
+}
+function hut(x, z){
+  const m = new THREE.Mesh(new THREE.ConeGeometry(2, 3, 6), frond); m.position.set(x, 1.5, z); m.castShadow = true; scene.add(m);
+  solids.push({x, z, r: 1.8});
+}
+[[-11,-9,5,4,3.2,.3],[11,-10,6,4,3.6,-.2],[-13,7,4,5,3,.1],[12,9,5,5,3.4,-.4],[0,-15,7,4,3.8,0],[-3,15,5,4,3,.2]].forEach(a => house(...a));
+[[-19,-2],[19,1],[6,19],[-20,-15],[18,-18]].forEach(a => hut(...a));
+// well
+const well = new THREE.Mesh(new THREE.CylinderGeometry(1.1,1.2,1,16,1,true), brick); well.position.set(6,.5,4); scene.add(well); solids.push({x:6,z:4,r:1.3});
+// ghaf tree
+const trunk = new THREE.Mesh(new THREE.CylinderGeometry(.35,.5,3.5,8), frond); trunk.position.set(-6,1.75,4); trunk.castShadow = true; scene.add(trunk);
+const crown = new THREE.Mesh(new THREE.SphereGeometry(2.6, 10, 8), new THREE.MeshStandardMaterial({color:0x2f3d22, roughness:1})); crown.position.set(-6,4.3,4); crown.scale.y=.6; crown.castShadow = true; scene.add(crown);
+solids.push({x:-6,z:4,r:.7});
+// stars
+const starGeo = new THREE.BufferGeometry(); const sp = [];
+for (let i = 0; i < 600; i++){ const a = Math.random()*Math.PI*2, e = Math.random()*1.3+.1, r = 120; sp.push(Math.cos(a)*Math.cos(e)*r, Math.sin(e)*r, Math.sin(a)*Math.cos(e)*r); }
+starGeo.setAttribute('position', new THREE.Float32BufferAttribute(sp, 3));
+const stars = new THREE.Points(starGeo, new THREE.PointsMaterial({color:0xffffff, size:.6, transparent:true}));
+scene.add(stars);
+const moonDisc = new THREE.Mesh(new THREE.CircleGeometry(6, 32), new THREE.MeshBasicMaterial({color:0xf1ecdc, fog:false}));
+moonDisc.position.set(-45, 55, -90); moonDisc.lookAt(0,0,0); scene.add(moonDisc);
+
+/* the lamp */
+const lampGroup = new THREE.Group();
+const stone = new THREE.Mesh(new THREE.CylinderGeometry(.8,1,.8,10), new THREE.MeshStandardMaterial({color:0x5a5248})); stone.position.y=.4; lampGroup.add(stone);
+const lampBody = new THREE.Mesh(new THREE.SphereGeometry(.35, 12, 10), new THREE.MeshStandardMaterial({color:0x8a5a1c, metalness:.6, roughness:.4})); lampBody.position.y=1; lampBody.scale.set(1.4,.8,1); lampGroup.add(lampBody);
+const flame = new THREE.Mesh(new THREE.ConeGeometry(.12,.45,8), new THREE.MeshBasicMaterial({color:0xffc35a})); flame.position.y=1.45; lampGroup.add(flame);
+const lampLight = new THREE.PointLight(0xffa640, 3, 26, 1.6); lampLight.position.y = 1.6; lampLight.castShadow = true; lampGroup.add(lampLight);
+scene.add(lampGroup); solids.push({x:0,z:0,r:1});
+
+/* ---------- characters ---------- */
+function makeTheyab(){
+  const g = new THREE.Group();
+  const robe = new THREE.Mesh(new THREE.CylinderGeometry(.35,.55,1.5,10), new THREE.MeshStandardMaterial({color:0xb59a6e, roughness:.9})); robe.position.y=.75; robe.castShadow=true; g.add(robe);
+  const head = new THREE.Mesh(new THREE.SphereGeometry(.3, 14, 12), new THREE.MeshStandardMaterial({color:0x8a5a3a})); head.position.y=1.75; head.castShadow=true; g.add(head);
+  const hair = new THREE.Mesh(new THREE.SphereGeometry(.31, 14, 12, 0, Math.PI*2, 0, Math.PI/2.2), new THREE.MeshStandardMaterial({color:0x14100c})); hair.position.y=1.78; g.add(hair);
+  const mark = new THREE.Mesh(new THREE.SphereGeometry(.09, 8, 8), new THREE.MeshBasicMaterial({color:0xffd76a})); mark.position.set(0,1.25,.36); g.add(mark);
+  const glow = new THREE.PointLight(0xffd76a, .6, 6); glow.position.set(0,1.3,.6); g.add(glow);
+  g.userData = {mark, glow};
+  return g;
+}
+function makeDog(){
+  const g = new THREE.Group(), fur = new THREE.MeshStandardMaterial({color:0xc9a46a, roughness:.9});
+  const body = new THREE.Mesh(new THREE.BoxGeometry(.32,.32,1.1), fur); body.position.y=.75; body.castShadow=true; g.add(body);
+  const neck = new THREE.Mesh(new THREE.BoxGeometry(.18,.4,.18), fur); neck.position.set(0,1.0,.55); neck.rotation.x=-.4; g.add(neck);
+  const head = new THREE.Mesh(new THREE.BoxGeometry(.18,.18,.55), fur); head.position.set(0,1.2,.82); g.add(head);
+  [-.1,.1].forEach(s => { const ear = new THREE.Mesh(new THREE.BoxGeometry(.05,.3,.14), new THREE.MeshStandardMaterial({color:0xa8854f})); ear.position.set(s*1.6,1.12,.66); g.add(ear); });
+  const silver = new THREE.Mesh(new THREE.SphereGeometry(.045,8,8), new THREE.MeshBasicMaterial({color:0xdfe8ff})); silver.position.set(-.09,1.25,.95); g.add(silver);
+  const amber = new THREE.Mesh(new THREE.SphereGeometry(.04,8,8), new THREE.MeshBasicMaterial({color:0xffa11a})); amber.position.set(.09,1.25,.95); g.add(amber);
+  const legs = [];
+  [[-.12,.4],[.12,.4],[-.12,-.4],[.12,-.4]].forEach(([x,z]) => { const l = new THREE.Mesh(new THREE.BoxGeometry(.07,.6,.07), fur); l.position.set(x,.3,z); g.add(l); legs.push(l); });
+  const tail = new THREE.Mesh(new THREE.BoxGeometry(.05,.05,.6), fur); tail.position.set(0,.85,-.75); tail.rotation.x=.6; g.add(tail);
+  g.userData = {legs, silver};
+  return g;
+}
+const player = makeTheyab(); scene.add(player);
+const dog = makeDog(); scene.add(dog);
+
+/* ---------- audio (synthesised, starts on the Begin button) ---------- */
+let actx = null, windGain = null;
+function initAudio(){
+  try {
+    actx = new (window.AudioContext || window.webkitAudioContext)();
+    const len = actx.sampleRate*2, buf = actx.createBuffer(1, len, actx.sampleRate), d = buf.getChannelData(0);
+    for (let i = 0; i < len; i++) d[i] = Math.random()*2-1;
+    const src = actx.createBufferSource(); src.buffer = buf; src.loop = true;
+    const f = actx.createBiquadFilter(); f.type='bandpass'; f.frequency.value=420; f.Q.value=.7;
+    windGain = actx.createGain(); windGain.gain.value = .05;
+    src.connect(f).connect(windGain).connect(actx.destination); src.start();
+    actx._noise = buf;
+  } catch(e){ actx = null; }
+}
+function tone(freq, dur, type='sine', vol=.15, slide=0){
+  if (!actx) return;
+  const o = actx.createOscillator(), g = actx.createGain(), t = actx.currentTime;
+  o.type = type; o.frequency.setValueAtTime(freq, t); if (slide) o.frequency.exponentialRampToValueAtTime(Math.max(30,freq+slide), t+dur);
+  g.gain.setValueAtTime(vol, t); g.gain.exponentialRampToValueAtTime(.001, t+dur);
+  o.connect(g).connect(actx.destination); o.start(t); o.stop(t+dur);
+}
+function whisperSound(){
+  if (!actx) return;
+  const t = actx.currentTime, src = actx.createBufferSource(); src.buffer = actx._noise;
+  const f = actx.createBiquadFilter(); f.type='bandpass'; f.Q.value=6;
+  f.frequency.setValueAtTime(600,t); f.frequency.linearRampToValueAtTime(2400,t+.35); f.frequency.linearRampToValueAtTime(900,t+1.2);
+  const g = actx.createGain(); g.gain.setValueAtTime(0,t); g.gain.linearRampToValueAtTime(.5,t+.2); g.gain.linearRampToValueAtTime(.35,t+.7); g.gain.linearRampToValueAtTime(0,t+1.4);
+  src.connect(f).connect(g).connect(actx.destination); src.start(t); src.stop(t+1.5);
+  tone(110, 1.4, 'sine', .08, -40);
+}
+
+/* ---------- input ---------- */
+const keys = {};
+addEventListener('keydown', e => {
+  if (['Space','ArrowUp','ArrowDown','ArrowLeft','ArrowRight'].includes(e.code)) e.preventDefault();
+  if (keys[e.code]) return; keys[e.code] = true;
+  if (!state.running) return;
+  if (e.code === 'Space') startCharge();
+  if (e.code === 'ShiftLeft' || e.code === 'ShiftRight') dodge();
+  if (e.code === 'KeyE') bark();
+});
+addEventListener('keyup', e => { keys[e.code] = false; if (e.code === 'Space' && state.running) releaseBlast(); });
+const stickVec = {x:0, z:0};
+if (isTouch){
+  $('touch').style.display = 'block';
+  const stick = $('stick'), knob = stick.querySelector('i'); let sid = null, sx = 0, sy = 0;
+  addEventListener('touchstart', e => { for (const t of e.changedTouches){ if (t.clientX < innerWidth*.5 && sid === null && state.running){ sid = t.identifier; sx = t.clientX; sy = t.clientY; stick.style.display='block'; stick.style.left=(sx-55)+'px'; stick.style.top=(sy-55)+'px'; } } }, {passive:true});
+  addEventListener('touchmove', e => { for (const t of e.changedTouches){ if (t.identifier === sid){ let dx = t.clientX-sx, dy = t.clientY-sy; const m = Math.hypot(dx,dy), c = Math.min(m,45); if (m>0){dx=dx/m*c; dy=dy/m*c;} knob.style.left=(32+dx)+'px'; knob.style.top=(32+dy)+'px'; stickVec.x = dx/45; stickVec.z = dy/45; } } }, {passive:true});
+  const end = e => { for (const t of e.changedTouches){ if (t.identifier === sid){ sid = null; stickVec.x = stickVec.z = 0; stick.style.display='none'; } } };
+  addEventListener('touchend', end); addEventListener('touchcancel', end);
+  $('bBlast').addEventListener('touchstart', e => { e.preventDefault(); e.stopPropagation(); startCharge(); });
+  $('bBlast').addEventListener('touchend', e => { e.preventDefault(); e.stopPropagation(); releaseBlast(); });
+  $('bDodge').addEventListener('touchstart', e => { e.preventDefault(); e.stopPropagation(); dodge(); });
+  $('bBark').addEventListener('touchstart', e => { e.preventDefault(); e.stopPropagation(); bark(); });
+}
+
+/* ---------- game state ---------- */
+const state = {};
+const enemies = [], effects = [], pots = [], prints = [];
+let whirler = null;
+function reset(){
+  enemies.splice(0).forEach(e => scene.remove(e.mesh));
+  effects.splice(0).forEach(f => scene.remove(f.mesh));
+  pots.splice(0).forEach(p => scene.remove(p.mesh));
+  prints.splice(0).forEach(p => scene.remove(p.mesh));
+  if (whirler){ scene.remove(whirler.mesh); whirler = null; }
+  Object.assign(state, {running:false, t:0, light:100, lamp:100, score:0, kills:0, names:0, wave:0, charging:false, charge:0,
+    dodgeT:0, dodgeCd:0, barkCd:0, whisperT:0, huntT:0, trickle:0, vx:0, vz:0});
+  player.position.set(0,0,3); dog.position.set(-1.5,0,3);
+}
+
+/* ---------- enemies ---------- */
+const TYPES = {
+  emptied: {hp:1, speed:2.2, drain:3, color:0x8e9196, h:1.7, pts:10},
+  hoofed:  {hp:1, speed:4.6, drain:4, color:0x4b3a2c, h:1.8, pts:20},
+  worn:    {hp:3, speed:2.6, drain:3, color:0x6d6a63, h:1.8, pts:30},
+  hunger:  {hp:8, speed:1.7, drain:5, color:0x101014, h:3.6, pts:150}
+};
+function makeEnemyMesh(type){
+  const T = TYPES[type], g = new THREE.Group();
+  const mat = new THREE.MeshStandardMaterial({color:T.color, roughness:1, transparent:true, opacity:1});
+  const body = new THREE.Mesh(new THREE.CylinderGeometry(type==='hunger'?.5:.32, type==='hunger'?.8:.5, T.h*.85, 10), mat); body.position.y = T.h*.42; body.castShadow = true; g.add(body);
+  const head = new THREE.Mesh(new THREE.SphereGeometry(type==='hunger'?.5:.28, 12, 10), mat); head.position.y = T.h*.92; g.add(head);
+  const eyeMat = new THREE.MeshBasicMaterial({color: type==='hunger'?0xff3b2a:0xf4f4ff, transparent:true});
+  [-1,1].forEach(s => { const eye = new THREE.Mesh(new THREE.SphereGeometry(type==='hunger'?.08:.05,8,8), eyeMat); eye.position.set(s*(type==='hunger'?.18:.1), T.h*.94, type==='hunger'?.45:.25); g.add(eye); });
+  if (type === 'hunger'){ // the too-wide smile
+    const smile = new THREE.Mesh(new THREE.TorusGeometry(.28,.035,6,16,Math.PI), eyeMat); smile.rotation.z = Math.PI; smile.position.set(0, T.h*.86, .46); g.add(smile);
+  }
+  if (type === 'worn'){ // smoke at the mouth
+    const smoke = new THREE.Mesh(new THREE.SphereGeometry(.18,8,8), new THREE.MeshBasicMaterial({color:0x111111, transparent:true, opacity:.6})); smoke.position.set(0, T.h*.82, .3); g.add(smoke); g.userData.smoke = smoke;
+  }
+  g.userData.mat = mat; g.userData.eyeMat = eyeMat;
+  return g;
+}
+function spawn(type){
+  const a = Math.random()*Math.PI*2, r = 30 + Math.random()*6;
+  const mesh = makeEnemyMesh(type); mesh.position.set(Math.cos(a)*r, -2, Math.sin(a)*r); scene.add(mesh);
+  enemies.push({type, mesh, hp:TYPES[type].hp, rise:1, revealed:0, throwT:2+Math.random()*2, printT:0, hit:0});
+}
+function startWave(n){
+  state.wave = n;
+  if (n === 1) for (let i=0;i<6;i++) spawn('emptied');
+  if (n === 2){ for (let i=0;i<4;i++) spawn('hoofed'); for (let i=0;i<3;i++) spawn('emptied'); }
+  if (n === 3){ for (let i=0;i<4;i++) spawn('worn'); for (let i=0;i<2;i++) spawn('hoofed'); spawnWhirler(); }
+  if (n === 4){ spawn('hunger'); for (let i=0;i<4;i++) spawn('emptied'); for (let i=0;i<2;i++) spawn('worn'); }
+  flash(['', 'The emptied are walking', 'The Hoofed are hunting', 'The Worn are coming', 'The Smiling Hunger'][n], '#c9d6ff');
+}
+function spawnWhirler(){
+  const g = new THREE.Group();
+  for (let i=0;i<6;i++){ const ring = new THREE.Mesh(new THREE.TorusGeometry(.6+i*.35, .12, 6, 20), new THREE.MeshBasicMaterial({color:0xc8a66a, transparent:true, opacity:.35})); ring.rotation.x = Math.PI/2; ring.position.y = i*1.1+.3; g.add(ring); }
+  g.position.set(-ARENA, 0, (Math.random()-.5)*30); scene.add(g);
+  whirler = {mesh:g, dir: new THREE.Vector3(1,0,(Math.random()-.5)*.4).normalize()};
+}
+
+/* ---------- actions ---------- */
+function startCharge(){ if (!state.running || state.charging) return; state.charging = true; state.charge = 0; }
+function releaseBlast(){
+  if (!state.running || !state.charging) return;
+  state.charging = false;
+  const c = state.charge, cost = 6 + 14*c;
+  if (state.light < cost){ flash('Not enough Light', '#e2553f', 700); state.charge = 0; return; }
+  state.light -= cost;
+  const radius = 4 + 6*c, dmg = c > .66 ? 3 : c > .33 ? 2 : 1;
+  for (const e of enemies){
+    if (e.rise > 0) continue;
+    const d = e.mesh.position.distanceTo(player.position);
+    if (d < radius){
+      let hit = dmg; if (e.type === 'hunger' && e.revealed > 0) hit *= 2;
+      e.hp -= hit; e.hit = .15;
+      const push = new THREE.Vector3().subVectors(e.mesh.position, player.position).setY(0).normalize().multiplyScalar(1.5);
+      e.mesh.position.add(push);
+    }
+  }
+  burst(player.position, radius);
+  tone(220+300*c, .35, 'triangle', .18, 500); tone(80, .4, 'sine', .2, -30);
+  state.charge = 0;
+}
+function dodge(){
+  if (!state.running || state.dodgeCd > 0) return;
+  let dx = state.vx, dz = state.vz; const m = Math.hypot(dx,dz);
+  if (m < .01){ dx = Math.sin(player.rotation.y); dz = Math.cos(player.rotation.y); } else { dx/=m; dz/=m; }
+  state.dodgeDir = {x:dx, z:dz}; state.dodgeT = .2; state.dodgeCd = 1; tone(300,.15,'sawtooth',.05,-200);
+}
+function bark(){
+  if (!state.running || state.barkCd > 0) return;
+  state.barkCd = 6;
+  for (const e of enemies) if (e.mesh.position.distanceTo(dog.position) < 25) e.revealed = 3;
+  const ring = new THREE.Mesh(new THREE.RingGeometry(.5,.8,40), new THREE.MeshBasicMaterial({color:0xdfe8ff, transparent:true, opacity:.8, side:THREE.DoubleSide}));
+  ring.rotation.x = -Math.PI/2; ring.position.copy(dog.position).setY(.1); scene.add(ring);
+  effects.push({mesh:ring, life:.8, max:.8, grow:30});
+  tone(520,.12,'square',.1,-200); setTimeout(() => tone(480,.12,'square',.1,-200), 150);
+}
+function burst(pos, radius){
+  const ring = new THREE.Mesh(new THREE.RingGeometry(.6,1,48), new THREE.MeshBasicMaterial({color:0xffd76a, transparent:true, opacity:.9, side:THREE.DoubleSide}));
+  ring.rotation.x = -Math.PI/2; ring.position.copy(pos).setY(.15); scene.add(ring);
+  effects.push({mesh:ring, life:.45, max:.45, grow:radius*2.2});
+  const ball = new THREE.Mesh(new THREE.SphereGeometry(1, 16, 12), new THREE.MeshBasicMaterial({color:0xfff0b0, transparent:true, opacity:.6}));
+  ball.position.copy(pos).setY(1.2); scene.add(ball);
+  effects.push({mesh:ball, life:.3, max:.3, grow:radius*1.4, sphere:true});
+}
+let flashTimer = null;
+function flash(text, color, ms=1800){
+  const f = $('flash'); f.textContent = text; f.style.color = color || '#9fb6ff'; f.classList.add('on');
+  clearTimeout(flashTimer); flashTimer = setTimeout(() => f.classList.remove('on'), ms);
+}
+function speakName(){
+  state.names++; state.huntT = 8; whisperSound();
+  flash('The wind said your name', '#9fb6ff', 2200);
+}
+
+/* ---------- loop ---------- */
+const clock = new THREE.Clock();
+const tmp = new THREE.Vector3();
+function collide(pos, r){
+  for (const s of solids){ const dx = pos.x-s.x, dz = pos.z-s.z, d = Math.hypot(dx,dz), min = s.r + r; if (d < min && d > 0){ pos.x = s.x + dx/d*min; pos.z = s.z + dz/d*min; } }
+  const d = Math.hypot(pos.x, pos.z); if (d > ARENA){ pos.x *= ARENA/d; pos.z *= ARENA/d; }
+}
+function update(dt){
+  const S = state;
+  S.t += dt;
+  const timeLeft = Math.max(0, TOTAL - S.t);
+  // waves
+  const waveTimes = [15, 45, 90, 135];
+  waveTimes.forEach((wt, i) => { if (S.wave === i && S.t >= wt) startWave(i+1); });
+  if (S.wave >= 1 && S.t < 165){ S.trickle += dt; if (S.trickle > (S.wave >= 3 ? 4 : 6)){ S.trickle = 0; spawn(Math.random() < .25 && S.wave >= 2 ? 'hoofed' : 'emptied'); } }
+  // the twist: the wind says your name
+  S.whisperT += dt; const interval = timeLeft <= 35 ? 10 : 30;
+  if (S.whisperT >= interval){ S.whisperT = 0; speakName(); }
+  if (S.huntT > 0) S.huntT -= dt;
+  // movement
+  let ix = 0, iz = 0;
+  if (keys.KeyW || keys.ArrowUp) iz -= 1; if (keys.KeyS || keys.ArrowDown) iz += 1;
+  if (keys.KeyA || keys.ArrowLeft) ix -= 1; if (keys.KeyD || keys.ArrowRight) ix += 1;
+  ix += stickVec.x; iz += stickVec.z;
+  const m = Math.hypot(ix, iz); if (m > 1){ ix/=m; iz/=m; }
+  const speed = S.charging ? 3.2 : 6.2;
+  S.vx = ix; S.vz = iz;
+  if (S.dodgeT > 0){ S.dodgeT -= dt; player.position.x += S.dodgeDir.x*28*dt; player.position.z += S.dodgeDir.z*28*dt; }
+  else { player.position.x += ix*speed*dt; player.position.z += iz*speed*dt; }
+  if (m > .1) player.rotation.y = Math.atan2(ix, iz);
+  collide(player.position, .5);
+  if (S.dodgeCd > 0) S.dodgeCd -= dt;
+  if (S.barkCd > 0) S.barkCd -= dt;
+  // charge
+  if (S.charging){ S.charge = Math.min(1, S.charge + dt/1.5); }
+  player.userData.glow.intensity = .6 + S.charge*3;
+  player.userData.mark.scale.setScalar(1 + S.charge*1.5);
+  // light regen near lamp
+  const nearLamp = player.position.distanceTo(lampGroup.position) < 6;
+  S.light = Math.min(100, S.light + (nearLamp ? 7 : .6)*dt);
+  // dog follows
+  tmp.set(player.position.x - Math.sin(player.rotation.y)*1.6 + 1, 0, player.position.z - Math.cos(player.rotation.y)*1.6);
+  const dd = dog.position.distanceTo(tmp);
+  if (dd > .3){ dog.position.lerp(tmp, Math.min(1, dt*3)); dog.lookAt(tmp.x, 0, tmp.z); dog.userData.legs.forEach((l,i) => l.rotation.x = Math.sin(S.t*14 + i*Math.PI)*.5); }
+  dog.userData.silver.material.color.setHex(S.barkCd > 5 ? 0xffffff : 0xb8c6ff);
+  // whirler
+  if (whirler){
+    whirler.mesh.position.addScaledVector(whirler.dir, 7*dt); whirler.mesh.rotation.y += dt*6;
+    const push = (obj, k) => { const dx = obj.position.x - whirler.mesh.position.x, dz = obj.position.z - whirler.mesh.position.z, d = Math.hypot(dx,dz); if (d < 4.5 && d > 0){ obj.position.x += dx/d*k*dt; obj.position.z += dz/d*k*dt; } };
+    push(player, 14); enemies.forEach(e => push(e.mesh, 14));
+    if (Math.abs(whirler.mesh.position.x) > ARENA+5){ scene.remove(whirler.mesh); whirler = null; }
+  }
+  // enemies
+  for (let i = enemies.length-1; i >= 0; i--){
+    const e = enemies[i], T = TYPES[e.type], p = e.mesh.position;
+    if (e.rise > 0){ e.rise -= dt; p.y = -2*Math.max(0,e.rise); continue; }
+    p.y = 0;
+    const huntPlayer = S.huntT > 0 || e.type === 'hoofed' && p.distanceTo(player.position) < 7;
+    const target = huntPlayer ? player.position : lampGroup.position;
+    const stopAt = e.type === 'hunger' && !huntPlayer ? 12 : (huntPlayer ? 1.1 : 1.6);
+    tmp.subVectors(target, p).setY(0); const dist = tmp.length();
+    if (dist > stopAt){ tmp.normalize(); p.addScaledVector(tmp, T.speed*(e.revealed>0?.8:1)*dt); e.mesh.rotation.y = Math.atan2(tmp.x, tmp.z); }
+    else if (!huntPlayer){ S.lamp -= T.drain*dt; }
+    else { S.light -= 9*dt; }
+    // separation
+    for (const o of enemies){ if (o === e || o.rise > 0) continue; const dx = p.x-o.mesh.position.x, dz = p.z-o.mesh.position.z, d = Math.hypot(dx,dz); if (d < 1 && d > 0){ p.x += dx/d*(1-d)*.5; p.z += dz/d*(1-d)*.5; } }
+    collide(p, .4);
+    // look
+    const mat = e.mesh.userData.mat;
+    if (e.type === 'hoofed'){
+      const near = p.distanceTo(player.position) < 5;
+      mat.opacity = e.revealed > 0 || near ? 1 : .08; e.mesh.userData.eyeMat.opacity = mat.opacity;
+      e.printT -= dt; if (e.printT <= 0){ e.printT = .35; const pr = new THREE.Mesh(new THREE.CircleGeometry(.12, 8), new THREE.MeshBasicMaterial({color:0x2a1c10, transparent:true, opacity:.8})); pr.rotation.x = -Math.PI/2; pr.position.set(p.x+(Math.random()-.5)*.3,.02,p.z); scene.add(pr); prints.push({mesh:pr, life:5}); }
+    }
+    if (e.revealed > 0){ e.revealed -= dt; mat.emissive = mat.emissive || new THREE.Color(); mat.emissive.setHex(0x6f84c8); } else if (mat.emissive) mat.emissive.setHex(0x000000);
+    if (e.hit > 0){ e.hit -= dt; mat.color.setHex(0xffe2a0); } else mat.color.setHex(T.color);
+    if (e.mesh.userData.smoke){ e.mesh.userData.smoke.scale.setScalar(1 + Math.sin(S.t*8+i)*.3); }
+    // the Worn throw pots
+    if (e.type === 'worn'){ e.throwT -= dt; if (e.throwT <= 0 && p.distanceTo(player.position) < 14){ e.throwT = 3; const pot = new THREE.Mesh(new THREE.SphereGeometry(.22,8,6), new THREE.MeshStandardMaterial({color:0x7a4a2a})); pot.position.copy(p).setY(1.4); scene.add(pot); const v = new THREE.Vector3().subVectors(player.position, p).setY(0).normalize().multiplyScalar(11); pots.push({mesh:pot, v, life:2}); } }
+    // the Smiling Hunger drains from afar
+    if (e.type === 'hunger' && !huntPlayer && dist <= 12.5){ S.lamp -= T.drain*dt; if (!e.beam){ e.beam = new THREE.Line(new THREE.BufferGeometry().setFromPoints([p.clone(), lampGroup.position.clone()]), new THREE.LineBasicMaterial({color:0x9b1c1c})); scene.add(e.beam); } e.beam.geometry.setFromPoints([new THREE.Vector3(p.x,2.6,p.z), new THREE.Vector3(0,1.4,0)]); }
+    else if (e.beam){ scene.remove(e.beam); e.beam = null; }
+    // death
+    if (e.hp <= 0){
+      S.kills++; S.score += T.pts; if (e.beam) scene.remove(e.beam);
+      const sink = e.mesh; effects.push({mesh:sink, life:.6, max:.6, sink:true});
+      enemies.splice(i,1);
+      if (e.type === 'hunger') flash('The Smiling Hunger sinks into the sand', '#ffd76a', 2200);
+    }
+  }
+  // pots
+  for (let i = pots.length-1; i >= 0; i--){ const pt = pots[i]; pt.life -= dt; pt.mesh.position.addScaledVector(pt.v, dt); pt.mesh.position.y = Math.max(.2, pt.mesh.position.y - dt*.6);
+    if (pt.mesh.position.distanceTo(player.position.clone().setY(1)) < .9 && S.dodgeT <= 0){ S.light -= 7; pt.life = 0; tone(140,.2,'square',.12,-60); }
+    if (pt.life <= 0){ scene.remove(pt.mesh); pots.splice(i,1); } }
+  for (let i = prints.length-1; i >= 0; i--){ const pr = prints[i]; pr.life -= dt; pr.mesh.material.opacity = Math.min(.8, pr.life/2); if (pr.life <= 0){ scene.remove(pr.mesh); prints.splice(i,1); } }
+  // effects
+  for (let i = effects.length-1; i >= 0; i--){
+    const f = effects[i]; f.life -= dt; const k = 1 - f.life/f.max;
+    if (f.sink){ f.mesh.position.y = -2.2*k; f.mesh.rotation.y += dt*4; }
+    else if (f.sphere){ f.mesh.scale.setScalar(1 + k*f.grow*.5); f.mesh.material.opacity = .6*(1-k); }
+    else { f.mesh.scale.setScalar(1 + k*f.grow); f.mesh.material.opacity = .9*(1-k); }
+    if (f.life <= 0){ scene.remove(f.mesh); effects.splice(i,1); }
+  }
+  // lamp flicker and health
+  S.lamp = Math.max(0, S.lamp);
+  lampLight.intensity = (.6 + 2.6*S.lamp/100) * (1 + Math.sin(S.t*23)*.05 + Math.sin(S.t*7)*.04);
+  flame.scale.set(1, .4 + .6*S.lamp/100 + Math.sin(S.t*20)*.05, 1);
+  // dawn
+  const k = Math.min(1, Math.max(0, (S.t - 140)/40));
+  scene.background.copy(nightSky).lerp(dawnSky, k*.85);
+  scene.fog.color.copy(scene.background);
+  moon.intensity = .55 + k*.9; moon.color.setHex(k > .5 ? 0xffc89a : 0x8fa8ff);
+  stars.material.opacity = 1 - k;
+  if (windGain) windGain.gain.value = .04 + (S.huntT > 0 ? .06 : 0);
+  // camera
+  camera.position.lerp(tmp.set(player.position.x, 17, player.position.z + 15), Math.min(1, dt*4));
+  camera.lookAt(player.position.x, 1, player.position.z - 1);
+  // HUD
+  const mm = Math.floor(timeLeft/60), ss = Math.floor(timeLeft%60);
+  $('dawn').textContent = `${mm}:${String(ss).padStart(2,'0')}`;
+  const next = waveTimes.find(w => w > S.t); $('nextWave').textContent = next ? Math.ceil(next - S.t) : '—';
+  $('eCount').textContent = enemies.length; $('wave').textContent = S.wave; $('score').textContent = S.score; $('names').textContent = S.names;
+  $('barkCd').textContent = S.barkCd > 0 ? Math.ceil(S.barkCd)+'s' : 'ready';
+  $('lightBar').querySelector('i').style.transform = `scaleX(${Math.max(0,S.light)/100})`;
+  $('lampBar').querySelector('i').style.transform = `scaleX(${S.lamp/100})`;
+  $('charge').style.opacity = S.charging ? .6 + S.charge*.4 : 0;
+  // end conditions
+  if (S.lamp <= 0) end(false, 'The last lamp died.', 'The dark walked into Hilat al-Sarab.');
+  else if (S.light <= 0) end(false, 'Your Light went out.', 'Ghareeb stood over you until morning.');
+  else if (S.t >= TOTAL) end(true);
+}
+function end(won, title, line){
+  state.running = false; state.charging = false;
+  $('endTitle').textContent = won ? 'Dawn' : title;
+  $('endLine').textContent = won ? 'They say it truly happened.' : line;
+  const bonus = won ? Math.round(state.lamp*5) : 0;
+  $('endStats').innerHTML = `Ones from below sent back: <b>${state.kills}</b><br>Lamp left: <b>${Math.round(state.lamp)}%</b><br>Times the wind said your name: <b>${state.names}</b><br>Score: <b>${state.score + bonus}</b>`;
+  $('endCard').hidden = false;
+  if (won){ tone(294,.6,'triangle',.12); setTimeout(()=>tone(392,.6,'triangle',.12),300); setTimeout(()=>tone(440,1.2,'triangle',.12),600); }
+  else tone(90, 1.5, 'sawtooth', .1, -50);
+}
+function frame(){
+  const dt = Math.min(.05, clock.getDelta());
+  if (state.running) update(dt);
+  else { lampLight.intensity = 3 + Math.sin(performance.now()/90)*.1; camera.position.set(Math.sin(performance.now()/9000)*24, 14, Math.cos(performance.now()/9000)*24); camera.lookAt(0,1,0); }
+  renderer.render(scene, camera);
+  requestAnimationFrame(frame);
+}
+function begin(){
+  if (!actx) initAudio(); else if (actx.state === 'suspended') actx.resume();
+  reset(); state.running = true;
+  $('titleCard').hidden = true; $('endCard').hidden = true;
+  flash('Keep the lamp alive until dawn', '#ffb347', 2400);
+}
+$('startBtn').addEventListener('click', begin);
+$('againBtn').addEventListener('click', begin);
+reset();
+frame();
+})();
+</script>
