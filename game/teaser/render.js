@@ -4,7 +4,7 @@ const {chromium} = require('playwright');
   const out = process.argv[2], contact = process.argv[3] || '';
   const b = await chromium.launch({args: ['--use-gl=swiftshader', '--enable-webgl', '--ignore-gpu-blocklist', '--allow-file-access-from-files']});
   const p = await b.newPage({viewport: {width: 1280, height: 720}});
-  await p.goto('file://' + __dirname + '/teaser.html' + (contact ? '?c=' + encodeURIComponent(contact) : ''));
+  await p.goto('file://' + __dirname + '/' + (process.env.PAGE || 'teaser.html') + (contact ? '?c=' + encodeURIComponent(contact) : ''));
   await p.waitForTimeout(800);
   for (let i = 0; i < 300; i++) {
     await p.evaluate(t => renderAt(t), i / 30);
