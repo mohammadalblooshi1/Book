@@ -7,7 +7,7 @@ const nav = [
   { href: "/industries", label: "Industries" },
   { href: "/#services", label: "Services" },
   { href: "/pricing", label: "Pricing" },
-  { href: "/contact", label: "Contact" },
+  { href: "/contact", label: "Contact us" },
 ];
 
 export function SiteHeader() {

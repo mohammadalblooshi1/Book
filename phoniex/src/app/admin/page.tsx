@@ -18,7 +18,7 @@ export default async function AdminPage() {
     <main className="container-page space-y-8 py-10">
       <div className="flex items-center justify-between">
         <h1 className="text-2xl font-bold">Platform admin</h1>
-        <Link href="/app" className="btn-secondary">Back to workspace</Link>
+        <div className="flex flex-wrap gap-2"><Link href="/admin/partners" className="btn-primary">Partnership requests</Link><Link href="/app" className="btn-secondary">Back to workspace</Link></div>
       </div>
       <div className="grid gap-4 sm:grid-cols-3">
         <div className="card"><p className="text-sm text-muted">Organizations</p><p className="text-3xl font-bold">{orgs.length}</p></div>

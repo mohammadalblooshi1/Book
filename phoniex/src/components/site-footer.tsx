@@ -23,7 +23,7 @@ export function SiteFooter() {
           <ul className="space-y-1 text-sm text-muted">
             <li><Link href="/industries" className="hover:text-fg">Industries</Link></li>
             <li><Link href="/pricing" className="hover:text-fg">Pricing</Link></li>
-            <li><Link href="/contact" className="hover:text-fg">Contact</Link></li>
+            <li><Link href="/contact" className="hover:text-fg">Contact us</Link></li>
           </ul>
         </div>
         <div>

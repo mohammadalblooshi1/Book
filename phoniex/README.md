@@ -68,6 +68,20 @@ admin page. To send them for real through [Resend](https://resend.com), set `RES
 enough) and `EMAIL_FROM` using a domain you verified in Resend. Each email's status (sent / failed and why) shows
 in the admin outbox.
 
+## Partnership appointment agent (Contact us)
+
+1. A partner sends the **Contact us** form (name + email).
+2. They get an email: reply **YES** / **NO**, or tap the YES / NO buttons.
+3. YES → booking email with your Calendly link (name and email prefilled). NO → thank-you email.
+   No answer → one follow-up after 1 day; after 3 more days the request is marked "no response".
+4. When Calendly reports the booking (webhook), a thank-you letter is sent after the meeting ends — or click
+   **Meeting done** on **Admin → Partnership requests**.
+
+Settings (see `.env.example`): `CALENDLY_URL`, `CRON_SECRET` (daily job in `vercel.json`; Vercel Hobby runs it once a
+day, Pro can run hourly), and optionally `PARTNER_REPLY_TO` + `INBOUND_EMAIL_SECRET` for email replies
+(`POST /api/inbound/email`) and `CALENDLY_WEBHOOK_SIGNING_KEY` (`POST /api/webhooks/calendly`).
+The YES / NO buttons ask for one more click, so email security scanners that open links can't answer for the partner.
+
 ## Where data lives
 
 Everything is in `data/` (ignored by git): the database `data/phoniex.db` and uploaded images in `data/uploads/`. Delete that file to start fresh.

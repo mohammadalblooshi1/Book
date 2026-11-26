@@ -203,6 +203,38 @@ create table if not exists renovation_boards (
 create index if not exists renovation_boards_org_idx on renovation_boards(org_id, created_at);
 create index if not exists renovation_boards_listing_idx on renovation_boards(listing_id);
 
+-- Partnership appointment agent
+create table if not exists partner_leads (
+  id text primary key,
+  name text not null,
+  email text not null collate nocase,
+  company text not null default '',
+  message text not null default '',
+  token text not null unique,
+  status text not null default 'awaiting_reply'
+    check (status in ('awaiting_reply','interested','declined','booked','completed','no_response')),
+  confirm_sent_at text,
+  followup_sent_at text,
+  replied_at text,
+  reply_text text,
+  meeting_start text,
+  meeting_end text,
+  thanks_sent_at text,
+  created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now')),
+  updated_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+);
+create index if not exists partner_leads_email_idx on partner_leads(email);
+create index if not exists partner_leads_status_idx on partner_leads(status);
+
+create table if not exists partner_events (
+  id integer primary key autoincrement,
+  lead_id text not null references partner_leads(id) on delete cascade,
+  type text not null,
+  detail text not null default '',
+  created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+);
+create index if not exists partner_events_lead_idx on partner_events(lead_id, id);
+
 -- Emails are stored here instead of being sent (no email provider connected yet).
 create table if not exists outbox (
   id text primary key,
