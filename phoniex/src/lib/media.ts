@@ -40,7 +40,15 @@ export async function storeBytes(bytes: Uint8Array) {
   return { ok: true as const, file: name, mime: type.mime };
 }
 
-const SAFE_NAME = /^[0-9a-f-]{36}\.(jpg|png|webp)$/;
+const SAFE_NAME = /^[0-9a-f-]{36}\.(jpg|png|webp|glb|obj)$/;
+
+/** Stores an already-validated 3D model file. */
+export async function storeModelBytes(bytes: Uint8Array, format: "glb" | "obj") {
+  const name = `${newId()}.${format}`;
+  await mkdir(uploadsDir(), { recursive: true });
+  await writeFile(path.join(/* turbopackIgnore: true */ uploadsDir(), name), bytes);
+  return name;
+}
 
 export async function readImage(name: string) {
   if (!SAFE_NAME.test(name)) return null;

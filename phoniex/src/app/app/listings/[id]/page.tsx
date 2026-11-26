@@ -10,6 +10,8 @@ import { ListingForm } from "@/components/listing-form";
 import { MediaUploader } from "@/components/media-uploader";
 import { FloorPlanEditor } from "@/components/floor-plan-editor";
 import { LocationPicker } from "@/components/map";
+import { Listing3D } from "@/components/listing-3d";
+import { ModelUploader } from "@/components/model-uploader";
 import { startingPoint, type NearbyPlace } from "@/lib/places";
 
 export const metadata: Metadata = { title: "Edit listing" };
@@ -62,6 +64,7 @@ export default async function ListingEditorPage(props: PageProps<"/app/listings/
     { done: panos.length > 0, label: "360° virtual tour (optional)" },
     { done: plan.rooms.length > 0, label: "Floor plan diagram (optional)" },
     { done: listing.lat !== null, label: "Location on the map (recommended)" },
+    { done: Boolean(listing.model_file) || plan.rooms.length > 0, label: "3D view (from a design model or the floor plan)" },
   ];
 
   return (
@@ -171,6 +174,23 @@ export default async function ListingEditorPage(props: PageProps<"/app/listings/
           </ul>
         ) : null}
         {editable && panos.length < MAX_PANOS ? <MediaUploader listingId={id} kind="pano" /> : null}
+      </section>
+
+      <section id="model3d" className="card space-y-3">
+        <div>
+          <h2 className="font-semibold">3D view</h2>
+          <p className="text-sm text-muted">
+            Upload your property&apos;s 3D design — exported as <strong>.glb</strong> from SketchUp, Revit, Blender, Archicad or a 3D-scan app
+            (Polycam, Scaniverse) — and buyers can rotate and explore it, including on VR headsets.
+            {listing.model_file ? "" : plan.rooms.length ? " Until then, buyers see a 3D model built from your floor plan." : " No model? Draw your floor plan above and a 3D view is built from it automatically."}
+          </p>
+        </div>
+        {editable ? <ModelUploader listingId={id} hasModel={Boolean(listing.model_file)} /> : null}
+        <Listing3D
+          title={listing.title}
+          plan={plan.rooms.length ? plan : null}
+          model={listing.model_file && listing.model_format ? { src: `/model/${id}?v=${listing.model_file.slice(0, 8)}`, format: listing.model_format } : null}
+        />
       </section>
 
       <section id="location" className="card space-y-3">

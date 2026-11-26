@@ -143,6 +143,8 @@ create table if not exists listings (
   location_precision text not null default 'approximate' check (location_precision in ('exact','approximate')),
   nearby text not null default '',
   nearby_at text,
+  model_file text,
+  model_format text,
   published_at text,
   created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now')),
   updated_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
@@ -233,6 +235,9 @@ function migrate(conn: DatabaseSync) {
   if (cols.some((c) => c.name === "is_sample")) removeLegacySamples(conn);
   if (!cols.some((c) => c.name === "agent_notes")) {
     conn.exec("alter table listings add column agent_notes text not null default ''");
+  }
+  if (!cols.some((c) => c.name === "model_file")) {
+    conn.exec("alter table listings add column model_file text; alter table listings add column model_format text;");
   }
   if (!cols.some((c) => c.name === "lat")) {
     conn.exec(`alter table listings add column lat real;

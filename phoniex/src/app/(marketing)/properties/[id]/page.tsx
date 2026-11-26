@@ -10,6 +10,7 @@ import { EnquiryForm } from "@/components/enquiry-form";
 import { PropertyTour } from "@/components/property-tour";
 import { ListingRenovations } from "@/components/listing-renovations";
 import { PropertyMap } from "@/components/map";
+import { Listing3D } from "@/components/listing-3d";
 import { NearbyList } from "@/components/nearby-list";
 import { distanceM, googleMapsLinks, publicPoint, type NearbyPlace } from "@/lib/places";
 import { publicBoardsForListing, parseItems } from "@/lib/renovations";
@@ -133,6 +134,19 @@ export default async function PropertyPage(props: PageProps<"/properties/[id]">)
             </section>
           ) : null}
           <PropertyTour panoramas={panos} plan={plan} />
+          {l.model_file || plan.rooms.length ? (
+            <section aria-labelledby="model-heading" className="space-y-3">
+              <div>
+                <h2 id="model-heading" className="text-xl font-semibold">3D view</h2>
+                <p className="text-sm text-muted">Rotate and zoom to explore the layout{l.model_file ? " — the owner's design model" : ""}.</p>
+              </div>
+              <Listing3D
+                title={l.title}
+                plan={plan.rooms.length ? plan : null}
+                model={l.model_file && l.model_format ? { src: `/model/${l.id}?v=${l.model_file.slice(0, 8)}`, format: l.model_format } : null}
+              />
+            </section>
+          ) : null}
           {point && links ? (
             <section aria-labelledby="area-heading" className="space-y-4">
               <div className="flex flex-wrap items-end justify-between gap-2">

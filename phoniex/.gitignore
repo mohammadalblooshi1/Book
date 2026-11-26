@@ -44,5 +44,6 @@ next-env.d.ts
 # local database
 /data
 
-# copied from node_modules by scripts/copy-map-worker.mjs
+# copied from node_modules by scripts/copy-vendor-assets.mjs
 /public/maplibre
+/public/draco

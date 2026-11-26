@@ -9,9 +9,9 @@
     "lint": "eslint",
     "test": "DATABASE_PATH=:memory: UPLOADS_DIR=${TMPDIR:-/tmp}/phoniex-test-uploads tsx --conditions=react-server --test tests/*.test.ts",
     "make-admin": "tsx --conditions=react-server scripts/make-admin.ts",
-    "postinstall": "node scripts/copy-map-worker.mjs",
-    "prebuild": "node scripts/copy-map-worker.mjs",
-    "predev": "node scripts/copy-map-worker.mjs"
+    "postinstall": "node scripts/copy-vendor-assets.mjs",
+    "prebuild": "node scripts/copy-vendor-assets.mjs",
+    "predev": "node scripts/copy-vendor-assets.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^1.14.0",

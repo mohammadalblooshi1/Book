@@ -35,6 +35,8 @@ export type Listing = {
   location_precision: "exact" | "approximate";
   nearby: string;
   nearby_at: string | null;
+  model_file: string | null;
+  model_format: "glb" | "obj" | null;
   published_at: string | null;
   created_at: string;
   updated_at: string;
@@ -135,6 +137,7 @@ export function deleteListing(userId: string, listingId: string) {
   const l = ownListing(userId, listingId, true);
   if (!l) return null;
   const files = listMedia(listingId).map((m) => m.file);
+  if (l.model_file) files.push(l.model_file);
   db().prepare("delete from listings where id = ?").run(listingId);
   audit(l.org_id, userId, "listing.deleted", { listing_id: listingId });
   return files;
@@ -156,6 +159,25 @@ export function setLocation(userId: string, listingId: string, lat: number, lng:
 /** Stores the nearby-places lookup (server-side only, after setLocation). */
 export function saveNearby(listingId: string, json: string) {
   db().prepare("update listings set nearby = ?, nearby_at = ? where id = ?").run(json, nowIso(), listingId);
+}
+
+/** Sets or clears the listing's 3D model; returns the previous file for deletion. */
+export function setModel(userId: string, listingId: string, file: string | null, format: "glb" | "obj" | null) {
+  const l = ownListing(userId, listingId, true);
+  if (!l) return undefined;
+  db().prepare("update listings set model_file = ?, model_format = ?, updated_at = ? where id = ?").run(file, format, nowIso(), listingId);
+  return l.model_file;
+}
+
+/** Model access: anyone for public listings; workspace members for drafts. */
+export function getModelForViewer(listingId: string, userId: string | null) {
+  const l = db().prepare("select org_id, status, model_file, model_format from listings where id = ?").get(listingId) as
+    | { org_id: string; status: string; model_file: string | null; model_format: "glb" | "obj" | null }
+    | undefined;
+  if (!l?.model_file || !l.model_format) return null;
+  const isPublic = l.status === "published" || l.status === "sold";
+  if (isPublic || (userId && roleOf(userId, l.org_id))) return { file: l.model_file, format: l.model_format, isPublic };
+  return null;
 }
 
 export function setAgentNotes(userId: string, listingId: string, notes: string) {
