@@ -30,6 +30,11 @@ export type Listing = {
   floor_plan: string;
   status: (typeof LISTING_STATUSES)[number];
   agent_notes: string;
+  lat: number | null;
+  lng: number | null;
+  location_precision: "exact" | "approximate";
+  nearby: string;
+  nearby_at: string | null;
   published_at: string | null;
   created_at: string;
   updated_at: string;
@@ -141,6 +146,18 @@ export function listMedia(listingId: string) {
     .all(listingId) as Media[];
 }
 
+export function setLocation(userId: string, listingId: string, lat: number, lng: number, precision: "exact" | "approximate") {
+  const l = ownListing(userId, listingId, true);
+  if (!l) return false;
+  db().prepare("update listings set lat = ?, lng = ?, location_precision = ?, updated_at = ? where id = ?").run(lat, lng, precision, nowIso(), listingId);
+  return true;
+}
+
+/** Stores the nearby-places lookup (server-side only, after setLocation). */
+export function saveNearby(listingId: string, json: string) {
+  db().prepare("update listings set nearby = ?, nearby_at = ? where id = ?").run(json, nowIso(), listingId);
+}
+
 export function setAgentNotes(userId: string, listingId: string, notes: string) {
   const l = ownListing(userId, listingId, true);
   if (!l) return false;
@@ -204,13 +221,13 @@ export function searchPublicListings(f: SearchFilters) {
   return db()
     .prepare(
       `select l.id, l.title, l.purpose, l.property_type, l.emirate, l.community, l.price_aed, l.bedrooms, l.bathrooms,
-              l.size_sqft, l.status,
+              l.size_sqft, l.status, l.lat, l.lng, l.location_precision,
               (select id from listing_media m where m.listing_id = l.id and m.kind = 'photo' order by m.sort limit 1) as cover_id,
               (select count(*) from listing_media m where m.listing_id = l.id and m.kind = 'pano') as pano_count
          from listings l where ${where.join(" and ")}
         order by l.status = 'sold', l.published_at desc limit 60`,
     )
-    .all(...args) as (Pick<Listing, "id" | "title" | "purpose" | "property_type" | "emirate" | "community" | "price_aed" | "bedrooms" | "bathrooms" | "size_sqft" | "status"> & {
+    .all(...args) as (Pick<Listing, "id" | "title" | "purpose" | "property_type" | "emirate" | "community" | "price_aed" | "bedrooms" | "bathrooms" | "size_sqft" | "status" | "lat" | "lng" | "location_precision"> & {
     cover_id: string | null; pano_count: number;
   })[];
 }

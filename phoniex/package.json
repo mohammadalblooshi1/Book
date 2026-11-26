@@ -8,10 +8,14 @@
     "start": "next start",
     "lint": "eslint",
     "test": "DATABASE_PATH=:memory: UPLOADS_DIR=${TMPDIR:-/tmp}/phoniex-test-uploads tsx --conditions=react-server --test tests/*.test.ts",
-    "make-admin": "tsx --conditions=react-server scripts/make-admin.ts"
+    "make-admin": "tsx --conditions=react-server scripts/make-admin.ts",
+    "postinstall": "node scripts/copy-map-worker.mjs",
+    "prebuild": "node scripts/copy-map-worker.mjs",
+    "predev": "node scripts/copy-map-worker.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^1.14.0",
+    "maplibre-gl": "^6.19.0",
     "next": "16.4.6",
     "react": "19.3.0",
     "react-dom": "19.3.0",

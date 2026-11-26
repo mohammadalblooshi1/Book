@@ -9,6 +9,8 @@ import { FloorPlan } from "@/lib/floor-plan";
 import { deleteImage } from "@/lib/media";
 import { draftListing } from "@/lib/listing-agent";
 import { buildPlan, planKindFor } from "@/lib/plan-generator";
+import { inUae } from "@/lib/places";
+import { fetchNearby } from "@/lib/nearby";
 import { sendEmail } from "@/lib/email";
 import type { FormState } from "@/lib/actions/public";
 
@@ -182,4 +184,30 @@ export async function dismissAgentNotesAction(formData: FormData) {
   const id = String(formData.get("id") ?? "");
   L.setAgentNotes(user.id, id, "");
   redirect(`/app/listings/${id}`);
+}
+
+const Location = z.object({
+  lat: z.number().finite(),
+  lng: z.number().finite(),
+  precision: z.enum(["exact", "approximate"]),
+});
+
+/** Saves the map pin and looks up what's nearby (schools, metro, mosques…). */
+export async function saveLocationAction(listingId: string, data: unknown): Promise<FormState> {
+  const { user } = await requireWorkspace();
+  const parsed = Location.safeParse(data);
+  if (!parsed.success) return { ok: false, message: "Invalid location." };
+  const { lat, lng, precision } = parsed.data;
+  if (!inUae(lat, lng)) return { ok: false, message: "Please place the pin inside the UAE." };
+  try {
+    if (!L.setLocation(user.id, listingId, lat, lng, precision)) return { ok: false, message: "Listing not found." };
+  } catch {
+    return { ok: false, message: "You don't have permission to edit this listing." };
+  }
+  const nearby = await fetchNearby(lat, lng);
+  if (nearby) L.saveNearby(listingId, JSON.stringify(nearby));
+  revalidatePath(`/app/listings/${listingId}`);
+  revalidatePath(`/properties/${listingId}`);
+  if (!nearby) return { ok: true, message: "Location saved. Nearby places could not be loaded right now — save again later to retry." };
+  return { ok: true, message: `Location saved · ${nearby.length} nearby places found.` };
 }

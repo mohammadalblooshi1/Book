@@ -138,6 +138,11 @@ create table if not exists listings (
   floor_plan text not null default '{"width":20,"height":14,"rooms":[]}',
   status text not null default 'draft' check (status in ('draft','published','sold','archived')),
   agent_notes text not null default '',
+  lat real,
+  lng real,
+  location_precision text not null default 'approximate' check (location_precision in ('exact','approximate')),
+  nearby text not null default '',
+  nearby_at text,
   published_at text,
   created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now')),
   updated_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
@@ -228,6 +233,13 @@ function migrate(conn: DatabaseSync) {
   if (cols.some((c) => c.name === "is_sample")) removeLegacySamples(conn);
   if (!cols.some((c) => c.name === "agent_notes")) {
     conn.exec("alter table listings add column agent_notes text not null default ''");
+  }
+  if (!cols.some((c) => c.name === "lat")) {
+    conn.exec(`alter table listings add column lat real;
+      alter table listings add column lng real;
+      alter table listings add column location_precision text not null default 'approximate';
+      alter table listings add column nearby text not null default '';
+      alter table listings add column nearby_at text;`);
   }
   const mediaCols = conn.prepare("pragma table_info(listing_media)").all() as { name: string }[];
   if (mediaCols.some((c) => c.name === "is_illustration")) removeLegacyIllustrations(conn);

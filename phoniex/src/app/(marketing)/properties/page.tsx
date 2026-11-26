@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { EMIRATES, PROPERTY_TYPES, searchPublicListings } from "@/lib/listings";
 import { aed } from "@/lib/format";
+import { PropertiesMap } from "@/components/map";
+import { publicPoint } from "@/lib/places";
 
 export const metadata: Metadata = {
   title: "Properties",
@@ -22,6 +24,19 @@ export default async function PropertiesPage(props: PageProps<"/properties">) {
     minPrice: num(sp.min), maxPrice: num(sp.max), beds: num(sp.beds),
   };
   const results = searchPublicListings(filters);
+  const mapView = sp.view === "map";
+  const pins = results.flatMap((l) =>
+    l.lat !== null && l.lng !== null
+      ? [{ id: l.id, ...publicPoint(l.lat, l.lng, l.location_precision), title: l.title, price: `${aed(l.price_aed)}${l.purpose === "rent" ? " / year" : ""}` }]
+      : [],
+  );
+  const qs = (view: string) => {
+    const p = new URLSearchParams();
+    for (const [k, v] of Object.entries({ q: filters.q, purpose: filters.purpose, emirate: filters.emirate, type: filters.type, beds: filters.beds, max: filters.maxPrice })) if (v) p.set(k, String(v));
+    if (view === "map") p.set("view", "map");
+    const s = p.toString();
+    return s ? `?${s}` : "";
+  };
 
   return (
     <div className="container-page py-12">
@@ -58,8 +73,20 @@ export default async function PropertiesPage(props: PageProps<"/properties">) {
         </div>
       </form>
 
-      <p className="mt-6 text-sm text-muted">{results.length} propert{results.length === 1 ? "y" : "ies"}</p>
-      {results.length === 0 ? (
+      <div className="mt-6 flex flex-wrap items-center justify-between gap-2">
+        <p className="text-sm text-muted">{results.length} propert{results.length === 1 ? "y" : "ies"}</p>
+        <div className="inline-flex rounded-lg border border-border bg-surface p-0.5 text-sm">
+          <Link href={`/properties${qs("list")}`} className={`rounded-md px-3 py-1 font-medium ${!mapView ? "bg-accent text-accent-fg" : "text-muted"}`}>List</Link>
+          <Link href={`/properties${qs("map")}`} className={`rounded-md px-3 py-1 font-medium ${mapView ? "bg-accent text-accent-fg" : "text-muted"}`}>Map</Link>
+        </div>
+      </div>
+      {mapView && results.length ? (
+        <div className="mt-4 space-y-2">
+          <PropertiesMap pins={pins} />
+          {pins.length < results.length ? <p className="text-xs text-muted">{results.length - pins.length} listing(s) have no map location yet.</p> : null}
+        </div>
+      ) : null}
+      {mapView && results.length ? null : results.length === 0 ? (
         <div className="card mt-4 text-center">
           <p className="text-muted">No properties listed yet{Object.values(filters).some(Boolean) ? " that match your search" : ""}.</p>
           <p className="mt-1 text-sm text-muted">Own a property? List it yourself in minutes — no agent needed.</p>

@@ -9,6 +9,9 @@ import { aed } from "@/lib/format";
 import { EnquiryForm } from "@/components/enquiry-form";
 import { PropertyTour } from "@/components/property-tour";
 import { ListingRenovations } from "@/components/listing-renovations";
+import { PropertyMap } from "@/components/map";
+import { NearbyList } from "@/components/nearby-list";
+import { distanceM, googleMapsLinks, publicPoint, type NearbyPlace } from "@/lib/places";
 import { publicBoardsForListing, parseItems } from "@/lib/renovations";
 
 export const dynamic = "force-dynamic";
@@ -46,6 +49,16 @@ export default async function PropertyPage(props: PageProps<"/properties/[id]">)
   const rawPlan = parsePlan(l.floor_plan);
   const plan = { ...rawPlan, rooms: rawPlan.rooms.map((r) => (r.panoId && !panoIds.has(r.panoId) ? { ...r, panoId: null } : r)) };
   const closed = l.status === "sold";
+  const point = l.lat !== null && l.lng !== null ? publicPoint(l.lat, l.lng, l.location_precision) : null;
+  let nearby: NearbyPlace[] = [];
+  try {
+    nearby = l.nearby ? (JSON.parse(l.nearby) as NearbyPlace[]) : [];
+  } catch {}
+  if (point && l.location_precision === "approximate") {
+    // measure from the public point and round, so distances can't reveal the exact address
+    nearby = nearby.map((p) => ({ ...p, distance: Math.max(100, Math.round(distanceM(point.lat, point.lng, p.lat, p.lng) / 100) * 100) }));
+  }
+  const links = point ? googleMapsLinks(point.lat, point.lng) : null;
   const renovations = preview ? [] : publicBoardsForListing(l.id).map((b) => ({
     id: b.id, title: b.title, room_type: b.room_type, style: b.style, tier: b.tier, summary: b.summary,
     has_after: Boolean(b.after_file), items: parseItems(b.items),
@@ -120,6 +133,34 @@ export default async function PropertyPage(props: PageProps<"/properties/[id]">)
             </section>
           ) : null}
           <PropertyTour panoramas={panos} plan={plan} />
+          {point && links ? (
+            <section aria-labelledby="area-heading" className="space-y-4">
+              <div className="flex flex-wrap items-end justify-between gap-2">
+                <div>
+                  <h2 id="area-heading" className="text-xl font-semibold">Location &amp; surroundings</h2>
+                  <p className="text-sm text-muted">Explore the area on the map, from the satellite or in 3D.</p>
+                </div>
+                <div className="flex flex-wrap gap-2">
+                  {l.location_precision === "exact" ? (
+                    <>
+                      <a href={links.streetView} target="_blank" rel="noopener noreferrer" className="btn-secondary">Street View</a>
+                      <a href={links.directions} target="_blank" rel="noopener noreferrer" className="btn-secondary">Directions</a>
+                    </>
+                  ) : (
+                    <a href={links.open} target="_blank" rel="noopener noreferrer" className="btn-secondary">Open area in Google Maps</a>
+                  )}
+                </div>
+              </div>
+              <PropertyMap lat={point.lat} lng={point.lng} precision={l.location_precision} nearby={nearby} title={l.title} />
+              {nearby.length ? (
+                <div>
+                  <h3 className="mb-2 font-semibold">What&apos;s nearby</h3>
+                  <NearbyList places={nearby} />
+                  <p className="mt-2 text-xs text-muted">Places and distances from OpenStreetMap; straight-line distances, travel times are rough.</p>
+                </div>
+              ) : null}
+            </section>
+          ) : null}
           <ListingRenovations boards={renovations} />
         </div>
 

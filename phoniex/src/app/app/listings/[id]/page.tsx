@@ -9,6 +9,8 @@ import { deleteListingAction, deleteMediaAction, dismissAgentNotesAction, setLis
 import { ListingForm } from "@/components/listing-form";
 import { MediaUploader } from "@/components/media-uploader";
 import { FloorPlanEditor } from "@/components/floor-plan-editor";
+import { LocationPicker } from "@/components/map";
+import { startingPoint, type NearbyPlace } from "@/lib/places";
 
 export const metadata: Metadata = { title: "Edit listing" };
 
@@ -43,6 +45,10 @@ export default async function ListingEditorPage(props: PageProps<"/app/listings/
   const panoIdSet = new Set(panos.map((p) => p.id));
   const rawPlan = parsePlan(listing.floor_plan);
   const plan = { ...rawPlan, rooms: rawPlan.rooms.map((r) => (r.panoId && !panoIdSet.has(r.panoId) ? { ...r, panoId: null } : r)) };
+  let nearbyCount = 0;
+  try {
+    nearbyCount = listing.nearby ? (JSON.parse(listing.nearby) as NearbyPlace[]).length : 0;
+  } catch {}
   let agentNotes: string[] = [];
   try {
     agentNotes = listing.agent_notes ? (JSON.parse(listing.agent_notes) as string[]) : [];
@@ -55,6 +61,7 @@ export default async function ListingEditorPage(props: PageProps<"/app/listings/
     { done: photos.length > 0, label: "At least one photo (required to publish)" },
     { done: panos.length > 0, label: "360° virtual tour (optional)" },
     { done: plan.rooms.length > 0, label: "Floor plan diagram (optional)" },
+    { done: listing.lat !== null, label: "Location on the map (recommended)" },
   ];
 
   return (
@@ -164,6 +171,23 @@ export default async function ListingEditorPage(props: PageProps<"/app/listings/
           </ul>
         ) : null}
         {editable && panos.length < MAX_PANOS ? <MediaUploader listingId={id} kind="pano" /> : null}
+      </section>
+
+      <section id="location" className="card space-y-3">
+        <div>
+          <h2 className="font-semibold">Location on the map</h2>
+          <p className="text-sm text-muted">
+            Place your property on the map. Buyers get a map, satellite and 3D view of the area, Street View, and what&apos;s nearby —
+            schools, metro, mosques, supermarkets, parks and beaches.
+            {listing.nearby_at ? ` ${nearbyCount} nearby places found.` : ""}
+          </p>
+        </div>
+        <LocationPicker
+          listingId={id}
+          editable={editable}
+          start={startingPoint(listing.emirate, listing.community)}
+          initial={listing.lat !== null && listing.lng !== null ? { lat: listing.lat, lng: listing.lng, precision: listing.location_precision } : null}
+        />
       </section>
 
       <section className="card flex flex-wrap items-center justify-between gap-3">
