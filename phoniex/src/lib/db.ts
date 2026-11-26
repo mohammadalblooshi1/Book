@@ -170,6 +170,32 @@ create table if not exists listing_enquiries (
 );
 create index if not exists listing_enquiries_listing_idx on listing_enquiries(listing_id, created_at);
 
+-- Renovation concept boards (before / after ideas with cost estimates)
+create table if not exists renovation_boards (
+  id text primary key,
+  org_id text not null references organizations(id) on delete cascade,
+  listing_id text references listings(id) on delete set null,
+  created_by text references users(id) on delete set null,
+  title text not null,
+  area text not null check (area in ('inside','outside')),
+  room_type text not null,
+  room_size_sqm integer not null default 20,
+  style text not null,
+  tier text not null default 'mid' check (tier in ('budget','mid','premium')),
+  photo_file text not null,
+  photo_mime text not null,
+  after_file text,
+  after_mime text,
+  items text not null default '[]',
+  summary text not null default '',
+  suggested_by text not null default 'rules' check (suggested_by in ('ai','rules')),
+  show_on_listing integer not null default 0,
+  created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now')),
+  updated_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+);
+create index if not exists renovation_boards_org_idx on renovation_boards(org_id, created_at);
+create index if not exists renovation_boards_listing_idx on renovation_boards(listing_id);
+
 -- Emails are stored here instead of being sent (no email provider connected yet).
 create table if not exists outbox (
   id text primary key,

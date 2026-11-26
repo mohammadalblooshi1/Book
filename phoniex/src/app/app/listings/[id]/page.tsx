@@ -166,6 +166,14 @@ export default async function ListingEditorPage(props: PageProps<"/app/listings/
         {editable && panos.length < MAX_PANOS ? <MediaUploader listingId={id} kind="pano" /> : null}
       </section>
 
+      <section className="card flex flex-wrap items-center justify-between gap-3">
+        <div>
+          <h2 className="font-semibold">Renovation ideas</h2>
+          <p className="text-sm text-muted">Show buyers what an older room or garden could become — a before / after concept with costs.</p>
+        </div>
+        <Link href={`/app/renovations?listing=${id}`} className="btn-secondary">Create a renovation concept</Link>
+      </section>
+
       <section className="card space-y-4">
         <h2 className="font-semibold">Floor plan diagram</h2>
         <p className="text-sm text-muted">Draw your rooms on the grid. Link a room to a 360° photo so buyers can click it on the plan.</p>

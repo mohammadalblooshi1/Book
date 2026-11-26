@@ -8,6 +8,8 @@ import { parsePlan } from "@/lib/floor-plan";
 import { aed } from "@/lib/format";
 import { EnquiryForm } from "@/components/enquiry-form";
 import { PropertyTour } from "@/components/property-tour";
+import { ListingRenovations } from "@/components/listing-renovations";
+import { publicBoardsForListing, parseItems } from "@/lib/renovations";
 
 export const dynamic = "force-dynamic";
 
@@ -44,6 +46,10 @@ export default async function PropertyPage(props: PageProps<"/properties/[id]">)
   const rawPlan = parsePlan(l.floor_plan);
   const plan = { ...rawPlan, rooms: rawPlan.rooms.map((r) => (r.panoId && !panoIds.has(r.panoId) ? { ...r, panoId: null } : r)) };
   const closed = l.status === "sold";
+  const renovations = preview ? [] : publicBoardsForListing(l.id).map((b) => ({
+    id: b.id, title: b.title, room_type: b.room_type, style: b.style, tier: b.tier, summary: b.summary,
+    has_after: Boolean(b.after_file), items: parseItems(b.items),
+  }));
 
   const facts = [
     ["Type", l.property_type],
@@ -114,6 +120,7 @@ export default async function PropertyPage(props: PageProps<"/properties/[id]">)
             </section>
           ) : null}
           <PropertyTour panoramas={panos} plan={plan} />
+          <ListingRenovations boards={renovations} />
         </div>
 
         <aside className="space-y-4">

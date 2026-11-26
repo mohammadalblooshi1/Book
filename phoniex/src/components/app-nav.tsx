@@ -7,6 +7,7 @@ const items = [
   { href: "/app", label: "Command Center" },
   { href: "/app/agents", label: "Agents" },
   { href: "/app/listings", label: "Listings" },
+  { href: "/app/renovations", label: "Renovation ideas" },
   { href: "/app/projects", label: "Projects" },
   { href: "/app/settings", label: "Workspace" },
 ];
