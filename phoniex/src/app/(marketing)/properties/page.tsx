@@ -73,6 +73,7 @@ export default async function PropertiesPage(props: PageProps<"/properties">) {
                 <div className="absolute left-2 top-2 flex gap-1">
                   <span className="rounded bg-black/65 px-2 py-0.5 text-xs font-medium text-white">For {l.purpose === "rent" ? "rent" : "sale"}</span>
                   {l.pano_count > 0 ? <span className="rounded bg-accent px-2 py-0.5 text-xs font-semibold text-accent-fg">360° tour</span> : null}
+                  {l.is_sample ? <span className="rounded bg-white/90 px-2 py-0.5 text-xs font-semibold text-navy">Sample</span> : null}
                   {l.status === "sold" ? <span className="rounded bg-danger px-2 py-0.5 text-xs font-semibold text-white">{l.purpose === "rent" ? "Rented" : "Sold"}</span> : null}
                 </div>
               </div>

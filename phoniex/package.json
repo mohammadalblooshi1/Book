@@ -7,8 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "test": "DATABASE_PATH=:memory: tsx --conditions=react-server --test tests/*.test.ts",
-    "make-admin": "tsx --conditions=react-server scripts/make-admin.ts"
+    "test": "DATABASE_PATH=:memory: UPLOADS_DIR=${TMPDIR:-/tmp}/phoniex-test-uploads tsx --conditions=react-server --test tests/*.test.ts",
+    "make-admin": "tsx --conditions=react-server scripts/make-admin.ts",
+    "samples": "tsx --conditions=react-server scripts/seed-samples.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^1.14.0",

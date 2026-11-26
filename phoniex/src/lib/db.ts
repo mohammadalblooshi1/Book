@@ -137,6 +137,7 @@ create table if not exists listings (
   contact_phone text not null default '',
   floor_plan text not null default '{"width":20,"height":14,"rooms":[]}',
   status text not null default 'draft' check (status in ('draft','published','sold','archived')),
+  is_sample integer not null default 0,
   published_at text,
   created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now')),
   updated_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
@@ -189,9 +190,18 @@ export function db(): DatabaseSync {
   const conn = new DatabaseSync(file);
   if (file !== ":memory:") conn.exec("pragma journal_mode = wal;");
   conn.exec(SCHEMA);
+  migrate(conn);
   plainRows(conn);
   globalForDb.__phoniexDb = conn;
   return conn;
+}
+
+/** Small additive migrations for databases created by earlier versions. */
+function migrate(conn: DatabaseSync) {
+  const cols = conn.prepare("pragma table_info(listings)").all() as { name: string }[];
+  if (!cols.some((c) => c.name === "is_sample")) {
+    conn.exec("alter table listings add column is_sample integer not null default 0");
+  }
 }
 
 /**

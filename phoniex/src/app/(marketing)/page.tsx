@@ -1,5 +1,9 @@
 import Link from "next/link";
 import { divisions, industries, services, site } from "@/lib/site";
+import { searchPublicListings } from "@/lib/listings";
+import { aed } from "@/lib/format";
+
+export const dynamic = "force-dynamic";
 
 const journey = [
   "Choose your industry, or “Other business”.",
@@ -18,6 +22,7 @@ const principles = [
 ];
 
 export default function HomePage() {
+  const featured = searchPublicListings({}).filter((l) => l.status === "published").slice(0, 3);
   return (
     <>
       <section className="relative overflow-hidden border-b border-border">
@@ -77,6 +82,36 @@ export default function HomePage() {
           ))}
         </div>
       </section>
+
+      {featured.length ? (
+        <section className="container-page pb-12">
+          <div className="flex flex-wrap items-end justify-between gap-4">
+            <h2 className="text-2xl font-bold sm:text-3xl">Latest properties</h2>
+            <Link href="/properties" className="btn-ghost">All properties →</Link>
+          </div>
+          <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {featured.map((l) => (
+              <Link key={l.id} href={`/properties/${l.id}`} className="group overflow-hidden rounded-xl border border-border bg-surface transition-colors hover:border-accent">
+                <div className="relative aspect-[4/3] bg-surface-2">
+                  {l.cover_id ? (
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img src={`/media/${l.cover_id}`} alt="" className="h-full w-full object-cover" loading="lazy" />
+                  ) : null}
+                  <div className="absolute left-2 top-2 flex gap-1">
+                    {l.pano_count > 0 ? <span className="rounded bg-accent px-2 py-0.5 text-xs font-semibold text-accent-fg">360° tour</span> : null}
+                    {l.is_sample ? <span className="rounded bg-white/90 px-2 py-0.5 text-xs font-semibold text-navy">Sample</span> : null}
+                  </div>
+                </div>
+                <div className="p-4">
+                  <p className="font-bold">{aed(l.price_aed)}{l.purpose === "rent" ? <span className="text-sm font-normal text-muted"> / year</span> : null}</p>
+                  <h3 className="truncate font-semibold group-hover:text-accent">{l.title}</h3>
+                  <p className="truncate text-sm text-muted">{l.community ? `${l.community}, ` : ""}{l.emirate}</p>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </section>
+      ) : null}
 
       <section className="container-page pb-16">
         <div className="card grid gap-6 p-8 lg:grid-cols-3 lg:items-center">

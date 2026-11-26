@@ -27,7 +27,11 @@ export async function storeImage(file: File, kind: keyof typeof LIMITS) {
   if (file.size > LIMITS[kind]) {
     return { ok: false as const, error: `File too large (max ${LIMITS[kind] / 1024 / 1024} MB).` };
   }
-  const bytes = new Uint8Array(await file.arrayBuffer());
+  return storeBytes(new Uint8Array(await file.arrayBuffer()));
+}
+
+/** Stores already-read image bytes under a new server-generated name. */
+export async function storeBytes(bytes: Uint8Array) {
   const type = sniffImage(bytes);
   if (!type) return { ok: false as const, error: "Only JPEG, PNG or WebP images are allowed." };
   const name = `${newId()}.${type.ext}`;

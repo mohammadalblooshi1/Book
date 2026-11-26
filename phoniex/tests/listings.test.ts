@@ -77,3 +77,26 @@ test("image type detection uses file bytes, not names", () => {
   assert.equal(sniffImage(new TextEncoder().encode("<svg onload=alert(1)></svg>")), null);
   assert.equal(sniffImage(new TextEncoder().encode("<html><script>x</script>")), null);
 });
+
+test("sample listings: seeded, labelled, valid plans, no enquiries, removable", async () => {
+  const { seedSamples, removeSamples, sampleCount } = await import("@/lib/samples");
+  const n = await seedSamples();
+  assert.equal(sampleCount(), n);
+  await seedSamples();
+  assert.equal(sampleCount(), n, "re-seeding replaces instead of duplicating");
+  const results = L.searchPublicListings({});
+  const samples = results.filter((r) => r.is_sample === 1);
+  assert.equal(samples.length, n);
+  assert.ok(samples.every((s) => s.cover_id), "every sample has a cover photo");
+  assert.ok(new Set(samples.map((s) => s.emirate)).size === 7, "all seven emirates covered");
+  for (const s of samples) {
+    const full = L.getPublicListing(s.id)!;
+    assert.ok(FloorPlan.safeParse(JSON.parse(full.floor_plan)).success, `valid plan for ${s.title}`);
+  }
+  const villa = samples.find((s) => s.title.startsWith("Family villa"))!;
+  const plan = JSON.parse(L.getPublicListing(villa.id)!.floor_plan);
+  assert.equal(plan.rooms.filter((r: { kind: string }) => r.kind === "bedroom").length, 4);
+  assert.equal(L.createEnquiry(villa.id, { name: "X", email: "x@example.com", message: "Is it available?" }), null);
+  await removeSamples();
+  assert.equal(sampleCount(), 0);
+});

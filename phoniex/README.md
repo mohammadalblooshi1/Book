@@ -24,6 +24,15 @@ npm run dev            # http://localhost:3000
    npm run make-admin -- you@example.com
    ```
 
+4. Add the sample properties (15 villas, apartments, townhouses, a penthouse, land and an office across all
+   seven emirates, with 360° tours and floor plans):
+   ```bash
+   npm run samples            # add / refresh
+   npm run samples -- remove  # remove them all
+   ```
+   Platform admins can also add/remove them from the admin page. Samples are labelled "Sample" everywhere,
+   use original illustrations (not real photos), and do not accept enquiries.
+
 For a production build: `npm run build && npm start`.
 
 ## What's in this release
