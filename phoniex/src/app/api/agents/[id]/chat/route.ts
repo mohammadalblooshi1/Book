@@ -2,7 +2,7 @@ import Anthropic from "@anthropic-ai/sdk";
 import { z } from "zod";
 import { getUser } from "@/lib/session";
 import { getAgentForUser, logRun, runsThisMonth } from "@/lib/repo";
-import { anthropic, ALLOWED_MODELS, buildSystemPrompt, demoReply, supportsServerFallback } from "@/lib/ai";
+import { anthropic, ALLOWED_MODELS, buildSystemPrompt, demoReply, modelFor, supportsServerFallback } from "@/lib/ai";
 
 export const maxDuration = 120;
 
@@ -87,7 +87,7 @@ export async function POST(request: Request, ctx: RouteContext<"/api/agents/[id]
       const out = writer(controller);
       try {
         const stream = client.beta.messages.stream({
-          model: agent.model,
+          model: modelFor(agent.model),
           max_tokens: 16000,
           system: buildSystemPrompt(agent, agent.org_name),
           messages: messages as Anthropic.Beta.BetaMessageParam[],

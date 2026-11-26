@@ -2,10 +2,10 @@ import "server-only";
 import Anthropic from "@anthropic-ai/sdk";
 import { zodOutputFormat } from "@anthropic-ai/sdk/helpers/zod";
 import { z } from "zod";
-import { anthropic } from "@/lib/ai";
+import { anthropic, modelFor } from "@/lib/ai";
 import { CATALOG, CATALOG_KEYS, STYLES, suggestItems, type BoardItemT, type StyleName, type Tier } from "@/lib/renovation";
 
-// Suggests renovation items for a room photo. With ANTHROPIC_API_KEY, Claude looks
+// Suggests renovation items for a room photo. With an AI key (Anthropic or Vercel AI Gateway), Claude looks
 // at the photo and places item markers where they belong; otherwise rule-based
 // suggestions for the room type are used. Costs are always computed from the
 // local catalogue, never from the model, so estimates stay consistent.
@@ -51,7 +51,7 @@ export async function suggestRenovation(input: {
 
   try {
     const response = await client.messages.parse({
-      model: "claude-opus-5-5",
+      model: modelFor("claude-opus-5-5"),
       max_tokens: 16000,
       output_config: { effort: "low", format: zodOutputFormat(AiSuggestion) },
       system: `You are an interior and landscape designer in the UAE helping a homeowner plan a renovation.

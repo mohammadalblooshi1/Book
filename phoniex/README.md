@@ -51,6 +51,16 @@ For a production build: `npm run build && npm start`.
 & search, ML forecasting, computer vision, digital twins/IoT, billing, member invitations, MFA,
 industry-specific modules.
 
+## Connecting AI (optional)
+
+Without a key, AI features run in labelled demo mode. Set **one** of these (in `.env.local` locally, or in
+Vercel → Project → Settings → Environment Variables):
+
+- `AI_GATEWAY_API_KEY` — a Vercel AI Gateway key (starts with `vck_`). Claude is called through
+  `https://ai-gateway.vercel.sh`; model names are mapped automatically (e.g. `anthropic/claude-opus-5.5`),
+  or force one with `AI_GATEWAY_MODEL`.
+- `ANTHROPIC_API_KEY` — a direct Anthropic key (takes priority if both are set).
+
 ## Where data lives
 
 Everything is in `data/` (ignored by git): the database `data/phoniex.db` and uploaded images in `data/uploads/`. Delete that file to start fresh.

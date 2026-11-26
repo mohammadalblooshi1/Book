@@ -2,11 +2,11 @@ import "server-only";
 import Anthropic from "@anthropic-ai/sdk";
 import { zodOutputFormat } from "@anthropic-ai/sdk/helpers/zod";
 import { z } from "zod";
-import { anthropic } from "@/lib/ai";
+import { anthropic, modelFor } from "@/lib/ai";
 import { EMIRATE_NAMES, TYPE_NAMES, parseListingText, type ParsedListing } from "@/lib/listing-parser";
 
 // The listing agent turns an owner's free-text description into a draft listing.
-// With ANTHROPIC_API_KEY it uses Claude (structured output); otherwise, or if the
+// With an AI key (Anthropic or Vercel AI Gateway) it uses Claude (structured output); otherwise, or if the
 // AI call fails, it uses the rule-based parser. Either way the result is a DRAFT
 // that the owner must review — the agent never publishes anything itself.
 
@@ -51,7 +51,7 @@ export async function draftListing(text: string): Promise<AgentDraft> {
 
   try {
     const response = await client.messages.parse({
-      model: "claude-opus-5-5",
+      model: modelFor("claude-opus-5-5"),
       max_tokens: 16000,
       system: SYSTEM,
       output_config: { effort: "low", format: zodOutputFormat(AiDraft) },

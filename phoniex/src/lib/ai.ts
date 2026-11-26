@@ -4,16 +4,43 @@ import { agentModels } from "@/lib/site";
 
 export const ALLOWED_MODELS: string[] = agentModels.map((m) => m.id);
 
+// Two ways to connect Claude (either one turns off demo mode):
+//  - ANTHROPIC_API_KEY: direct to Anthropic.
+//  - AI_GATEWAY_API_KEY: through Vercel AI Gateway (keys start with "vck_"),
+//    which speaks the same Messages API. Billing then goes through Vercel.
+const GATEWAY_URL = process.env.AI_GATEWAY_BASE_URL || "https://ai-gateway.vercel.sh";
+
+export function aiProvider(): "anthropic" | "gateway" | null {
+  if (process.env.ANTHROPIC_API_KEY) return "anthropic";
+  if (process.env.AI_GATEWAY_API_KEY) return "gateway";
+  return null;
+}
+
 let client: Anthropic | null = null;
 export function anthropic() {
-  if (!process.env.ANTHROPIC_API_KEY) return null;
-  client ??= new Anthropic();
+  const provider = aiProvider();
+  if (!provider) return null;
+  client ??=
+    provider === "gateway"
+      ? new Anthropic({ apiKey: null, authToken: process.env.AI_GATEWAY_API_KEY, baseURL: GATEWAY_URL })
+      : new Anthropic();
   return client;
 }
 
-/** Server-side fallback on safety refusals is supported on Opus/Sonnet 5.5, not Haiku 5.5. */
+/**
+ * The model name to send. AI Gateway names models "provider/model" with dotted
+ * versions (claude-opus-5-5 -> anthropic/claude-opus-5.5). Set AI_GATEWAY_MODEL
+ * to force one specific gateway model for everything.
+ */
+export function modelFor(id: string) {
+  if (aiProvider() !== "gateway") return id;
+  if (process.env.AI_GATEWAY_MODEL) return process.env.AI_GATEWAY_MODEL;
+  return `anthropic/${id.replace(/-(\d+)-(\d+)$/, "-$1.$2")}`;
+}
+
+/** Server-side fallback on safety refusals: direct Anthropic API only, Opus/Sonnet 5.5. */
 export function supportsServerFallback(model: string) {
-  return model === "claude-opus-5-5" || model === "claude-sonnet-5-5";
+  return aiProvider() === "anthropic" && (model === "claude-opus-5-5" || model === "claude-sonnet-5-5");
 }
 
 type AgentForPrompt = {
@@ -48,7 +75,7 @@ export function buildSystemPrompt(agent: AgentForPrompt, orgName: string) {
 
 /** True when a real AI provider key is configured; otherwise agents run in demo mode. */
 export function aiConfigured() {
-  return Boolean(process.env.ANTHROPIC_API_KEY);
+  return aiProvider() !== null;
 }
 
 /** Simulated reply used in demo mode, clearly labelled as not AI-generated. */
