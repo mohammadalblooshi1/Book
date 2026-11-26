@@ -138,6 +138,7 @@ create table if not exists listings (
   floor_plan text not null default '{"width":20,"height":14,"rooms":[]}',
   status text not null default 'draft' check (status in ('draft','published','sold','archived')),
   is_sample integer not null default 0,
+  agent_notes text not null default '',
   published_at text,
   created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now')),
   updated_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
@@ -153,6 +154,7 @@ create table if not exists listing_media (
   file text not null,
   mime text not null,
   title text not null default '',
+  is_illustration integer not null default 0,
   sort integer not null default 0,
   created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
 );
@@ -201,6 +203,13 @@ function migrate(conn: DatabaseSync) {
   const cols = conn.prepare("pragma table_info(listings)").all() as { name: string }[];
   if (!cols.some((c) => c.name === "is_sample")) {
     conn.exec("alter table listings add column is_sample integer not null default 0");
+  }
+  if (!cols.some((c) => c.name === "agent_notes")) {
+    conn.exec("alter table listings add column agent_notes text not null default ''");
+  }
+  const mediaCols = conn.prepare("pragma table_info(listing_media)").all() as { name: string }[];
+  if (!mediaCols.some((c) => c.name === "is_illustration")) {
+    conn.exec("alter table listing_media add column is_illustration integer not null default 0");
   }
 }
 

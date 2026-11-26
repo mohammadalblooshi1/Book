@@ -21,7 +21,7 @@ def gradient(d, box, top, bottom):
     for y in range(y0, y1):
         d.line([(x0, y), (x1, y)], fill=lerp(top, bottom, (y - y0) / max(1, y1 - y0)))
 
-def watermark(im, text="Illustration · sample listing"):
+def watermark(im, text="Illustration — not a real photo"):
     d = ImageDraw.Draw(im, "RGBA")
     f = font(max(14, im.width // 70))
     tw = d.textlength(text, font=f)
@@ -169,7 +169,7 @@ def pano(name, wall, floor, ceiling=(246, 244, 240), accent=(70, 110, 150), outd
         for i in range(4): palm(d, 300 + i * 500, bottom + 20, 300)
     if not outdoor:
         for k in range(4): d.ellipse([k * PW // 4 + PW // 8 - 40, 30, k * PW // 4 + PW // 8 + 40, 70], fill=(255, 240, 200))
-    watermark(im, "360° illustration · sample listing")
+    watermark(im, "360° illustration — not a real photo")
     im.save(os.path.join(OUT, name), quality=80)
 
 random.seed(7)

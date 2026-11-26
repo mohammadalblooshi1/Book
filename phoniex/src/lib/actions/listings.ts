@@ -7,6 +7,9 @@ import { canEdit, requireWorkspace } from "@/lib/session";
 import * as L from "@/lib/listings";
 import { FloorPlan } from "@/lib/floor-plan";
 import { deleteImage } from "@/lib/media";
+import { draftListing } from "@/lib/listing-agent";
+import { buildPlan, planKindFor, type PanoSlot } from "@/lib/plan-generator";
+import { copyIllustration, pickIllustrations, PANO_FILES } from "@/lib/illustrations";
 import { sendEmail } from "@/lib/email";
 import type { FormState } from "@/lib/actions/public";
 
@@ -62,8 +65,11 @@ export async function setListingStatusAction(formData: FormData) {
   const status = z.enum(L.LISTING_STATUSES).safeParse(formData.get("status"));
   if (status.success) {
     const listing = L.getListingForOwner(user.id, id);
-    if (listing && status.data === "published" && L.countMedia(id, "photo") === 0) {
+    if (listing && status.data === "published" && L.countRealPhotos(id) === 0) {
       redirect(`/app/listings/${id}?error=photo`);
+    }
+    if (listing && status.data === "published" && listing.price_aed < 1) {
+      redirect(`/app/listings/${id}?error=price`);
     }
     L.setListingStatus(user.id, id, status.data);
   }
@@ -129,4 +135,74 @@ export async function submitEnquiryAction(_prev: FormState, formData: FormData):
     });
   }
   return { ok: true, message: "Thanks — your message was sent to the owner. They will contact you directly." };
+}
+
+const AgentRequest = z.object({
+  text: z.string().trim().min(20, "Please describe the property in at least a sentence or two.").max(4000),
+});
+
+/** The listing agent: turns the owner's description into a complete DRAFT listing. */
+export async function createListingWithAgentAction(_prev: FormState, formData: FormData): Promise<FormState> {
+  const { user, ws } = await requireWorkspace();
+  if (!canEdit(ws.role)) return { ok: false, message: "You have view-only access." };
+  const parsed = AgentRequest.safeParse(Object.fromEntries(formData));
+  if (!parsed.success) return { ok: false, message: parsed.error.issues[0].message };
+  const withIllustrations = formData.get("illustrations") === "on";
+
+  const d = await draftListing(parsed.data.text);
+  const id = L.createListing(user.id, ws.id, {
+    title: d.title.length >= 5 ? d.title : `${d.property_type} in ${d.emirate}`,
+    purpose: d.purpose,
+    property_type: d.property_type,
+    emirate: d.emirate,
+    community: d.community,
+    price_aed: d.price_aed,
+    bedrooms: d.bedrooms,
+    bathrooms: d.bathrooms,
+    size_sqft: d.size_sqft,
+    description: d.description,
+    permit_number: "",
+    contact_name: user.full_name,
+    contact_phone: "",
+  });
+
+  const panoIds: Partial<Record<PanoSlot, string>> = {};
+  if (withIllustrations) {
+    const pick = pickIllustrations(d.property_type, d.features, id);
+    for (const file of pick.photos) {
+      const s = await copyIllustration(file);
+      L.addMedia(user.id, id, { kind: "photo", file: s.file, mime: s.mime, title: "", illustration: true });
+    }
+    for (const slot of pick.panos) {
+      const [file, title] = PANO_FILES[slot];
+      const s = await copyIllustration(file);
+      panoIds[slot] = L.addMedia(user.id, id, { kind: "pano", file: s.file, mime: s.mime, title, illustration: true });
+    }
+  }
+  const planKind = planKindFor(d.property_type);
+  if (planKind) L.saveFloorPlan(user.id, id, JSON.stringify(buildPlan(planKind, d.bedrooms, panoIds)));
+
+  const notes = [
+    d.mode === "ai" ? "Drafted by the AI listing agent." : "Drafted by the listing agent in demo mode (no AI key connected): details were read from your description.",
+    ...d.notes,
+    ...(withIllustrations ? ["Illustrations were added so you can preview the page. Upload at least one real photo before publishing."] : []),
+    ...(planKind ? ["A starter floor plan was generated from the bedroom count — adjust it to match your property."] : []),
+  ];
+  L.setAgentNotes(user.id, id, JSON.stringify(notes));
+  redirect(`/app/listings/${id}?drafted=1`);
+}
+
+export async function dismissAgentNotesAction(formData: FormData) {
+  const { user } = await requireWorkspace();
+  const id = String(formData.get("id") ?? "");
+  L.setAgentNotes(user.id, id, "");
+  redirect(`/app/listings/${id}`);
+}
+
+export async function removeIllustrationsAction(formData: FormData) {
+  const { user } = await requireWorkspace();
+  const id = String(formData.get("id") ?? "");
+  for (const f of L.removeIllustrations(user.id, id)) await deleteImage(f);
+  revalidatePath(`/app/listings/${id}`);
+  redirect(`/app/listings/${id}#media`);
 }

@@ -20,12 +20,18 @@ export default async function ListingsPage() {
           <h1 className="text-2xl font-bold">Property listings</h1>
           <p className="text-sm text-muted">List your property yourself — add photos, a 360° tour and a floor plan, then publish.</p>
         </div>
-        <Link href="/app/listings/new" className="btn-primary">New listing</Link>
+        <div className="flex flex-wrap gap-2">
+          <Link href="/app/listings/agent" className="btn-primary">Let the agent create it</Link>
+          <Link href="/app/listings/new" className="btn-secondary">Fill in the form myself</Link>
+        </div>
       </div>
       {listings.length === 0 ? (
         <div className="card text-center">
           <p className="text-muted">You have no listings yet.</p>
-          <Link href="/app/listings/new" className="btn-primary mt-4">List a property</Link>
+          <div className="mt-4 flex flex-wrap justify-center gap-2">
+            <Link href="/app/listings/agent" className="btn-primary">Let the agent create it</Link>
+            <Link href="/app/listings/new" className="btn-secondary">Fill in the form myself</Link>
+          </div>
         </div>
       ) : (
         <div className="grid gap-4 md:grid-cols-2">

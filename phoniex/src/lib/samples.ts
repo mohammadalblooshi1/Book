@@ -3,7 +3,7 @@ import { readFile } from "node:fs/promises";
 import path from "node:path";
 import { db, newId, nowIso } from "@/lib/db";
 import { deleteImage, storeBytes } from "@/lib/media";
-import type { FloorPlanT, RoomKind } from "@/lib/floor-plan";
+import { buildPlan, type PanoSlot } from "@/lib/plan-generator";
 
 // Clearly labelled SAMPLE listings so the Properties pages are not empty.
 // They are owned by a system account that cannot sign in, are flagged
@@ -14,7 +14,7 @@ const SAMPLE_EMAIL = "samples@phoniex.local";
 const SAMPLE_ORG = "PHONIEX Sample Properties";
 const IMAGES = path.join(/* turbopackIgnore: true */ process.cwd(), "seed", "images");
 
-type Pano = "living" | "bedroom" | "terrace";
+type Pano = PanoSlot;
 type Sample = {
   title: string; purpose: "sale" | "rent"; type: string; emirate: string; community: string; price: number;
   beds: number; baths: number; sqft: number; description: string; photos: string[]; panos: Pano[];
@@ -90,58 +90,6 @@ const SAMPLES: Sample[] = [
     photos: ["tower-city.jpg", "office.jpg"], panos: [] },
 ];
 
-function room(id: string, name: string, kind: RoomKind, x: number, y: number, w: number, h: number, panoId: string | null = null) {
-  return { id, name, kind, x, y, w, h, panoId };
-}
-
-function buildPlan(kind: Sample["plan"], beds: number, pano: Partial<Record<Pano, string>>): FloorPlanT {
-  if (kind === "villa") {
-    const rooms = [
-      room("liv", "Living room", "living", 0, 0, 8, 6, pano.living ?? null),
-      room("din", "Dining", "dining", 8, 0, 5, 6),
-      room("kit", "Kitchen", "kitchen", 13, 0, 5, 5),
-      room("maid", "Maid's room", "storage", 13, 5, 5, 3),
-      room("ter", "Terrace", "balcony", 0, 6, 8, 5, pano.terrace ?? null),
-      room("mbed", "Master bedroom", "bedroom", 8, 6, 5, 5, pano.bedroom ?? null),
-      room("mbath", "Master bath", "bathroom", 13, 8, 5, 3),
-    ];
-    for (let i = 2; i <= Math.min(beds, 5); i++) rooms.push(room(`bed${i}`, `Bedroom ${i}`, "bedroom", (i - 2) * 5, 11, 5, 4));
-    return { width: 20, height: 15, rooms };
-  }
-  if (kind === "penthouse") {
-    return { width: 24, height: 14, rooms: [
-      room("liv", "Living & dining", "living", 0, 0, 10, 7, pano.living ?? null),
-      room("kit", "Kitchen", "kitchen", 10, 0, 5, 5),
-      room("mbed", "Master suite", "bedroom", 15, 0, 9, 6, pano.bedroom ?? null),
-      room("bed2", "Bedroom 2", "bedroom", 10, 5, 5, 4),
-      room("bed3", "Bedroom 3", "bedroom", 15, 6, 5, 4),
-      room("bed4", "Bedroom 4", "bedroom", 20, 6, 4, 4),
-      room("ter", "Wrap-around terrace", "balcony", 0, 10, 24, 4, pano.terrace ?? null),
-    ] };
-  }
-  if (kind === "townhouse") {
-    return { width: 12, height: 14, rooms: [
-      room("liv", "Living room", "living", 0, 0, 7, 5, pano.living ?? null),
-      room("kit", "Kitchen", "kitchen", 7, 0, 5, 5),
-      room("mbed", "Master bedroom", "bedroom", 0, 5, 6, 4.5),
-      room("bed2", "Bedroom 2", "bedroom", 6, 5, 4, 4.5),
-      room("bath", "Bath", "bathroom", 10, 5, 2, 4.5),
-      room("bed3", "Bedroom 3", "bedroom", 0, 9.5, 5, 4.5),
-      room("gar", "Garden", "balcony", 5, 9.5, 7, 4.5),
-    ] };
-  }
-  // apartment
-  const rooms = [
-    room("liv", "Living room", "living", 0, 0, 6, 5, pano.living ?? null),
-    room("kit", "Kitchen", "kitchen", 6, 0, 3.5, 3.5),
-    room("bath", "Bathroom", "bathroom", 6, 3.5, 3.5, 2.5),
-    room("mbed", "Bedroom 1", "bedroom", 0, 5, 5, 4, pano.bedroom ?? null),
-    room("bal", "Balcony", "balcony", 0, 9, 9.5, 1.5),
-  ];
-  if (beds >= 2) rooms.push(room("bed2", "Bedroom 2", "bedroom", 5, 6, 4.5, 3));
-  return { width: 10, height: 11, rooms };
-}
-
 function sampleUserId() {
   const conn = db();
   const existing = conn.prepare("select id from users where email = ?").get(SAMPLE_EMAIL) as { id: string } | undefined;
@@ -196,7 +144,7 @@ export async function seedSamples() {
 
     const add = (kind: "photo" | "pano", file: { file: string; mime: string }, title: string, sort: number) => {
       const mediaId = newId();
-      conn.prepare("insert into listing_media (id, listing_id, org_id, kind, file, mime, title, sort) values (?, ?, ?, ?, ?, ?, ?, ?)")
+      conn.prepare("insert into listing_media (id, listing_id, org_id, kind, file, mime, title, sort, is_illustration) values (?, ?, ?, ?, ?, ?, ?, ?, 1)")
         .run(mediaId, id, orgId, kind, file.file, file.mime, title, sort);
       return mediaId;
     };
