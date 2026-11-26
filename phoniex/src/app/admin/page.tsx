@@ -52,12 +52,17 @@ export default async function AdminPage() {
 
       <section className="card">
         <h2 className="font-semibold">Email outbox</h2>
-        <p className="mb-3 text-xs text-muted">No email service is connected yet, so notification emails are saved here instead of being sent.</p>
+        <p className="mb-3 text-xs text-muted">
+          {process.env.RESEND_API_KEY ? "Emails are sent through Resend and recorded here." : "No email service is connected, so notification emails are saved here instead of being sent."}
+        </p>
         {outbox.length === 0 ? <p className="text-sm text-muted">Empty.</p> : (
           <ul className="space-y-3">
             {outbox.map((m) => (
               <li key={m.id} className="rounded-lg border border-border p-3 text-sm">
-                <p className="font-medium">{m.subject}</p>
+                <p className="flex flex-wrap items-center gap-2 font-medium">{m.subject}
+                  <span className={`badge ${m.status === "sent" ? "border-ok text-ok" : m.status === "failed" ? "border-danger text-danger" : ""}`}>{m.status}</span>
+                </p>
+                {m.error ? <p className="text-xs text-danger">{m.error}</p> : null}
                 <p className="text-xs text-muted">To {m.to_addr} · {new Date(m.created_at).toLocaleString("en-GB")}</p>
                 <pre className="mt-2 whitespace-pre-wrap font-sans text-xs text-muted">{m.body}</pre>
               </li>

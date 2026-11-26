@@ -268,8 +268,8 @@ export function adminOverview(userId: string, sinceIso: string) {
     runs: conn.prepare("select count(*) as n, coalesce(sum(input_tokens + output_tokens), 0) as tokens from agent_runs where created_at >= ?").get(sinceIso) as {
       n: number; tokens: number;
     },
-    outbox: conn.prepare("select id, to_addr, subject, body, created_at from outbox order by created_at desc limit 25").all() as {
-      id: string; to_addr: string; subject: string; body: string; created_at: string;
+    outbox: conn.prepare("select id, to_addr, subject, body, status, error, created_at from outbox order by created_at desc limit 25").all() as {
+      id: string; to_addr: string; subject: string; body: string; status: string; error: string | null; created_at: string;
     }[],
   };
 }

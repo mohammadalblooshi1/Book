@@ -210,6 +210,9 @@ create table if not exists outbox (
   reply_to text,
   subject text not null,
   body text not null,
+  status text not null default 'saved',
+  provider_id text,
+  error text,
   created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
 );
 `;
@@ -245,6 +248,10 @@ function migrate(conn: DatabaseSync) {
       alter table listings add column location_precision text not null default 'approximate';
       alter table listings add column nearby text not null default '';
       alter table listings add column nearby_at text;`);
+  }
+  const outboxCols = conn.prepare("pragma table_info(outbox)").all() as { name: string }[];
+  if (!outboxCols.some((c) => c.name === "status")) {
+    conn.exec("alter table outbox add column status text not null default 'saved'; alter table outbox add column provider_id text; alter table outbox add column error text;");
   }
   const mediaCols = conn.prepare("pragma table_info(listing_media)").all() as { name: string }[];
   if (mediaCols.some((c) => c.name === "is_illustration")) removeLegacyIllustrations(conn);

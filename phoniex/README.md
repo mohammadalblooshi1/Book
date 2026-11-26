@@ -61,6 +61,13 @@ Vercel → Project → Settings → Environment Variables):
   or force one with `AI_GATEWAY_MODEL`.
 - `ANTHROPIC_API_KEY` — a direct Anthropic key (takes priority if both are set).
 
+## Sending email (optional)
+
+Without a key, notification emails (new leads, project requests, buyer enquiries) are saved to the outbox on the
+admin page. To send them for real through [Resend](https://resend.com), set `RESEND_API_KEY` (a send-only key is
+enough) and `EMAIL_FROM` using a domain you verified in Resend. Each email's status (sent / failed and why) shows
+in the admin outbox.
+
 ## Where data lives
 
 Everything is in `data/` (ignored by git): the database `data/phoniex.db` and uploaded images in `data/uploads/`. Delete that file to start fresh.
