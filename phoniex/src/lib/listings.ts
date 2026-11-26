@@ -42,7 +42,7 @@ export type ListingInput = Pick<
 >;
 
 export type Media = {
-  id: string; listing_id: string; kind: "photo" | "pano"; file: string; mime: string; title: string; sort: number; is_illustration: number;
+  id: string; listing_id: string; kind: "photo" | "pano"; file: string; mime: string; title: string; sort: number;
 };
 
 const EDITORS: OrgRole[] = ["owner", "admin", "member"];
@@ -67,7 +67,7 @@ export function listOrgListings(userId: string, orgId: string) {
   return db()
     .prepare(
       `select l.*, (select count(*) from listing_enquiries e where e.listing_id = l.id) as enquiries,
-              (select id from listing_media m where m.listing_id = l.id and m.kind = 'photo' order by m.is_illustration, m.sort limit 1) as cover_id
+              (select id from listing_media m where m.listing_id = l.id and m.kind = 'photo' order by m.sort limit 1) as cover_id
          from listings l where l.org_id = ? order by l.created_at desc`,
     )
     .all(orgId) as (Listing & { enquiries: number; cover_id: string | null })[];
@@ -137,12 +137,8 @@ export function deleteListing(userId: string, listingId: string) {
 
 export function listMedia(listingId: string) {
   return db()
-    .prepare("select id, listing_id, kind, file, mime, title, sort, is_illustration from listing_media where listing_id = ? order by kind, is_illustration, sort, created_at")
+    .prepare("select id, listing_id, kind, file, mime, title, sort from listing_media where listing_id = ? order by kind, sort, created_at")
     .all(listingId) as Media[];
-}
-
-export function countRealPhotos(listingId: string) {
-  return (db().prepare("select count(*) as n from listing_media where listing_id = ? and kind = 'photo' and is_illustration = 0").get(listingId) as { n: number }).n;
 }
 
 export function setAgentNotes(userId: string, listingId: string, notes: string) {
@@ -152,15 +148,6 @@ export function setAgentNotes(userId: string, listingId: string, notes: string) 
   return true;
 }
 
-/** Removes all illustration images from a listing; returns their files for deletion. */
-export function removeIllustrations(userId: string, listingId: string) {
-  const l = ownListing(userId, listingId, true);
-  if (!l) return [];
-  const rows = db().prepare("select file from listing_media where listing_id = ? and is_illustration = 1").all(listingId) as { file: string }[];
-  db().prepare("delete from listing_media where listing_id = ? and is_illustration = 1").run(listingId);
-  return rows.map((r) => r.file);
-}
-
 export function countMedia(listingId: string, kind: Media["kind"]) {
   return (db().prepare("select count(*) as n from listing_media where listing_id = ? and kind = ?").get(listingId, kind) as { n: number }).n;
 }
@@ -168,15 +155,15 @@ export function countMedia(listingId: string, kind: Media["kind"]) {
 export function addMedia(
   userId: string,
   listingId: string,
-  m: { kind: Media["kind"]; file: string; mime: string; title: string; illustration?: boolean },
+  m: { kind: Media["kind"]; file: string; mime: string; title: string },
 ) {
   const l = ownListing(userId, listingId, true);
   if (!l) throw new AccessDenied();
   const id = newId();
   const sort = countMedia(listingId, m.kind);
   db()
-    .prepare("insert into listing_media (id, listing_id, org_id, kind, file, mime, title, sort, is_illustration) values (?, ?, ?, ?, ?, ?, ?, ?, ?)")
-    .run(id, listingId, l.org_id, m.kind, m.file, m.mime, m.title, sort, m.illustration ? 1 : 0);
+    .prepare("insert into listing_media (id, listing_id, org_id, kind, file, mime, title, sort) values (?, ?, ?, ?, ?, ?, ?, ?)")
+    .run(id, listingId, l.org_id, m.kind, m.file, m.mime, m.title, sort);
   return id;
 }
 
@@ -218,7 +205,7 @@ export function searchPublicListings(f: SearchFilters) {
     .prepare(
       `select l.id, l.title, l.purpose, l.property_type, l.emirate, l.community, l.price_aed, l.bedrooms, l.bathrooms,
               l.size_sqft, l.status,
-              (select id from listing_media m where m.listing_id = l.id and m.kind = 'photo' order by m.is_illustration, m.sort limit 1) as cover_id,
+              (select id from listing_media m where m.listing_id = l.id and m.kind = 'photo' order by m.sort limit 1) as cover_id,
               (select count(*) from listing_media m where m.listing_id = l.id and m.kind = 'pano') as pano_count
          from listings l where ${where.join(" and ")}
         order by l.status = 'sold', l.published_at desc limit 60`,

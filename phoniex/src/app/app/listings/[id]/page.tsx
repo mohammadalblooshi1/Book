@@ -5,7 +5,7 @@ import { canEdit, requireWorkspace } from "@/lib/session";
 import { EMIRATES, PROPERTY_TYPES, MAX_PANOS, MAX_PHOTOS, getListingForOwner, listEnquiries, listMedia } from "@/lib/listings";
 import { AccessDenied, roleOf } from "@/lib/repo";
 import { parsePlan } from "@/lib/floor-plan";
-import { deleteListingAction, deleteMediaAction, dismissAgentNotesAction, removeIllustrationsAction, setListingStatusAction } from "@/lib/actions/listings";
+import { deleteListingAction, deleteMediaAction, dismissAgentNotesAction, setListingStatusAction } from "@/lib/actions/listings";
 import { ListingForm } from "@/components/listing-form";
 import { MediaUploader } from "@/components/media-uploader";
 import { FloorPlanEditor } from "@/components/floor-plan-editor";
@@ -43,8 +43,6 @@ export default async function ListingEditorPage(props: PageProps<"/app/listings/
   const panoIdSet = new Set(panos.map((p) => p.id));
   const rawPlan = parsePlan(listing.floor_plan);
   const plan = { ...rawPlan, rooms: rawPlan.rooms.map((r) => (r.panoId && !panoIdSet.has(r.panoId) ? { ...r, panoId: null } : r)) };
-  const realPhotos = photos.filter((p) => !p.is_illustration).length;
-  const illustrations = media.filter((m) => m.is_illustration).length;
   let agentNotes: string[] = [];
   try {
     agentNotes = listing.agent_notes ? (JSON.parse(listing.agent_notes) as string[]) : [];
@@ -54,7 +52,7 @@ export default async function ListingEditorPage(props: PageProps<"/app/listings/
   const checklist = [
     { done: true, label: "Details" },
     { done: listing.price_aed > 0, label: "Price set (required to publish)" },
-    { done: realPhotos > 0, label: "At least one real photo (required to publish)" },
+    { done: photos.length > 0, label: "At least one photo (required to publish)" },
     { done: panos.length > 0, label: "360° virtual tour (optional)" },
     { done: plan.rooms.length > 0, label: "Floor plan diagram (optional)" },
   ];
@@ -81,7 +79,7 @@ export default async function ListingEditorPage(props: PageProps<"/app/listings/
       </div>
 
       {created ? <p role="status" className="rounded-lg border border-ok p-3 text-sm text-ok">Listing created as a draft. Add photos, then publish.</p> : null}
-      {error === "photo" ? <p role="alert" className="rounded-lg border border-danger p-3 text-sm text-danger">Add at least one real photo before publishing (illustrations don&apos;t count).</p> : null}
+      {error === "photo" ? <p role="alert" className="rounded-lg border border-danger p-3 text-sm text-danger">Add at least one photo before publishing.</p> : null}
       {error === "price" ? <p role="alert" className="rounded-lg border border-danger p-3 text-sm text-danger">Set the price in Details before publishing.</p> : null}
       {agentNotes.length ? (
         <section className="rounded-xl border border-accent bg-accent-soft p-4">
@@ -116,24 +114,14 @@ export default async function ListingEditorPage(props: PageProps<"/app/listings/
       <section id="media" className="card space-y-4">
         <div className="flex items-center justify-between">
           <h2 className="font-semibold">Photos</h2>
-          <span className="text-xs text-muted">{photos.length} / {MAX_PHOTOS} · real photos are shown first</span>
+          <span className="text-xs text-muted">{photos.length} / {MAX_PHOTOS} · the first photo is the cover</span>
         </div>
-        {illustrations && editable ? (
-          <div className="flex flex-wrap items-center justify-between gap-2 rounded-lg border border-border p-3 text-sm">
-            <span>{illustrations} illustration{illustrations > 1 ? "s" : ""} (photos and 360°) — replace them with your real photos.</span>
-            <form action={removeIllustrationsAction}>
-              <input type="hidden" name="id" value={id} />
-              <button className="btn-ghost px-2 py-1 text-xs text-danger">Remove all illustrations</button>
-            </form>
-          </div>
-        ) : null}
         {photos.length ? (
           <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
             {photos.map((p) => (
               <div key={p.id} className="group relative aspect-[4/3] overflow-hidden rounded-lg bg-surface-2">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src={`/media/${p.id}`} alt="" className="h-full w-full object-cover" />
-                {p.is_illustration ? <span className="absolute bottom-1 left-1 rounded bg-black/65 px-1.5 py-0.5 text-[10px] font-semibold text-white">Illustration</span> : null}
                 {editable ? (
                   <form action={deleteMediaAction} className="absolute right-1 top-1">
                     <input type="hidden" name="media_id" value={p.id} />
@@ -164,7 +152,6 @@ export default async function ListingEditorPage(props: PageProps<"/app/listings/
                   {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img src={`/media/${p.id}`} alt="" className="h-10 w-20 rounded object-cover" />
                   {p.title}
-                  {p.is_illustration ? <span className="badge">Illustration</span> : null}
                 </span>
                 {editable ? (
                   <form action={deleteMediaAction}>

@@ -40,7 +40,7 @@ For a production build: `npm run build && npm start`.
 | Projects | Customers see their solution requests and status |
 | Property listings (owner self-service) | Owners list a villa/apartment/etc. for sale or rent themselves: details, photos, publish / unpublish / mark sold. Public search at `/properties` with filters; buyers send enquiries straight to the owner — no agent |
 | 360° virtual tours (VR) | Upload one 360° (2:1 equirectangular) photo per room. Buyers drag to look around on any device, zoom, go full screen, and an **Enter VR** button appears on WebXR headsets (e.g. Meta Quest browser) |
-| AI listing agent | Owner describes the property in plain words; the agent drafts the whole listing — title, details, description, starter floor plan, and optional labelled illustrations with a 360° demo tour — as a **draft** for review. Lists anything missing instead of guessing. Works in demo mode (built-in rules) without a key; uses Claude with `ANTHROPIC_API_KEY`. Publishing still needs a real photo and a price |
+| AI listing agent | Owner describes the property in plain words; the agent drafts the whole listing — title, details, description and a starter floor plan — as a **draft** for review; the owner adds the photos. Lists anything missing instead of guessing. Works in demo mode (built-in rules) without a key; uses Claude with `ANTHROPIC_API_KEY`. Publishing needs at least one photo and a price |
 | Floor-plan diagrams | Drag-and-drop editor on a 1 m grid: add rooms by type, move/resize, set sizes, total area in m² and sq ft. Rooms can link to a 360° photo — buyers click the room on the plan to open its tour |
 | Platform admin | Organizations, leads, project requests, AI usage and the **email outbox** |
 

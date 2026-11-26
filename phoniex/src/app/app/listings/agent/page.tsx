@@ -15,9 +15,8 @@ export default async function ListingAgentPage() {
         <Link href="/app/listings" className="text-sm text-muted hover:text-fg">← Listings</Link>
         <h1 className="text-2xl font-bold">Let the agent list it for you</h1>
         <p className="text-sm text-muted">
-          Describe your property and the listing agent prepares everything: title, details, description, a starter floor plan
-          and (optionally) illustrations with a 360° demo tour. It creates a <strong>draft</strong> — you review it, add real
-          photos and publish when you are happy.
+          Describe your property and the listing agent prepares everything: title, details, description and a starter floor plan.
+          It creates a <strong>draft</strong> — you review it, add your photos and publish when you are happy.
         </p>
       </div>
       {!ai ? (

@@ -153,7 +153,6 @@ create table if not exists listing_media (
   file text not null,
   mime text not null,
   title text not null default '',
-  is_illustration integer not null default 0,
   sort integer not null default 0,
   created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
 );
@@ -205,9 +204,7 @@ function migrate(conn: DatabaseSync) {
     conn.exec("alter table listings add column agent_notes text not null default ''");
   }
   const mediaCols = conn.prepare("pragma table_info(listing_media)").all() as { name: string }[];
-  if (!mediaCols.some((c) => c.name === "is_illustration")) {
-    conn.exec("alter table listing_media add column is_illustration integer not null default 0");
-  }
+  if (mediaCols.some((c) => c.name === "is_illustration")) removeLegacyIllustrations(conn);
 }
 
 /**
@@ -222,8 +219,20 @@ function removeLegacySamples(conn: DatabaseSync) {
   conn.exec("delete from listings where is_sample = 1");
   conn.exec("delete from organizations where name = 'PHONIEX Sample Properties'");
   conn.exec("delete from users where email = 'samples@phoniex.local'");
+  deleteUploadFiles(files.map((f) => f.file));
+}
+
+/** An earlier version could add illustration pictures to drafts; photos now come only from clients. */
+function removeLegacyIllustrations(conn: DatabaseSync) {
+  const rows = conn.prepare("select file from listing_media where is_illustration = 1").all() as { file: string }[];
+  if (!rows.length) return;
+  conn.exec("delete from listing_media where is_illustration = 1");
+  deleteUploadFiles(rows.map((r) => r.file));
+}
+
+function deleteUploadFiles(files: string[]) {
   const dir = process.env.UPLOADS_DIR ?? path.join(/* turbopackIgnore: true */ process.cwd(), "data", "uploads");
-  for (const { file } of files) {
+  for (const file of files) {
     if (/^[0-9a-f-]{36}\.(jpg|png|webp)$/.test(file)) {
       try {
         unlinkSync(path.join(/* turbopackIgnore: true */ dir, file));

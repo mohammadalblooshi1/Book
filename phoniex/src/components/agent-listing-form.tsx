@@ -41,13 +41,6 @@ export function AgentListingForm() {
           ))}
         </div>
       </div>
-      <label className="flex items-start gap-2 text-sm">
-        <input type="checkbox" name="illustrations" defaultChecked className="mt-1 accent-[var(--accent)]" />
-        <span>
-          Add illustrations and a 360° demo tour so I can preview the page now
-          <span className="block text-xs text-muted">Clearly labelled “Illustration”. You&apos;ll need at least one real photo before publishing.</span>
-        </span>
-      </label>
       <FormMessage state={state} />
       <button className="btn-primary" disabled={pending || text.trim().length < 20}>
         {pending ? "The agent is drafting your listing…" : "Let the agent create my listing"}

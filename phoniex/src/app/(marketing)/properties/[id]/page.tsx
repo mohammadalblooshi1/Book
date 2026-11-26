@@ -39,11 +39,10 @@ export default async function PropertyPage(props: PageProps<"/properties/[id]">)
   const { listing: l, preview } = data;
   const media = listMedia(id);
   const photos = media.filter((m) => m.kind === "photo");
-  const panos = media.filter((m) => m.kind === "pano").map((m) => ({ id: m.id, title: m.is_illustration ? `${m.title} (illustration)` : m.title }));
+  const panos = media.filter((m) => m.kind === "pano").map((m) => ({ id: m.id, title: m.title }));
   const panoIds = new Set(panos.map((p) => p.id));
   const rawPlan = parsePlan(l.floor_plan);
   const plan = { ...rawPlan, rooms: rawPlan.rooms.map((r) => (r.panoId && !panoIds.has(r.panoId) ? { ...r, panoId: null } : r)) };
-  const anyIllustration = media.some((m) => m.is_illustration);
   const closed = l.status === "sold";
 
   const facts = [
@@ -76,18 +75,12 @@ export default async function PropertyPage(props: PageProps<"/properties/[id]">)
         </div>
       </div>
 
-      {anyIllustration ? (
-        <p role="note" className="mt-4 rounded-lg border border-border bg-surface p-3 text-sm text-muted">
-          Images marked “Illustration” are not photos of this property.
-        </p>
-      ) : null}
       {photos.length ? (
         <div className="mt-6 grid gap-2 sm:grid-cols-4 sm:grid-rows-2">
           {photos.slice(0, 5).map((p, i) => (
             <a key={p.id} href={`/media/${p.id}`} target="_blank" className={`relative overflow-hidden rounded-xl bg-surface-2 ${i === 0 ? "aspect-[4/3] sm:col-span-2 sm:row-span-2" : "hidden aspect-[4/3] sm:block"}`}>
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={`/media/${p.id}`} alt={`${l.title} ${p.is_illustration ? "illustration" : "photo"} ${i + 1}`} className="h-full w-full object-cover" />
-              {p.is_illustration ? <span className="absolute bottom-2 left-2 rounded bg-black/65 px-2 py-0.5 text-xs font-semibold text-white">Illustration</span> : null}
+              <img src={`/media/${p.id}`} alt={`${l.title} photo ${i + 1}`} className="h-full w-full object-cover" />
             </a>
           ))}
         </div>

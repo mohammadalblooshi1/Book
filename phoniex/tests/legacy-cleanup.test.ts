@@ -4,7 +4,7 @@ import { mkdtempSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
 import { tmpdir } from "node:os";
 import path from "node:path";
 
-test("sample listings from older versions are removed on startup; client listings are kept", async () => {
+test("samples and illustrations from older versions are removed on startup; client data is kept", async () => {
   const dir = mkdtempSync(path.join(tmpdir(), "phoniex-legacy-"));
   process.env.DATABASE_PATH = path.join(dir, "old.db");
   process.env.UPLOADS_DIR = path.join(dir, "uploads");
@@ -25,6 +25,13 @@ test("sample listings from older versions are removed on startup; client listing
   const file = "11111111-1111-1111-1111-111111111111.jpg";
   writeFileSync(path.join(process.env.UPLOADS_DIR, file), "x");
   L.addMedia(u.userId, sample, { kind: "photo", file, mime: "image/jpeg", title: "" });
+  const clientPhoto = "22222222-2222-2222-2222-222222222222.jpg";
+  const illustration = "33333333-3333-3333-3333-333333333333.jpg";
+  for (const f of [clientPhoto, illustration]) writeFileSync(path.join(process.env.UPLOADS_DIR, f), "x");
+  L.addMedia(u.userId, keep, { kind: "photo", file: clientPhoto, mime: "image/jpeg", title: "" });
+  const illId = L.addMedia(u.userId, keep, { kind: "photo", file: illustration, mime: "image/jpeg", title: "" });
+  db().exec("alter table listing_media add column is_illustration integer not null default 0");
+  db().prepare("update listing_media set is_illustration = 1 where id = ?").run(illId);
   db().exec("alter table listings add column is_sample integer not null default 0");
   db().prepare("update listings set is_sample = 1 where id = ?").run(sample);
 
@@ -32,4 +39,7 @@ test("sample listings from older versions are removed on startup; client listing
   assert.ok(L.getListingForOwner(u.userId, keep), "client listing kept");
   assert.equal(L.getListingForOwner(u.userId, sample), null, "sample listing removed");
   assert.equal(existsSync(path.join(process.env.UPLOADS_DIR, file)), false, "sample image file removed");
+  assert.deepEqual(L.listMedia(keep).map((m) => m.file), [clientPhoto], "only the client's own photo remains");
+  assert.equal(existsSync(path.join(process.env.UPLOADS_DIR, illustration)), false, "illustration file removed");
+  assert.equal(existsSync(path.join(process.env.UPLOADS_DIR, clientPhoto)), true, "client photo file kept");
 });
