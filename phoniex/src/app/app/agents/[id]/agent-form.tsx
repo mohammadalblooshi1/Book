@@ -1,5 +1,6 @@
 "use client";
 
+import { ActionForm } from "@/components/action-form";
 import { useActionState } from "react";
 import { updateAgent } from "@/lib/actions/workspace";
 import type { FormState } from "@/lib/actions/public";
@@ -22,7 +23,7 @@ export type AgentRow = {
 export function AgentForm({ agent, readOnly }: { agent: AgentRow; readOnly: boolean }) {
   const [state, action, pending] = useActionState<FormState, FormData>(updateAgent, null);
   return (
-    <form action={action} className="space-y-4">
+    <ActionForm action={action} className="space-y-4">
       <input type="hidden" name="id" value={agent.id} />
       <fieldset disabled={readOnly} className="space-y-4">
         <div className="grid gap-4 sm:grid-cols-2">
@@ -89,6 +90,6 @@ export function AgentForm({ agent, readOnly }: { agent: AgentRow; readOnly: bool
       </fieldset>
       <FormMessage state={state} />
       {!readOnly ? <button className="btn-primary" disabled={pending}>{pending ? "Saving…" : "Save agent"}</button> : null}
-    </form>
+    </ActionForm>
   );
 }

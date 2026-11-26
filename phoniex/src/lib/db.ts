@@ -117,6 +117,58 @@ create table if not exists audit_logs (
 );
 create index if not exists audit_logs_org_idx on audit_logs(org_id, created_at);
 
+-- Owner self-service property listings
+create table if not exists listings (
+  id text primary key,
+  org_id text not null references organizations(id) on delete cascade,
+  created_by text references users(id) on delete set null,
+  title text not null,
+  purpose text not null default 'sale' check (purpose in ('sale','rent')),
+  property_type text not null,
+  emirate text not null,
+  community text not null default '',
+  price_aed integer not null,
+  bedrooms integer not null default 0,
+  bathrooms integer not null default 0,
+  size_sqft integer not null default 0,
+  description text not null default '',
+  permit_number text not null default '',
+  contact_name text not null default '',
+  contact_phone text not null default '',
+  floor_plan text not null default '{"width":20,"height":14,"rooms":[]}',
+  status text not null default 'draft' check (status in ('draft','published','sold','archived')),
+  published_at text,
+  created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now')),
+  updated_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+);
+create index if not exists listings_org_idx on listings(org_id);
+create index if not exists listings_status_idx on listings(status, published_at);
+
+create table if not exists listing_media (
+  id text primary key,
+  listing_id text not null references listings(id) on delete cascade,
+  org_id text not null references organizations(id) on delete cascade,
+  kind text not null check (kind in ('photo','pano')),
+  file text not null,
+  mime text not null,
+  title text not null default '',
+  sort integer not null default 0,
+  created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+);
+create index if not exists listing_media_listing_idx on listing_media(listing_id, kind, sort);
+
+create table if not exists listing_enquiries (
+  id text primary key,
+  listing_id text not null references listings(id) on delete cascade,
+  org_id text not null references organizations(id) on delete cascade,
+  name text not null,
+  email text not null,
+  phone text,
+  message text not null,
+  created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+);
+create index if not exists listing_enquiries_listing_idx on listing_enquiries(listing_id, created_at);
+
 -- Emails are stored here instead of being sent (no email provider connected yet).
 create table if not exists outbox (
   id text primary key,
@@ -132,7 +184,7 @@ const globalForDb = globalThis as unknown as { __phoniexDb?: DatabaseSync };
 
 export function db(): DatabaseSync {
   if (globalForDb.__phoniexDb) return globalForDb.__phoniexDb;
-  const file = process.env.DATABASE_PATH ?? path.join(process.cwd(), "data", "phoniex.db");
+  const file = process.env.DATABASE_PATH ?? path.join(/* turbopackIgnore: true */ process.cwd(), "data", "phoniex.db");
   if (file !== ":memory:") mkdirSync(path.dirname(file), { recursive: true });
   const conn = new DatabaseSync(file);
   if (file !== ":memory:") conn.exec("pragma journal_mode = wal;");

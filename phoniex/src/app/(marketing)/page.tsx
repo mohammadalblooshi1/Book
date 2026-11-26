@@ -78,6 +78,23 @@ export default function HomePage() {
         </div>
       </section>
 
+      <section className="container-page pb-16">
+        <div className="card grid gap-6 p-8 lg:grid-cols-3 lg:items-center">
+          <div className="lg:col-span-2">
+            <span className="badge mb-3">PHONIEX Home</span>
+            <h2 className="text-2xl font-bold sm:text-3xl">Selling or renting your property? List it yourself.</h2>
+            <p className="mt-3 text-muted">
+              Create your own property page in minutes — photos, a 360° virtual tour buyers can explore on any device or VR headset,
+              and a floor-plan diagram you draw yourself. Buyers contact you directly. No agent needed.
+            </p>
+          </div>
+          <div className="flex flex-col gap-2">
+            <Link href="/app/listings/new" className="btn-primary">List your property</Link>
+            <Link href="/properties" className="btn-secondary">Browse properties</Link>
+          </div>
+        </div>
+      </section>
+
       <section className="border-y border-border bg-surface py-16">
         <div className="container-page grid gap-10 lg:grid-cols-2">
           <div>

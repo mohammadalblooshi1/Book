@@ -38,6 +38,9 @@ For a production build: `npm run build && npm start`.
 | AI Agent Builder | 10 agent templates (Customer Service, Sales, Maintenance, …); configure role, instructions, approved knowledge, model, effort, human-approval policy, monthly limit, draft/active/paused |
 | Agent chat | Streaming test chat. **Demo mode** (no key): simulated reply that quotes matching lines from the agent's knowledge, clearly labelled. With `ANTHROPIC_API_KEY`: real Claude replies. Every run logged; monthly limits enforced |
 | Projects | Customers see their solution requests and status |
+| Property listings (owner self-service) | Owners list a villa/apartment/etc. for sale or rent themselves: details, photos, publish / unpublish / mark sold. Public search at `/properties` with filters; buyers send enquiries straight to the owner — no agent |
+| 360° virtual tours (VR) | Upload one 360° (2:1 equirectangular) photo per room. Buyers drag to look around on any device, zoom, go full screen, and an **Enter VR** button appears on WebXR headsets (e.g. Meta Quest browser) |
+| Floor-plan diagrams | Drag-and-drop editor on a 1 m grid: add rooms by type, move/resize, set sizes, total area in m² and sq ft. Rooms can link to a 360° photo — buyers click the room on the plan to open its tour |
 | Platform admin | Organizations, leads, project requests, AI usage and the **email outbox** |
 
 **Not built yet** (next roadmap phases): website/app generator, automation center, document upload
@@ -46,7 +49,7 @@ industry-specific modules.
 
 ## Where data lives
 
-Everything is in `data/phoniex.db` (SQLite, ignored by git). Delete that file to start fresh.
+Everything is in `data/` (ignored by git): the database `data/phoniex.db` and uploaded images in `data/uploads/`. Delete that file to start fresh.
 Back it up by copying the file while the app is stopped.
 
 ## Tests
@@ -64,6 +67,7 @@ npm run build
 - Hosting: the local SQLite file suits a single server (a VPS or your own machine). Serverless hosts
   without a persistent disk would need the database moved to a hosted one — `src/lib/db.ts` and
   `src/lib/repo.ts` are the only files that touch the database.
+- Property advertising rules: some emirates require an advertising permit (e.g. Trakheesi in Dubai) even for owner listings. The listing form has a permit field; check the rules before publishing publicly.
 - Email: replace the body of `sendEmail()` in `src/lib/email.ts` with a real provider when ready.
 - Add spam protection (rate limiting, captcha) to public forms, MFA, backups and monitoring, and a
   UAE PDPL review before calling it production-ready.

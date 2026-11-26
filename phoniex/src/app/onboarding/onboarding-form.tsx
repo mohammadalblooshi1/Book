@@ -1,5 +1,6 @@
 "use client";
 
+import { ActionForm } from "@/components/action-form";
 import { useActionState } from "react";
 import { createWorkspace } from "@/lib/actions/workspace";
 import type { FormState } from "@/lib/actions/public";
@@ -9,7 +10,7 @@ import { industries } from "@/lib/site";
 export function OnboardingForm() {
   const [state, action, pending] = useActionState<FormState, FormData>(createWorkspace, null);
   return (
-    <form action={action} className="space-y-4">
+    <ActionForm action={action} className="space-y-4">
       <div>
         <label className="label" htmlFor="name">Business name</label>
         <input id="name" name="name" className="input" required />
@@ -24,6 +25,6 @@ export function OnboardingForm() {
       </div>
       <FormMessage state={state} />
       <button className="btn-primary w-full" disabled={pending}>{pending ? "Creating…" : "Create workspace"}</button>
-    </form>
+    </ActionForm>
   );
 }

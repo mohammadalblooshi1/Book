@@ -1,5 +1,6 @@
 "use client";
 
+import { ActionForm } from "@/components/action-form";
 import { useActionState } from "react";
 import { signUp } from "@/lib/actions/auth";
 import type { FormState } from "@/lib/actions/public";
@@ -9,7 +10,7 @@ export function SignupForm() {
   const [state, action, pending] = useActionState<FormState, FormData>(signUp, null);
   if (state?.ok) return <FormMessage state={state} />;
   return (
-    <form action={action} className="space-y-4" noValidate>
+    <ActionForm action={action} className="space-y-4" noValidate>
       <div>
         <label className="label" htmlFor="full_name">Full name</label>
         <input id="full_name" name="full_name" className="input" required autoComplete="name" />
@@ -27,6 +28,6 @@ export function SignupForm() {
       </div>
       <FormMessage state={state} />
       <button className="btn-primary w-full" disabled={pending}>{pending ? "Creating account…" : "Create account"}</button>
-    </form>
+    </ActionForm>
   );
 }

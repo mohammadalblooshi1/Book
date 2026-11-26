@@ -1,5 +1,6 @@
 "use client";
 
+import { ActionForm } from "@/components/action-form";
 import { useActionState } from "react";
 import { submitContact, type FormState } from "@/lib/actions/public";
 import { FieldError, FormMessage, Honeypot } from "@/components/form-bits";
@@ -9,7 +10,7 @@ export function ContactForm() {
   const [state, action, pending] = useActionState<FormState, FormData>(submitContact, null);
   if (state?.ok) return <FormMessage state={state} />;
   return (
-    <form action={action} className="space-y-4" noValidate>
+    <ActionForm action={action} className="space-y-4" noValidate>
       <Honeypot />
       <div className="grid gap-4 sm:grid-cols-2">
         <div>
@@ -46,6 +47,6 @@ export function ContactForm() {
       </div>
       <FormMessage state={state} />
       <button className="btn-primary" disabled={pending}>{pending ? "Sending…" : "Send message"}</button>
-    </form>
+    </ActionForm>
   );
 }

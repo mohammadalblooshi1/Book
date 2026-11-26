@@ -1,5 +1,6 @@
 "use client";
 
+import { ActionForm } from "@/components/action-form";
 import { useActionState } from "react";
 import { submitProjectRequest, type FormState } from "@/lib/actions/public";
 import { FieldError, FormMessage, Honeypot } from "@/components/form-bits";
@@ -9,7 +10,7 @@ export function StartForm({ defaultIndustry }: { defaultIndustry?: string }) {
   const [state, action, pending] = useActionState<FormState, FormData>(submitProjectRequest, null);
   if (state?.ok) return <FormMessage state={state} />;
   return (
-    <form action={action} className="space-y-6" noValidate>
+    <ActionForm action={action} className="space-y-6" noValidate>
       <Honeypot />
       <fieldset className="space-y-4">
         <legend className="text-lg font-semibold">1. Your business</legend>
@@ -87,6 +88,6 @@ export function StartForm({ defaultIndustry }: { defaultIndustry?: string }) {
 
       <FormMessage state={state} />
       <button className="btn-primary px-5 py-3" disabled={pending}>{pending ? "Submitting…" : "Request a proposal"}</button>
-    </form>
+    </ActionForm>
   );
 }
