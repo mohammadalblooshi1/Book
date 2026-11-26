@@ -29,7 +29,6 @@ export type Listing = {
   contact_phone: string;
   floor_plan: string;
   status: (typeof LISTING_STATUSES)[number];
-  is_sample: number;
   agent_notes: string;
   published_at: string | null;
   created_at: string;
@@ -218,13 +217,13 @@ export function searchPublicListings(f: SearchFilters) {
   return db()
     .prepare(
       `select l.id, l.title, l.purpose, l.property_type, l.emirate, l.community, l.price_aed, l.bedrooms, l.bathrooms,
-              l.size_sqft, l.status, l.is_sample,
+              l.size_sqft, l.status,
               (select id from listing_media m where m.listing_id = l.id and m.kind = 'photo' order by m.is_illustration, m.sort limit 1) as cover_id,
               (select count(*) from listing_media m where m.listing_id = l.id and m.kind = 'pano') as pano_count
          from listings l where ${where.join(" and ")}
-        order by l.status = 'sold', l.is_sample, l.published_at desc limit 60`,
+        order by l.status = 'sold', l.published_at desc limit 60`,
     )
-    .all(...args) as (Pick<Listing, "id" | "title" | "purpose" | "property_type" | "emirate" | "community" | "price_aed" | "bedrooms" | "bathrooms" | "size_sqft" | "status" | "is_sample"> & {
+    .all(...args) as (Pick<Listing, "id" | "title" | "purpose" | "property_type" | "emirate" | "community" | "price_aed" | "bedrooms" | "bathrooms" | "size_sqft" | "status"> & {
     cover_id: string | null; pano_count: number;
   })[];
 }
@@ -235,7 +234,7 @@ export function getPublicListing(listingId: string) {
 }
 
 export function createEnquiry(listingId: string, e: { name: string; email: string; phone?: string; message: string }) {
-  const l = db().prepare("select id, org_id, title, status from listings where id = ? and status = 'published' and is_sample = 0").get(listingId) as
+  const l = db().prepare("select id, org_id, title, status from listings where id = ? and status = 'published'").get(listingId) as
     | { id: string; org_id: string; title: string; status: string }
     | undefined;
   if (!l) return null;

@@ -1,7 +1,7 @@
 import type { FloorPlanT, RoomKind } from "@/lib/floor-plan";
 
 // Generates a starter floor-plan diagram from the property type and bedroom
-// count. Used by the sample listings and the AI listing agent; owners can then
+// count. Used by the AI listing agent; owners can then
 // adjust it in the floor-plan editor.
 
 export type PlanKind = "villa" | "apartment" | "penthouse" | "townhouse";

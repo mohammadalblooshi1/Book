@@ -99,7 +99,6 @@ export default function HomePage() {
                   ) : null}
                   <div className="absolute left-2 top-2 flex gap-1">
                     {l.pano_count > 0 ? <span className="rounded bg-accent px-2 py-0.5 text-xs font-semibold text-accent-fg">360° tour</span> : null}
-                    {l.is_sample ? <span className="rounded bg-white/90 px-2 py-0.5 text-xs font-semibold text-navy">Sample</span> : null}
                   </div>
                 </div>
                 <div className="p-4">

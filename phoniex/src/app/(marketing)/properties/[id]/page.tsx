@@ -63,12 +63,6 @@ export default async function PropertyPage(props: PageProps<"/properties/[id]">)
           <Link href={`/app/listings/${l.id}`} className="underline">Back to editor</Link>
         </p>
       ) : null}
-      {l.is_sample ? (
-        <p role="note" className="mb-6 rounded-lg border border-warn p-3 text-sm text-warn">
-          <strong>Sample listing.</strong> This is an illustrative property created to demonstrate the platform — it is not a real
-          offer, and the images are illustrations. Enquiries are disabled.
-        </p>
-      ) : null}
       <Link href="/properties" className="text-sm text-muted hover:text-fg">← All properties</Link>
 
       <div className="mt-3 flex flex-wrap items-end justify-between gap-4">
@@ -82,7 +76,7 @@ export default async function PropertyPage(props: PageProps<"/properties/[id]">)
         </div>
       </div>
 
-      {anyIllustration && !l.is_sample ? (
+      {anyIllustration ? (
         <p role="note" className="mt-4 rounded-lg border border-border bg-surface p-3 text-sm text-muted">
           Images marked “Illustration” are not photos of this property.
         </p>
@@ -138,9 +132,7 @@ export default async function PropertyPage(props: PageProps<"/properties/[id]">)
             {l.contact_phone && !closed ? (
               <p className="mb-4 text-sm">Phone / WhatsApp: <a href={`tel:${l.contact_phone.replace(/[^+\d]/g, "")}`} className="font-medium text-accent underline">{l.contact_phone}</a></p>
             ) : null}
-            {l.is_sample ? (
-              <p className="text-sm text-muted">Enquiries are disabled for sample listings.</p>
-            ) : closed ? (
+            {closed ? (
               <p className="text-sm text-muted">This property has been {l.purpose === "rent" ? "rented" : "sold"}.</p>
             ) : preview ? (
               <p className="text-sm text-muted">The enquiry form appears here once the listing is published.</p>

@@ -1,6 +1,7 @@
-"""Generates the illustrated sample-listing images in seed/images/.
+"""Generates the illustrations in seed/images/ that the listing agent can add to an
+owner's draft so they can preview it before uploading real photos.
 Run: python3 scripts/generate-sample-images.py   (needs Pillow)
-All images are original illustrations, watermarked as samples."""
+All images are original illustrations, watermarked "Illustration — not a real photo"."""
 import math, os, random, sys
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 

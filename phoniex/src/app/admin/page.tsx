@@ -4,8 +4,6 @@ import Link from "next/link";
 import { requireUser } from "@/lib/session";
 import { adminOverview } from "@/lib/repo";
 import { daysAgoIso } from "@/lib/time";
-import { sampleCount } from "@/lib/samples";
-import { manageSamplesAction } from "@/lib/actions/workspace";
 
 export const metadata: Metadata = { title: "Platform admin" };
 
@@ -15,7 +13,6 @@ export default async function AdminPage() {
   const user = await requireUser();
   if (user.is_platform_admin !== 1) notFound();
   const { orgs, leads, requests, runs, outbox } = adminOverview(user.id, daysAgoIso(30));
-  const samples = sampleCount();
 
   return (
     <main className="container-page space-y-8 py-10">
@@ -28,19 +25,6 @@ export default async function AdminPage() {
         <div className="card"><p className="text-sm text-muted">Agent runs (30d)</p><p className="text-3xl font-bold">{runs.n}</p></div>
         <div className="card"><p className="text-sm text-muted">Tokens (30d)</p><p className="text-3xl font-bold">{runs.tokens.toLocaleString()}</p></div>
       </div>
-
-      <section className="card flex flex-wrap items-center justify-between gap-4">
-        <div>
-          <h2 className="font-semibold">Sample property listings</h2>
-          <p className="text-sm text-muted">
-            {samples} sample listing{samples === 1 ? "" : "s"} live. Samples are labelled on the site and do not accept enquiries.
-          </p>
-        </div>
-        <div className="flex gap-2">
-          <form action={manageSamplesAction}><input type="hidden" name="op" value="seed" /><button className="btn-secondary">{samples ? "Refresh samples" : "Add sample listings"}</button></form>
-          {samples ? <form action={manageSamplesAction}><input type="hidden" name="op" value="remove" /><button className="btn-ghost text-danger">Remove samples</button></form> : null}
-        </div>
-      </section>
 
       <section className="card overflow-x-auto">
         <h2 className="mb-3 font-semibold">Project requests</h2>

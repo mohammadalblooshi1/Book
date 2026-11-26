@@ -77,13 +77,3 @@ export async function deleteAgent(formData: FormData) {
   repo.deleteAgent(user.id, ws.id, String(formData.get("id") ?? ""));
   redirect("/app/agents");
 }
-
-export async function manageSamplesAction(formData: FormData) {
-  const user = await requireUser();
-  if (user.is_platform_admin !== 1) redirect("/app");
-  const { seedSamples, removeSamples } = await import("@/lib/samples");
-  if (formData.get("op") === "remove") await removeSamples();
-  else await seedSamples();
-  revalidatePath("/properties");
-  redirect("/admin");
-}

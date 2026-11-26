@@ -4,7 +4,7 @@ import path from "node:path";
 import { storeBytes } from "@/lib/media";
 import type { PanoSlot } from "@/lib/plan-generator";
 
-// Original illustrations (seed/images) used for sample listings and for AI-drafted
+// Original illustrations (seed/images) used for AI-drafted
 // listings until the owner uploads real photos. Every image is watermarked
 // "Illustration — not a real photo" and flagged is_illustration in the database.
 

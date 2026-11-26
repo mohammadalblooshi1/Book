@@ -60,7 +60,11 @@ export default async function PropertiesPage(props: PageProps<"/properties">) {
 
       <p className="mt-6 text-sm text-muted">{results.length} propert{results.length === 1 ? "y" : "ies"}</p>
       {results.length === 0 ? (
-        <div className="card mt-4 text-center text-muted">No properties match your search yet.</div>
+        <div className="card mt-4 text-center">
+          <p className="text-muted">No properties listed yet{Object.values(filters).some(Boolean) ? " that match your search" : ""}.</p>
+          <p className="mt-1 text-sm text-muted">Own a property? List it yourself in minutes — no agent needed.</p>
+          <Link href="/app/listings/new" className="btn-primary mt-4">List your property</Link>
+        </div>
       ) : (
         <div className="mt-4 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
           {results.map((l) => (
@@ -73,7 +77,6 @@ export default async function PropertiesPage(props: PageProps<"/properties">) {
                 <div className="absolute left-2 top-2 flex gap-1">
                   <span className="rounded bg-black/65 px-2 py-0.5 text-xs font-medium text-white">For {l.purpose === "rent" ? "rent" : "sale"}</span>
                   {l.pano_count > 0 ? <span className="rounded bg-accent px-2 py-0.5 text-xs font-semibold text-accent-fg">360° tour</span> : null}
-                  {l.is_sample ? <span className="rounded bg-white/90 px-2 py-0.5 text-xs font-semibold text-navy">Sample</span> : null}
                   {l.status === "sold" ? <span className="rounded bg-danger px-2 py-0.5 text-xs font-semibold text-white">{l.purpose === "rent" ? "Rented" : "Sold"}</span> : null}
                 </div>
               </div>

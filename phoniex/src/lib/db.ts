@@ -1,6 +1,6 @@
 import "server-only";
 import { DatabaseSync } from "node:sqlite";
-import { mkdirSync } from "node:fs";
+import { mkdirSync, unlinkSync } from "node:fs";
 import path from "node:path";
 
 // Local SQLite database (Node's built-in node:sqlite, no external service).
@@ -137,7 +137,6 @@ create table if not exists listings (
   contact_phone text not null default '',
   floor_plan text not null default '{"width":20,"height":14,"rooms":[]}',
   status text not null default 'draft' check (status in ('draft','published','sold','archived')),
-  is_sample integer not null default 0,
   agent_notes text not null default '',
   published_at text,
   created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now')),
@@ -201,15 +200,35 @@ export function db(): DatabaseSync {
 /** Small additive migrations for databases created by earlier versions. */
 function migrate(conn: DatabaseSync) {
   const cols = conn.prepare("pragma table_info(listings)").all() as { name: string }[];
-  if (!cols.some((c) => c.name === "is_sample")) {
-    conn.exec("alter table listings add column is_sample integer not null default 0");
-  }
+  if (cols.some((c) => c.name === "is_sample")) removeLegacySamples(conn);
   if (!cols.some((c) => c.name === "agent_notes")) {
     conn.exec("alter table listings add column agent_notes text not null default ''");
   }
   const mediaCols = conn.prepare("pragma table_info(listing_media)").all() as { name: string }[];
   if (!mediaCols.some((c) => c.name === "is_illustration")) {
     conn.exec("alter table listing_media add column is_illustration integer not null default 0");
+  }
+}
+
+/**
+ * An earlier version could add demo "sample" listings. The platform now starts
+ * empty and only shows listings created by clients, so delete any leftovers.
+ */
+function removeLegacySamples(conn: DatabaseSync) {
+  const files = conn
+    .prepare("select m.file from listing_media m join listings l on l.id = m.listing_id where l.is_sample = 1")
+    .all() as { file: string }[];
+  if (!files.length && !conn.prepare("select 1 from listings where is_sample = 1").get()) return;
+  conn.exec("delete from listings where is_sample = 1");
+  conn.exec("delete from organizations where name = 'PHONIEX Sample Properties'");
+  conn.exec("delete from users where email = 'samples@phoniex.local'");
+  const dir = process.env.UPLOADS_DIR ?? path.join(/* turbopackIgnore: true */ process.cwd(), "data", "uploads");
+  for (const { file } of files) {
+    if (/^[0-9a-f-]{36}\.(jpg|png|webp)$/.test(file)) {
+      try {
+        unlinkSync(path.join(/* turbopackIgnore: true */ dir, file));
+      } catch {}
+    }
   }
 }
 
