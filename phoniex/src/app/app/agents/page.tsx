@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { createClient } from "@/lib/supabase/server";
+import { listAgents } from "@/lib/repo";
 import { requireWorkspace } from "@/lib/session";
 import { agentModels } from "@/lib/site";
 
@@ -8,13 +8,8 @@ export const metadata: Metadata = { title: "Agents" };
 
 export default async function AgentsPage(props: PageProps<"/app/agents">) {
   const { error } = await props.searchParams;
-  const ws = await requireWorkspace();
-  const supabase = await createClient();
-  const { data: agents } = await supabase
-    .from("agents")
-    .select("id, name, role_description, model, status, updated_at")
-    .eq("org_id", ws.id)
-    .order("created_at");
+  const { user, ws } = await requireWorkspace();
+  const agents = listAgents(user.id, ws.id);
 
   return (
     <div className="space-y-6">

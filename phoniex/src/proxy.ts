@@ -1,10 +1,21 @@
-import type { NextRequest } from "next/server";
-import { updateSession } from "@/lib/supabase/proxy";
+import { NextResponse, type NextRequest } from "next/server";
 
-export async function proxy(request: NextRequest) {
-  return updateSession(request);
+const PROTECTED = ["/app", "/admin", "/onboarding"];
+
+// Optimistic check only: send visitors without a session cookie to the login page.
+// Pages still verify the session against the database before showing any data.
+export function proxy(request: NextRequest) {
+  const path = request.nextUrl.pathname;
+  const isProtected = PROTECTED.some((p) => path === p || path.startsWith(p + "/"));
+  if (isProtected && !request.cookies.get("phx_session")) {
+    const login = request.nextUrl.clone();
+    login.pathname = "/login";
+    login.search = `?next=${encodeURIComponent(path)}`;
+    return NextResponse.redirect(login);
+  }
+  return NextResponse.next();
 }
 
 export const config = {
-  matcher: ["/((?!_next/static|_next/image|favicon.ico|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico)$).*)"],
+  matcher: ["/app/:path*", "/admin/:path*", "/onboarding/:path*"],
 };

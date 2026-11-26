@@ -1,24 +1,17 @@
 import "server-only";
-import { Resend } from "resend";
-import { env } from "@/lib/env";
+import { db, newId } from "@/lib/db";
 
-type Mail = { to: string | string[]; subject: string; text: string; replyTo?: string };
+type Mail = { to: string; subject: string; text: string; replyTo?: string };
 
 /**
- * Sends a transactional email through Resend. If RESEND_API_KEY is not set the
- * message is logged instead, so forms keep working in local development.
+ * No email provider is connected yet: messages are saved to the local "outbox"
+ * table (visible on the platform-admin page) and logged to the server console.
+ * Swap this function for a real provider when you are ready to send email.
  */
 export async function sendEmail({ to, subject, text, replyTo }: Mail) {
-  const key = env.resendApiKey();
-  if (!key) {
-    console.info("[email:dev] RESEND_API_KEY not set; would send:", { to, subject });
-    return { ok: true as const, skipped: true };
-  }
-  const resend = new Resend(key);
-  const { error } = await resend.emails.send({ from: env.emailFrom(), to, subject, text, replyTo });
-  if (error) {
-    console.error("[email] send failed", error);
-    return { ok: false as const, error: error.message };
-  }
-  return { ok: true as const, skipped: false };
+  db()
+    .prepare("insert into outbox (id, to_addr, reply_to, subject, body) values (?, ?, ?, ?, ?)")
+    .run(newId(), to, replyTo ?? null, subject, text);
+  console.info(`[email:outbox] to=${to} subject=${JSON.stringify(subject)}`);
+  return { ok: true as const };
 }

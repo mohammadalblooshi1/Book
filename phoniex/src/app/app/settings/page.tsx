@@ -1,18 +1,13 @@
 import type { Metadata } from "next";
-import { createClient } from "@/lib/supabase/server";
+import { listMembers } from "@/lib/repo";
 import { requireWorkspace } from "@/lib/session";
 import { industries, plans } from "@/lib/site";
 
 export const metadata: Metadata = { title: "Workspace" };
 
 export default async function SettingsPage() {
-  const ws = await requireWorkspace();
-  const supabase = await createClient();
-  const { data: members } = await supabase
-    .from("memberships")
-    .select("user_id, role, created_at")
-    .eq("org_id", ws.id)
-    .order("created_at");
+  const { user, ws } = await requireWorkspace();
+  const members = listMembers(user.id, ws.id);
 
   return (
     <div className="space-y-6">
@@ -25,9 +20,9 @@ export default async function SettingsPage() {
       <section className="card">
         <h2 className="font-semibold">Members</h2>
         <ul className="mt-3 divide-y divide-border text-sm">
-          {(members ?? []).map((m) => (
-            <li key={m.user_id} className="flex justify-between py-2">
-              <span className="font-mono text-xs">{m.user_id}</span>
+          {members.map((m) => (
+            <li key={m.email} className="flex justify-between gap-4 py-2">
+              <span className="truncate">{m.full_name || m.email} <span className="text-muted">· {m.email}</span></span>
               <span className="badge">{m.role}</span>
             </li>
           ))}

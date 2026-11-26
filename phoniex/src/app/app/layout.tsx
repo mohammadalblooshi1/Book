@@ -6,7 +6,7 @@ import { switchWorkspace } from "@/lib/actions/workspace";
 import { industries } from "@/lib/site";
 
 export default async function AppLayout({ children }: LayoutProps<"/app">) {
-  const ws = await requireWorkspace();
+  const { ws } = await requireWorkspace();
   const [workspaces, admin] = await Promise.all([getWorkspaces(), isPlatformAdmin()]);
   const industry = industries.find((i) => i.slug === ws.industry)?.name ?? "Other business";
 

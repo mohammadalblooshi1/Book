@@ -1,0 +1,176 @@
+import "server-only";
+import { DatabaseSync } from "node:sqlite";
+import { mkdirSync } from "node:fs";
+import path from "node:path";
+
+// Local SQLite database (Node's built-in node:sqlite, no external service).
+// File location: DATABASE_PATH, default ./data/phoniex.db. Use ":memory:" in tests.
+
+const SCHEMA = `
+pragma foreign_keys = on;
+
+create table if not exists users (
+  id text primary key,
+  email text not null unique collate nocase,
+  password_hash text not null,
+  full_name text not null default '',
+  is_platform_admin integer not null default 0,
+  created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+);
+
+create table if not exists sessions (
+  token_hash text primary key,
+  user_id text not null references users(id) on delete cascade,
+  expires_at text not null,
+  created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+);
+create index if not exists sessions_user_idx on sessions(user_id);
+
+create table if not exists organizations (
+  id text primary key,
+  name text not null,
+  industry text not null,
+  division text not null check (division in ('enterprise','business','home')),
+  plan text not null default 'starter' check (plan in ('starter','professional','enterprise')),
+  created_by text references users(id) on delete set null,
+  created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+);
+
+create table if not exists memberships (
+  org_id text not null references organizations(id) on delete cascade,
+  user_id text not null references users(id) on delete cascade,
+  role text not null check (role in ('owner','admin','member','viewer')),
+  created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now')),
+  primary key (org_id, user_id)
+);
+create index if not exists memberships_user_idx on memberships(user_id);
+
+create table if not exists agents (
+  id text primary key,
+  org_id text not null references organizations(id) on delete cascade,
+  name text not null,
+  template text not null,
+  role_description text not null default '',
+  instructions text not null default '',
+  knowledge text not null default '',
+  model text not null default 'claude-opus-5-5',
+  effort text not null default 'medium' check (effort in ('low','medium','high')),
+  approval_policy text not null default 'sensitive' check (approval_policy in ('none','sensitive','all')),
+  status text not null default 'draft' check (status in ('draft','active','paused')),
+  monthly_message_limit integer not null default 500,
+  created_by text references users(id) on delete set null,
+  created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now')),
+  updated_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+);
+create index if not exists agents_org_idx on agents(org_id);
+
+create table if not exists agent_runs (
+  id text primary key,
+  org_id text not null references organizations(id) on delete cascade,
+  agent_id text not null references agents(id) on delete cascade,
+  user_id text references users(id) on delete set null,
+  model text not null,
+  input_tokens integer not null default 0,
+  output_tokens integer not null default 0,
+  latency_ms integer not null default 0,
+  status text not null check (status in ('ok','demo','refused','error','limited')),
+  error text,
+  created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+);
+create index if not exists agent_runs_org_idx on agent_runs(org_id, created_at);
+create index if not exists agent_runs_agent_idx on agent_runs(agent_id, created_at);
+
+create table if not exists project_requests (
+  id text primary key,
+  org_id text references organizations(id) on delete cascade,
+  submitted_by text references users(id) on delete set null,
+  contact_name text not null,
+  contact_email text not null,
+  company text not null,
+  industry text not null,
+  services text not null default '[]',
+  goals text not null,
+  budget text,
+  timeline text,
+  status text not null default 'new',
+  created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+);
+
+create table if not exists leads (
+  id text primary key,
+  name text not null,
+  email text not null,
+  company text,
+  phone text,
+  industry text,
+  message text not null,
+  created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+);
+
+create table if not exists audit_logs (
+  id integer primary key autoincrement,
+  org_id text references organizations(id) on delete cascade,
+  actor_id text references users(id) on delete set null,
+  action text not null,
+  details text not null default '{}',
+  created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+);
+create index if not exists audit_logs_org_idx on audit_logs(org_id, created_at);
+
+-- Emails are stored here instead of being sent (no email provider connected yet).
+create table if not exists outbox (
+  id text primary key,
+  to_addr text not null,
+  reply_to text,
+  subject text not null,
+  body text not null,
+  created_at text not null default (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+);
+`;
+
+const globalForDb = globalThis as unknown as { __phoniexDb?: DatabaseSync };
+
+export function db(): DatabaseSync {
+  if (globalForDb.__phoniexDb) return globalForDb.__phoniexDb;
+  const file = process.env.DATABASE_PATH ?? path.join(process.cwd(), "data", "phoniex.db");
+  if (file !== ":memory:") mkdirSync(path.dirname(file), { recursive: true });
+  const conn = new DatabaseSync(file);
+  if (file !== ":memory:") conn.exec("pragma journal_mode = wal;");
+  conn.exec(SCHEMA);
+  plainRows(conn);
+  globalForDb.__phoniexDb = conn;
+  return conn;
+}
+
+/**
+ * node:sqlite returns rows as null-prototype objects, which React cannot pass
+ * from Server to Client Components. Make every get()/all() return plain objects.
+ */
+function plainRows(conn: DatabaseSync) {
+  const prepare = conn.prepare.bind(conn);
+  conn.prepare = ((sql: string) => {
+    const stmt = prepare(sql);
+    const get = stmt.get.bind(stmt);
+    const all = stmt.all.bind(stmt);
+    stmt.get = ((...args: Parameters<typeof get>) => {
+      const row = get(...args);
+      return row ? { ...row } : row;
+    }) as typeof stmt.get;
+    stmt.all = ((...args: Parameters<typeof all>) => all(...args).map((r) => ({ ...r }))) as typeof stmt.all;
+    return stmt;
+  }) as typeof conn.prepare;
+}
+
+/** Closes and forgets the connection (used by tests). */
+export function resetDb() {
+  globalForDb.__phoniexDb?.close();
+  globalForDb.__phoniexDb = undefined;
+}
+
+export function newId() {
+  return crypto.randomUUID();
+}
+
+export function nowIso() {
+  return new Date().toISOString();
+}

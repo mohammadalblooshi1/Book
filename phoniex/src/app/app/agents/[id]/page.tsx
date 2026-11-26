@@ -1,32 +1,21 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { createClient } from "@/lib/supabase/server";
+import { getAgent, recentRuns } from "@/lib/repo";
+import { aiConfigured } from "@/lib/ai";
 import { canEdit, requireWorkspace } from "@/lib/session";
 import { deleteAgent } from "@/lib/actions/workspace";
-import { AgentForm, type AgentRow } from "./agent-form";
+import { AgentForm } from "./agent-form";
 import { AgentChat } from "./agent-chat";
 
 export const metadata: Metadata = { title: "Agent" };
 
 export default async function AgentPage(props: PageProps<"/app/agents/[id]">) {
   const { id } = await props.params;
-  const ws = await requireWorkspace();
-  const supabase = await createClient();
-  const { data: agent } = await supabase
-    .from("agents")
-    .select("id, name, role_description, instructions, knowledge, model, effort, approval_policy, status, monthly_message_limit")
-    .eq("id", id)
-    .eq("org_id", ws.id)
-    .maybeSingle<AgentRow>();
+  const { user, ws } = await requireWorkspace();
+  const agent = getAgent(user.id, ws.id, id);
   if (!agent) notFound();
-
-  const { data: runs } = await supabase
-    .from("agent_runs")
-    .select("id, status, input_tokens, output_tokens, latency_ms, created_at")
-    .eq("agent_id", id)
-    .order("created_at", { ascending: false })
-    .limit(10);
+  const runs = recentRuns(user.id, ws.id, id);
 
   const editable = canEdit(ws.role);
   const deletable = ws.role === "owner" || ws.role === "admin";
@@ -52,7 +41,7 @@ export default async function AgentPage(props: PageProps<"/app/agents/[id]">) {
         </section>
         <div className="space-y-6">
           <section className="card">
-            <h2 className="mb-4 font-semibold">Test chat</h2>
+            <h2 className="mb-4 font-semibold">Test chat {!aiConfigured() ? <span className="badge ml-2 border-warn text-warn">Demo mode</span> : null}</h2>
             <AgentChat agentId={agent.id} agentName={agent.name} />
           </section>
           <section className="card">

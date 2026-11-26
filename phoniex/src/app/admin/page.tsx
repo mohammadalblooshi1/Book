@@ -1,25 +1,18 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { createClient } from "@/lib/supabase/server";
+import { requireUser } from "@/lib/session";
+import { adminOverview } from "@/lib/repo";
 import { daysAgoIso } from "@/lib/time";
-import { isPlatformAdmin, requireUser } from "@/lib/session";
 
 export const metadata: Metadata = { title: "Platform admin" };
 
-export default async function AdminPage() {
-  await requireUser();
-  if (!(await isPlatformAdmin())) notFound();
-  const supabase = await createClient();
+const day = (iso: string) => new Date(iso).toLocaleDateString("en-GB");
 
-  const [orgs, leads, requests, runs] = await Promise.all([
-    supabase.from("organizations").select("id, name, industry, plan, created_at").order("created_at", { ascending: false }).limit(50),
-    supabase.from("leads").select("id, name, email, company, message, created_at").order("created_at", { ascending: false }).limit(25),
-    supabase.from("project_requests").select("id, company, contact_email, industry, status, created_at").order("created_at", { ascending: false }).limit(25),
-    supabase.from("agent_runs").select("input_tokens, output_tokens, status").gte("created_at", daysAgoIso(30)),
-  ]);
-  const runRows = runs.data ?? [];
-  const tokens = runRows.reduce((s, r) => s + r.input_tokens + r.output_tokens, 0);
+export default async function AdminPage() {
+  const user = await requireUser();
+  if (user.is_platform_admin !== 1) notFound();
+  const { orgs, leads, requests, runs, outbox } = adminOverview(user.id, daysAgoIso(30));
 
   return (
     <main className="container-page space-y-8 py-10">
@@ -28,9 +21,9 @@ export default async function AdminPage() {
         <Link href="/app" className="btn-secondary">Back to workspace</Link>
       </div>
       <div className="grid gap-4 sm:grid-cols-3">
-        <div className="card"><p className="text-sm text-muted">Organizations</p><p className="text-3xl font-bold">{orgs.data?.length ?? 0}</p></div>
-        <div className="card"><p className="text-sm text-muted">Agent runs (30d)</p><p className="text-3xl font-bold">{runRows.length}</p></div>
-        <div className="card"><p className="text-sm text-muted">Tokens (30d)</p><p className="text-3xl font-bold">{tokens.toLocaleString()}</p></div>
+        <div className="card"><p className="text-sm text-muted">Organizations</p><p className="text-3xl font-bold">{orgs.length}</p></div>
+        <div className="card"><p className="text-sm text-muted">Agent runs (30d)</p><p className="text-3xl font-bold">{runs.n}</p></div>
+        <div className="card"><p className="text-sm text-muted">Tokens (30d)</p><p className="text-3xl font-bold">{runs.tokens.toLocaleString()}</p></div>
       </div>
 
       <section className="card overflow-x-auto">
@@ -38,8 +31,8 @@ export default async function AdminPage() {
         <table className="w-full text-left text-sm">
           <thead className="text-xs text-muted"><tr><th>Company</th><th>Contact</th><th>Industry</th><th>Status</th><th>Date</th></tr></thead>
           <tbody className="divide-y divide-border">
-            {(requests.data ?? []).map((r) => (
-              <tr key={r.id}><td className="py-1.5">{r.company}</td><td>{r.contact_email}</td><td>{r.industry}</td><td><span className="badge">{r.status}</span></td><td>{new Date(r.created_at).toLocaleDateString("en-GB")}</td></tr>
+            {requests.map((r) => (
+              <tr key={r.id}><td className="py-1.5">{r.company}</td><td>{r.contact_email}</td><td>{r.industry}</td><td><span className="badge">{r.status}</span></td><td>{day(r.created_at)}</td></tr>
             ))}
           </tbody>
         </table>
@@ -50,11 +43,27 @@ export default async function AdminPage() {
         <table className="w-full text-left text-sm">
           <thead className="text-xs text-muted"><tr><th>Name</th><th>Email</th><th>Company</th><th>Message</th><th>Date</th></tr></thead>
           <tbody className="divide-y divide-border">
-            {(leads.data ?? []).map((l) => (
-              <tr key={l.id}><td className="py-1.5">{l.name}</td><td>{l.email}</td><td>{l.company ?? "—"}</td><td className="max-w-xs truncate">{l.message}</td><td>{new Date(l.created_at).toLocaleDateString("en-GB")}</td></tr>
+            {leads.map((l) => (
+              <tr key={l.id}><td className="py-1.5">{l.name}</td><td>{l.email}</td><td>{l.company ?? "—"}</td><td className="max-w-xs truncate">{l.message}</td><td>{day(l.created_at)}</td></tr>
             ))}
           </tbody>
         </table>
+      </section>
+
+      <section className="card">
+        <h2 className="font-semibold">Email outbox</h2>
+        <p className="mb-3 text-xs text-muted">No email service is connected yet, so notification emails are saved here instead of being sent.</p>
+        {outbox.length === 0 ? <p className="text-sm text-muted">Empty.</p> : (
+          <ul className="space-y-3">
+            {outbox.map((m) => (
+              <li key={m.id} className="rounded-lg border border-border p-3 text-sm">
+                <p className="font-medium">{m.subject}</p>
+                <p className="text-xs text-muted">To {m.to_addr} · {new Date(m.created_at).toLocaleString("en-GB")}</p>
+                <pre className="mt-2 whitespace-pre-wrap font-sans text-xs text-muted">{m.body}</pre>
+              </li>
+            ))}
+          </ul>
+        )}
       </section>
 
       <section className="card overflow-x-auto">
@@ -62,8 +71,8 @@ export default async function AdminPage() {
         <table className="w-full text-left text-sm">
           <thead className="text-xs text-muted"><tr><th>Name</th><th>Industry</th><th>Plan</th><th>Created</th></tr></thead>
           <tbody className="divide-y divide-border">
-            {(orgs.data ?? []).map((o) => (
-              <tr key={o.id}><td className="py-1.5">{o.name}</td><td>{o.industry}</td><td>{o.plan}</td><td>{new Date(o.created_at).toLocaleDateString("en-GB")}</td></tr>
+            {orgs.map((o) => (
+              <tr key={o.id}><td className="py-1.5">{o.name}</td><td>{o.industry}</td><td>{o.plan}</td><td>{day(o.created_at)}</td></tr>
             ))}
           </tbody>
         </table>

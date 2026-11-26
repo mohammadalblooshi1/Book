@@ -1,13 +1,12 @@
 "use server";
 
 import { z } from "zod";
-import { createAdminClient } from "@/lib/supabase/admin";
-import { createClient } from "@/lib/supabase/server";
+import { createLead, createProjectRequest } from "@/lib/repo";
 import { sendEmail } from "@/lib/email";
 import { env } from "@/lib/env";
 import { industries, services } from "@/lib/site";
 import { cookies } from "next/headers";
-import { ORG_COOKIE } from "@/lib/session";
+import { ORG_COOKIE, getUser } from "@/lib/session";
 
 export type FormState = { ok: boolean; message: string; errors?: Record<string, string> } | null;
 
@@ -35,18 +34,16 @@ export async function submitContact(_prev: FormState, formData: FormData): Promi
   if (!parsed.success) return { ok: false, message: "Please fix the highlighted fields.", errors: fieldErrors(parsed.error) };
 
   try {
-    const { error } = await createAdminClient().from("leads").insert(parsed.data);
-    if (error) throw error;
+    createLead(parsed.data);
   } catch (e) {
     console.error("[contact] could not save lead", e);
     return { ok: false, message: "Sorry, we couldn't send your message. Please try again later." };
   }
 
-  const inbox = env.salesInbox();
-  if (inbox) {
+  {
     const d = parsed.data;
     await sendEmail({
-      to: inbox,
+      to: env.salesInbox(),
       replyTo: d.email,
       subject: `New PHONIEX enquiry from ${d.name}`,
       text: `Name: ${d.name}\nEmail: ${d.email}\nCompany: ${d.company ?? "-"}\nPhone: ${d.phone ?? "-"}\nIndustry: ${d.industry ?? "-"}\n\n${d.message}`,
@@ -75,33 +72,20 @@ export async function submitProjectRequest(_prev: FormState, formData: FormData)
   const parsed = ProjectRequest.safeParse(raw);
   if (!parsed.success) return { ok: false, message: "Please fix the highlighted fields.", errors: fieldErrors(parsed.error) };
 
-  const supabase = await createClient().catch(() => null);
-  const user = supabase ? (await supabase.auth.getUser()).data.user : null;
+  const user = await getUser();
+  const orgId = (await cookies()).get(ORG_COOKIE)?.value ?? null;
 
   try {
-    if (supabase && user) {
-      const orgId = (await cookies()).get(ORG_COOKIE)?.value;
-      let org_id: string | null = null;
-      if (orgId) {
-        const { data } = await supabase.from("memberships").select("org_id").eq("org_id", orgId).eq("user_id", user.id).maybeSingle();
-        org_id = data?.org_id ?? null;
-      }
-      const { error } = await supabase.from("project_requests").insert({ ...parsed.data, org_id, submitted_by: user.id });
-      if (error) throw error;
-    } else {
-      const { error } = await createAdminClient().from("project_requests").insert(parsed.data);
-      if (error) throw error;
-    }
+    createProjectRequest(parsed.data, user?.id ?? null, orgId);
   } catch (e) {
     console.error("[project request] could not save", e);
     return { ok: false, message: "Sorry, we couldn't submit your request. Please try again later." };
   }
 
-  const inbox = env.salesInbox();
-  if (inbox) {
+  {
     const d = parsed.data;
     await sendEmail({
-      to: inbox,
+      to: env.salesInbox(),
       replyTo: d.contact_email,
       subject: `New project request: ${d.company} (${d.industry})`,
       text: `From: ${d.contact_name} <${d.contact_email}>\nCompany: ${d.company}\nIndustry: ${d.industry}\nServices: ${d.services.join(", ") || "-"}\nBudget: ${d.budget ?? "-"}\nTimeline: ${d.timeline ?? "-"}\n\n${d.goals}`,

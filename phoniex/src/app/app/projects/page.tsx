@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { createClient } from "@/lib/supabase/server";
+import { listProjects } from "@/lib/repo";
 import { requireWorkspace } from "@/lib/session";
 
 export const metadata: Metadata = { title: "Projects" };
@@ -11,13 +11,8 @@ const STATUS_LABEL: Record<string, string> = {
 };
 
 export default async function ProjectsPage() {
-  const ws = await requireWorkspace();
-  const supabase = await createClient();
-  const { data } = await supabase
-    .from("project_requests")
-    .select("id, company, industry, services, goals, status, created_at")
-    .eq("org_id", ws.id)
-    .order("created_at", { ascending: false });
+  const { user, ws } = await requireWorkspace();
+  const data = listProjects(user.id, ws.id);
 
   return (
     <div className="space-y-6">
@@ -28,11 +23,11 @@ export default async function ProjectsPage() {
         </div>
         <Link href="/start" className="btn-primary">Request a solution</Link>
       </div>
-      {(data ?? []).length === 0 ? (
+      {data.length === 0 ? (
         <div className="card text-sm text-muted">No project requests yet.</div>
       ) : (
         <div className="space-y-3">
-          {(data ?? []).map((p) => (
+          {data.map((p) => (
             <div key={p.id} className="card">
               <div className="flex flex-wrap items-center justify-between gap-2">
                 <h2 className="font-semibold">{p.company}</h2>

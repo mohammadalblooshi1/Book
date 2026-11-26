@@ -45,3 +45,27 @@ export function buildSystemPrompt(agent: AgentForPrompt, orgName: string) {
     .filter(Boolean)
     .join("\n\n");
 }
+
+/** True when a real AI provider key is configured; otherwise agents run in demo mode. */
+export function aiConfigured() {
+  return Boolean(process.env.ANTHROPIC_API_KEY);
+}
+
+/** Simulated reply used in demo mode, clearly labelled as not AI-generated. */
+export function demoReply(agent: { name: string; role_description: string; knowledge: string }, question: string) {
+  const lines = agent.knowledge.split("\n").map((l) => l.trim()).filter(Boolean);
+  const words = question.toLowerCase().match(/[a-z؀-ۿ]{4,}/g) ?? [];
+  const matches = lines.filter((l) => words.some((w) => l.toLowerCase().includes(w))).slice(0, 3);
+  return [
+    "[DEMO MODE — simulated reply. No AI model is connected yet.]",
+    "",
+    `I'm ${agent.name}. ${agent.role_description}`,
+    matches.length
+      ? `From the approved knowledge, these entries look relevant to your question:\n${matches.map((m) => `• ${m}`).join("\n")}`
+      : agent.knowledge
+        ? "I couldn't find anything in the approved knowledge that matches your question, so I would escalate it to a staff member."
+        : "No approved knowledge has been added for this agent yet. Add FAQs, services and policies in the configuration panel.",
+    "",
+    "When an AI key is added, this agent will give full answers using its instructions and knowledge.",
+  ].join("\n");
+}

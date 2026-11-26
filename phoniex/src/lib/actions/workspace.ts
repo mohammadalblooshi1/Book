@@ -1,11 +1,10 @@
 "use server";
 
-import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
 import { z } from "zod";
-import { createClient } from "@/lib/supabase/server";
-import { ORG_COOKIE, requireUser, requireWorkspace, canEdit } from "@/lib/session";
+import { canEdit, getWorkspaces, requireUser, requireWorkspace, setActiveOrg } from "@/lib/session";
+import * as repo from "@/lib/repo";
 import { industries, templateByKey, agentModels } from "@/lib/site";
 import type { FormState } from "@/lib/actions/public";
 
@@ -17,26 +16,19 @@ const NewOrg = z.object({
 });
 
 export async function createWorkspace(_prev: FormState, formData: FormData): Promise<FormState> {
-  await requireUser();
+  const user = await requireUser();
   const parsed = NewOrg.safeParse(Object.fromEntries(formData));
   if (!parsed.success) return { ok: false, message: parsed.error.issues[0].message };
   const division = industries.find((i) => i.slug === parsed.data.industry)?.division ?? "business";
-
-  const supabase = await createClient();
-  const { data: orgId, error } = await supabase.rpc("create_organization", {
-    p_name: parsed.data.name,
-    p_industry: parsed.data.industry,
-    p_division: division,
-  });
-  if (error || !orgId) return { ok: false, message: "Could not create the workspace. Please try again." };
-
-  (await cookies()).set(ORG_COOKIE, orgId as string, { httpOnly: true, sameSite: "lax", secure: process.env.NODE_ENV === "production", path: "/" });
+  const orgId = repo.createOrganization(user.id, parsed.data.name, parsed.data.industry, division);
+  await setActiveOrg(orgId);
   redirect("/app");
 }
 
 export async function switchWorkspace(formData: FormData) {
+  await requireUser();
   const id = String(formData.get("org_id") ?? "");
-  (await cookies()).set(ORG_COOKIE, id, { httpOnly: true, sameSite: "lax", secure: process.env.NODE_ENV === "production", path: "/" });
+  if ((await getWorkspaces()).some((w) => w.id === id)) await setActiveOrg(id);
   redirect("/app");
 }
 
@@ -55,66 +47,33 @@ const AgentInput = z.object({
 });
 
 export async function createAgentFromTemplate(formData: FormData) {
-  const ws = await requireWorkspace();
+  const { user, ws } = await requireWorkspace();
   if (!canEdit(ws.role)) redirect("/app/agents?error=permission");
   const template = templateByKey(String(formData.get("template") ?? ""));
   if (!template) redirect("/app/agents/new");
-
-  const supabase = await createClient();
-  const { data, error } = await supabase
-    .from("agents")
-    .insert({
-      org_id: ws.id,
-      name: template.name,
-      template: template.key,
-      role_description: template.role,
-      instructions: template.instructions,
-      created_by: (await supabase.auth.getUser()).data.user?.id,
-    })
-    .select("id")
-    .single();
-  if (error || !data) redirect("/app/agents?error=create");
-
-  await supabase.from("audit_logs").insert({
-    org_id: ws.id,
-    actor_id: (await supabase.auth.getUser()).data.user?.id,
-    action: "agent.created",
-    details: { agent_id: data.id, template: template.key },
+  const id = repo.createAgent(user.id, ws.id, {
+    name: template.name,
+    template: template.key,
+    role_description: template.role,
+    instructions: template.instructions,
   });
-  redirect(`/app/agents/${data.id}`);
+  redirect(`/app/agents/${id}`);
 }
 
 export async function updateAgent(_prev: FormState, formData: FormData): Promise<FormState> {
-  const ws = await requireWorkspace();
+  const { user, ws } = await requireWorkspace();
   if (!canEdit(ws.role)) return { ok: false, message: "You have view-only access." };
-  const id = String(formData.get("id") ?? "");
   const parsed = AgentInput.safeParse(Object.fromEntries(formData));
   if (!parsed.success) return { ok: false, message: parsed.error.issues[0].message };
-
-  const supabase = await createClient();
-  const { data, error } = await supabase
-    .from("agents")
-    .update(parsed.data)
-    .eq("id", id)
-    .eq("org_id", ws.id)
-    .select("id");
-  if (error || !data?.length) return { ok: false, message: "Could not save the agent." };
-
-  const user = (await supabase.auth.getUser()).data.user;
-  await supabase.from("audit_logs").insert({
-    org_id: ws.id,
-    actor_id: user?.id,
-    action: "agent.updated",
-    details: { agent_id: id, status: parsed.data.status, model: parsed.data.model },
-  });
+  const id = String(formData.get("id") ?? "");
+  if (!repo.updateAgent(user.id, ws.id, id, parsed.data)) return { ok: false, message: "Could not save the agent." };
   revalidatePath(`/app/agents/${id}`);
   return { ok: true, message: "Saved." };
 }
 
 export async function deleteAgent(formData: FormData) {
-  const ws = await requireWorkspace();
-  const id = String(formData.get("id") ?? "");
-  const supabase = await createClient();
-  await supabase.from("agents").delete().eq("id", id).eq("org_id", ws.id); // RLS: owners/admins only
+  const { user, ws } = await requireWorkspace();
+  if (ws.role !== "owner" && ws.role !== "admin") redirect("/app/agents?error=permission");
+  repo.deleteAgent(user.id, ws.id, String(formData.get("id") ?? ""));
   redirect("/app/agents");
 }
